@@ -4,7 +4,7 @@
             "asn": "AS65023",
             "prefix": "2001:15c0:66e9::/48",
             "maxLength": "48",
-            "ta": null
+            "ta": ""
         },
         {
             "asn": "AS64885",
