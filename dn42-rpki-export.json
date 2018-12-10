@@ -4,7 +4,7 @@
             "asn": "AS65023",
             "prefix": "2001:15c0:66e9::/48",
             "maxLength": "48",
-            "ta": "NULL"
+            "ta": null
         },
         {
             "asn": "AS64885",
@@ -633,25 +633,25 @@
         {
             "asn": "AS4242422914",
             "prefix": "fd00:1444:1821::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423348",
             "prefix": "fd00:4242:3348::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64833",
             "prefix": "fd00:490:cb2d::/52",
-            "maxLength": "64",
+            "maxLength": "52",
             "ta": "DN42"
         },
         {
             "asn": "AS65142",
             "prefix": "fd00:65a8:93a4::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -663,37 +663,37 @@
         {
             "asn": "AS4242420386",
             "prefix": "fd00:a:a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "fd00:aaaa:251::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "fd00:aaaa:255::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420117",
             "prefix": "fd00:aaaa:256::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420158",
             "prefix": "fd00:abcd:e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421103",
             "prefix": "fd00:b709::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -705,25 +705,25 @@
         {
             "asn": "AS4242420206",
             "prefix": "fd00:bad:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423420",
             "prefix": "fd00:cafe:1337::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423005",
             "prefix": "fd00:cf35:9507::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423815",
             "prefix": "fd00:deca:fba0::/44",
-            "maxLength": "64",
+            "maxLength": "44",
             "ta": "DN42"
         },
         {
@@ -735,25 +735,25 @@
         {
             "asn": "AS4242422282",
             "prefix": "fd00:f100:fe00::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423560",
             "prefix": "fd00:fd00:192::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423560",
             "prefix": "fd00:fd00:208::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420802",
             "prefix": "fd00:feed:bec::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -771,25 +771,25 @@
         {
             "asn": "AS64600",
             "prefix": "fd01:470:7d4c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422299",
             "prefix": "fd01:470:f129::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422506",
             "prefix": "fd01:5e19:11e1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65038",
             "prefix": "fd01:67c:2ed8::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -801,7 +801,7 @@
         {
             "asn": "AS65026",
             "prefix": "fd06:8187:fb00::/40",
-            "maxLength": "64",
+            "maxLength": "40",
             "ta": "DN42"
         },
         {
@@ -819,7 +819,7 @@
         {
             "asn": "AS64901",
             "prefix": "fd07:96ae:572e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -837,7 +837,7 @@
         {
             "asn": "AS64864",
             "prefix": "fd0c:9a97:47dc::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -849,7 +849,7 @@
         {
             "asn": "AS64663",
             "prefix": "fd0d:7f0:3003::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -879,7 +879,7 @@
         {
             "asn": "AS65051",
             "prefix": "fd11:11ae:7466::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -891,7 +891,7 @@
         {
             "asn": "AS4242423640",
             "prefix": "fd12:ee00:9898::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -915,97 +915,97 @@
         {
             "asn": "AS4242420245",
             "prefix": "fd16:c638:3d7c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423973",
             "prefix": "fd17:149a:85f9::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420321",
             "prefix": "fd19:e0a6:1295::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "fd1b:4ad0:c526::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420045",
             "prefix": "fd1b:7f7d:dd55::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423974",
             "prefix": "fd1b:9b7e:7a18::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422378",
             "prefix": "fd1b:be18:a185::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422700",
             "prefix": "fd1c:f73c:a945:1000::/52",
-            "maxLength": "64",
+            "maxLength": "52",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422700",
             "prefix": "fd1c:f73c:a945:2000::/52",
-            "maxLength": "64",
+            "maxLength": "52",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422700",
             "prefix": "fd1c:f73c:a945:3000::/52",
-            "maxLength": "64",
+            "maxLength": "52",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422700",
             "prefix": "fd1c:f73c:a945:4000::/52",
-            "maxLength": "64",
+            "maxLength": "52",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422700",
             "prefix": "fd1c:f73c:a945::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421976",
             "prefix": "fd20:bdda:5df0::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421888",
             "prefix": "fd21:5c0c:9b7e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "fd21:a07e:735e:0000:0000:0000:0000:0000/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65019",
             "prefix": "fd21:b4dc:4b00::/40",
-            "maxLength": "64",
+            "maxLength": "40",
             "ta": "DN42"
         },
         {
@@ -1017,49 +1017,49 @@
         {
             "asn": "AS4242420741",
             "prefix": "fd23:2333:2333::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64699",
             "prefix": "fd23:42:c3d2:500::/56",
-            "maxLength": "64",
+            "maxLength": "56",
             "ta": "DN42"
         },
         {
             "asn": "AS64698",
             "prefix": "fd23:42:c3d2::/56",
-            "maxLength": "64",
+            "maxLength": "56",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "fd23:42:cda::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422180",
             "prefix": "fd23:698f:1b00::/47",
-            "maxLength": "64",
+            "maxLength": "47",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421335",
             "prefix": "fd23:9cd1:20a5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422037",
             "prefix": "fd23::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65432",
             "prefix": "fd23:dead:beef::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1077,25 +1077,25 @@
         {
             "asn": "AS4242423759",
             "prefix": "fd26:271b:761b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420342",
             "prefix": "fd27:2313:eee5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423805",
             "prefix": "fd2a:1805:0030::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420152",
             "prefix": "fd2a:7dd:7df::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1113,7 +1113,7 @@
         {
             "asn": "AS4242423214",
             "prefix": "fd2c:3214:3214::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1125,25 +1125,25 @@
         {
             "asn": "AS4242423214",
             "prefix": "fd2c:71c8:6038::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421116",
             "prefix": "fd2c:a1bb:5a16::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420013",
             "prefix": "fd2d:22:cafe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64828",
             "prefix": "fd2d:82f6:9b63::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1155,13 +1155,13 @@
         {
             "asn": "AS4242423225",
             "prefix": "fd2e:56cf:1ec2::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65196",
             "prefix": "fd2f:5119:f2c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1173,25 +1173,25 @@
         {
             "asn": "AS4242420148",
             "prefix": "fd32:c1ee:db11::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422684",
             "prefix": "fd33:ac1d:d1ce::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64827",
             "prefix": "fd37:93a6:ed8f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65037",
             "prefix": "fd37:b4dc:4b1e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1215,19 +1215,19 @@
         {
             "asn": "AS4242420257",
             "prefix": "fd3b:ba37:f906::/60",
-            "maxLength": "64",
+            "maxLength": "60",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421339",
             "prefix": "fd3d:4e14::/32",
-            "maxLength": "64",
+            "maxLength": "32",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428989",
             "prefix": "fd3f:e6b2:8a3e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1245,91 +1245,91 @@
         {
             "asn": "AS4242421955",
             "prefix": "fd40:cc1e:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420066",
             "prefix": "fd40:dead:beaf::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421441",
             "prefix": "fd41:1441:1441::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421118",
             "prefix": "fd41:3dc2:f135::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420845",
             "prefix": "fd41:9805:7b69:2000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420846",
             "prefix": "fd41:9805:7b69:2000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420847",
             "prefix": "fd41:9805:7b69:2000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420846",
             "prefix": "fd41:9805:7b69:4000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420845",
             "prefix": "fd41:9805:7b69:4000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420847",
             "prefix": "fd41:9805:7b69:4000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420847",
             "prefix": "fd41:9805:7b69:6000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420845",
             "prefix": "fd41:9805:7b69:6000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420846",
             "prefix": "fd41:9805:7b69:6000::/51",
-            "maxLength": "64",
+            "maxLength": "51",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423160",
             "prefix": "fd42:0006:e160::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420172",
             "prefix": "fd42:00da:01ab::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1341,37 +1341,37 @@
         {
             "asn": "AS4242420616",
             "prefix": "fd42:0568:127c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420988",
             "prefix": "fd42:0:c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420989",
             "prefix": "fd42:0:d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420990",
             "prefix": "fd42:0:e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420991",
             "prefix": "fd42:0:f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64877",
             "prefix": "fd42:100c:7121::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1383,43 +1383,43 @@
         {
             "asn": "AS4242423450",
             "prefix": "fd42:1234:4567::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420128",
             "prefix": "fd42:128:26::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421441",
             "prefix": "fd42:1441:1441::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421542",
             "prefix": "fd42:15:42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421707",
             "prefix": "fd42:1707:1707::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422100",
             "prefix": "fd42:172:2026::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422100",
             "prefix": "fd42:172:2042::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1431,289 +1431,289 @@
         {
             "asn": "AS4242421926",
             "prefix": "fd42:1926:817::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420192",
             "prefix": "fd42:192:cafe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420991",
             "prefix": "fd42:1:a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422454",
             "prefix": "fd42:1a2b:de57::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423904",
             "prefix": "fd42:1b5:1b5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423723",
             "prefix": "fd42:20:50::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422107",
             "prefix": "fd42:21:7::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422247",
             "prefix": "fd42:2247::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64768",
             "prefix": "fd42:22:168::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420342",
             "prefix": "fd42:2313:eee5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64649",
             "prefix": "fd42:23:139::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS76140",
             "prefix": "fd42:23:148::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420123",
             "prefix": "fd42:23:149::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420205",
             "prefix": "fd42:23:205::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64600",
             "prefix": "fd42:23:42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "fd42:23:42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "fd42:23:cda::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65038",
             "prefix": "fd42:23:cda::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420075",
             "prefix": "fd42:23:d3::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64643",
             "prefix": "fd42:23c:ac1b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS206633",
             "prefix": "fd42:2606:32f4::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422935",
             "prefix": "fd42:2935:3546::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "fd42:2950:101::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "fd42:2950:101::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "fd42:2950:201::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "fd42:2950:201::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "fd42:2950:202::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "fd42:2950:202::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "fd42:2950:203::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "fd42:2950:203::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "fd42:2950::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "fd42:2950::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423310",
             "prefix": "fd42:3103:5bca::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423110",
             "prefix": "fd42:3110:4242::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423667",
             "prefix": "fd42:3667:3667::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423677",
             "prefix": "fd42:3677::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421905",
             "prefix": "fd42:39:7da::/56",
-            "maxLength": "64",
+            "maxLength": "56",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421221",
             "prefix": "fd42:3a16:acd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420339",
             "prefix": "fd42:4242:0339::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420815",
             "prefix": "fd42:4242:0815::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420414",
             "prefix": "fd42:4242:1337::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421842",
             "prefix": "fd42:4242:1842::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422202",
             "prefix": "fd42:4242:2202::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422233",
             "prefix": "fd42:4242:2233::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420510",
             "prefix": "fd42:4242:23::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422468",
             "prefix": "fd42:4242:2468::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422601",
             "prefix": "fd42:4242:2601::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422707",
             "prefix": "fd42:4242:2707::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -1725,295 +1725,295 @@
         {
             "asn": "AS4242423775",
             "prefix": "fd42:4242:3775::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "fd42:4242:4200::/40",
-            "maxLength": "64",
+            "maxLength": "40",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421124",
             "prefix": "fd42:4242:4242::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420064",
             "prefix": "fd42:4242:64::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423141",
             "prefix": "fd42:42:2166::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421564",
             "prefix": "fd42:42:564::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421940",
             "prefix": "fd42:42:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423127",
             "prefix": "fd42:4399:7213::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420131",
             "prefix": "fd42:465:1337::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428200",
             "prefix": "fd42:4992:6b6d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428201",
             "prefix": "fd42:4992:6b6e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428202",
             "prefix": "fd42:4992:6b6f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423504",
             "prefix": "fd42:4992:acbd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420302",
             "prefix": "fd42:4999:6a6d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420666",
             "prefix": "fd42:5aaf:9fe8::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420119",
             "prefix": "fd42:5d71:219::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420125",
             "prefix": "fd42:5ee3:c44b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64686",
             "prefix": "fd42:64:686::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420113",
             "prefix": "fd42:667c:6ad2::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420081",
             "prefix": "fd42:66da:c21a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421178",
             "prefix": "fd42:68c2:8747::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423120",
             "prefix": "fd42:6c6d:616f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422747",
             "prefix": "fd42:6cef:5f39::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242427761",
             "prefix": "fd42:7173:7800::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423230",
             "prefix": "fd42:7331:a07c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423733",
             "prefix": "fd42:7373:7373::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423264",
             "prefix": "fd42:7616:60d2::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421787",
             "prefix": "fd42:7879:7879::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420095",
             "prefix": "fd42:7:7::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420203",
             "prefix": "fd42:830:420::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422061",
             "prefix": "fd42:8700:90::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420612",
             "prefix": "fd42:8a73:3fbb::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422548",
             "prefix": "fd42:9478::/32",
-            "maxLength": "64",
+            "maxLength": "32",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420237",
             "prefix": "fd42:9510:cad1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422161",
             "prefix": "fd42:9942:e15b::/56",
-            "maxLength": "64",
+            "maxLength": "56",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423723",
             "prefix": "fd42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421554",
             "prefix": "fd42:a551::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423976",
             "prefix": "fd42:a66a:faaf::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420260",
             "prefix": "fd42:a901:388e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64719",
             "prefix": "fd42:a:b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420209",
             "prefix": "fd42:aacb:49ee::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423966",
             "prefix": "fd42:abc0:1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421819",
             "prefix": "fd42:abcd:ef00::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423742",
             "prefix": "fd42:ac1d:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423454",
             "prefix": "fd42:ae20:dc1c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423889",
             "prefix": "fd42:affe:face::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422742",
             "prefix": "fd42:b10:1010::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420118",
             "prefix": "fd42:b10:1118::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420124",
             "prefix": "fd42:bad:a55::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2025,49 +2025,49 @@
         {
             "asn": "AS4242420168",
             "prefix": "fd42:bbbb:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423965",
             "prefix": "fd42:bbbb:cafe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421776",
             "prefix": "fd42:beef:cafe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423355",
             "prefix": "fd42:c001:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421191",
             "prefix": "fd42:c01d:beef::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420092",
             "prefix": "fd42:c066:e081::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423782",
             "prefix": "fd42:c0de:6a6d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421576",
             "prefix": "fd42:c0fe:babe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2079,31 +2079,31 @@
         {
             "asn": "AS4242422305",
             "prefix": "fd42:c:5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421420",
             "prefix": "fd42:c:a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423389",
             "prefix": "fd42:cafe::/44",
-            "maxLength": "64",
+            "maxLength": "44",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "fd42:ccc:da::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422800",
             "prefix": "fd42:ccc:fd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2115,37 +2115,37 @@
         {
             "asn": "AS4242420418",
             "prefix": "fd42:cd49:2dd2::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423967",
             "prefix": "fd42:cde1:1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421520",
             "prefix": "fd42:d3ca::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422600",
             "prefix": "fd42:d42:2706::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420511",
             "prefix": "fd42:d42:511::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423942",
             "prefix": "fd42:d42:542::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2271,13 +2271,13 @@
         {
             "asn": "AS64737",
             "prefix": "fd42:d42:d42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421515",
             "prefix": "fd42:d5d8:3c89::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2289,115 +2289,115 @@
         {
             "asn": "AS4242422304",
             "prefix": "fd42:dead:666::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423807",
             "prefix": "fd42:dead:b33f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423955",
             "prefix": "fd42:dead:cafe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422727",
             "prefix": "fd42:dead:d00d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423424",
             "prefix": "fd42:dee:dee::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "fd42:df42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422100",
             "prefix": "fd42:f10:411::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422100",
             "prefix": "fd42:f10:a15::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420204",
             "prefix": "fd42:f1c1:b00c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420235",
             "prefix": "fd42:f61:e12::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422550",
             "prefix": "fd42:f61:e13::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420210",
             "prefix": "fd42:f7b1:1078::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421114",
             "prefix": "fd42:fa6::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421189",
             "prefix": "fd42:fa76:1110::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421404",
             "prefix": "fd42:fdac:1111::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422027",
             "prefix": "fd42:fe2c:d179::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422028",
             "prefix": "fd42:fe2c:d17a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420146",
             "prefix": "fd42:ffc:ab1e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65024",
             "prefix": "fd43:5602:29bd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2409,19 +2409,19 @@
         {
             "asn": "AS64613",
             "prefix": "fd46:aa43::/32",
-            "maxLength": "64",
+            "maxLength": "32",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422232",
             "prefix": "fd4c:2535:91::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242429946",
             "prefix": "fd4d:9197:24ee::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2451,13 +2451,13 @@
         {
             "asn": "AS4242421642",
             "prefix": "fd51:cc31:30f5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65044",
             "prefix": "fd53:707:41::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2469,13 +2469,13 @@
         {
             "asn": "AS4242420086",
             "prefix": "fd53:a4f3:7e0e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420810",
             "prefix": "fd56:4147:5545::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2487,13 +2487,13 @@
         {
             "asn": "AS4242423773",
             "prefix": "fd56:9016:dca5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65037",
             "prefix": "fd56:b4dc:4b1e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2511,7 +2511,7 @@
         {
             "asn": "AS65055",
             "prefix": "fd59:b1b7:1d1f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2523,31 +2523,31 @@
         {
             "asn": "AS4242420153",
             "prefix": "fd5b:d226:9706::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420742",
             "prefix": "fd5b:dc38:47f5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423158",
             "prefix": "fd5c:0f0f:39fc::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64634",
             "prefix": "fd5e:f77b:309f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423040",
             "prefix": "fd5f:7a63:c27f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2565,7 +2565,7 @@
         {
             "asn": "AS65032",
             "prefix": "fd62:44e1:da::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2577,43 +2577,43 @@
         {
             "asn": "AS4242421128",
             "prefix": "fd62:a393:3d91::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64697",
             "prefix": "fd63:1e39:6f73::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64766",
             "prefix": "fd63:1e39:6f73::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423400",
             "prefix": "fd64:cafe:cafe::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422911",
             "prefix": "fd64:f233:8964::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423602",
             "prefix": "fd65:a890:5050::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423439",
             "prefix": "fd66:feed:beef::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2625,85 +2625,85 @@
         {
             "asn": "AS4242421109",
             "prefix": "fd67:3cc6:16f5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423507",
             "prefix": "fd67:86ac:41f5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423237",
             "prefix": "fd68:6868:6868::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423969",
             "prefix": "fd68:beef:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "fd68:ea13:020f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423435",
             "prefix": "fd68:edba:7c1a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423537",
             "prefix": "fd69:5293:27d3::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423811",
             "prefix": "fd6c:6c65:7669::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421589",
             "prefix": "fd6e:9f67:5d93::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423377",
             "prefix": "fd70:3377::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420022",
             "prefix": "fd70:96c9:ef25::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420077",
             "prefix": "fd70:96c9:ef26::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420140",
             "prefix": "fd72:9b7f:e932::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65152",
             "prefix": "fd73:111:e824::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2715,103 +2715,103 @@
         {
             "asn": "AS4242423342",
             "prefix": "fd74:40ee:b38a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423002",
             "prefix": "fd75:7a1:15b1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420003",
             "prefix": "fd76:b436:28bc::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421271",
             "prefix": "fd79:300d:6056::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64781",
             "prefix": "fd7b:860b:8877::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423404",
             "prefix": "fd7b:9886:1c8c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420886",
             "prefix": "fd7c:dfc0:d347::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422069",
             "prefix": "fd7e:5330:e2d7::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422144",
             "prefix": "fd7e:e43c:78d9::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421010",
             "prefix": "fd80:8787::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421010",
             "prefix": "fd80:9527::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422009",
             "prefix": "fd81:2009:2009::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423452",
             "prefix": "fd81:e49c:ba39::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420238",
             "prefix": "fd81:fd4e:4f95::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421983",
             "prefix": "fd83:1110:6556::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423569",
             "prefix": "fd83:8d95:230b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64525",
             "prefix": "fd83:e002:c8a1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2823,25 +2823,25 @@
         {
             "asn": "AS4242420448",
             "prefix": "fd88:8888:abcd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423886",
             "prefix": "fd88:dead:beef::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423943",
             "prefix": "fd8a:3e99:6f68::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64889",
             "prefix": "fd8f:14c7:d318::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2853,7 +2853,7 @@
         {
             "asn": "AS64861",
             "prefix": "fd92:2dff:d232::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2865,43 +2865,43 @@
         {
             "asn": "AS4242420053",
             "prefix": "fd93:2559:f2ef::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423238",
             "prefix": "fd94:3e63:c202::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421008",
             "prefix": "fd94:e773:5413::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422815",
             "prefix": "fd96:1337:1337::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422231",
             "prefix": "fd96:ac77:1286::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64697",
             "prefix": "fd97:4c4e:9d26::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "fd99:4d80:d90c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2919,31 +2919,31 @@
         {
             "asn": "AS4242422200",
             "prefix": "fd9a:f34d:4541::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423320",
             "prefix": "fd9b:8277:c31a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422037",
             "prefix": "fd9b:d633:d173::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421096",
             "prefix": "fd9d:5e08:b9f9::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423557",
             "prefix": "fd9f:1630:5351::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2967,7 +2967,7 @@
         {
             "asn": "AS76190",
             "prefix": "fda0:23:748b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3051,7 +3051,7 @@
         {
             "asn": "AS4242420160",
             "prefix": "fda0:bbe1:38d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3075,37 +3075,37 @@
         {
             "asn": "AS4242420000",
             "prefix": "fda1:d26b:7461::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421407",
             "prefix": "fda3:7863:2204::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421290",
             "prefix": "fda3:9087:3028::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420145",
             "prefix": "fda3:db3f:c50d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64647",
             "prefix": "fda3:f376::/32",
-            "maxLength": "64",
+            "maxLength": "32",
             "ta": "DN42"
         },
         {
             "asn": "AS65200",
             "prefix": "fda4:1721:8450::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3117,13 +3117,13 @@
         {
             "asn": "AS4242423755",
             "prefix": "fda8:5557:beb7::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65039",
             "prefix": "fda9:026e:5805::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3135,19 +3135,19 @@
         {
             "asn": "AS4242423175",
             "prefix": "fdaa:ff59:eb66::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420093",
             "prefix": "fdab:896d:d34::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422333",
             "prefix": "fdac:f3f:e7e2::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3165,31 +3165,31 @@
         {
             "asn": "AS4242420756",
             "prefix": "fdae:e2d8:34a1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "fdb2:f582:b9d1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64712",
             "prefix": "fdb3:d376:9939::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423506",
             "prefix": "fdb4:4911:ccf8::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65181",
             "prefix": "fdb5:078b:64cc::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3201,61 +3201,61 @@
         {
             "asn": "AS4242421333",
             "prefix": "fdb6:2f8b:4f0f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420039",
             "prefix": "fdb6:d08:686b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "fdb7:439f:81b6::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423866",
             "prefix": "fdb9:fff1:dbbf::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422357",
             "prefix": "fdba:2737:210d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422891",
             "prefix": "fdbb:35ff:aa4e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420151",
             "prefix": "fdbb:baba:2468::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423423",
             "prefix": "fdbc:14ef:89dc::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422547",
             "prefix": "fdbc:f9dc:67ad::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423890",
             "prefix": "fdbd:8259:fe95::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3273,67 +3273,67 @@
         {
             "asn": "AS0",
             "prefix": "fdbf:b130:d82f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423173",
             "prefix": "fdc0:10ca:7105::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421811",
             "prefix": "fdc0:bc88:be::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64720",
             "prefix": "fdc1:31f:b14f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423556",
             "prefix": "fdc1:d4b:b89a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420789",
             "prefix": "fdc3:10cd:ae9b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420789",
             "prefix": "fdc3:10cd:ae9c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420789",
             "prefix": "fdc3:10cd:ae9d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420789",
             "prefix": "fdc3:10cd:ae9e::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420789",
             "prefix": "fdc3:10cd:ae9f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64874",
             "prefix": "fdc4:d762:2143::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3345,13 +3345,13 @@
         {
             "asn": "AS4242423377",
             "prefix": "fdc6:30c3:8662::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65242",
             "prefix": "fdc6:c4fe:1de4::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3393,7 +3393,7 @@
         {
             "asn": "AS4242422016",
             "prefix": "fdc9:67ea:76a5::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3405,7 +3405,7 @@
         {
             "asn": "AS4242422718",
             "prefix": "fdc9:a4d4:c4ce::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3465,25 +3465,25 @@
         {
             "asn": "AS4242423963",
             "prefix": "fdcb:f420:d408::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422441",
             "prefix": "fdcc:60b6:2f38::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422002",
             "prefix": "fdcd:3682:1c17::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS76123",
             "prefix": "fdcf:3c00:e001::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3495,13 +3495,13 @@
         {
             "asn": "AS4242423843",
             "prefix": "fdd0:c468:8eb1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65528",
             "prefix": "fdd3:5d16:b5dd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3513,25 +3513,25 @@
         {
             "asn": "AS4242420193",
             "prefix": "fdd3:e145:e3cc::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS76198",
             "prefix": "fdd6:aff6:5f6f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421709",
             "prefix": "fdd8:2631:13ac::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64863",
             "prefix": "fdd9:a0b1:5bd0::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3543,13 +3543,13 @@
         {
             "asn": "AS4242420567",
             "prefix": "fdda:eafa:15ce::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64890",
             "prefix": "fddb:2cb:9699::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3561,13 +3561,13 @@
         {
             "asn": "AS4242423146",
             "prefix": "fddd:118b:5dc0::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS65026",
             "prefix": "fddd:5d16:b5dd::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3579,31 +3579,31 @@
         {
             "asn": "AS4242421199",
             "prefix": "fddd:fdef:2ea1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "fddd:fe2f:de5a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423111",
             "prefix": "fdde:7b0b:8fb9::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422460",
             "prefix": "fddf:2460:2460::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64859",
             "prefix": "fddf:bf7:80::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3729,13 +3729,13 @@
         {
             "asn": "AS4242420174",
             "prefix": "fde1:e602:947a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423004",
             "prefix": "fde3:a7e3:7957::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3753,13 +3753,13 @@
         {
             "asn": "AS4242422777",
             "prefix": "fde7:32ae:ee77::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64891",
             "prefix": "fde8:21c6:370b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3777,37 +3777,37 @@
         {
             "asn": "AS4242421360",
             "prefix": "fde8:ef06:b45a::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420149",
             "prefix": "fdea:1d13:b804::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422673",
             "prefix": "fdea:2eb5:7420::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64737",
             "prefix": "fdea:a15a:77b9::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422250",
             "prefix": "fdea:d017:0225::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420130",
             "prefix": "fdea:dead:face::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3831,7 +3831,7 @@
         {
             "asn": "AS4242422015",
             "prefix": "fdec::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3849,19 +3849,19 @@
         {
             "asn": "AS4242421406",
             "prefix": "fdee:70b9:860c::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422609",
             "prefix": "fdef:1337:b00b::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64875",
             "prefix": "fdef:1701:b5ee::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3891,7 +3891,7 @@
         {
             "asn": "AS65489",
             "prefix": "fdef:affe:edda::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3939,7 +3939,7 @@
         {
             "asn": "AS64866",
             "prefix": "fdf3:2049:5152::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3957,13 +3957,13 @@
         {
             "asn": "AS4242423906",
             "prefix": "fdf7:17d5:de49:1000::/52",
-            "maxLength": "64",
+            "maxLength": "52",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423905",
             "prefix": "fdf7:17d5:de49::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -3975,19 +3975,19 @@
         {
             "asn": "AS4242420560",
             "prefix": "fdf7:f511:d0ce::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420278",
             "prefix": "fdf8:34f6:4f6f::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422005",
             "prefix": "fdf8:adff:47b9::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -4005,31 +4005,31 @@
         {
             "asn": "AS4242420086",
             "prefix": "fdfa:6eef:c3e2::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420115",
             "prefix": "fdfb:4242:e10d::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423961",
             "prefix": "fdfb:9a90:fa25::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420020",
             "prefix": "fdfc:3e4f:f3c0::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS64871",
             "prefix": "fdfc:ba7c:0ca1::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -4071,13 +4071,13 @@
         {
             "asn": "AS4242421873",
             "prefix": "fdfd:d0b7:5feb::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421113",
             "prefix": "fdfd:dead:c0d3::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -4095,7 +4095,7 @@
         {
             "asn": "AS4242421230",
             "prefix": "fdfd:dead:c0de::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -4113,19 +4113,19 @@
         {
             "asn": "AS4242421978",
             "prefix": "fdfe:1647:a2bb::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423042",
             "prefix": "fdff:23:42::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420420",
             "prefix": "fdff:49:461::/48",
-            "maxLength": "64",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -4137,7 +4137,7 @@
         {
             "asn": "AS65079",
             "prefix": "10.0.0.0/16",
-            "maxLength": "28",
+            "maxLength": "16",
             "ta": "DN42"
         },
         {
@@ -7053,13 +7053,13 @@
         {
             "asn": "AS4242420119",
             "prefix": "172.20.1.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421406",
             "prefix": "172.20.10.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7071,25 +7071,25 @@
         {
             "asn": "AS4242420278",
             "prefix": "172.20.10.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420153",
             "prefix": "172.20.10.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421339",
             "prefix": "172.20.11.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420095",
             "prefix": "172.20.12.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7101,13 +7101,13 @@
         {
             "asn": "AS4242423640",
             "prefix": "172.20.12.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423424",
             "prefix": "172.20.128.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7155,43 +7155,43 @@
         {
             "asn": "AS4242422609",
             "prefix": "172.20.129.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422601",
             "prefix": "172.20.129.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423452",
             "prefix": "172.20.129.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421237",
             "prefix": "172.20.129.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420240",
             "prefix": "172.20.13.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423472",
             "prefix": "172.20.13.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420227",
             "prefix": "172.20.13.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7203,7 +7203,7 @@
         {
             "asn": "AS4242423759",
             "prefix": "172.20.130.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -7221,7 +7221,7 @@
         {
             "asn": "AS4242422365",
             "prefix": "172.20.131.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -7233,7 +7233,7 @@
         {
             "asn": "AS4242421958",
             "prefix": "172.20.131.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7251,7 +7251,7 @@
         {
             "asn": "AS4242421616",
             "prefix": "172.20.135.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7269,55 +7269,55 @@
         {
             "asn": "AS4242420300",
             "prefix": "172.20.135.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420810",
             "prefix": "172.20.135.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420165",
             "prefix": "172.20.135.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242429946",
             "prefix": "172.20.136.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421948",
             "prefix": "172.20.136.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421926",
             "prefix": "172.20.138.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423513",
             "prefix": "172.20.138.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421997",
             "prefix": "172.20.138.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421990",
             "prefix": "172.20.138.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7329,7 +7329,7 @@
         {
             "asn": "AS4242422301",
             "prefix": "172.20.139.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7341,13 +7341,13 @@
         {
             "asn": "AS4242423224",
             "prefix": "172.20.14.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420997",
             "prefix": "172.20.14.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7359,31 +7359,31 @@
         {
             "asn": "AS4242422700",
             "prefix": "172.20.14.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423914",
             "prefix": "172.20.14.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420842",
             "prefix": "172.20.140.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421948",
             "prefix": "172.20.142.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420886",
             "prefix": "172.20.142.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7413,25 +7413,25 @@
         {
             "asn": "AS4242422180",
             "prefix": "172.20.144.0/22",
-            "maxLength": "28",
+            "maxLength": "22",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422180",
             "prefix": "172.20.144.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422180",
             "prefix": "172.20.144.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421095",
             "prefix": "172.20.148.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7461,7 +7461,7 @@
         {
             "asn": "AS4242422307",
             "prefix": "172.20.149.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7485,7 +7485,7 @@
         {
             "asn": "AS4242423699",
             "prefix": "172.20.149.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7497,13 +7497,13 @@
         {
             "asn": "AS4242421031",
             "prefix": "172.20.15.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423310",
             "prefix": "172.20.15.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7539,61 +7539,61 @@
         {
             "asn": "AS4242423230",
             "prefix": "172.20.15.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423585",
             "prefix": "172.20.150.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422240",
             "prefix": "172.20.150.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421092",
             "prefix": "172.20.152.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420418",
             "prefix": "172.20.154.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423435",
             "prefix": "172.20.155.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420064",
             "prefix": "172.20.155.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423906",
             "prefix": "172.20.156.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423906",
             "prefix": "172.20.157.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS206633",
             "prefix": "172.20.158.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7605,25 +7605,25 @@
         {
             "asn": "AS4242421709",
             "prefix": "172.20.159.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421926",
             "prefix": "172.20.16.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421588",
             "prefix": "172.20.16.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242429999",
             "prefix": "172.20.160.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7635,7 +7635,7 @@
         {
             "asn": "AS4242421189",
             "prefix": "172.20.160.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7647,25 +7647,25 @@
         {
             "asn": "AS4242420616",
             "prefix": "172.20.160.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420113",
             "prefix": "172.20.161.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420666",
             "prefix": "172.20.161.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420074",
             "prefix": "172.20.161.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7677,13 +7677,13 @@
         {
             "asn": "AS4242420115",
             "prefix": "172.20.162.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421588",
             "prefix": "172.20.162.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7695,19 +7695,19 @@
         {
             "asn": "AS4242423023",
             "prefix": "172.20.164.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420256",
             "prefix": "172.20.164.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420092",
             "prefix": "172.20.164.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7725,13 +7725,13 @@
         {
             "asn": "AS4242421015",
             "prefix": "172.20.168.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422548",
             "prefix": "172.20.169.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -7749,13 +7749,13 @@
         {
             "asn": "AS4242423934",
             "prefix": "172.20.170.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420125",
             "prefix": "172.20.171.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -7791,7 +7791,7 @@
         {
             "asn": "AS4242420993",
             "prefix": "172.20.172.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7803,49 +7803,49 @@
         {
             "asn": "AS4242420139",
             "prefix": "172.20.173.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421542",
             "prefix": "172.20.173.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422666",
             "prefix": "172.20.175.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423905",
             "prefix": "172.20.175.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242427761",
             "prefix": "172.20.175.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421340",
             "prefix": "172.20.176.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423238",
             "prefix": "172.20.178.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421404",
             "prefix": "172.20.178.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7857,19 +7857,19 @@
         {
             "asn": "AS4242421333",
             "prefix": "172.20.18.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421842",
             "prefix": "172.20.18.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428988",
             "prefix": "172.20.18.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7899,19 +7899,19 @@
         {
             "asn": "AS4242421232",
             "prefix": "172.20.18.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423754",
             "prefix": "172.20.18.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422788",
             "prefix": "172.20.18.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -7923,43 +7923,43 @@
         {
             "asn": "AS4242421309",
             "prefix": "172.20.180.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421310",
             "prefix": "172.20.180.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421308",
             "prefix": "172.20.180.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423345",
             "prefix": "172.20.180.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422700",
             "prefix": "172.20.181.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423247",
             "prefix": "172.20.181.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420330",
             "prefix": "172.20.182.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -7995,25 +7995,25 @@
         {
             "asn": "AS4242421588",
             "prefix": "172.20.186.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420037",
             "prefix": "172.20.189.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "172.20.190.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423759",
             "prefix": "172.20.190.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -8043,7 +8043,7 @@
         {
             "asn": "AS4242420115",
             "prefix": "172.20.192.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8055,13 +8055,13 @@
         {
             "asn": "AS4242423602",
             "prefix": "172.20.194.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421979",
             "prefix": "172.20.195.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8097,7 +8097,7 @@
         {
             "asn": "AS4242420116",
             "prefix": "172.20.197.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8115,61 +8115,61 @@
         {
             "asn": "AS4242420526",
             "prefix": "172.20.197.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "172.20.199.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "172.20.199.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421819",
             "prefix": "172.20.2.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421191",
             "prefix": "172.20.2.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422169",
             "prefix": "172.20.2.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421406",
             "prefix": "172.20.2.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420360",
             "prefix": "172.20.2.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421191",
             "prefix": "172.20.2.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423389",
             "prefix": "172.20.20.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8205,19 +8205,19 @@
         {
             "asn": "AS4242421093",
             "prefix": "172.20.203.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421096",
             "prefix": "172.20.204.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421049",
             "prefix": "172.20.204.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8229,61 +8229,61 @@
         {
             "asn": "AS4242423423",
             "prefix": "172.20.204.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421049",
             "prefix": "172.20.205.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420136",
             "prefix": "172.20.206.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421113",
             "prefix": "172.20.207.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421113",
             "prefix": "172.20.207.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64613",
             "prefix": "172.20.208.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420260",
             "prefix": "172.20.21.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423581",
             "prefix": "172.20.21.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421410",
             "prefix": "172.20.22.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423965",
             "prefix": "172.20.227.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8295,7 +8295,7 @@
         {
             "asn": "AS4242420058",
             "prefix": "172.20.227.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8307,13 +8307,13 @@
         {
             "asn": "AS4242422005",
             "prefix": "172.20.227.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420086",
             "prefix": "172.20.227.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8325,7 +8325,7 @@
         {
             "asn": "AS4242420121",
             "prefix": "172.20.228.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8337,7 +8337,7 @@
         {
             "asn": "AS4242423967",
             "prefix": "172.20.228.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8361,7 +8361,7 @@
         {
             "asn": "AS4242420203",
             "prefix": "172.20.229.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8373,25 +8373,25 @@
         {
             "asn": "AS4242421233",
             "prefix": "172.20.231.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423887",
             "prefix": "172.20.232.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242429969",
             "prefix": "172.20.232.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420741",
             "prefix": "172.20.232.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8403,13 +8403,13 @@
         {
             "asn": "AS64647",
             "prefix": "172.20.233.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420205",
             "prefix": "172.20.234.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8427,13 +8427,13 @@
         {
             "asn": "AS4242423268",
             "prefix": "172.20.234.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423907",
             "prefix": "172.20.235.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8445,97 +8445,97 @@
         {
             "asn": "AS4242423807",
             "prefix": "172.20.235.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420318",
             "prefix": "172.20.235.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422456",
             "prefix": "172.20.237.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422357",
             "prefix": "172.20.238.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423514",
             "prefix": "172.20.239.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422439",
             "prefix": "172.20.239.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "172.20.24.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423212",
             "prefix": "172.20.245.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422480",
             "prefix": "172.20.248.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "172.20.25.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423991",
             "prefix": "172.20.25.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422100",
             "prefix": "172.20.26.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421189",
             "prefix": "172.20.28.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420467",
             "prefix": "172.20.3.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423042",
             "prefix": "172.20.30.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423439",
             "prefix": "172.20.31.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8553,7 +8553,7 @@
         {
             "asn": "AS4242422777",
             "prefix": "172.20.33.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8571,55 +8571,55 @@
         {
             "asn": "AS4242423377",
             "prefix": "172.20.33.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423966",
             "prefix": "172.20.34.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420905",
             "prefix": "172.20.34.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423214",
             "prefix": "172.20.34.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423214",
             "prefix": "172.20.34.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423214",
             "prefix": "172.20.34.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423623",
             "prefix": "172.20.35.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS76198",
             "prefix": "172.20.36.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423537",
             "prefix": "172.20.39.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8631,19 +8631,19 @@
         {
             "asn": "AS4242421199",
             "prefix": "172.20.4.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420049",
             "prefix": "172.20.4.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420027",
             "prefix": "172.20.4.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8661,25 +8661,25 @@
         {
             "asn": "AS4242422684",
             "prefix": "172.20.4.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420124",
             "prefix": "172.20.40.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422381",
             "prefix": "172.20.41.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422100",
             "prefix": "172.20.42.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -8697,7 +8697,7 @@
         {
             "asn": "AS4242420168",
             "prefix": "172.20.45.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8709,7 +8709,7 @@
         {
             "asn": "AS4242422600",
             "prefix": "172.20.46.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8721,19 +8721,19 @@
         {
             "asn": "AS4242420990",
             "prefix": "172.20.46.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420991",
             "prefix": "172.20.46.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421123",
             "prefix": "172.20.47.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8787,79 +8787,79 @@
         {
             "asn": "AS4242422707",
             "prefix": "172.20.48.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428192",
             "prefix": "172.20.49.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428192",
             "prefix": "172.20.49.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428192",
             "prefix": "172.20.49.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423723",
             "prefix": "172.20.50.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423512",
             "prefix": "172.20.50.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420110",
             "prefix": "172.20.50.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421994",
             "prefix": "172.20.51.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423175",
             "prefix": "172.20.51.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423723",
             "prefix": "172.20.52.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420812",
             "prefix": "172.20.53.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420302",
             "prefix": "172.20.53.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422914",
             "prefix": "172.20.53.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8877,79 +8877,79 @@
         {
             "asn": "AS4242420527",
             "prefix": "172.20.54.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423623",
             "prefix": "172.20.55.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423311",
             "prefix": "172.20.55.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423722",
             "prefix": "172.20.55.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421233",
             "prefix": "172.20.56.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64686",
             "prefix": "172.20.56.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422305",
             "prefix": "172.20.57.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420237",
             "prefix": "172.20.58.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420138",
             "prefix": "172.20.58.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423904",
             "prefix": "172.20.58.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422269",
             "prefix": "172.20.58.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423556",
             "prefix": "172.20.58.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420527",
             "prefix": "172.20.59.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -8973,13 +8973,13 @@
         {
             "asn": "AS4242420756",
             "prefix": "172.20.6.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421114",
             "prefix": "172.20.6.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -8991,13 +8991,13 @@
         {
             "asn": "AS4242423400",
             "prefix": "172.20.6.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421576",
             "prefix": "172.20.6.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9015,19 +9015,19 @@
         {
             "asn": "AS4242423158",
             "prefix": "172.20.60.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422002",
             "prefix": "172.20.63.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "172.20.64.0/21",
-            "maxLength": "28",
+            "maxLength": "21",
             "ta": "DN42"
         },
         {
@@ -9045,7 +9045,7 @@
         {
             "asn": "AS4242423201",
             "prefix": "172.20.8.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
@@ -9057,13 +9057,13 @@
         {
             "asn": "AS4242428988",
             "prefix": "172.21.100.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423050",
             "prefix": "172.21.100.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9081,49 +9081,49 @@
         {
             "asn": "AS64647",
             "prefix": "172.21.105.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242429990",
             "prefix": "172.21.106.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422911",
             "prefix": "172.21.113.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421010",
             "prefix": "172.21.113.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421010",
             "prefix": "172.21.117.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420118",
             "prefix": "172.21.118.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423975",
             "prefix": "172.21.121.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9135,49 +9135,49 @@
         {
             "asn": "AS4242422107",
             "prefix": "172.21.125.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423650",
             "prefix": "172.21.125.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421191",
             "prefix": "172.21.191.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423843",
             "prefix": "172.21.64.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423002",
             "prefix": "172.21.64.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423843",
             "prefix": "172.21.64.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421116",
             "prefix": "172.21.64.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420778",
             "prefix": "172.21.65.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9189,13 +9189,13 @@
         {
             "asn": "AS4242423886",
             "prefix": "172.21.66.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423955",
             "prefix": "172.21.66.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9207,37 +9207,37 @@
         {
             "asn": "AS4242420339",
             "prefix": "172.21.67.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423931",
             "prefix": "172.21.69.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423158",
             "prefix": "172.21.70.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423454",
             "prefix": "172.21.74.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420526",
             "prefix": "172.21.75.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421500",
             "prefix": "172.21.79.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -9249,13 +9249,13 @@
         {
             "asn": "AS4242422381",
             "prefix": "172.21.84.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420885",
             "prefix": "172.21.84.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9267,7 +9267,7 @@
         {
             "asn": "AS4242420190",
             "prefix": "172.21.87.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9285,31 +9285,31 @@
         {
             "asn": "AS4242422544",
             "prefix": "172.21.92.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423090",
             "prefix": "172.21.92.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS0",
             "prefix": "172.21.99.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS0",
             "prefix": "172.21.99.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422232",
             "prefix": "172.21.99.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9381,19 +9381,19 @@
         {
             "asn": "AS76198",
             "prefix": "172.22.1.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64698",
             "prefix": "172.22.100.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420152",
             "prefix": "172.22.101.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9405,7 +9405,7 @@
         {
             "asn": "AS4242423142",
             "prefix": "172.22.101.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9417,31 +9417,31 @@
         {
             "asn": "AS4242420321",
             "prefix": "172.22.102.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420077",
             "prefix": "172.22.110.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422202",
             "prefix": "172.22.110.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420808",
             "prefix": "172.22.110.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420124",
             "prefix": "172.22.111.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -9453,97 +9453,97 @@
         {
             "asn": "AS4242421008",
             "prefix": "172.22.111.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64647",
             "prefix": "172.22.111.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64720",
             "prefix": "172.22.112.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64713",
             "prefix": "172.22.113.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421985",
             "prefix": "172.22.114.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64915",
             "prefix": "172.22.115.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420003",
             "prefix": "172.22.116.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS64717",
             "prefix": "172.22.117.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64717",
             "prefix": "172.22.117.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421128",
             "prefix": "172.22.118.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64719",
             "prefix": "172.22.119.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64712",
             "prefix": "172.22.119.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420209",
             "prefix": "172.22.119.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64720",
             "prefix": "172.22.120.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423000",
             "prefix": "172.22.120.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423450",
             "prefix": "172.22.121.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -9555,25 +9555,25 @@
         {
             "asn": "AS4242420140",
             "prefix": "172.22.127.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420076",
             "prefix": "172.22.127.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "172.22.128.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "172.22.128.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9585,7 +9585,7 @@
         {
             "asn": "AS4242421702",
             "prefix": "172.22.129.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9597,7 +9597,7 @@
         {
             "asn": "AS4242423976",
             "prefix": "172.22.129.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -9615,37 +9615,37 @@
         {
             "asn": "AS4242421166",
             "prefix": "172.22.131.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421997",
             "prefix": "172.22.132.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423939",
             "prefix": "172.22.134.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423942",
             "prefix": "172.22.134.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420046",
             "prefix": "172.22.134.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421110",
             "prefix": "172.22.134.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -9657,19 +9657,19 @@
         {
             "asn": "AS4242420742",
             "prefix": "172.22.135.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422233",
             "prefix": "172.22.140.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64737",
             "prefix": "172.22.141.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -9681,7 +9681,7 @@
         {
             "asn": "AS64737",
             "prefix": "172.22.141.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9693,19 +9693,19 @@
         {
             "asn": "AS4242420143",
             "prefix": "172.22.143.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423973",
             "prefix": "172.22.146.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420824",
             "prefix": "172.22.146.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9717,19 +9717,19 @@
         {
             "asn": "AS4242423811",
             "prefix": "172.22.148.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422506",
             "prefix": "172.22.148.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423110",
             "prefix": "172.22.148.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9741,7 +9741,7 @@
         {
             "asn": "AS4242420047",
             "prefix": "172.22.148.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -9771,31 +9771,31 @@
         {
             "asn": "AS4242420031",
             "prefix": "172.22.150.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423889",
             "prefix": "172.22.151.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64752",
             "prefix": "172.22.152.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421093",
             "prefix": "172.22.152.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64720",
             "prefix": "172.22.153.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -9807,13 +9807,13 @@
         {
             "asn": "AS4242420058",
             "prefix": "172.22.158.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242428593",
             "prefix": "172.22.158.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9825,7 +9825,7 @@
         {
             "asn": "AS64616",
             "prefix": "172.22.16.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
@@ -9837,7 +9837,7 @@
         {
             "asn": "AS206754",
             "prefix": "172.22.160.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -9849,37 +9849,37 @@
         {
             "asn": "AS4242423601",
             "prefix": "172.22.161.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422069",
             "prefix": "172.22.161.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422002",
             "prefix": "172.22.163.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS56662",
             "prefix": "172.22.164.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS64768",
             "prefix": "172.22.168.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64752",
             "prefix": "172.22.168.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -9897,13 +9897,13 @@
         {
             "asn": "AS4242420339",
             "prefix": "172.22.172.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421121",
             "prefix": "172.22.172.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -9921,67 +9921,67 @@
         {
             "asn": "AS4242420511",
             "prefix": "172.22.172.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "172.22.173.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421554",
             "prefix": "172.22.173.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421873",
             "prefix": "172.22.181.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422322",
             "prefix": "172.22.181.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64784",
             "prefix": "172.22.184.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64787",
             "prefix": "172.22.187.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420045",
             "prefix": "172.22.188.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421166",
             "prefix": "172.22.189.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423158",
             "prefix": "172.22.190.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420128",
             "prefix": "172.22.192.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -9999,73 +9999,73 @@
         {
             "asn": "AS64794",
             "prefix": "172.22.193.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64828",
             "prefix": "172.22.228.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420020",
             "prefix": "172.22.230.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64833",
             "prefix": "172.22.233.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64839",
             "prefix": "172.22.239.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423993",
             "prefix": "172.22.252.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64828",
             "prefix": "172.22.254.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS64626",
             "prefix": "172.22.26.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS64633",
             "prefix": "172.22.33.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64636",
             "prefix": "172.22.36.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS64638",
             "prefix": "172.22.38.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64712",
             "prefix": "172.22.40.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
@@ -10077,49 +10077,49 @@
         {
             "asn": "AS64643",
             "prefix": "172.22.43.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422333",
             "prefix": "172.22.44.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS64655",
             "prefix": "172.22.55.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64712",
             "prefix": "172.22.58.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64664",
             "prefix": "172.22.64.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64665",
             "prefix": "172.22.65.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421888",
             "prefix": "172.22.68.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS76198",
             "prefix": "172.22.70.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -10131,7 +10131,7 @@
         {
             "asn": "AS4242423742",
             "prefix": "172.22.73.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10143,31 +10143,31 @@
         {
             "asn": "AS4242420189",
             "prefix": "172.22.73.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64674",
             "prefix": "172.22.74.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64674",
             "prefix": "172.22.75.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64675",
             "prefix": "172.22.75.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242429998",
             "prefix": "172.22.76.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10215,31 +10215,31 @@
         {
             "asn": "AS4242420277",
             "prefix": "172.22.77.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64647",
             "prefix": "172.22.78.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64647",
             "prefix": "172.22.78.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS64692",
             "prefix": "172.22.92.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64697",
             "prefix": "172.22.97.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -10251,7 +10251,7 @@
         {
             "asn": "AS64699",
             "prefix": "172.22.99.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -10353,25 +10353,25 @@
         {
             "asn": "AS64828",
             "prefix": "172.23.1.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420980",
             "prefix": "172.23.100.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420696",
             "prefix": "172.23.100.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422200",
             "prefix": "172.23.101.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -10383,31 +10383,31 @@
         {
             "asn": "AS4242420321",
             "prefix": "172.23.102.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420423",
             "prefix": "172.23.104.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64526",
             "prefix": "172.23.11.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420905",
             "prefix": "172.23.116.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422727",
             "prefix": "172.23.119.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10437,7 +10437,7 @@
         {
             "asn": "AS4242420987",
             "prefix": "172.23.119.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10455,7 +10455,7 @@
         {
             "asn": "AS64527",
             "prefix": "172.23.12.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -10467,7 +10467,7 @@
         {
             "asn": "AS4242420825",
             "prefix": "172.23.124.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10479,73 +10479,73 @@
         {
             "asn": "AS4242422747",
             "prefix": "172.23.128.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423504",
             "prefix": "172.23.132.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422231",
             "prefix": "172.23.133.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS76114",
             "prefix": "172.23.136.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS76118",
             "prefix": "172.23.138.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422878",
             "prefix": "172.23.140.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS76124",
             "prefix": "172.23.146.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS76140",
             "prefix": "172.23.148.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420123",
             "prefix": "172.23.149.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420158",
             "prefix": "172.23.150.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420885",
             "prefix": "172.23.150.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422125",
             "prefix": "172.23.151.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -10557,103 +10557,103 @@
         {
             "asn": "AS4242420809",
             "prefix": "172.23.158.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423549",
             "prefix": "172.23.158.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423298",
             "prefix": "172.23.158.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420031",
             "prefix": "172.23.158.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420120",
             "prefix": "172.23.16.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420120",
             "prefix": "172.23.16.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422890",
             "prefix": "172.23.162.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421200",
             "prefix": "172.23.163.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421289",
             "prefix": "172.23.163.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423941",
             "prefix": "172.23.163.192/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS76160",
             "prefix": "172.23.164.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423370",
             "prefix": "172.23.168.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421230",
             "prefix": "172.23.169.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421230",
             "prefix": "172.23.169.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421420",
             "prefix": "172.23.171.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422800",
             "prefix": "172.23.172.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421178",
             "prefix": "172.23.173.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10665,19 +10665,19 @@
         {
             "asn": "AS4242420081",
             "prefix": "172.23.173.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422349",
             "prefix": "172.23.173.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420414",
             "prefix": "172.23.177.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
@@ -10689,13 +10689,13 @@
         {
             "asn": "AS4242423236",
             "prefix": "172.23.177.32/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421987",
             "prefix": "172.23.177.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -10719,73 +10719,73 @@
         {
             "asn": "AS4242420184",
             "prefix": "172.23.184.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421360",
             "prefix": "172.23.186.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64633",
             "prefix": "172.23.187.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420467",
             "prefix": "172.23.188.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420045",
             "prefix": "172.23.189.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS64712",
             "prefix": "172.23.192.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421289",
             "prefix": "172.23.193.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64623",
             "prefix": "172.23.194.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420000",
             "prefix": "172.23.196.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS76198",
             "prefix": "172.23.198.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420917",
             "prefix": "172.23.199.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422016",
             "prefix": "172.23.199.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10797,43 +10797,43 @@
         {
             "asn": "AS4242421271",
             "prefix": "172.23.200.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS76123",
             "prefix": "172.23.201.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420000",
             "prefix": "172.23.202.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422376",
             "prefix": "172.23.203.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422377",
             "prefix": "172.23.203.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421976",
             "prefix": "172.23.208.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420235",
             "prefix": "172.23.214.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -10845,79 +10845,79 @@
         {
             "asn": "AS4242421955",
             "prefix": "172.23.215.128/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421955",
             "prefix": "172.23.215.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421978",
             "prefix": "172.23.215.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "172.23.216.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "172.23.216.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "172.23.216.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64773",
             "prefix": "172.23.216.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421588",
             "prefix": "172.23.220.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423111",
             "prefix": "172.23.222.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422027",
             "prefix": "172.23.222.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422028",
             "prefix": "172.23.223.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423794",
             "prefix": "172.23.223.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422037",
             "prefix": "172.23.231.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
@@ -10929,25 +10929,25 @@
         {
             "asn": "AS4242422950",
             "prefix": "172.23.234.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "172.23.234.192/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "172.23.234.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "172.23.234.224/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10959,49 +10959,49 @@
         {
             "asn": "AS4242428989",
             "prefix": "172.23.234.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421777",
             "prefix": "172.23.234.96/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS76190",
             "prefix": "172.23.235.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS76190",
             "prefix": "172.23.235.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS76190",
             "prefix": "172.23.236.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420039",
             "prefix": "172.23.238.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422877",
             "prefix": "172.23.239.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS76175",
             "prefix": "172.23.245.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -11019,55 +11019,55 @@
         {
             "asn": "AS4242421338",
             "prefix": "172.23.249.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420255",
             "prefix": "172.23.254.0/23",
-            "maxLength": "28",
+            "maxLength": "23",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423993",
             "prefix": "172.23.35.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420028",
             "prefix": "172.23.35.128/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420309",
             "prefix": "172.23.35.64/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422950",
             "prefix": "172.23.38.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS202265",
             "prefix": "172.23.38.160/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS64600",
             "prefix": "172.23.42.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "172.23.42.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -11091,7 +11091,7 @@
         {
             "asn": "AS4242420134",
             "prefix": "172.23.43.64/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -11103,25 +11103,25 @@
         {
             "asn": "AS4242423342",
             "prefix": "172.23.45.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420124",
             "prefix": "172.23.46.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420124",
             "prefix": "172.23.47.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420018",
             "prefix": "172.23.56.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -11133,79 +11133,79 @@
         {
             "asn": "AS4242423158",
             "prefix": "172.23.60.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242423006",
             "prefix": "172.23.63.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420022",
             "prefix": "172.23.67.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421823",
             "prefix": "172.23.73.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422305",
             "prefix": "172.23.76.0/26",
-            "maxLength": "28",
+            "maxLength": "26",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422857",
             "prefix": "172.23.82.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422857",
             "prefix": "172.23.82.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422857",
             "prefix": "172.23.82.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422857",
             "prefix": "172.23.83.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422857",
             "prefix": "172.23.83.0/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242422857",
             "prefix": "172.23.83.128/25",
-            "maxLength": "28",
+            "maxLength": "25",
             "ta": "DN42"
         },
         {
             "asn": "AS4242421704",
             "prefix": "172.23.84.0/27",
-            "maxLength": "28",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420205",
             "prefix": "172.23.88.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
@@ -11217,19 +11217,19 @@
         {
             "asn": "AS4242423838",
             "prefix": "172.23.92.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420101",
             "prefix": "172.23.96.0/24",
-            "maxLength": "28",
+            "maxLength": "24",
             "ta": "DN42"
         },
         {
             "asn": "AS65528",
             "prefix": "172.26.0.0/15",
-            "maxLength": "28",
+            "maxLength": "15",
             "ta": "DN42"
         },
         {
