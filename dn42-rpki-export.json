@@ -669,13 +669,13 @@
         {
             "asn": "AS4242420144",
             "prefix": "fd00:aaaa:251::/48",
-            "maxLength": "48",
+            "maxLength": "60",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "fd00:aaaa:255::/48",
-            "maxLength": "48",
+            "maxLength": "60",
             "ta": "DN42"
         },
         {
@@ -9603,13 +9603,13 @@
         {
             "asn": "AS4242420144",
             "prefix": "172.22.128.0/27",
-            "maxLength": "27",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "172.22.128.32/27",
-            "maxLength": "27",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {
