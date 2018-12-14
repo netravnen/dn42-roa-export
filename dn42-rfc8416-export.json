@@ -1,6 +1,11 @@
 {
     "slurmVersion": 1,
+    "validationOutputFilters": {
+        "prefixFilters": [],
+        "bgpsecFilters": []
+    },
     "locallyAddedAssertions": {
+        "bgpsecAssertions": [],
         "prefixAssertions": [
             {
                 "asn": "AS65023",
