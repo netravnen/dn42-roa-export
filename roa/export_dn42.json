@@ -1,3 +1,10 @@
+// commit 06db5da00561bb790e1b84a765320725ef97e45c
+// Merge: 136a01e5 d7afbf0e
+// Author: jrb0001 <jrb0001@692b8c32.de>
+// Date:   Fri Dec 14 17:07:20 2018 +0000
+// 
+//     Merge branch 'AS4242420144/max-length' of netravnen/registry into master
+// 
 {
     "roas": [
         {
