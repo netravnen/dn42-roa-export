@@ -676,13 +676,13 @@
             {
                 "asn": "AS4242420144",
                 "prefix": "fd00:aaaa:251::/48",
-                "maxPrefixLength": "48",
+                "maxPrefixLength": "60",
                 "comment": "DN42 - mnt-by NETRAVNEN-MNT"
             },
             {
                 "asn": "AS4242420144",
                 "prefix": "fd00:aaaa:255::/48",
-                "maxPrefixLength": "48",
+                "maxPrefixLength": "60",
                 "comment": "DN42 - mnt-by NETRAVNEN-MNT"
             },
             {
@@ -9610,13 +9610,13 @@
             {
                 "asn": "AS4242420144",
                 "prefix": "172.22.128.0/27",
-                "maxPrefixLength": "27",
+                "maxPrefixLength": "29",
                 "comment": "DN42 - mnt-by NETRAVNEN-MNT"
             },
             {
                 "asn": "AS4242420144",
                 "prefix": "172.22.128.32/27",
-                "maxPrefixLength": "27",
+                "maxPrefixLength": "29",
                 "comment": "DN42 - mnt-by NETRAVNEN-MNT"
             },
             {
