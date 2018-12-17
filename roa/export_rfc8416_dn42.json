@@ -10424,6 +10424,12 @@
                 "comment": "DN42 - mnt-by TRAE32566-MNT"
             },
             {
+                "asn": 4242421243,
+                "prefix": "172.23.100.160/27",
+                "maxPrefixLength": 27,
+                "comment": "DN42 - mnt-by KILOBYTE-MNT"
+            },
+            {
                 "asn": 4242422200,
                 "prefix": "172.23.101.0/25",
                 "maxPrefixLength": 25,
