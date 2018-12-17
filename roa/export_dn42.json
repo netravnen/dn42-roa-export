@@ -1,9 +1,9 @@
-// commit 36e881bb1432237e989348d7a11dba19ad5e31f9
-// Merge: 8949dcf5 b8fb0b07
+// commit 511ef0dc52635e208c76882788f7f9274e3fbcbb
+// Merge: 36e881bb d373589e
 // Author: jrb0001 <jrb0001@692b8c32.de>
-// Date:   Mon Dec 17 18:36:52 2018 +0000
+// Date:   Mon Dec 17 20:12:56 2018 +0000
 // 
-//     Merge branch 'addition-palakis' of Palakis/registry into master
+//     Merge branch 'master' of kbch/registry into master
 // 
 {
     "roas": [
@@ -10420,6 +10420,12 @@
         {
             "asn": "AS4242420696",
             "prefix": "172.23.100.128/27",
+            "maxLength": "27",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421243",
+            "prefix": "172.23.100.160/27",
             "maxLength": "27",
             "ta": "DN42"
         },
