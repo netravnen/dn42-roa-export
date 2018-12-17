@@ -1378,6 +1378,11 @@
                 "comment": "DN42 - mnt-by LOINTAIN-MNT"
             },
             {
+                "prefix": "fd42:39fc:02ad::/48",
+                "asn": "4242423949",
+                "comment": "DN42 - mnt-by PALAKIS-MNT"
+            },
+            {
                 "prefix": "fd42:3a16:acd::/48",
                 "asn": "4242421221",
                 "comment": "DN42 - mnt-by NEKO-MNT"
@@ -6921,6 +6926,11 @@
                 "prefix": "172.20.21.32/27",
                 "asn": "4242423581",
                 "comment": "DN42 - mnt-by CLOUDYSKIES-MNT"
+            },
+            {
+                "prefix": "172.20.21.64/27",
+                "asn": "4242423949",
+                "comment": "DN42 - mnt-by PALAKIS-MNT"
             },
             {
                 "prefix": "172.20.22.0/23",
@@ -14230,6 +14240,11 @@
                 "comment": "DN42 - mnt-by LOINTAIN-MNT"
             },
             {
+                "asn": "4242423949",
+                "SKI": "Zm9v",
+                "comment": "DN42 - mnt-by PALAKIS-MNT"
+            },
+            {
                 "asn": "4242421221",
                 "SKI": "Zm9v",
                 "comment": "DN42 - mnt-by NEKO-MNT"
@@ -19773,6 +19788,11 @@
                 "asn": "4242423581",
                 "SKI": "Zm9v",
                 "comment": "DN42 - mnt-by CLOUDYSKIES-MNT"
+            },
+            {
+                "asn": "4242423949",
+                "SKI": "Zm9v",
+                "comment": "DN42 - mnt-by PALAKIS-MNT"
             },
             {
                 "asn": "4242421410",
@@ -27359,6 +27379,12 @@
                 "routerPublicKey": "<some base64 public key>"
             },
             {
+                "asn": "4242423949",
+                "comment": "DN42 - mnt-by PALAKIS-MNT",
+                "SKI": "<some base64 SKI>",
+                "routerPublicKey": "<some base64 public key>"
+            },
+            {
                 "asn": "4242421221",
                 "comment": "DN42 - mnt-by NEKO-MNT",
                 "SKI": "<some base64 SKI>",
@@ -34009,6 +34035,12 @@
             {
                 "asn": "4242423581",
                 "comment": "DN42 - mnt-by CLOUDYSKIES-MNT",
+                "SKI": "<some base64 SKI>",
+                "routerPublicKey": "<some base64 public key>"
+            },
+            {
+                "asn": "4242423949",
+                "comment": "DN42 - mnt-by PALAKIS-MNT",
                 "SKI": "<some base64 SKI>",
                 "routerPublicKey": "<some base64 public key>"
             },
@@ -42781,6 +42813,12 @@
                 "comment": "DN42 - mnt-by LOINTAIN-MNT"
             },
             {
+                "asn": "4242423949",
+                "prefix": "fd42:39fc:02ad::/48",
+                "maxPrefixLength": "48",
+                "comment": "DN42 - mnt-by PALAKIS-MNT"
+            },
+            {
                 "asn": "4242421221",
                 "prefix": "fd42:3a16:acd::/48",
                 "maxPrefixLength": "48",
@@ -49433,6 +49471,12 @@
                 "prefix": "172.20.21.32/27",
                 "maxPrefixLength": "27",
                 "comment": "DN42 - mnt-by CLOUDYSKIES-MNT"
+            },
+            {
+                "asn": "4242423949",
+                "prefix": "172.20.21.64/27",
+                "maxPrefixLength": "27",
+                "comment": "DN42 - mnt-by PALAKIS-MNT"
             },
             {
                 "asn": "4242421410",
