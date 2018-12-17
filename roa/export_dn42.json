@@ -1,9 +1,9 @@
-// commit 8949dcf573d2c311fa1295a9524d17bc16849575
-// Merge: fdbfed4f 86eb8f50
+// commit 36e881bb1432237e989348d7a11dba19ad5e31f9
+// Merge: 8949dcf5 b8fb0b07
 // Author: jrb0001 <jrb0001@692b8c32.de>
-// Date:   Sat Dec 15 16:46:57 2018 +0000
+// Date:   Mon Dec 17 18:36:52 2018 +0000
 // 
-//     Merge branch 'AS4242420144/as-set' of netravnen/registry into master
+//     Merge branch 'addition-palakis' of Palakis/registry into master
 // 
 {
     "roas": [
@@ -1655,6 +1655,12 @@
             "asn": "AS4242421905",
             "prefix": "fd42:39:7da::/56",
             "maxLength": "56",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423949",
+            "prefix": "fd42:39fc:02ad::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -8308,6 +8314,12 @@
         {
             "asn": "AS4242423581",
             "prefix": "172.20.21.32/27",
+            "maxLength": "27",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423949",
+            "prefix": "172.20.21.64/27",
             "maxLength": "27",
             "ta": "DN42"
         },
