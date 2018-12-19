@@ -1,9 +1,9 @@
-// commit 511ef0dc52635e208c76882788f7f9274e3fbcbb
-// Merge: 36e881bb d373589e
-// Author: jrb0001 <jrb0001@692b8c32.de>
-// Date:   Mon Dec 17 20:12:56 2018 +0000
+// commit 202e4ddaa04be55f3724f105ec7c46d80fe53708
+// Merge: 2e53a0fd 549e1eba
+// Author: graffen <graffen@protonmail.com>
+// Date:   Wed Dec 19 14:32:58 2018 +0000
 // 
-//     Merge branch 'master' of kbch/registry into master
+//     Merge branch 'addnewstuff' of kbch/registry into master
 // 
 {
     "roas": [
@@ -1180,6 +1180,12 @@
         {
             "asn": "AS4242420148",
             "prefix": "fd32:c1ee:db11::/48",
+            "maxLength": "48",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421243",
+            "prefix": "fd33:9493:a6ed::/48",
             "maxLength": "48",
             "ta": "DN42"
         },
