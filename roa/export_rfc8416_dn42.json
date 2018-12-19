@@ -1184,6 +1184,12 @@
                 "comment": "DN42 - mnt-by LALAKIS-MNT"
             },
             {
+                "asn": 4242421243,
+                "prefix": "fd33:9493:a6ed::/48",
+                "maxPrefixLength": 48,
+                "comment": "DN42 - mnt-by KILOBYTE-MNT"
+            },
+            {
                 "asn": 4242422684,
                 "prefix": "fd33:ac1d:d1ce::/48",
                 "maxPrefixLength": 48,
