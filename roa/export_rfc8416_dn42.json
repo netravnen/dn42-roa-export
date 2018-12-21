@@ -3644,6 +3644,12 @@
                 "comment": "DN42 - mnt-by RFC2460-MNT"
             },
             {
+                "asn": 4242422257,
+                "prefix": "fddf:4811:38a0::/48",
+                "maxPrefixLength": 48,
+                "comment": "DN42 - mnt-by ACONSULT-MNT"
+            },
+            {
                 "asn": 64859,
                 "prefix": "fddf:bf7:80::/48",
                 "maxPrefixLength": 48,
