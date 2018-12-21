@@ -1844,6 +1844,12 @@
                 "comment": "DN42 - mnt-by COSMIC-MNT"
             },
             {
+                "asn": 4242422255,
+                "prefix": "fd42:6196:4000::/48",
+                "maxPrefixLength": 48,
+                "comment": "DN42 - mnt-by LINUXGEMINI-MNT"
+            },
+            {
                 "asn": 64686,
                 "prefix": "fd42:64:686::/48",
                 "maxPrefixLength": 48,
@@ -7578,6 +7584,12 @@
                 "prefix": "172.20.15.64/27",
                 "maxPrefixLength": 27,
                 "comment": "DN42 - mnt-by RASP-MNT"
+            },
+            {
+                "asn": 4242422255,
+                "prefix": "172.20.15.96/27",
+                "maxPrefixLength": 27,
+                "comment": "DN42 - mnt-by LINUXGEMINI-MNT"
             },
             {
                 "asn": 4242423585,
