@@ -8,4 +8,3 @@ Date:   Fri Dec 21 21:01:14 2018 +0000
 
     Merge branch 'master' of iPhil64/registry into master
 ```
-
