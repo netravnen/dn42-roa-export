@@ -1,9 +1,9 @@
-// commit ce87ff939e710e78a7a879d9904a9c793d88c33c
-// Merge: 1e4a2792 3d6ac237
+// commit 280ca6d59c2d2316ad730721ca3c14ea3c58bb08
+// Merge: a161bac1 c32833ab
 // Author: jrb0001 <jrb0001@692b8c32.de>
-// Date:   Fri Dec 21 21:01:14 2018 +0000
+// Date:   Wed Dec 26 20:51:27 2018 +0000
 // 
-//     Merge branch 'master' of iPhil64/registry into master
+//     Merge branch 'master' of OrangeOverflow/registry into master
 // 
 {
     "roas": [
@@ -676,13 +676,13 @@
         {
             "asn": "AS4242420144",
             "prefix": "fd00:aaaa:251::/48",
-            "maxLength": "60",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "fd00:aaaa:255::/48",
-            "maxLength": "60",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2582,6 +2582,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422678",
+            "prefix": "fd5f:b56c:2823::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423852",
             "prefix": "fd62:172:23:125::/64",
             "maxLength": "64",
@@ -3164,6 +3170,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS4242420305",
+            "prefix": "fda9:1b6e:e41d::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421050",
             "prefix": "fda9:26a9:1c47::/48",
             "maxLength": 64,
@@ -3304,6 +3316,12 @@
         {
             "asn": "AS4242421420",
             "prefix": "fdbe:9dd8:7dbd::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423944",
+            "prefix": "fdbf:6d9c:4e2d::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -3898,6 +3916,12 @@
         {
             "asn": "AS4242421406",
             "prefix": "fdee:70b9:860c::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423738",
+            "prefix": "fdee:90fc:cafe::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7376,6 +7400,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423944",
+            "prefix": "172.20.139.160/28",
+            "maxLength": 29,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422301",
             "prefix": "172.20.139.192/26",
             "maxLength": 29,
@@ -9170,6 +9200,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423738",
+            "prefix": "172.21.106.32/27",
+            "maxLength": 29,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
             "maxLength": 29,
@@ -9646,13 +9682,13 @@
         {
             "asn": "AS4242420144",
             "prefix": "172.22.128.0/27",
-            "maxLength": "29",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
             "asn": "AS4242420144",
             "prefix": "172.22.128.32/27",
-            "maxLength": "29",
+            "maxLength": "27",
             "ta": "DN42"
         },
         {
@@ -10637,6 +10673,12 @@
             "asn": "AS4242429969",
             "prefix": "172.23.151.128/29",
             "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422678",
+            "prefix": "172.23.151.144/28",
+            "maxLength": 29,
             "ta": "DN42"
         },
         {
