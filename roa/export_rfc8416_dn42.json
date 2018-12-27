@@ -1,5 +1,14 @@
 {
     "slurmVersion": 1,
+    "_comments": {
+        "modified": {
+            "commit": "7ba8f5424f7631b90dec71a2b517a8427c45a453",
+            "merge": "280ca6d5 ef4842bc",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Thu, 27 Dec 2018 01:41:27 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master"
+        }
+    },
     "validationOutputFilters": {
         "prefixFilters": [],
         "bgpsecFilters": []
