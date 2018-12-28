@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "7ba8f5424f7631b90dec71a2b517a8427c45a453",
-            "merge": "280ca6d5 ef4842bc",
+            "commit": "7ed6b3e513708f305531c069488c72a5791c51e8",
+            "merge": "7ba8f542 800ac635",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 27 Dec 2018 01:41:27 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7ba8f5424f7631b90dec71a2b517a8427c45a453"
+            "date": "Fri, 28 Dec 2018 15:08:56 +0000",
+            "subject": "Merge branch 'AS4242420144/new-29-for-loopbacks' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7ed6b3e513708f305531c069488c72a5791c51e8"
         }
     },
     "roas": [
@@ -7184,6 +7184,12 @@
             "asn": "AS4242423424",
             "prefix": "172.20.128.0/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420144",
+            "prefix": "172.20.128.104/29",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {
