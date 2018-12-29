@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "e0a6b61785c5dfbdfb1694be13953a3fa94fde47",
-            "merge": "7ed6b3e5 56617c7c",
+            "commit": "448b53069a05a487d91e6eb230111bef4feb30d2",
+            "merge": "e0a6b617 b9ed9329",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 29 Dec 2018 01:04:36 +0000",
-            "subject": "Merge branch 'master' of mt/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e0a6b61785c5dfbdfb1694be13953a3fa94fde47"
+            "date": "Sat, 29 Dec 2018 11:40:29 +0000",
+            "subject": "Merge branch 'master' of stephrdev/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/448b53069a05a487d91e6eb230111bef4feb30d2"
         }
     },
     "validationOutputFilters": {
@@ -1808,6 +1808,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:0403::_64",
                 "source": "DN42",
                 "mnt-by": "SOLITUDE-MNT"
+            },
+            {
+                "asn": 4242422364,
+                "prefix": "fd42:0456:e567::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:0456:e567::_48",
+                "source": "DN42",
+                "mnt-by": "RDEV-MNT"
             },
             {
                 "asn": 4242420616,
