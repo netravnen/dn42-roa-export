@@ -1,10 +1,10 @@
 ## Last commit
 
 ```
-commit 7ed6b3e513708f305531c069488c72a5791c51e8
-Merge: 7ba8f542 800ac635
+commit e0a6b61785c5dfbdfb1694be13953a3fa94fde47
+Merge: 7ed6b3e5 56617c7c
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Dec 28 15:08:56 2018 +0000
+Date:   Sat Dec 29 01:04:36 2018 +0000
 
-    Merge branch 'AS4242420144/new-29-for-loopbacks' of netravnen/dn42-registry into master
+    Merge branch 'master' of mt/registry into master
 ```
