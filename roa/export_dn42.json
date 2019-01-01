@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "448b53069a05a487d91e6eb230111bef4feb30d2",
-            "merge": "e0a6b617 b9ed9329",
+            "commit": "c0ca9debb29101b169d73820a449b848888cd5b6",
+            "merge": "448b5306 3886badf",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 29 Dec 2018 11:40:29 +0000",
-            "subject": "Merge branch 'master' of stephrdev/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/448b53069a05a487d91e6eb230111bef4feb30d2"
+            "date": "Tue, 1 Jan 2019 13:36:30 +0000",
+            "subject": "Merge branch 'RFC4193-section-3-2-violation' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c0ca9debb29101b169d73820a449b848888cd5b6"
         }
     },
     "roas": [
