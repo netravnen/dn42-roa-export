@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "c0ca9debb29101b169d73820a449b848888cd5b6",
-            "merge": "448b5306 3886badf",
+            "commit": "2212a959e57beb9bc6752278c3f5fa678eb80cc3",
+            "merge": "5e47976a 13a7961b",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 1 Jan 2019 13:36:30 +0000",
-            "subject": "Merge branch 'RFC4193-section-3-2-violation' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c0ca9debb29101b169d73820a449b848888cd5b6"
+            "date": "Thu, 3 Jan 2019 10:48:42 +0000",
+            "subject": "Merge branch 'master' of souterrain/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2212a959e57beb9bc6752278c3f5fa678eb80cc3"
         }
     },
     "validationOutputFilters": {
@@ -1112,6 +1112,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd07:96ae:572e::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420505,
+                "prefix": "fd09:d32f:5a03::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd09:d32f:5a03::_48",
+                "source": "DN42",
+                "mnt-by": "42ISLIFE-MNT"
             },
             {
                 "asn": 4242421233,
@@ -4224,6 +4232,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda4:1721:8450::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421035,
+                "prefix": "fda4:c3cb:737c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda4:c3cb:737c::_48",
+                "source": "DN42",
+                "mnt-by": "SOUTERRAIN-MNT"
             },
             {
                 "asn": 4242423211,
@@ -10570,6 +10586,14 @@
                 "mnt-by": "HEKKER-MNT"
             },
             {
+                "asn": 4242420505,
+                "prefix": "172.20.175.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.175.128_27",
+                "source": "DN42",
+                "mnt-by": "42ISLIFE-MNT"
+            },
+            {
                 "asn": 4242423905,
                 "prefix": "172.20.175.192/26",
                 "maxPrefixLength": 28,
@@ -12280,6 +12304,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.101.80_29",
                 "source": "DN42",
                 "mnt-by": "TOBIHB-MNT"
+            },
+            {
+                "asn": 4242421035,
+                "prefix": "172.21.101.96/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.101.96_29",
+                "source": "DN42",
+                "mnt-by": "SOUTERRAIN-MNT"
             },
             {
                 "asn": 64647,
