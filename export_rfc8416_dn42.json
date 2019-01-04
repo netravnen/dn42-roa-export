@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "2212a959e57beb9bc6752278c3f5fa678eb80cc3",
-            "merge": "5e47976a 13a7961b",
+            "commit": "a06de9cdd48344d1e01b569de0eac376eb7ba6d9",
+            "merge": "13e6ed72 67554d6c",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 3 Jan 2019 10:48:42 +0000",
-            "subject": "Merge branch 'master' of souterrain/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2212a959e57beb9bc6752278c3f5fa678eb80cc3"
+            "date": "Fri, 4 Jan 2019 16:27:57 +0000",
+            "subject": "Merge branch 'master' of jakob/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a06de9cdd48344d1e01b569de0eac376eb7ba6d9"
         }
     },
     "validationOutputFilters": {
@@ -888,6 +888,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:65a8:93a4::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420211,
+                "prefix": "fd00:7882:4abb::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:7882:4abb::_48",
+                "source": "DN42",
+                "mnt-by": "FUERO-MNT"
             },
             {
                 "asn": 4242429990,
@@ -4634,6 +4642,14 @@
                 "mnt-by": "TECH9-MNT"
             },
             {
+                "asn": 4242421835,
+                "prefix": "fdc9:4a6d:2cdf::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc9:4a6d:2cdf::_48",
+                "source": "DN42",
+                "mnt-by": "JAKOB-MNT"
+            },
+            {
                 "asn": 4242422016,
                 "prefix": "fdc9:67ea:76a5::/48",
                 "maxPrefixLength": 64,
@@ -5408,6 +5424,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf5:b4f8:1e89::_48",
                 "source": "DN42",
                 "mnt-by": "YOURDADDY-MNT"
+            },
+            {
+                "asn": 4242421518,
+                "prefix": "fdf7:0bca:c983::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf7:0bca:c983::_48",
+                "source": "DN42",
+                "mnt-by": "DRCAI-MNT"
             },
             {
                 "asn": 4242423906,
@@ -10514,6 +10538,14 @@
                 "mnt-by": "PROJECTMORI-MNT"
             },
             {
+                "asn": 4242420211,
+                "prefix": "172.20.171.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.171.96_27",
+                "source": "DN42",
+                "mnt-by": "FUERO-MNT"
+            },
+            {
                 "asn": 4242423160,
                 "prefix": "172.20.172.0/28",
                 "maxPrefixLength": 28,
@@ -14066,6 +14098,14 @@
                 "mnt-by": "FLAMESRUNNER-MNT"
             },
             {
+                "asn": 4242421835,
+                "prefix": "172.23.101.160/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.101.160_27",
+                "source": "DN42",
+                "mnt-by": "JAKOB-MNT"
+            },
+            {
                 "asn": 4242420321,
                 "prefix": "172.23.102.0/23",
                 "maxPrefixLength": 28,
@@ -14392,6 +14432,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.164.0_23",
                 "source": "DN42",
                 "mnt-by": "NICODUCK-MNT"
+            },
+            {
+                "asn": 4242421518,
+                "prefix": "172.23.168.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.168.128_27",
+                "source": "DN42",
+                "mnt-by": "DRCAI-MNT"
             },
             {
                 "asn": 4242423370,
