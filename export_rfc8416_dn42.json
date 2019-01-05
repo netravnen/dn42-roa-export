@@ -1092,7 +1092,7 @@
             {
                 "asn": 0,
                 "prefix": "fd05:3aca:c3a0:a2c1::/64",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 128,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd05:3aca:c3a0:a2c1::_64",
                 "source": "DN42",
                 "mnt-by": "RDEV-MNT"
@@ -4492,7 +4492,7 @@
             {
                 "asn": 0,
                 "prefix": "fdbf:b130:d82f::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 128,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdbf:b130:d82f::_48",
                 "source": "DN42",
                 "mnt-by": "IMLONGHAO-MNT"
@@ -12652,7 +12652,7 @@
             {
                 "asn": 0,
                 "prefix": "172.21.99.0/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 32,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.99.0_27",
                 "source": "DN42",
                 "mnt-by": "IMLONGHAO-MNT"
@@ -12660,7 +12660,7 @@
             {
                 "asn": 0,
                 "prefix": "172.21.99.32/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 32,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.99.32_27",
                 "source": "DN42",
                 "mnt-by": "IMLONGHAO-MNT"
