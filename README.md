@@ -8,6 +8,10 @@
   - bird_route_dn42.conf
   - bird4_route_dn42.conf
   - bird6_route_dn42.conf
+- These files are [Routinator][2] compatible:
+  - export_rfc8416_dn42.json _(SLURM standard, format specified in [RFC 8416][4])_
+- These files are [gortr][3] compatible:
+  - export_dn42.json
 
 ## [Last commit][0] at [dn42 registry][1]
 
@@ -28,4 +32,7 @@ Date:   Sat Jan 5 22:13:46 2019 +0000
 
 [0]: https://git.dn42.us/dn42/registry/commit/f0dc691aa206ed741d993cc1561f098d43a50515
 [1]: https://git.dn42.us/dn42/registry
+[2]: https://github.com/NLnetLabs/routinator
+[3]: https://github.com/cloudflare/gortr
+[4]: https://tools.ietf.org/html/rfc8416
 
