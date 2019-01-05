@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "a06de9cdd48344d1e01b569de0eac376eb7ba6d9",
-            "merge": "13e6ed72 67554d6c",
+            "commit": "f0dc691aa206ed741d993cc1561f098d43a50515",
+            "merge": "65a4e530 bc255b73",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 4 Jan 2019 16:27:57 +0000",
-            "subject": "Merge branch 'master' of jakob/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a06de9cdd48344d1e01b569de0eac376eb7ba6d9"
+            "date": "Sat, 5 Jan 2019 22:13:46 +0000",
+            "subject": "Merge branch 'nirf' of nirf/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f0dc691aa206ed741d993cc1561f098d43a50515"
         }
     },
     "roas": [
@@ -812,6 +812,12 @@
             "asn": "AS4242423585",
             "prefix": "fd04:52c0:4000::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS0",
+            "prefix": "fd05:3aca:c3a0:a2c1::/64",
+            "maxLength": "64",
             "ta": "DN42"
         },
         {

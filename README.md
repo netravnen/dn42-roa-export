@@ -12,14 +12,14 @@
 ## [Last commit][0] at [dn42 registry][1]
 
 ```
-commit a06de9cdd48344d1e01b569de0eac376eb7ba6d9
-Merge: 13e6ed72 67554d6c
+commit f0dc691aa206ed741d993cc1561f098d43a50515
+Merge: 65a4e530 bc255b73
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Jan 4 16:27:57 2019 +0000
+Date:   Sat Jan 5 22:13:46 2019 +0000
 
-    Merge branch 'master' of jakob/registry into master
+    Merge branch 'nirf' of nirf/registry into master
 ```
 
-[0]: https://git.dn42.us/dn42/registry/commit/a06de9cdd48344d1e01b569de0eac376eb7ba6d9
+[0]: https://git.dn42.us/dn42/registry/commit/f0dc691aa206ed741d993cc1561f098d43a50515
 [1]: https://git.dn42.us/dn42/registry
 
