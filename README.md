@@ -20,6 +20,12 @@ Date:   Sat Jan 5 22:13:46 2019 +0000
     Merge branch 'nirf' of nirf/registry into master
 ```
 
+## Misc statistics
+
+- ROAs IPv4:  1890
+- ROAs IPv6:  708
+- ROAs total: 2598
+
 [0]: https://git.dn42.us/dn42/registry/commit/f0dc691aa206ed741d993cc1561f098d43a50515
 [1]: https://git.dn42.us/dn42/registry
 
