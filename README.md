@@ -1,17 +1,17 @@
 ## Notes
 
 - These files are Bird 1.x compatible:
-  - bird_roa_dn42.conf
-  - bird4_roa_dn42.conf
-  - bird6_roa_dn42.conf
+  - [bird_roa_dn42.conf](bird_roa_dn42.conf)
+  - [bird4_roa_dn42.conf](bird4_roa_dn42.conf)
+  - [bird6_roa_dn42.conf](bird6_roa_dn42.conf)
 - These files are Bird 2.x compatible:
-  - bird_route_dn42.conf
-  - bird4_route_dn42.conf
-  - bird6_route_dn42.conf
+  - [bird_route_dn42.conf](bird_route_dn42.conf)
+  - [bird4_route_dn42.conf](bird4_route_dn42.conf)
+  - [bird6_route_dn42.conf](bird6_route_dn42.conf)
 - These files are [Routinator][2] compatible:
-  - export_rfc8416_dn42.json _(SLURM standard, format specified in [RFC 8416][4])_
+  - [export_rfc8416_dn42.json](export_rfc8416_dn42.json) _(SLURM standard, format specified in [RFC 8416][4])_
 - These files are [gortr][3] compatible:
-  - export_dn42.json
+  - [export_dn42.json](export_dn42.json)
 
 ## [Last commit][0] at [dn42 registry][1]
 
