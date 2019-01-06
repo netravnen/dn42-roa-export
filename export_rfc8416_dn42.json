@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f0dc691aa206ed741d993cc1561f098d43a50515",
-            "merge": "65a4e530 bc255b73",
+            "commit": "a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9",
+            "merge": "f0dc691a d3aeef42",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 5 Jan 2019 22:13:46 +0000",
-            "subject": "Merge branch 'nirf' of nirf/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f0dc691aa206ed741d993cc1561f098d43a50515"
+            "date": "Sun, 6 Jan 2019 11:34:19 +0000",
+            "subject": "Merge branch 'AS4242420144/p-2-p-ipv6-64-subnet' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9"
         }
     },
     "validationOutputFilters": {
@@ -1096,6 +1096,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd05:3aca:c3a0:a2c1::_64",
                 "source": "DN42",
                 "mnt-by": "RDEV-MNT"
+            },
+            {
+                "asn": 0,
+                "prefix": "fd05:3aca:c3a0:aaaa::/64",
+                "maxPrefixLength": 128,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd05:3aca:c3a0:aaaa::_64",
+                "source": "DN42",
+                "mnt-by": "NETRAVNEN-MNT"
             },
             {
                 "asn": 65026,

@@ -16,21 +16,21 @@
 ## [Last commit][0] at [dn42 registry][1]
 
 ```
-commit f0dc691aa206ed741d993cc1561f098d43a50515
-Merge: 65a4e530 bc255b73
+commit a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9
+Merge: f0dc691a d3aeef42
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Jan 5 22:13:46 2019 +0000
+Date:   Sun Jan 6 11:34:19 2019 +0000
 
-    Merge branch 'nirf' of nirf/registry into master
+    Merge branch 'AS4242420144/p-2-p-ipv6-64-subnet' of netravnen/dn42-registry into master
 ```
 
 ## Misc statistics
 
 - ROAs IPv4:  1890
-- ROAs IPv6:  708
-- ROAs total: 2598
+- ROAs IPv6:  709
+- ROAs total: 2599
 
-[0]: https://git.dn42.us/dn42/registry/commit/f0dc691aa206ed741d993cc1561f098d43a50515
+[0]: https://git.dn42.us/dn42/registry/commit/a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
