@@ -13,7 +13,7 @@
 - These files are [gortr][3] compatible:
   - [export_dn42.json](export_dn42.json)
 
-## [Last commit][0] at [dn42 registry][1]
+## [Last merge commit][0] at [dn42 registry][1]
 
 ```
 commit a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9
@@ -23,6 +23,14 @@ Date:   Sun Jan 6 11:34:19 2019 +0000
 
     Merge branch 'AS4242420144/p-2-p-ipv6-64-subnet' of netravnen/dn42-registry into master
 ```
+
+## crontab
+
+You can setup a cronjob to check in with updates to the ROA files listed
+above on regular intervals.
+
+Currently the ROA files published here is refreshed every 3rd hour if
+updates has been made to the [DN42 registry[1].
 
 ## Misc statistics
 
