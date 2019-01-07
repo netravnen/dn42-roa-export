@@ -26,7 +26,7 @@ Date:   Sun Jan 6 11:34:19 2019 +0000
 
 ## crontab
 
-You can setup a cronjob to check in with updates to the ROA files listed
+You can setup a [cronjob][5] to check in with updates to the ROA files listed
 above on regular intervals.
 
 Currently the ROA files published here is refreshed every 6th hour if
@@ -43,4 +43,5 @@ updates has been made to the [DN42 registry][1].
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
 [4]: https://tools.ietf.org/html/rfc8416
+[5]: doc/crontab.md
 
