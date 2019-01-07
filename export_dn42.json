@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9",
-            "merge": "f0dc691a d3aeef42",
+            "commit": "b90023dfe9f2e028441510c6234d7be3bfc7fb57",
+            "merge": "a0c0baff a245830a",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 6 Jan 2019 11:34:19 +0000",
-            "subject": "Merge branch 'AS4242420144/p-2-p-ipv6-64-subnet' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a0c0baffa8f01f1ccfd6562b3b4afc7052e7eff9"
+            "date": "Mon, 7 Jan 2019 18:00:29 +0000",
+            "subject": "Merge branch 'master' of Fritz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b90023dfe9f2e028441510c6234d7be3bfc7fb57"
         }
     },
     "roas": [
