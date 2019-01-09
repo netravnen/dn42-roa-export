@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b90023dfe9f2e028441510c6234d7be3bfc7fb57
-Merge: a0c0baff a245830a
+commit 7291dbfc5b7959c6e12f809028f6833761b84be9
+Merge: b90023df 2abf00e8
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Jan 7 18:00:29 2019 +0000
+Date:   Tue Jan 8 20:16:37 2019 +0000
 
-    Merge branch 'master' of Fritz/registry into master
+    Merge branch 'master' of jd52ru/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  709
 - ROAs total: 2599
 
-[0]: https://git.dn42.us/dn42/registry/commit/b90023dfe9f2e028441510c6234d7be3bfc7fb57
+[0]: https://git.dn42.us/dn42/registry/commit/7291dbfc5b7959c6e12f809028f6833761b84be9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

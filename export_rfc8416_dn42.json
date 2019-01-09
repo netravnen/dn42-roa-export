@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b90023dfe9f2e028441510c6234d7be3bfc7fb57",
-            "merge": "a0c0baff a245830a",
+            "commit": "7291dbfc5b7959c6e12f809028f6833761b84be9",
+            "merge": "b90023df 2abf00e8",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 7 Jan 2019 18:00:29 +0000",
-            "subject": "Merge branch 'master' of Fritz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b90023dfe9f2e028441510c6234d7be3bfc7fb57"
+            "date": "Tue, 8 Jan 2019 20:16:37 +0000",
+            "subject": "Merge branch 'master' of jd52ru/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7291dbfc5b7959c6e12f809028f6833761b84be9"
         }
     },
     "validationOutputFilters": {
