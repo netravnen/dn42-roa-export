@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7291dbfc5b7959c6e12f809028f6833761b84be9
-Merge: b90023df 2abf00e8
+commit af34971119b8e9f162273ddc8f5dbb6a67c73f1c
+Merge: 7291dbfc ddb5e8ba
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Jan 8 20:16:37 2019 +0000
+Date:   Wed Jan 9 17:14:18 2019 +0000
 
-    Merge branch 'master' of jd52ru/registry into master
+    Merge branch 'master' of Napsterbater/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  709
 - ROAs total: 2599
 
-[0]: https://git.dn42.us/dn42/registry/commit/7291dbfc5b7959c6e12f809028f6833761b84be9
+[0]: https://git.dn42.us/dn42/registry/commit/af34971119b8e9f162273ddc8f5dbb6a67c73f1c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
