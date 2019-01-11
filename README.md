@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit af34971119b8e9f162273ddc8f5dbb6a67c73f1c
-Merge: 7291dbfc ddb5e8ba
+commit f04ce0816a7c2389940f41a91f193320ed25f8ef
+Merge: af349711 ac00fd13
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Jan 9 17:14:18 2019 +0000
+Date:   Thu Jan 10 20:40:52 2019 +0000
 
-    Merge branch 'master' of Napsterbater/registry into master
+    Merge branch 'master' of fiscalcheis/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1890
-- ROAs IPv6:  709
-- ROAs total: 2599
+- ROAs IPv4:  1891
+- ROAs IPv6:  710
+- ROAs total: 2601
 
-[0]: https://git.dn42.us/dn42/registry/commit/af34971119b8e9f162273ddc8f5dbb6a67c73f1c
+[0]: https://git.dn42.us/dn42/registry/commit/f04ce0816a7c2389940f41a91f193320ed25f8ef
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
