@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f04ce0816a7c2389940f41a91f193320ed25f8ef",
-            "merge": "af349711 ac00fd13",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 10 Jan 2019 20:40:52 +0000",
-            "subject": "Merge branch 'master' of fiscalcheis/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f04ce0816a7c2389940f41a91f193320ed25f8ef"
+            "commit": "acadbff1b933df2efc62fba68f9246593b853b27",
+            "merge": "471daffe 9ec62869",
+            "author": "weiti <weiti@weiti.org>",
+            "date": "Sat, 12 Jan 2019 13:44:18 +0000",
+            "subject": "Merge branch 'master' of adamyi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/acadbff1b933df2efc62fba68f9246593b853b27"
         }
     },
     "validationOutputFilters": {
@@ -3538,6 +3538,14 @@
                 "mnt-by": "LINUTUX-MNT"
             },
             {
+                "asn": 4242422809,
+                "prefix": "fd62:cc46:576b::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd62:cc46:576b::_48",
+                "source": "DN42",
+                "mnt-by": "SOASURS-MNT"
+            },
+            {
                 "asn": 64697,
                 "prefix": "fd63:1e39:6f73::/48",
                 "maxPrefixLength": 64,
@@ -5568,6 +5576,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfd:1651:0065:f398::_64",
                 "source": "DN42",
                 "mnt-by": "ZAICA-MNT"
+            },
+            {
+                "asn": 4242421501,
+                "prefix": "fdfd:adad:adad::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfd:adad:adad::_48",
+                "source": "DN42",
+                "mnt-by": "ADAMYI-MNT"
             },
             {
                 "asn": 4242421110,
@@ -11664,6 +11680,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.33.0_27",
                 "source": "DN42",
                 "mnt-by": "SOMNET-MNT"
+            },
+            {
+                "asn": 4242421501,
+                "prefix": "172.20.33.128/25",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.33.128_25",
+                "source": "DN42",
+                "mnt-by": "ADAMYI-MNT"
             },
             {
                 "asn": 4242422935,

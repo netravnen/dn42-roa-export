@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f04ce0816a7c2389940f41a91f193320ed25f8ef
-Merge: af349711 ac00fd13
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jan 10 20:40:52 2019 +0000
+commit acadbff1b933df2efc62fba68f9246593b853b27
+Merge: 471daffe 9ec62869
+Author: weiti <weiti@weiti.org>
+Date:   Sat Jan 12 13:44:18 2019 +0000
 
-    Merge branch 'master' of fiscalcheis/registry into master
+    Merge branch 'master' of adamyi/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1891
-- ROAs IPv6:  710
-- ROAs total: 2601
+- ROAs IPv4:  1892
+- ROAs IPv6:  712
+- ROAs total: 2604
 
-[0]: https://git.dn42.us/dn42/registry/commit/f04ce0816a7c2389940f41a91f193320ed25f8ef
+[0]: https://git.dn42.us/dn42/registry/commit/acadbff1b933df2efc62fba68f9246593b853b27
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "f04ce0816a7c2389940f41a91f193320ed25f8ef",
-            "merge": "af349711 ac00fd13",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 10 Jan 2019 20:40:52 +0000",
-            "subject": "Merge branch 'master' of fiscalcheis/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f04ce0816a7c2389940f41a91f193320ed25f8ef"
+            "commit": "acadbff1b933df2efc62fba68f9246593b853b27",
+            "merge": "471daffe 9ec62869",
+            "author": "weiti <weiti@weiti.org>",
+            "date": "Sat, 12 Jan 2019 13:44:18 +0000",
+            "subject": "Merge branch 'master' of adamyi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/acadbff1b933df2efc62fba68f9246593b853b27"
         }
     },
     "roas": [
@@ -2651,6 +2651,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422809",
+            "prefix": "fd62:cc46:576b::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS64697",
             "prefix": "fd63:1e39:6f73::/48",
             "maxLength": 64,
@@ -4172,6 +4178,12 @@
             "asn": "AS4242420165",
             "prefix": "fdfd:1651:0065:f398::/64",
             "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421501",
+            "prefix": "fdfd:adad:adad::/48",
+            "maxLength": 64,
             "ta": "DN42"
         },
         {
@@ -8743,6 +8755,12 @@
         {
             "asn": "AS4242422777",
             "prefix": "172.20.33.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421501",
+            "prefix": "172.20.33.128/25",
             "maxLength": 28,
             "ta": "DN42"
         },
