@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "acadbff1b933df2efc62fba68f9246593b853b27",
-            "merge": "471daffe 9ec62869",
+            "commit": "2f0dc77bc44d56d83270689c8305a219a5e518df",
+            "merge": "3de62096 8ae409f3",
             "author": "weiti <weiti@weiti.org>",
-            "date": "Sat, 12 Jan 2019 13:44:18 +0000",
-            "subject": "Merge branch 'master' of adamyi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/acadbff1b933df2efc62fba68f9246593b853b27"
+            "date": "Sun, 13 Jan 2019 10:49:39 +0000",
+            "subject": "Merge branch 'master' of tomeara/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2f0dc77bc44d56d83270689c8305a219a5e518df"
         }
     },
     "validationOutputFilters": {
@@ -3970,6 +3970,14 @@
                 "mnt-by": "UNES-MNT"
             },
             {
+                "asn": 4242420154,
+                "prefix": "fd95:2226:2153::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd95:2226:2153::_48",
+                "source": "DN42",
+                "mnt-by": "AGH-MNT"
+            },
+            {
                 "asn": 4242422815,
                 "prefix": "fd96:1337:1337::/48",
                 "maxPrefixLength": 64,
@@ -4280,6 +4288,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda4:c3cb:737c::_48",
                 "source": "DN42",
                 "mnt-by": "SOUTERRAIN-MNT"
+            },
+            {
+                "asn": 4242420415,
+                "prefix": "fda7:c947:6d13::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda7:c947:6d13::_48",
+                "source": "DN42",
+                "mnt-by": "TYLER-MNT"
             },
             {
                 "asn": 4242423211,
@@ -10266,6 +10282,14 @@
                 "mnt-by": "HYHIX-MNT"
             },
             {
+                "asn": 4242423766,
+                "prefix": "172.20.15.32/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.15.32_29",
+                "source": "DN42",
+                "mnt-by": "TETSAI-MNT"
+            },
+            {
                 "asn": 4242421103,
                 "prefix": "172.20.15.48/29",
                 "maxPrefixLength": 29,
@@ -11624,6 +11648,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.26.0_23",
                 "source": "DN42",
                 "mnt-by": "FLOKLI-MNT"
+            },
+            {
+                "asn": 4242420154,
+                "prefix": "172.20.28.0/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.28.0_27",
+                "source": "DN42",
+                "mnt-by": "AGH-MNT"
             },
             {
                 "asn": 4242421189,
@@ -14400,6 +14432,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.151.144_28",
                 "source": "DN42",
                 "mnt-by": "SKUSAVI-MNT"
+            },
+            {
+                "asn": 4242420415,
+                "prefix": "172.23.151.192/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.151.192_27",
+                "source": "DN42",
+                "mnt-by": "TYLER-MNT"
             },
             {
                 "asn": 4242420809,

@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "acadbff1b933df2efc62fba68f9246593b853b27",
-            "merge": "471daffe 9ec62869",
+            "commit": "2f0dc77bc44d56d83270689c8305a219a5e518df",
+            "merge": "3de62096 8ae409f3",
             "author": "weiti <weiti@weiti.org>",
-            "date": "Sat, 12 Jan 2019 13:44:18 +0000",
-            "subject": "Merge branch 'master' of adamyi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/acadbff1b933df2efc62fba68f9246593b853b27"
+            "date": "Sun, 13 Jan 2019 10:49:39 +0000",
+            "subject": "Merge branch 'master' of tomeara/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2f0dc77bc44d56d83270689c8305a219a5e518df"
         }
     },
     "roas": [
@@ -2975,6 +2975,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420154",
+            "prefix": "fd95:2226:2153::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422815",
             "prefix": "fd96:1337:1337::/48",
             "maxLength": 64,
@@ -3205,6 +3211,12 @@
         {
             "asn": "AS4242421035",
             "prefix": "fda4:c3cb:737c::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420415",
+            "prefix": "fda7:c947:6d13::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7697,6 +7709,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423766",
+            "prefix": "172.20.15.32/29",
+            "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421103",
             "prefix": "172.20.15.48/29",
             "maxLength": "29",
@@ -8713,6 +8731,12 @@
         {
             "asn": "AS4242422100",
             "prefix": "172.20.26.0/23",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420154",
+            "prefix": "172.20.28.0/27",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -10796,6 +10820,12 @@
             "asn": "AS4242422678",
             "prefix": "172.23.151.144/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420415",
+            "prefix": "172.23.151.192/27",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {
