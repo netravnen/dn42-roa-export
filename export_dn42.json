@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "2f0dc77bc44d56d83270689c8305a219a5e518df",
-            "merge": "3de62096 8ae409f3",
+            "commit": "788e6676c9833816b504781988b4a844b9afb8a5",
+            "merge": "dff1634a 6700b2a8",
             "author": "weiti <weiti@weiti.org>",
-            "date": "Sun, 13 Jan 2019 10:49:39 +0000",
-            "subject": "Merge branch 'master' of tomeara/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2f0dc77bc44d56d83270689c8305a219a5e518df"
+            "date": "Tue, 15 Jan 2019 17:06:19 +0000",
+            "subject": "Merge branch 'p2pv6' of tomeara/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/788e6676c9833816b504781988b4a844b9afb8a5"
         }
     },
     "roas": [
@@ -823,6 +823,12 @@
         {
             "asn": "AS0",
             "prefix": "fd05:3aca:c3a0:aaaa::/64",
+            "maxLength": 128,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS0",
+            "prefix": "fd05:3aca:c3a0:abcd::/64",
             "maxLength": 128,
             "ta": "DN42"
         },
@@ -9254,6 +9260,12 @@
             "asn": "AS4242422019",
             "prefix": "172.20.62.0/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422019",
+            "prefix": "172.20.62.32/29",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {

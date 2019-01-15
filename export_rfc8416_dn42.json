@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "2f0dc77bc44d56d83270689c8305a219a5e518df",
-            "merge": "3de62096 8ae409f3",
+            "commit": "788e6676c9833816b504781988b4a844b9afb8a5",
+            "merge": "dff1634a 6700b2a8",
             "author": "weiti <weiti@weiti.org>",
-            "date": "Sun, 13 Jan 2019 10:49:39 +0000",
-            "subject": "Merge branch 'master' of tomeara/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2f0dc77bc44d56d83270689c8305a219a5e518df"
+            "date": "Tue, 15 Jan 2019 17:06:19 +0000",
+            "subject": "Merge branch 'p2pv6' of tomeara/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/788e6676c9833816b504781988b4a844b9afb8a5"
         }
     },
     "validationOutputFilters": {
@@ -1104,6 +1104,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd05:3aca:c3a0:aaaa::_64",
                 "source": "DN42",
                 "mnt-by": "NETRAVNEN-MNT"
+            },
+            {
+                "asn": 0,
+                "prefix": "fd05:3aca:c3a0:abcd::/64",
+                "maxPrefixLength": 128,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd05:3aca:c3a0:abcd::_64",
+                "source": "DN42",
+                "mnt-by": "TYLER-MNT"
             },
             {
                 "asn": 65026,
@@ -12342,6 +12350,14 @@
                 "prefix": "172.20.62.0/27",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.62.0_27",
+                "source": "DN42",
+                "mnt-by": "HENOKV-MNT"
+            },
+            {
+                "asn": 4242422019,
+                "prefix": "172.20.62.32/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.62.32_29",
                 "source": "DN42",
                 "mnt-by": "HENOKV-MNT"
             },

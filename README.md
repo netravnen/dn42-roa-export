@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2f0dc77bc44d56d83270689c8305a219a5e518df
-Merge: 3de62096 8ae409f3
+commit 788e6676c9833816b504781988b4a844b9afb8a5
+Merge: dff1634a 6700b2a8
 Author: weiti <weiti@weiti.org>
-Date:   Sun Jan 13 10:49:39 2019 +0000
+Date:   Tue Jan 15 17:06:19 2019 +0000
 
-    Merge branch 'master' of tomeara/registry into master
+    Merge branch 'p2pv6' of tomeara/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1895
-- ROAs IPv6:  714
-- ROAs total: 2609
+- ROAs IPv4:  1896
+- ROAs IPv6:  715
+- ROAs total: 2611
 
-[0]: https://git.dn42.us/dn42/registry/commit/2f0dc77bc44d56d83270689c8305a219a5e518df
+[0]: https://git.dn42.us/dn42/registry/commit/788e6676c9833816b504781988b4a844b9afb8a5
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
