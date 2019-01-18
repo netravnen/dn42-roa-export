@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 788e6676c9833816b504781988b4a844b9afb8a5
-Merge: dff1634a 6700b2a8
+commit c4e03d8f6d08efc3ef5becab2693de6f973b8625
+Merge: 788e6676 be540ecc
 Author: weiti <weiti@weiti.org>
-Date:   Tue Jan 15 17:06:19 2019 +0000
+Date:   Fri Jan 18 08:07:59 2019 +0000
 
-    Merge branch 'p2pv6' of tomeara/registry into master
+    Merge branch 'update' of luginbash/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  715
 - ROAs total: 2611
 
-[0]: https://git.dn42.us/dn42/registry/commit/788e6676c9833816b504781988b4a844b9afb8a5
+[0]: https://git.dn42.us/dn42/registry/commit/c4e03d8f6d08efc3ef5becab2693de6f973b8625
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

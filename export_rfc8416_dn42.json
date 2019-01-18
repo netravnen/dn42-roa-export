@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "788e6676c9833816b504781988b4a844b9afb8a5",
-            "merge": "dff1634a 6700b2a8",
+            "commit": "c4e03d8f6d08efc3ef5becab2693de6f973b8625",
+            "merge": "788e6676 be540ecc",
             "author": "weiti <weiti@weiti.org>",
-            "date": "Tue, 15 Jan 2019 17:06:19 +0000",
-            "subject": "Merge branch 'p2pv6' of tomeara/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/788e6676c9833816b504781988b4a844b9afb8a5"
+            "date": "Fri, 18 Jan 2019 08:07:59 +0000",
+            "subject": "Merge branch 'update' of luginbash/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c4e03d8f6d08efc3ef5becab2693de6f973b8625"
         }
     },
     "validationOutputFilters": {
