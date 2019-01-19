@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit c4e03d8f6d08efc3ef5becab2693de6f973b8625
-Merge: 788e6676 be540ecc
+commit c58bf5909acf1e0b1ba8ad735e46943649fb5f2f
+Merge: c4e03d8f 55f78963
 Author: weiti <weiti@weiti.org>
-Date:   Fri Jan 18 08:07:59 2019 +0000
+Date:   Sat Jan 19 10:34:05 2019 +0000
 
-    Merge branch 'update' of luginbash/registry into master
+    Merge branch 'master' of timk/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1896
-- ROAs IPv6:  715
-- ROAs total: 2611
+- ROAs IPv4:  1897
+- ROAs IPv6:  716
+- ROAs total: 2613
 
-[0]: https://git.dn42.us/dn42/registry/commit/c4e03d8f6d08efc3ef5becab2693de6f973b8625
+[0]: https://git.dn42.us/dn42/registry/commit/c58bf5909acf1e0b1ba8ad735e46943649fb5f2f
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

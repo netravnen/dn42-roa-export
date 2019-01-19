@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "c4e03d8f6d08efc3ef5becab2693de6f973b8625",
-            "merge": "788e6676 be540ecc",
+            "commit": "c58bf5909acf1e0b1ba8ad735e46943649fb5f2f",
+            "merge": "c4e03d8f 55f78963",
             "author": "weiti <weiti@weiti.org>",
-            "date": "Fri, 18 Jan 2019 08:07:59 +0000",
-            "subject": "Merge branch 'update' of luginbash/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c4e03d8f6d08efc3ef5becab2693de6f973b8625"
+            "date": "Sat, 19 Jan 2019 10:34:05 +0000",
+            "subject": "Merge branch 'master' of timk/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c58bf5909acf1e0b1ba8ad735e46943649fb5f2f"
         }
     },
     "validationOutputFilters": {
@@ -3256,6 +3256,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:fa76:1110::_48",
                 "source": "DN42",
                 "mnt-by": "TIMANDO-MNT"
+            },
+            {
+                "asn": 4242423306,
+                "prefix": "fd42:fd6b:774e::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:fd6b:774e::_48",
+                "source": "DN42",
+                "mnt-by": "TIMK-MNT"
             },
             {
                 "asn": 4242421404,
@@ -12520,6 +12528,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.121.0_27",
                 "source": "DN42",
                 "mnt-by": "FELIX-MNT"
+            },
+            {
+                "asn": 4242423306,
+                "prefix": "172.21.121.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.121.64_27",
+                "source": "DN42",
+                "mnt-by": "TIMK-MNT"
             },
             {
                 "asn": 4242423560,
