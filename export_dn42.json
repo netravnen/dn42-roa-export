@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "c58bf5909acf1e0b1ba8ad735e46943649fb5f2f",
-            "merge": "c4e03d8f 55f78963",
-            "author": "weiti <weiti@weiti.org>",
-            "date": "Sat, 19 Jan 2019 10:34:05 +0000",
-            "subject": "Merge branch 'master' of timk/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c58bf5909acf1e0b1ba8ad735e46943649fb5f2f"
+            "commit": "fc72726370bd3579340704cb3cb50a1e85e41586",
+            "merge": "c58bf590 12a49169",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 19 Jan 2019 19:15:33 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/fc72726370bd3579340704cb3cb50a1e85e41586"
         }
     },
     "roas": [

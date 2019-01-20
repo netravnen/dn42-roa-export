@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit c58bf5909acf1e0b1ba8ad735e46943649fb5f2f
-Merge: c4e03d8f 55f78963
-Author: weiti <weiti@weiti.org>
-Date:   Sat Jan 19 10:34:05 2019 +0000
+commit fc72726370bd3579340704cb3cb50a1e85e41586
+Merge: c58bf590 12a49169
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Sat Jan 19 19:15:33 2019 +0000
 
-    Merge branch 'master' of timk/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  716
 - ROAs total: 2613
 
-[0]: https://git.dn42.us/dn42/registry/commit/c58bf5909acf1e0b1ba8ad735e46943649fb5f2f
+[0]: https://git.dn42.us/dn42/registry/commit/fc72726370bd3579340704cb3cb50a1e85e41586
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
