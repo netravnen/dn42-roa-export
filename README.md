@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 37c23835d4d170c65f410751c5a560efa1e4c805
-Merge: fc727263 5702add7
-Author: CHRiSNEW <dn42-git@chrisnew.de>
-Date:   Sun Jan 20 10:23:48 2019 +0000
+commit 794773226946de9d7084ade7eb606bd56acb05a7
+Merge: 37c23835 18a0e01e
+Author: weiti <weiti@weiti.org>
+Date:   Mon Jan 21 10:26:06 2019 +0000
 
-    Merge branch 'new-dns' of jrb0001/registry into master
+    Merge branch 'master' of Fritz/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1897
+- ROAs IPv4:  1898
 - ROAs IPv6:  718
-- ROAs total: 2615
+- ROAs total: 2616
 
-[0]: https://git.dn42.us/dn42/registry/commit/37c23835d4d170c65f410751c5a560efa1e4c805
+[0]: https://git.dn42.us/dn42/registry/commit/794773226946de9d7084ade7eb606bd56acb05a7
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

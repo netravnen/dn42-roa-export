@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "37c23835d4d170c65f410751c5a560efa1e4c805",
-            "merge": "fc727263 5702add7",
-            "author": "CHRiSNEW <dn42-git@chrisnew.de>",
-            "date": "Sun, 20 Jan 2019 10:23:48 +0000",
-            "subject": "Merge branch 'new-dns' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/37c23835d4d170c65f410751c5a560efa1e4c805"
+            "commit": "794773226946de9d7084ade7eb606bd56acb05a7",
+            "merge": "37c23835 18a0e01e",
+            "author": "weiti <weiti@weiti.org>",
+            "date": "Mon, 21 Jan 2019 10:26:06 +0000",
+            "subject": "Merge branch 'master' of Fritz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/794773226946de9d7084ade7eb606bd56acb05a7"
         }
     },
     "validationOutputFilters": {
@@ -12895,7 +12895,15 @@
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.1.0_24",
                 "source": "DN42",
-                "mnt-by": "FRITZ-MNT"
+                "mnt-by": "FLHB-NETGROUP-MNT"
+            },
+            {
+                "asn": 4242422321,
+                "prefix": "172.22.1.0/24",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.1.0_24",
+                "source": "DN42",
+                "mnt-by": "FLHB-NETGROUP-MNT"
             },
             {
                 "asn": 64698,
