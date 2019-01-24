@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 794773226946de9d7084ade7eb606bd56acb05a7
-Merge: 37c23835 18a0e01e
-Author: weiti <weiti@weiti.org>
-Date:   Mon Jan 21 10:26:06 2019 +0000
+commit f44f28212be840a35ef513cd760ef4c5ad685813
+Merge: 79477322 a740db79
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Thu Jan 24 17:07:08 2019 +0000
 
-    Merge branch 'master' of Fritz/registry into master
+    Merge branch 'update' of luginbash/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1898
+- ROAs IPv4:  1899
 - ROAs IPv6:  718
-- ROAs total: 2616
+- ROAs total: 2617
 
-[0]: https://git.dn42.us/dn42/registry/commit/794773226946de9d7084ade7eb606bd56acb05a7
+[0]: https://git.dn42.us/dn42/registry/commit/f44f28212be840a35ef513cd760ef4c5ad685813
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

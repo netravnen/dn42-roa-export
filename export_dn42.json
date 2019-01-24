@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "794773226946de9d7084ade7eb606bd56acb05a7",
-            "merge": "37c23835 18a0e01e",
-            "author": "weiti <weiti@weiti.org>",
-            "date": "Mon, 21 Jan 2019 10:26:06 +0000",
-            "subject": "Merge branch 'master' of Fritz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/794773226946de9d7084ade7eb606bd56acb05a7"
+            "commit": "f44f28212be840a35ef513cd760ef4c5ad685813",
+            "merge": "79477322 a740db79",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Thu, 24 Jan 2019 17:07:08 +0000",
+            "subject": "Merge branch 'update' of luginbash/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f44f28212be840a35ef513cd760ef4c5ad685813"
         }
     },
     "roas": [
@@ -8401,6 +8401,12 @@
         {
             "asn": "AS4242421835",
             "prefix": "172.20.20.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423904",
+            "prefix": "172.20.20.160/27",
             "maxLength": 28,
             "ta": "DN42"
         },
