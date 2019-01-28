@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f44f28212be840a35ef513cd760ef4c5ad685813
-Merge: 79477322 a740db79
+commit 447fb1c281519849e0be89be540eb2f6a9af798c
+Merge: f44f2821 11859f05
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jan 24 17:07:08 2019 +0000
+Date:   Sun Jan 27 21:54:05 2019 +0000
 
-    Merge branch 'update' of luginbash/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  718
 - ROAs total: 2617
 
-[0]: https://git.dn42.us/dn42/registry/commit/f44f28212be840a35ef513cd760ef4c5ad685813
+[0]: https://git.dn42.us/dn42/registry/commit/447fb1c281519849e0be89be540eb2f6a9af798c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
