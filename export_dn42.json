@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0581321784ab673a7da891506c206e751490601f",
-            "merge": "447fb1c2 7c2986d1",
+            "commit": "4cbb7118cde3fbc24ceadf5499b2d8d4a6c2c181",
+            "merge": "05813217 3f2f107d",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 28 Jan 2019 20:56:08 +0000",
-            "subject": "Merge branch 'master' of deboerdn2000/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0581321784ab673a7da891506c206e751490601f"
+            "date": "Tue, 29 Jan 2019 18:49:52 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4cbb7118cde3fbc24ceadf5499b2d8d4a6c2c181"
         }
     },
     "roas": [
