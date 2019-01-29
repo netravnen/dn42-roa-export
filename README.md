@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 447fb1c281519849e0be89be540eb2f6a9af798c
-Merge: f44f2821 11859f05
+commit 0581321784ab673a7da891506c206e751490601f
+Merge: 447fb1c2 7c2986d1
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Jan 27 21:54:05 2019 +0000
+Date:   Mon Jan 28 20:56:08 2019 +0000
 
-    Merge branch 'master' of burble/registry into master
+    Merge branch 'master' of deboerdn2000/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1899
-- ROAs IPv6:  718
-- ROAs total: 2617
+- ROAs IPv6:  719
+- ROAs total: 2618
 
-[0]: https://git.dn42.us/dn42/registry/commit/447fb1c281519849e0be89be540eb2f6a9af798c
+[0]: https://git.dn42.us/dn42/registry/commit/0581321784ab673a7da891506c206e751490601f
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
