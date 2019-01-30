@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4cbb7118cde3fbc24ceadf5499b2d8d4a6c2c181
-Merge: 05813217 3f2f107d
+commit 00b476b7a0b38629f3c60dbbc68341ede4f43c83
+Merge: 4cbb7118 f97cdd9a
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Jan 29 18:49:52 2019 +0000
+Date:   Tue Jan 29 19:50:13 2019 +0000
 
-    Merge branch 'master' of burble/registry into master
+    Merge branch 'master' of kleen/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1899
-- ROAs IPv6:  719
-- ROAs total: 2618
+- ROAs IPv4:  1900
+- ROAs IPv6:  720
+- ROAs total: 2620
 
-[0]: https://git.dn42.us/dn42/registry/commit/4cbb7118cde3fbc24ceadf5499b2d8d4a6c2c181
+[0]: https://git.dn42.us/dn42/registry/commit/00b476b7a0b38629f3c60dbbc68341ede4f43c83
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
