@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "00b476b7a0b38629f3c60dbbc68341ede4f43c83",
-            "merge": "4cbb7118 f97cdd9a",
+            "commit": "b6411266865b7033462f68792fb69ea6178c0ded",
+            "merge": "00b476b7 b83018e3",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 29 Jan 2019 19:50:13 +0000",
-            "subject": "Merge branch 'master' of kleen/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/00b476b7a0b38629f3c60dbbc68341ede4f43c83"
+            "date": "Wed, 30 Jan 2019 19:47:30 +0000",
+            "subject": "Merge branch 'master' of Fritz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b6411266865b7033462f68792fb69ea6178c0ded"
         }
     },
     "roas": [

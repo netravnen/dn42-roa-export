@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 00b476b7a0b38629f3c60dbbc68341ede4f43c83
-Merge: 4cbb7118 f97cdd9a
+commit b6411266865b7033462f68792fb69ea6178c0ded
+Merge: 00b476b7 b83018e3
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Jan 29 19:50:13 2019 +0000
+Date:   Wed Jan 30 19:47:30 2019 +0000
 
-    Merge branch 'master' of kleen/registry into master
+    Merge branch 'master' of Fritz/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  720
 - ROAs total: 2620
 
-[0]: https://git.dn42.us/dn42/registry/commit/00b476b7a0b38629f3c60dbbc68341ede4f43c83
+[0]: https://git.dn42.us/dn42/registry/commit/b6411266865b7033462f68792fb69ea6178c0ded
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
