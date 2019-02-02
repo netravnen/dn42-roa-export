@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b6411266865b7033462f68792fb69ea6178c0ded
-Merge: 00b476b7 b83018e3
+commit f2b74de24cad50f6710ba801e22e4034b1ab8825
+Merge: d7742938 282d5604
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Jan 30 19:47:30 2019 +0000
+Date:   Sat Feb 2 14:05:53 2019 +0000
 
-    Merge branch 'master' of Fritz/registry into master
+    Merge branch 'chaosvpn' of dn42/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1900
-- ROAs IPv6:  720
-- ROAs total: 2620
+- ROAs IPv4:  918
+- ROAs IPv6:  628
+- ROAs total: 1546
 
-[0]: https://git.dn42.us/dn42/registry/commit/b6411266865b7033462f68792fb69ea6178c0ded
+[0]: https://git.dn42.us/dn42/registry/commit/f2b74de24cad50f6710ba801e22e4034b1ab8825
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
