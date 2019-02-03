@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f2b74de24cad50f6710ba801e22e4034b1ab8825",
-            "merge": "d7742938 282d5604",
+            "commit": "8a42a4ffd6e7870aadbcda50f822ac23d0f61395",
+            "merge": "fc84f30f 4beafb81",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 2 Feb 2019 14:05:53 +0000",
-            "subject": "Merge branch 'chaosvpn' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f2b74de24cad50f6710ba801e22e4034b1ab8825"
+            "date": "Sun, 3 Feb 2019 08:30:11 +0000",
+            "subject": "Merge branch 'phiivo' of crshman/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8a42a4ffd6e7870aadbcda50f822ac23d0f61395"
         }
     },
     "validationOutputFilters": {
@@ -3200,6 +3200,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd8f:14c7:d318::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421656,
+                "prefix": "fd8f:fcd6:b5b3::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd8f:fcd6:b5b3::_48",
+                "source": "DN42",
+                "mnt-by": "PHIIVO-MNT"
             },
             {
                 "asn": 4242423298,
@@ -9392,6 +9400,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.100.64_27",
                 "source": "DN42",
                 "mnt-by": "NSNW-MNT"
+            },
+            {
+                "asn": 4242421656,
+                "prefix": "172.21.101.0/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.101.0_27",
+                "source": "DN42",
+                "mnt-by": "PHIIVO-MNT"
             },
             {
                 "asn": 4242421814,

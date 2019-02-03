@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f2b74de24cad50f6710ba801e22e4034b1ab8825
-Merge: d7742938 282d5604
+commit 8a42a4ffd6e7870aadbcda50f822ac23d0f61395
+Merge: fc84f30f 4beafb81
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Feb 2 14:05:53 2019 +0000
+Date:   Sun Feb 3 08:30:11 2019 +0000
 
-    Merge branch 'chaosvpn' of dn42/registry into master
+    Merge branch 'phiivo' of crshman/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  918
-- ROAs IPv6:  628
-- ROAs total: 1546
+- ROAs IPv4:  919
+- ROAs IPv6:  629
+- ROAs total: 1548
 
-[0]: https://git.dn42.us/dn42/registry/commit/f2b74de24cad50f6710ba801e22e4034b1ab8825
+[0]: https://git.dn42.us/dn42/registry/commit/8a42a4ffd6e7870aadbcda50f822ac23d0f61395
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

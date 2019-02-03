@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "f2b74de24cad50f6710ba801e22e4034b1ab8825",
-            "merge": "d7742938 282d5604",
+            "commit": "8a42a4ffd6e7870aadbcda50f822ac23d0f61395",
+            "merge": "fc84f30f 4beafb81",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 2 Feb 2019 14:05:53 +0000",
-            "subject": "Merge branch 'chaosvpn' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f2b74de24cad50f6710ba801e22e4034b1ab8825"
+            "date": "Sun, 3 Feb 2019 08:30:11 +0000",
+            "subject": "Merge branch 'phiivo' of crshman/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8a42a4ffd6e7870aadbcda50f822ac23d0f61395"
         }
     },
     "roas": [
@@ -2397,6 +2397,12 @@
             "prefix": "fd8f:14c7:d318::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242421656",
+            "prefix": "fd8f:fcd6:b5b3::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS4242423298",
@@ -7039,6 +7045,12 @@
         {
             "asn": "AS4242423050",
             "prefix": "172.21.100.64/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421656",
+            "prefix": "172.21.101.0/27",
             "maxLength": 28,
             "ta": "DN42"
         },
