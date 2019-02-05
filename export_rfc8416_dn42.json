@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "8a42a4ffd6e7870aadbcda50f822ac23d0f61395",
-            "merge": "fc84f30f 4beafb81",
+            "commit": "5cf8be3d79837e8033fefbe415145ca9e19c9d85",
+            "merge": "f14653cf 17bdb281",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 3 Feb 2019 08:30:11 +0000",
-            "subject": "Merge branch 'phiivo' of crshman/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8a42a4ffd6e7870aadbcda50f822ac23d0f61395"
+            "date": "Tue, 5 Feb 2019 17:57:32 +0000",
+            "subject": "Merge branch 'master' of phuzion/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5cf8be3d79837e8033fefbe415145ca9e19c9d85"
         }
     },
     "validationOutputFilters": {
@@ -1634,6 +1634,14 @@
                 "mnt-by": "AGS-MNT"
             },
             {
+                "asn": 4242420573,
+                "prefix": "fd42:471d:329f::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:471d:329f::_48",
+                "source": "DN42",
+                "mnt-by": "PHUZION-MNT"
+            },
+            {
                 "asn": 4242428200,
                 "prefix": "fd42:4992:6b6d::/48",
                 "maxPrefixLength": 64,
@@ -2480,6 +2488,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:fe2c:d17a::_48",
                 "source": "DN42",
                 "mnt-by": "RDBCN-MNT"
+            },
+            {
+                "asn": 4242420191,
+                "prefix": "fd42:fe56:7891::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:fe56:7891::_48",
+                "source": "DN42",
+                "mnt-by": "TCDUE-MNT"
             },
             {
                 "asn": 4242420146,
@@ -7970,6 +7986,14 @@
                 "mnt-by": "NOB-MNT"
             },
             {
+                "asn": 4242420191,
+                "prefix": "172.20.191.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.191.64_27",
+                "source": "DN42",
+                "mnt-by": "TCDUE-MNT"
+            },
+            {
                 "asn": 4242420115,
                 "prefix": "172.20.192.64/27",
                 "maxPrefixLength": 28,
@@ -9016,6 +9040,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.48.0_27",
                 "source": "DN42",
                 "mnt-by": "CYBERTINUS-MNT"
+            },
+            {
+                "asn": 4242420573,
+                "prefix": "172.20.48.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.48.32_27",
+                "source": "DN42",
+                "mnt-by": "PHUZION-MNT"
             },
             {
                 "asn": 4242428192,

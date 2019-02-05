@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8a42a4ffd6e7870aadbcda50f822ac23d0f61395
-Merge: fc84f30f 4beafb81
+commit 5cf8be3d79837e8033fefbe415145ca9e19c9d85
+Merge: f14653cf 17bdb281
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Feb 3 08:30:11 2019 +0000
+Date:   Tue Feb 5 17:57:32 2019 +0000
 
-    Merge branch 'phiivo' of crshman/registry into master
+    Merge branch 'master' of phuzion/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  919
-- ROAs IPv6:  629
-- ROAs total: 1548
+- ROAs IPv4:  921
+- ROAs IPv6:  631
+- ROAs total: 1552
 
-[0]: https://git.dn42.us/dn42/registry/commit/8a42a4ffd6e7870aadbcda50f822ac23d0f61395
+[0]: https://git.dn42.us/dn42/registry/commit/5cf8be3d79837e8033fefbe415145ca9e19c9d85
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
