@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5cf8be3d79837e8033fefbe415145ca9e19c9d85
-Merge: f14653cf 17bdb281
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Feb 5 17:57:32 2019 +0000
+commit 390870033191a344dbf9294cdc95afdc36a60b5a
+Merge: 5e0430c3 85924b91
+Author: weiti <weiti@weiti.org>
+Date:   Thu Feb 7 10:09:59 2019 +0000
 
-    Merge branch 'master' of phuzion/registry into master
+    Merge branch 'mntner-cleanup' of dn42/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  631
 - ROAs total: 1552
 
-[0]: https://git.dn42.us/dn42/registry/commit/5cf8be3d79837e8033fefbe415145ca9e19c9d85
+[0]: https://git.dn42.us/dn42/registry/commit/390870033191a344dbf9294cdc95afdc36a60b5a
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
