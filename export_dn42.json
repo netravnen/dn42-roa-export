@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "390870033191a344dbf9294cdc95afdc36a60b5a",
-            "merge": "5e0430c3 85924b91",
-            "author": "weiti <weiti@weiti.org>",
-            "date": "Thu, 7 Feb 2019 10:09:59 +0000",
-            "subject": "Merge branch 'mntner-cleanup' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/390870033191a344dbf9294cdc95afdc36a60b5a"
+            "commit": "28e477eccdf8c7f4c40c6730c4735163fdb2a0f1",
+            "merge": "39087003 a3394a44",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Thu, 7 Feb 2019 20:13:53 +0000",
+            "subject": "Merge branch 'arite-networks' of donpinkster/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/28e477eccdf8c7f4c40c6730c4735163fdb2a0f1"
         }
     },
     "roas": [
@@ -3485,6 +3485,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS4242421939",
+            "prefix": "fded:727b:6c7a::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420527",
             "prefix": "fdee:5477::/48",
             "maxLength": 64,
@@ -5653,6 +5659,12 @@
         {
             "asn": "AS4242423127",
             "prefix": "172.20.167.144/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421939",
+            "prefix": "172.20.167.160/28",
             "maxLength": "28",
             "ta": "DN42"
         },
