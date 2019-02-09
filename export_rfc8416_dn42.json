@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "28e477eccdf8c7f4c40c6730c4735163fdb2a0f1",
-            "merge": "39087003 a3394a44",
+            "commit": "3223868731accecf0cd589f72e96a177267e30b3",
+            "merge": "28e477ec 17c6faf0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 7 Feb 2019 20:13:53 +0000",
-            "subject": "Merge branch 'arite-networks' of donpinkster/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/28e477eccdf8c7f4c40c6730c4735163fdb2a0f1"
+            "date": "Sat, 9 Feb 2019 08:56:29 +0000",
+            "subject": "Merge branch 'master' of alberts00/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3223868731accecf0cd589f72e96a177267e30b3"
         }
     },
     "validationOutputFilters": {
@@ -3800,6 +3800,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb9:fff1:dbbf::_48",
                 "source": "DN42",
                 "mnt-by": "LYM-MNT"
+            },
+            {
+                "asn": 4242421630,
+                "prefix": "fdba:0610:d1dd::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdba:0610:d1dd::_48",
+                "source": "DN42",
+                "mnt-by": "IMP-MNT"
             },
             {
                 "asn": 4242422357,
@@ -7736,6 +7744,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.178.0_27",
                 "source": "DN42",
                 "mnt-by": "NORNET-MNT"
+            },
+            {
+                "asn": 4242421630,
+                "prefix": "172.20.178.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.178.32_27",
+                "source": "DN42",
+                "mnt-by": "IMP-MNT"
             },
             {
                 "asn": 4242421404,

@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "28e477eccdf8c7f4c40c6730c4735163fdb2a0f1",
-            "merge": "39087003 a3394a44",
+            "commit": "3223868731accecf0cd589f72e96a177267e30b3",
+            "merge": "28e477ec 17c6faf0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 7 Feb 2019 20:13:53 +0000",
-            "subject": "Merge branch 'arite-networks' of donpinkster/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/28e477eccdf8c7f4c40c6730c4735163fdb2a0f1"
+            "date": "Sat, 9 Feb 2019 08:56:29 +0000",
+            "subject": "Merge branch 'master' of alberts00/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3223868731accecf0cd589f72e96a177267e30b3"
         }
     },
     "roas": [
@@ -2845,6 +2845,12 @@
         {
             "asn": "AS4242423866",
             "prefix": "fdb9:fff1:dbbf::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421630",
+            "prefix": "fdba:0610:d1dd::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5797,6 +5803,12 @@
         {
             "asn": "AS4242423238",
             "prefix": "172.20.178.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421630",
+            "prefix": "172.20.178.32/27",
             "maxLength": 28,
             "ta": "DN42"
         },

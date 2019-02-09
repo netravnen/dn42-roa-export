@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 28e477eccdf8c7f4c40c6730c4735163fdb2a0f1
-Merge: 39087003 a3394a44
+commit 3223868731accecf0cd589f72e96a177267e30b3
+Merge: 28e477ec 17c6faf0
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Feb 7 20:13:53 2019 +0000
+Date:   Sat Feb 9 08:56:29 2019 +0000
 
-    Merge branch 'arite-networks' of donpinkster/registry into master
+    Merge branch 'master' of alberts00/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  922
-- ROAs IPv6:  632
-- ROAs total: 1554
+- ROAs IPv4:  923
+- ROAs IPv6:  633
+- ROAs total: 1556
 
-[0]: https://git.dn42.us/dn42/registry/commit/28e477eccdf8c7f4c40c6730c4735163fdb2a0f1
+[0]: https://git.dn42.us/dn42/registry/commit/3223868731accecf0cd589f72e96a177267e30b3
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
