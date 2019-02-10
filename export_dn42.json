@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "3223868731accecf0cd589f72e96a177267e30b3",
-            "merge": "28e477ec 17c6faf0",
+            "commit": "030a43f32c308174e2b3a479a389ce3337ac1fa4",
+            "merge": "0ce73ccf 262b4642",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 9 Feb 2019 08:56:29 +0000",
-            "subject": "Merge branch 'master' of alberts00/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3223868731accecf0cd589f72e96a177267e30b3"
+            "date": "Sun, 10 Feb 2019 14:17:52 +0000",
+            "subject": "Merge branch 'master' of Manawyrm/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/030a43f32c308174e2b3a479a389ce3337ac1fa4"
         }
     },
     "roas": [
@@ -2717,6 +2717,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS65201",
+            "prefix": "fda4:1721:8451::/48",
+            "maxLength": 64,
+            "ta": "ICVPN"
+        },
+        {
             "asn": "AS4242421035",
             "prefix": "fda4:c3cb:737c::/48",
             "maxLength": 64,
@@ -3249,6 +3255,12 @@
             "prefix": "fddf:4811:38a0::/48",
             "maxLength": "48",
             "ta": "DN42"
+        },
+        {
+            "asn": "AS65064",
+            "prefix": "fddf::/48",
+            "maxLength": 64,
+            "ta": "ICVPN"
         },
         {
             "asn": "AS64859",
@@ -4163,6 +4175,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS65201",
+            "prefix": "10.152.64.0/18",
+            "maxLength": 28,
+            "ta": "ICVPN"
+        },
+        {
             "asn": "AS65530",
             "prefix": "10.154.0.0/16",
             "maxLength": 28,
@@ -4237,6 +4255,12 @@
         {
             "asn": "AS65022",
             "prefix": "10.172.0.0/16",
+            "maxLength": 28,
+            "ta": "ICVPN"
+        },
+        {
+            "asn": "AS65026",
+            "prefix": "10.176.0.0/15",
             "maxLength": 28,
             "ta": "ICVPN"
         },
@@ -4607,6 +4631,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS64904",
+            "prefix": "10.30.96.0/19",
+            "maxLength": 28,
+            "ta": "ICVPN"
+        },
+        {
             "asn": "AS44194",
             "prefix": "10.31.0.0/16",
             "maxLength": 28,
@@ -4843,6 +4873,12 @@
         {
             "asn": "AS4242420420",
             "prefix": "10.65.0.0/20",
+            "maxLength": 28,
+            "ta": "ICVPN"
+        },
+        {
+            "asn": "AS65064",
+            "prefix": "10.66.0.0/20",
             "maxLength": 28,
             "ta": "ICVPN"
         },
