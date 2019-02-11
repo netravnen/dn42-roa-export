@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 030a43f32c308174e2b3a479a389ce3337ac1fa4
-Merge: 0ce73ccf 262b4642
+commit 4b84b6200104ff0b6e4afee4aa83c7a0a650ad63
+Merge: d6e42218 b9915d26
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Feb 10 14:17:52 2019 +0000
+Date:   Sun Feb 10 21:30:28 2019 +0000
 
-    Merge branch 'master' of Manawyrm/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  635
 - ROAs total: 1562
 
-[0]: https://git.dn42.us/dn42/registry/commit/030a43f32c308174e2b3a479a389ce3337ac1fa4
+[0]: https://git.dn42.us/dn42/registry/commit/4b84b6200104ff0b6e4afee4aa83c7a0a650ad63
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

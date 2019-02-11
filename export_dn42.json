@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "030a43f32c308174e2b3a479a389ce3337ac1fa4",
-            "merge": "0ce73ccf 262b4642",
+            "commit": "4b84b6200104ff0b6e4afee4aa83c7a0a650ad63",
+            "merge": "d6e42218 b9915d26",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 10 Feb 2019 14:17:52 +0000",
-            "subject": "Merge branch 'master' of Manawyrm/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/030a43f32c308174e2b3a479a389ce3337ac1fa4"
+            "date": "Sun, 10 Feb 2019 21:30:28 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4b84b6200104ff0b6e4afee4aa83c7a0a650ad63"
         }
     },
     "roas": [
