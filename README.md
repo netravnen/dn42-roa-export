@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4b84b6200104ff0b6e4afee4aa83c7a0a650ad63
-Merge: d6e42218 b9915d26
+commit 2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a
+Merge: 83dc0244 873f1b67
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Feb 10 21:30:28 2019 +0000
+Date:   Wed Feb 13 19:46:52 2019 +0000
 
-    Merge branch 'master' of burble/registry into master
+    Merge branch 'master' of falk/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  927
+- ROAs IPv4:  928
 - ROAs IPv6:  635
-- ROAs total: 1562
+- ROAs total: 1563
 
-[0]: https://git.dn42.us/dn42/registry/commit/4b84b6200104ff0b6e4afee4aa83c7a0a650ad63
+[0]: https://git.dn42.us/dn42/registry/commit/2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "4b84b6200104ff0b6e4afee4aa83c7a0a650ad63",
-            "merge": "d6e42218 b9915d26",
+            "commit": "2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a",
+            "merge": "83dc0244 873f1b67",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 10 Feb 2019 21:30:28 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4b84b6200104ff0b6e4afee4aa83c7a0a650ad63"
+            "date": "Wed, 13 Feb 2019 19:46:52 +0000",
+            "subject": "Merge branch 'master' of falk/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a"
         }
     },
     "validationOutputFilters": {
@@ -10240,6 +10240,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.128.32_27",
                 "source": "DN42",
                 "mnt-by": "NETRAVNEN-MNT"
+            },
+            {
+                "asn": 4242420553,
+                "prefix": "172.22.128.64/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.128.64_28",
+                "source": "DN42",
+                "mnt-by": "LLRZ-MNT"
             },
             {
                 "asn": 4242421702,
