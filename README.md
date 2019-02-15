@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a
-Merge: 83dc0244 873f1b67
+commit 2266866135bea9b82ac368b322098cc864cfb824
+Merge: 2e0a2bf7 3e320c6c
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Feb 13 19:46:52 2019 +0000
+Date:   Fri Feb 15 18:16:22 2019 +0000
 
-    Merge branch 'master' of falk/registry into master
+    Merge branch 'master' of MrXermon/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  928
+- ROAs IPv4:  929
 - ROAs IPv6:  635
-- ROAs total: 1563
+- ROAs total: 1564
 
-[0]: https://git.dn42.us/dn42/registry/commit/2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a
+[0]: https://git.dn42.us/dn42/registry/commit/2266866135bea9b82ac368b322098cc864cfb824
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

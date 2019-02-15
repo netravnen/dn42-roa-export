@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a",
-            "merge": "83dc0244 873f1b67",
+            "commit": "2266866135bea9b82ac368b322098cc864cfb824",
+            "merge": "2e0a2bf7 3e320c6c",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 13 Feb 2019 19:46:52 +0000",
-            "subject": "Merge branch 'master' of falk/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2e0a2bf7a59b62cdbab77fafd7bbe6c97d7b598a"
+            "date": "Fri, 15 Feb 2019 18:16:22 +0000",
+            "subject": "Merge branch 'master' of MrXermon/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2266866135bea9b82ac368b322098cc864cfb824"
         }
     },
     "validationOutputFilters": {
@@ -7320,6 +7320,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.15.208_28",
                 "source": "DN42",
                 "mnt-by": "DDEV-MNT"
+            },
+            {
+                "asn": 4242423506,
+                "prefix": "172.20.15.224/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.15.224_29",
+                "source": "DN42",
+                "mnt-by": "MRXERMON-MNT"
             },
             {
                 "asn": 4242420988,
