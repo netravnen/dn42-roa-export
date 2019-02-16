@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "2266866135bea9b82ac368b322098cc864cfb824",
-            "merge": "2e0a2bf7 3e320c6c",
+            "commit": "3cbc349bf770493c016888ff785227ded2a7d866",
+            "merge": "22668661 7b18ec88",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 15 Feb 2019 18:16:22 +0000",
-            "subject": "Merge branch 'master' of MrXermon/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2266866135bea9b82ac368b322098cc864cfb824"
+            "date": "Sat, 16 Feb 2019 14:44:01 +0000",
+            "subject": "Merge branch 'master' of kleen/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3cbc349bf770493c016888ff785227ded2a7d866"
         }
     },
     "validationOutputFilters": {
