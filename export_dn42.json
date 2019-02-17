@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "3cbc349bf770493c016888ff785227ded2a7d866",
-            "merge": "22668661 7b18ec88",
+            "commit": "8f28174ee30d3ba84466a2d0b9bdfda4a0977772",
+            "merge": "3cbc349b bb0eb6d3",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 16 Feb 2019 14:44:01 +0000",
-            "subject": "Merge branch 'master' of kleen/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3cbc349bf770493c016888ff785227ded2a7d866"
+            "date": "Sun, 17 Feb 2019 10:21:55 +0000",
+            "subject": "Merge branch 'birb-network' of vista/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8f28174ee30d3ba84466a2d0b9bdfda4a0977772"
         }
     },
     "roas": [
@@ -1537,6 +1537,12 @@
         {
             "asn": "AS4242421576",
             "prefix": "fd42:c0fe:babe::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423334",
+            "prefix": "fd42:c0ff:eeee::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5719,6 +5725,12 @@
         {
             "asn": "AS4242421015",
             "prefix": "172.20.168.0/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423335",
+            "prefix": "172.20.168.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
