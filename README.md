@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8f28174ee30d3ba84466a2d0b9bdfda4a0977772
-Merge: 3cbc349b bb0eb6d3
+commit 0d09b4d43994d2832cd17442a57b41f35d97fc8a
+Merge: 8f28174e 81235e79
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Feb 17 10:21:55 2019 +0000
+Date:   Sun Feb 17 19:15:09 2019 +0000
 
-    Merge branch 'birb-network' of vista/registry into master
+    Merge branch 'master' of felix/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  930
-- ROAs IPv6:  636
-- ROAs total: 1566
+- ROAs IPv6:  637
+- ROAs total: 1567
 
-[0]: https://git.dn42.us/dn42/registry/commit/8f28174ee30d3ba84466a2d0b9bdfda4a0977772
+[0]: https://git.dn42.us/dn42/registry/commit/0d09b4d43994d2832cd17442a57b41f35d97fc8a
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

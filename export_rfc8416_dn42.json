@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "8f28174ee30d3ba84466a2d0b9bdfda4a0977772",
-            "merge": "3cbc349b bb0eb6d3",
+            "commit": "0d09b4d43994d2832cd17442a57b41f35d97fc8a",
+            "merge": "8f28174e 81235e79",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 17 Feb 2019 10:21:55 +0000",
-            "subject": "Merge branch 'birb-network' of vista/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8f28174ee30d3ba84466a2d0b9bdfda4a0977772"
+            "date": "Sun, 17 Feb 2019 19:15:09 +0000",
+            "subject": "Merge branch 'master' of felix/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0d09b4d43994d2832cd17442a57b41f35d97fc8a"
         }
     },
     "validationOutputFilters": {
@@ -1848,6 +1848,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:9510:cad1::_48",
                 "source": "DN42",
                 "mnt-by": "CARLOSJS-MNT"
+            },
+            {
+                "asn": 4242423975,
+                "prefix": "fd42:9707:96bd::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:9707:96bd::_48",
+                "source": "DN42",
+                "mnt-by": "FELIX-MNT"
             },
             {
                 "asn": 4242422161,
