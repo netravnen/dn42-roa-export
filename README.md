@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0d09b4d43994d2832cd17442a57b41f35d97fc8a
-Merge: 8f28174e 81235e79
+commit 6b3c5925fbe9fb482096abd6dd95f0338fdb3c85
+Merge: b3633fde 6353c119
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Feb 17 19:15:09 2019 +0000
+Date:   Mon Feb 18 22:13:24 2019 +0000
 
-    Merge branch 'master' of felix/registry into master
+    Merge branch 'master' of dghubble/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  930
-- ROAs IPv6:  637
-- ROAs total: 1567
+- ROAs IPv4:  931
+- ROAs IPv6:  638
+- ROAs total: 1569
 
-[0]: https://git.dn42.us/dn42/registry/commit/0d09b4d43994d2832cd17442a57b41f35d97fc8a
+[0]: https://git.dn42.us/dn42/registry/commit/6b3c5925fbe9fb482096abd6dd95f0338fdb3c85
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
