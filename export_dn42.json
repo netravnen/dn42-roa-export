@@ -2399,6 +2399,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS65037",
+            "prefix": "fd86:b4dc:4b1e::/48",
+            "maxLength": 64,
+            "ta": "ICVPN"
+        },
+        {
             "asn": "AS4242420448",
             "prefix": "fd88:8888:abcd::/48",
             "maxLength": 64,
@@ -4975,6 +4981,12 @@
         {
             "asn": "AS65038",
             "prefix": "10.84.0.0/15",
+            "maxLength": 28,
+            "ta": "ICVPN"
+        },
+        {
+            "asn": "AS65037",
+            "prefix": "10.86.0.0/15",
             "maxLength": 28,
             "ta": "ICVPN"
         },

@@ -3202,6 +3202,14 @@
                 "mnt-by": "KLARA-MNT"
             },
             {
+                "asn": 65037,
+                "prefix": "fd86:b4dc:4b1e::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd86:b4dc:4b1e::_48",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242420448,
                 "prefix": "fd88:8888:abcd::/48",
                 "maxPrefixLength": 64,
@@ -6638,6 +6646,14 @@
                 "prefix": "10.84.0.0/15",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.84.0.0_15",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 65037,
+                "prefix": "10.86.0.0/15",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.86.0.0_15",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
             },
