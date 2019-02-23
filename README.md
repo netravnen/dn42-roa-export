@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 6b3c5925fbe9fb482096abd6dd95f0338fdb3c85
-Merge: b3633fde 6353c119
+commit 7fff66dbf47908bf44c19c19ee95d6ec2db5d700
+Merge: b236cdc2 3d62be6a
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Feb 18 22:13:24 2019 +0000
+Date:   Fri Feb 22 20:09:45 2019 +0000
 
-    Merge branch 'master' of dghubble/registry into master
+    Merge branch 'master' of buroa/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  932
-- ROAs IPv6:  639
-- ROAs total: 1571
+- ROAs IPv4:  934
+- ROAs IPv6:  641
+- ROAs total: 1575
 
-[0]: https://git.dn42.us/dn42/registry/commit/6b3c5925fbe9fb482096abd6dd95f0338fdb3c85
+[0]: https://git.dn42.us/dn42/registry/commit/7fff66dbf47908bf44c19c19ee95d6ec2db5d700
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
