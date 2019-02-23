@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7fff66dbf47908bf44c19c19ee95d6ec2db5d700
-Merge: b236cdc2 3d62be6a
+commit e7bbef588625a8efacf90ce51f43a082ff3fd560
+Merge: 7fff66db 27d7a8f4
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Feb 22 20:09:45 2019 +0000
+Date:   Sat Feb 23 18:18:42 2019 +0000
 
-    Merge branch 'master' of buroa/registry into master
+    Merge branch 'master' of Hannibal/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  934
-- ROAs IPv6:  641
-- ROAs total: 1575
+- ROAs IPv6:  642
+- ROAs total: 1576
 
-[0]: https://git.dn42.us/dn42/registry/commit/7fff66dbf47908bf44c19c19ee95d6ec2db5d700
+[0]: https://git.dn42.us/dn42/registry/commit/e7bbef588625a8efacf90ce51f43a082ff3fd560
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

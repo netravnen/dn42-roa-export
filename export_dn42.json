@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "7fff66dbf47908bf44c19c19ee95d6ec2db5d700",
-            "merge": "b236cdc2 3d62be6a",
+            "commit": "e7bbef588625a8efacf90ce51f43a082ff3fd560",
+            "merge": "7fff66db 27d7a8f4",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 22 Feb 2019 20:09:45 +0000",
-            "subject": "Merge branch 'master' of buroa/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7fff66dbf47908bf44c19c19ee95d6ec2db5d700"
+            "date": "Sat, 23 Feb 2019 18:18:42 +0000",
+            "subject": "Merge branch 'master' of Hannibal/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e7bbef588625a8efacf90ce51f43a082ff3fd560"
         }
     },
     "roas": [
@@ -579,6 +579,12 @@
             "prefix": "fd2f:5119:f2c::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242422626",
+            "prefix": "fd31:2352:60a9::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS4242420447",
