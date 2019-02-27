@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "e7bbef588625a8efacf90ce51f43a082ff3fd560",
-            "merge": "7fff66db 27d7a8f4",
+            "commit": "c10237a102bb28539f6507e982b8e7b51fd1f512",
+            "merge": "fe7cf2a4 2f4406c5",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 23 Feb 2019 18:18:42 +0000",
-            "subject": "Merge branch 'master' of Hannibal/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e7bbef588625a8efacf90ce51f43a082ff3fd560"
+            "date": "Wed, 27 Feb 2019 17:25:55 +0000",
+            "subject": "Merge branch 'master' of kleen/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c10237a102bb28539f6507e982b8e7b51fd1f512"
         }
     },
     "roas": [
@@ -1447,6 +1447,12 @@
         {
             "asn": "AS4242421819",
             "prefix": "fd42:abcd:ef00::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422043",
+            "prefix": "fd42:ac14:9400::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5447,6 +5453,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422043",
+            "prefix": "172.20.148.0/29",
+            "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421095",
             "prefix": "172.20.148.32/27",
             "maxLength": 28,
@@ -9427,6 +9439,12 @@
         {
             "asn": "AS4242420205",
             "prefix": "172.23.88.0/24",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422189",
+            "prefix": "172.23.91.0/25",
             "maxLength": 28,
             "ta": "DN42"
         },

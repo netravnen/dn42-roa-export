@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e7bbef588625a8efacf90ce51f43a082ff3fd560
-Merge: 7fff66db 27d7a8f4
+commit c10237a102bb28539f6507e982b8e7b51fd1f512
+Merge: fe7cf2a4 2f4406c5
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Feb 23 18:18:42 2019 +0000
+Date:   Wed Feb 27 17:25:55 2019 +0000
 
-    Merge branch 'master' of Hannibal/registry into master
+    Merge branch 'master' of kleen/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  934
-- ROAs IPv6:  642
-- ROAs total: 1576
+- ROAs IPv4:  936
+- ROAs IPv6:  643
+- ROAs total: 1579
 
-[0]: https://git.dn42.us/dn42/registry/commit/e7bbef588625a8efacf90ce51f43a082ff3fd560
+[0]: https://git.dn42.us/dn42/registry/commit/c10237a102bb28539f6507e982b8e7b51fd1f512
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
