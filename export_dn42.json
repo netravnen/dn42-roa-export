@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "c10237a102bb28539f6507e982b8e7b51fd1f512",
-            "merge": "fe7cf2a4 2f4406c5",
+            "commit": "b5734dafcc054e37c091679783600f987a8b3bf7",
+            "merge": "c10237a1 94d05b78",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 27 Feb 2019 17:25:55 +0000",
-            "subject": "Merge branch 'master' of kleen/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c10237a102bb28539f6507e982b8e7b51fd1f512"
+            "date": "Wed, 27 Feb 2019 20:29:19 +0000",
+            "subject": "Merge branch 'master' of whoabro/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b5734dafcc054e37c091679783600f987a8b3bf7"
         }
     },
     "roas": [
@@ -1813,6 +1813,12 @@
         {
             "asn": "AS64773",
             "prefix": "fd42:df42::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421369",
+            "prefix": "fd42:e9ad:e297::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6973,6 +6979,12 @@
         {
             "asn": "AS4242423175",
             "prefix": "172.20.51.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421369",
+            "prefix": "172.20.51.32/27",
             "maxLength": 28,
             "ta": "DN42"
         },

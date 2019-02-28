@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit c10237a102bb28539f6507e982b8e7b51fd1f512
-Merge: fe7cf2a4 2f4406c5
+commit b5734dafcc054e37c091679783600f987a8b3bf7
+Merge: c10237a1 94d05b78
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Feb 27 17:25:55 2019 +0000
+Date:   Wed Feb 27 20:29:19 2019 +0000
 
-    Merge branch 'master' of kleen/registry into master
+    Merge branch 'master' of whoabro/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  936
-- ROAs IPv6:  643
-- ROAs total: 1579
+- ROAs IPv4:  937
+- ROAs IPv6:  644
+- ROAs total: 1581
 
-[0]: https://git.dn42.us/dn42/registry/commit/c10237a102bb28539f6507e982b8e7b51fd1f512
+[0]: https://git.dn42.us/dn42/registry/commit/b5734dafcc054e37c091679783600f987a8b3bf7
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
