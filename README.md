@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b5734dafcc054e37c091679783600f987a8b3bf7
-Merge: c10237a1 94d05b78
+commit 266ab45f247c725a5cc17248153b0276ba6a0dff
+Merge: b5734daf 3ad623cb
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Feb 27 20:29:19 2019 +0000
+Date:   Fri Mar 1 18:19:39 2019 +0000
 
-    Merge branch 'master' of whoabro/registry into master
+    Merge branch 'pr/drop_ns2' of hexa-/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  644
 - ROAs total: 1581
 
-[0]: https://git.dn42.us/dn42/registry/commit/b5734dafcc054e37c091679783600f987a8b3bf7
+[0]: https://git.dn42.us/dn42/registry/commit/266ab45f247c725a5cc17248153b0276ba6a0dff
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
