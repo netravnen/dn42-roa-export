@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "266ab45f247c725a5cc17248153b0276ba6a0dff",
-            "merge": "b5734daf 3ad623cb",
+            "commit": "5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007",
+            "merge": "266ab45f a0d8da49",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 1 Mar 2019 18:19:39 +0000",
-            "subject": "Merge branch 'pr/drop_ns2' of hexa-/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/266ab45f247c725a5cc17248153b0276ba6a0dff"
+            "date": "Sat, 2 Mar 2019 10:43:27 +0000",
+            "subject": "Merge branch 'master' of sijimi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007"
         }
     },
     "validationOutputFilters": {
@@ -4912,6 +4912,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf5:b4f8:1e89::_48",
                 "source": "DN42",
                 "mnt-by": "YOURDADDY-MNT"
+            },
+            {
+                "asn": 4242422226,
+                "prefix": "fdf5:b5b4:ae1a::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf5:b5b4:ae1a::_48",
+                "source": "DN42",
+                "mnt-by": "ZHIYUAN-MNT"
             },
             {
                 "asn": 4242421518,

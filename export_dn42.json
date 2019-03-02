@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "266ab45f247c725a5cc17248153b0276ba6a0dff",
-            "merge": "b5734daf 3ad623cb",
+            "commit": "5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007",
+            "merge": "266ab45f a0d8da49",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 1 Mar 2019 18:19:39 +0000",
-            "subject": "Merge branch 'pr/drop_ns2' of hexa-/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/266ab45f247c725a5cc17248153b0276ba6a0dff"
+            "date": "Sat, 2 Mar 2019 10:43:27 +0000",
+            "subject": "Merge branch 'master' of sijimi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007"
         }
     },
     "roas": [
@@ -3679,6 +3679,12 @@
         {
             "asn": "AS4242422712",
             "prefix": "fdf5:b4f8:1e89::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422226",
+            "prefix": "fdf5:b5b4:ae1a::/48",
             "maxLength": 64,
             "ta": "DN42"
         },

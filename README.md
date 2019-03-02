@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 266ab45f247c725a5cc17248153b0276ba6a0dff
-Merge: b5734daf 3ad623cb
+commit 5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007
+Merge: 266ab45f a0d8da49
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Mar 1 18:19:39 2019 +0000
+Date:   Sat Mar 2 10:43:27 2019 +0000
 
-    Merge branch 'pr/drop_ns2' of hexa-/registry into master
+    Merge branch 'master' of sijimi/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  937
-- ROAs IPv6:  644
-- ROAs total: 1581
+- ROAs IPv6:  645
+- ROAs total: 1582
 
-[0]: https://git.dn42.us/dn42/registry/commit/266ab45f247c725a5cc17248153b0276ba6a0dff
+[0]: https://git.dn42.us/dn42/registry/commit/5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
