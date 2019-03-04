@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007
-Merge: 266ab45f a0d8da49
+commit 9b997767a2de57ff87ba19873753edf76bf46826
+Merge: 5fe6cbd8 23e667de
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Mar 2 10:43:27 2019 +0000
+Date:   Mon Mar 4 18:37:39 2019 +0000
 
-    Merge branch 'master' of sijimi/registry into master
+    Merge branch 'master' of kustav/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  937
+- ROAs IPv4:  938
 - ROAs IPv6:  645
-- ROAs total: 1582
+- ROAs total: 1583
 
-[0]: https://git.dn42.us/dn42/registry/commit/5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007
+[0]: https://git.dn42.us/dn42/registry/commit/9b997767a2de57ff87ba19873753edf76bf46826
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

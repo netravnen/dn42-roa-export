@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007",
-            "merge": "266ab45f a0d8da49",
+            "commit": "9b997767a2de57ff87ba19873753edf76bf46826",
+            "merge": "5fe6cbd8 23e667de",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 2 Mar 2019 10:43:27 +0000",
-            "subject": "Merge branch 'master' of sijimi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5fe6cbd8f8b01c324f5842c3c60f1e63ad9a7007"
+            "date": "Mon, 4 Mar 2019 18:37:39 +0000",
+            "subject": "Merge branch 'master' of kustav/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9b997767a2de57ff87ba19873753edf76bf46826"
         }
     },
     "validationOutputFilters": {
@@ -12224,6 +12224,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.223.96_27",
                 "source": "DN42",
                 "mnt-by": "MATTCODE-MNT"
+            },
+            {
+                "asn": 4242423921,
+                "prefix": "172.23.230.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.230.0_26",
+                "source": "DN42",
+                "mnt-by": "KUS-MNT"
             },
             {
                 "asn": 4242422037,
