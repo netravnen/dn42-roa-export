@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "9b997767a2de57ff87ba19873753edf76bf46826",
-            "merge": "5fe6cbd8 23e667de",
+            "commit": "6e6b229613c06fe582da97f5546d4804b1be4f23",
+            "merge": "6db4d789 cb4cd736",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 4 Mar 2019 18:37:39 +0000",
-            "subject": "Merge branch 'master' of kustav/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9b997767a2de57ff87ba19873753edf76bf46826"
+            "date": "Thu, 7 Mar 2019 17:34:20 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6e6b229613c06fe582da97f5546d4804b1be4f23"
         }
     },
     "validationOutputFilters": {
@@ -1548,7 +1548,7 @@
             {
                 "asn": 4242422601,
                 "prefix": "fd42:4242:2601::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 48,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:4242:2601::_48",
                 "source": "DN42",
                 "mnt-by": "BURBLE-MNT"
@@ -6916,7 +6916,7 @@
             {
                 "asn": 4242422601,
                 "prefix": "172.20.129.160/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 27,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.129.160_27",
                 "source": "DN42",
                 "mnt-by": "BURBLE-MNT"
@@ -8384,6 +8384,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.20.160_27",
                 "source": "DN42",
                 "mnt-by": "LUGINBASH-MNT"
+            },
+            {
+                "asn": 4242420163,
+                "prefix": "172.20.20.192/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.20.192_27",
+                "source": "DN42",
+                "mnt-by": "ALIBABA-MNT"
             },
             {
                 "asn": 4242420560,

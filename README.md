@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9b997767a2de57ff87ba19873753edf76bf46826
-Merge: 5fe6cbd8 23e667de
+commit 6e6b229613c06fe582da97f5546d4804b1be4f23
+Merge: 6db4d789 cb4cd736
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Mar 4 18:37:39 2019 +0000
+Date:   Thu Mar 7 17:34:20 2019 +0000
 
-    Merge branch 'master' of kustav/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  938
+- ROAs IPv4:  939
 - ROAs IPv6:  645
-- ROAs total: 1583
+- ROAs total: 1584
 
-[0]: https://git.dn42.us/dn42/registry/commit/9b997767a2de57ff87ba19873753edf76bf46826
+[0]: https://git.dn42.us/dn42/registry/commit/6e6b229613c06fe582da97f5546d4804b1be4f23
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
