@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "6e6b229613c06fe582da97f5546d4804b1be4f23",
-            "merge": "6db4d789 cb4cd736",
+            "commit": "95605c0e9e9806ac358b2c4ec907d8afed0f01f9",
+            "merge": "938d817d 4aeabadd",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 7 Mar 2019 17:34:20 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6e6b229613c06fe582da97f5546d4804b1be4f23"
+            "date": "Thu, 7 Mar 2019 21:45:16 +0000",
+            "subject": "Merge branch 'update-asn' of purrdeta/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/95605c0e9e9806ac358b2c4ec907d8afed0f01f9"
         }
     },
     "roas": [
@@ -39,6 +39,12 @@
             "prefix": "fd00:65a8:93a4::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242420803",
+            "prefix": "fd00:6666::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS4242420211",
@@ -3173,7 +3179,7 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS76123",
+            "asn": "AS4242422287",
             "prefix": "fdcf:3c00:e001::/48",
             "maxLength": 64,
             "ta": "DN42"
@@ -9059,7 +9065,7 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS76123",
+            "asn": "AS4242422287",
             "prefix": "172.23.201.0/24",
             "maxLength": 28,
             "ta": "DN42"

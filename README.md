@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 6e6b229613c06fe582da97f5546d4804b1be4f23
-Merge: 6db4d789 cb4cd736
+commit 95605c0e9e9806ac358b2c4ec907d8afed0f01f9
+Merge: 938d817d 4aeabadd
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Mar 7 17:34:20 2019 +0000
+Date:   Thu Mar 7 21:45:16 2019 +0000
 
-    Merge branch 'master' of burble/registry into master
+    Merge branch 'update-asn' of purrdeta/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  939
-- ROAs IPv6:  645
-- ROAs total: 1584
+- ROAs IPv6:  646
+- ROAs total: 1585
 
-[0]: https://git.dn42.us/dn42/registry/commit/6e6b229613c06fe582da97f5546d4804b1be4f23
+[0]: https://git.dn42.us/dn42/registry/commit/95605c0e9e9806ac358b2c4ec907d8afed0f01f9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
