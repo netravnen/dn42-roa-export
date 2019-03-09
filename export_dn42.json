@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "95605c0e9e9806ac358b2c4ec907d8afed0f01f9",
-            "merge": "938d817d 4aeabadd",
+            "commit": "192bf1a992e9999fffa230ef8f7dfb203a691b37",
+            "merge": "9d53ec65 6cd420f0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 7 Mar 2019 21:45:16 +0000",
-            "subject": "Merge branch 'update-asn' of purrdeta/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/95605c0e9e9806ac358b2c4ec907d8afed0f01f9"
+            "date": "Fri, 8 Mar 2019 21:53:27 +0000",
+            "subject": "Merge branch 'master' of haegar/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/192bf1a992e9999fffa230ef8f7dfb203a691b37"
         }
     },
     "roas": [
@@ -613,6 +613,12 @@
         {
             "asn": "AS4242422684",
             "prefix": "fd33:ac1d:d1ce::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423783",
+            "prefix": "fd37:13a8:98d6::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8027,6 +8033,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423783",
+            "prefix": "172.22.156.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423336",
             "prefix": "172.22.158.144/28",
             "maxLength": "28",
@@ -8311,6 +8323,12 @@
         {
             "asn": "AS4242422333",
             "prefix": "172.22.44.0/23",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS64654",
+            "prefix": "172.22.54.0/24",
             "maxLength": 28,
             "ta": "DN42"
         },

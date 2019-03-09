@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 95605c0e9e9806ac358b2c4ec907d8afed0f01f9
-Merge: 938d817d 4aeabadd
+commit 192bf1a992e9999fffa230ef8f7dfb203a691b37
+Merge: 9d53ec65 6cd420f0
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Mar 7 21:45:16 2019 +0000
+Date:   Fri Mar 8 21:53:27 2019 +0000
 
-    Merge branch 'update-asn' of purrdeta/registry into master
+    Merge branch 'master' of haegar/dn42-registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  939
-- ROAs IPv6:  646
-- ROAs total: 1585
+- ROAs IPv4:  941
+- ROAs IPv6:  647
+- ROAs total: 1588
 
-[0]: https://git.dn42.us/dn42/registry/commit/95605c0e9e9806ac358b2c4ec907d8afed0f01f9
+[0]: https://git.dn42.us/dn42/registry/commit/192bf1a992e9999fffa230ef8f7dfb203a691b37
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
