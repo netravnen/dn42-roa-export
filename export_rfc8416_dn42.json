@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "192bf1a992e9999fffa230ef8f7dfb203a691b37",
-            "merge": "9d53ec65 6cd420f0",
+            "commit": "d455b4cacea892f44c3e76bcac3cafca3010acd3",
+            "merge": "192bf1a9 275450fc",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 8 Mar 2019 21:53:27 +0000",
-            "subject": "Merge branch 'master' of haegar/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/192bf1a992e9999fffa230ef8f7dfb203a691b37"
+            "date": "Sat, 9 Mar 2019 11:37:43 +0000",
+            "subject": "Merge branch 'master' of DR/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d455b4cacea892f44c3e76bcac3cafca3010acd3"
         }
     },
     "validationOutputFilters": {
@@ -9976,6 +9976,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.87.32_27",
                 "source": "DN42",
                 "mnt-by": "LDG1-MNT"
+            },
+            {
+                "asn": 4242420571,
+                "prefix": "172.21.87.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.87.64_27",
+                "source": "DN42",
+                "mnt-by": "CAICAI-MNT"
             },
             {
                 "asn": 4242420199,
