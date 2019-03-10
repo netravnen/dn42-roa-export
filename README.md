@@ -16,10 +16,10 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d455b4cacea892f44c3e76bcac3cafca3010acd3
-Merge: 192bf1a9 275450fc
+commit b8d2f273c1df222f1cb970dd0b15ac65f1352d76
+Merge: d455b4ca 0d1908f1
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Mar 9 11:37:43 2019 +0000
+Date:   Sun Mar 10 10:00:38 2019 +0000
 
     Merge branch 'master' of DR/registry into master
 ```
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  942
+- ROAs IPv4:  943
 - ROAs IPv6:  647
-- ROAs total: 1589
+- ROAs total: 1590
 
-[0]: https://git.dn42.us/dn42/registry/commit/d455b4cacea892f44c3e76bcac3cafca3010acd3
+[0]: https://git.dn42.us/dn42/registry/commit/b8d2f273c1df222f1cb970dd0b15ac65f1352d76
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

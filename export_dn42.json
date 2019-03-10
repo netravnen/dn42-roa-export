@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "d455b4cacea892f44c3e76bcac3cafca3010acd3",
-            "merge": "192bf1a9 275450fc",
+            "commit": "b8d2f273c1df222f1cb970dd0b15ac65f1352d76",
+            "merge": "d455b4ca 0d1908f1",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 9 Mar 2019 11:37:43 +0000",
+            "date": "Sun, 10 Mar 2019 10:00:38 +0000",
             "subject": "Merge branch 'master' of DR/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d455b4cacea892f44c3e76bcac3cafca3010acd3"
+            "url": "https://git.dn42.us/dn42/registry/commit/b8d2f273c1df222f1cb970dd0b15ac65f1352d76"
         }
     },
     "roas": [
@@ -7475,6 +7475,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420571",
+            "prefix": "172.21.87.128/25",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420190",
             "prefix": "172.21.87.32/27",
             "maxLength": 28,
@@ -7482,7 +7488,7 @@
         },
         {
             "asn": "AS4242420571",
-            "prefix": "172.21.87.64/27",
+            "prefix": "172.21.87.64/26",
             "maxLength": 28,
             "ta": "DN42"
         },
