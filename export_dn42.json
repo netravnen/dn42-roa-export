@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "b8d2f273c1df222f1cb970dd0b15ac65f1352d76",
-            "merge": "d455b4ca 0d1908f1",
+            "commit": "1941dac608a6e758bfd41b8446966230e78b02d8",
+            "merge": "b8d2f273 5b5869ee",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 10 Mar 2019 10:00:38 +0000",
-            "subject": "Merge branch 'master' of DR/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b8d2f273c1df222f1cb970dd0b15ac65f1352d76"
+            "date": "Mon, 11 Mar 2019 17:36:04 +0000",
+            "subject": "Merge branch 'master' of evilzone/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1941dac608a6e758bfd41b8446966230e78b02d8"
         }
     },
     "roas": [
@@ -8905,6 +8905,12 @@
         {
             "asn": "AS76160",
             "prefix": "172.23.164.0/23",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423924",
+            "prefix": "172.23.168.0/25",
             "maxLength": 28,
             "ta": "DN42"
         },
