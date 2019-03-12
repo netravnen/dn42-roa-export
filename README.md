@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 1941dac608a6e758bfd41b8446966230e78b02d8
-Merge: b8d2f273 5b5869ee
+commit c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f
+Merge: 1941dac6 9afd752a
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Mar 11 17:36:04 2019 +0000
+Date:   Tue Mar 12 17:52:37 2019 +0000
 
-    Merge branch 'master' of evilzone/registry into master
+    Merge branch 'master' of CHRiSNEW/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  647
 - ROAs total: 1591
 
-[0]: https://git.dn42.us/dn42/registry/commit/1941dac608a6e758bfd41b8446966230e78b02d8
+[0]: https://git.dn42.us/dn42/registry/commit/c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

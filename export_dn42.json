@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "1941dac608a6e758bfd41b8446966230e78b02d8",
-            "merge": "b8d2f273 5b5869ee",
+            "commit": "c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f",
+            "merge": "1941dac6 9afd752a",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 11 Mar 2019 17:36:04 +0000",
-            "subject": "Merge branch 'master' of evilzone/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1941dac608a6e758bfd41b8446966230e78b02d8"
+            "date": "Tue, 12 Mar 2019 17:52:37 +0000",
+            "subject": "Merge branch 'master' of CHRiSNEW/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f"
         }
     },
     "roas": [
