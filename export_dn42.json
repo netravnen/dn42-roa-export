@@ -4235,6 +4235,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS64875",
+            "prefix": "10.15.224.0/20",
+            "maxLength": 28,
+            "ta": "ICVPN"
+        },
+        {
             "asn": "AS64893",
             "prefix": "10.15.64.0/18",
             "maxLength": 28,

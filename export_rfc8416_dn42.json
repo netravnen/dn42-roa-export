@@ -5650,6 +5650,14 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 64875,
+                "prefix": "10.15.224.0/20",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.15.224.0_20",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64893,
                 "prefix": "10.15.64.0/18",
                 "maxPrefixLength": 28,
