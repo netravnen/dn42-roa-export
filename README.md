@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f
-Merge: 1941dac6 9afd752a
+commit 73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e
+Merge: 2ded4dcb e8f29580
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Mar 12 17:52:37 2019 +0000
+Date:   Mon Mar 18 17:25:24 2019 +0000
 
-    Merge branch 'master' of CHRiSNEW/registry into master
+    Merge branch 'master' of soasurs/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  945
+- ROAs IPv4:  946
 - ROAs IPv6:  647
-- ROAs total: 1592
+- ROAs total: 1593
 
-[0]: https://git.dn42.us/dn42/registry/commit/c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f
+[0]: https://git.dn42.us/dn42/registry/commit/73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

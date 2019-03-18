@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f",
-            "merge": "1941dac6 9afd752a",
+            "commit": "73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e",
+            "merge": "2ded4dcb e8f29580",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 12 Mar 2019 17:52:37 +0000",
-            "subject": "Merge branch 'master' of CHRiSNEW/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c04f2a5191b8bb1ba69be7e018be8a7a83a04f3f"
+            "date": "Mon, 18 Mar 2019 17:25:24 +0000",
+            "subject": "Merge branch 'master' of soasurs/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e"
         }
     },
     "validationOutputFilters": {
@@ -9888,6 +9888,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.66.64_27",
                 "source": "DN42",
                 "mnt-by": "PHILLYMESH-MNT"
+            },
+            {
+                "asn": 4242422809,
+                "prefix": "172.21.66.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.66.96_27",
+                "source": "DN42",
+                "mnt-by": "SOASURS-MNT"
             },
             {
                 "asn": 4242423010,
