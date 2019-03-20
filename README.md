@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e
-Merge: 2ded4dcb e8f29580
+commit 851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0
+Merge: 6242aa07 64a31904
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Mar 18 17:25:24 2019 +0000
+Date:   Wed Mar 20 17:51:43 2019 +0000
 
-    Merge branch 'master' of soasurs/registry into master
+    Merge branch 'master' of seadog007/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  946
-- ROAs IPv6:  647
-- ROAs total: 1593
+- ROAs IPv4:  948
+- ROAs IPv6:  648
+- ROAs total: 1596
 
-[0]: https://git.dn42.us/dn42/registry/commit/73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e
+[0]: https://git.dn42.us/dn42/registry/commit/851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

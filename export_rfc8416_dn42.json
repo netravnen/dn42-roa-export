@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e",
-            "merge": "2ded4dcb e8f29580",
+            "commit": "851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0",
+            "merge": "6242aa07 64a31904",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 18 Mar 2019 17:25:24 +0000",
-            "subject": "Merge branch 'master' of soasurs/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/73bbc1f7f6216119b2e34abab2fb715e7f5dbd9e"
+            "date": "Wed, 20 Mar 2019 17:51:43 +0000",
+            "subject": "Merge branch 'master' of seadog007/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0"
         }
     },
     "validationOutputFilters": {
@@ -4770,6 +4770,14 @@
                 "mnt-by": "ARITE-MNT"
             },
             {
+                "asn": 4242421069,
+                "prefix": "fdee:1999:1005::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdee:1999:1005::_48",
+                "source": "DN42",
+                "mnt-by": "SEADOG007-MNT"
+            },
+            {
                 "asn": 4242420527,
                 "prefix": "fdee:5477::/48",
                 "maxPrefixLength": 64,
@@ -8418,6 +8426,14 @@
                 "mnt-by": "ALIBABA-MNT"
             },
             {
+                "asn": 4242421030,
+                "prefix": "172.20.20.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.20.224_27",
+                "source": "DN42",
+                "mnt-by": "YAN-MNT"
+            },
+            {
                 "asn": 4242420560,
                 "prefix": "172.20.20.32/28",
                 "maxPrefixLength": 28,
@@ -10952,6 +10968,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.181.192_27",
                 "source": "DN42",
                 "mnt-by": "PLASMATRIX-MNT"
+            },
+            {
+                "asn": 4242421069,
+                "prefix": "172.22.182.0/25",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.182.0_25",
+                "source": "DN42",
+                "mnt-by": "SEADOG007-MNT"
             },
             {
                 "asn": 64784,
