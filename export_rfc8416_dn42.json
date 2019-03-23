@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0",
-            "merge": "6242aa07 64a31904",
+            "commit": "cf2b8a2c69a64adb8e14134e18cedf0425584e45",
+            "merge": "bb915d85 863e469c",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 20 Mar 2019 17:51:43 +0000",
-            "subject": "Merge branch 'master' of seadog007/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0"
+            "date": "Sat, 23 Mar 2019 12:16:52 +0000",
+            "subject": "Merge branch 'master' of deut/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/cf2b8a2c69a64adb8e14134e18cedf0425584e45"
         }
     },
     "validationOutputFilters": {
@@ -2762,6 +2762,14 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423853,
+                "prefix": "fd57:1523:5216::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd57:1523:5216::_48",
+                "source": "DN42",
+                "mnt-by": "CHENYAO2333-MNT"
+            },
+            {
                 "asn": 76175,
                 "prefix": "fd59:54c0:fab::/48",
                 "maxPrefixLength": 64,
@@ -5040,6 +5048,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfb:9a90:fa25::_48",
                 "source": "DN42",
                 "mnt-by": "FC-MNT"
+            },
+            {
+                "asn": 4242420041,
+                "prefix": "fdfb:df0c:c64::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfb:df0c:c64::_48",
+                "source": "DN42",
+                "mnt-by": "DEUT-MNT"
             },
             {
                 "asn": 4242420020,
@@ -7600,6 +7616,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.159.160_27",
                 "source": "DN42",
                 "mnt-by": "MIKI-MNT"
+            },
+            {
+                "asn": 4242420041,
+                "prefix": "172.20.159.8/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.159.8_29",
+                "source": "DN42",
+                "mnt-by": "DEUT-MNT"
             },
             {
                 "asn": 4242421926,
@@ -12480,6 +12504,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.249.0_24",
                 "source": "DN42",
                 "mnt-by": "PSYKE-MNT"
+            },
+            {
+                "asn": 4242423853,
+                "prefix": "172.23.251.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.251.0_26",
+                "source": "DN42",
+                "mnt-by": "CHENYAO2333-MNT"
             },
             {
                 "asn": 4242420255,

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0
-Merge: 6242aa07 64a31904
+commit cf2b8a2c69a64adb8e14134e18cedf0425584e45
+Merge: bb915d85 863e469c
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Mar 20 17:51:43 2019 +0000
+Date:   Sat Mar 23 12:16:52 2019 +0000
 
-    Merge branch 'master' of seadog007/registry into master
+    Merge branch 'master' of deut/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  948
-- ROAs IPv6:  648
-- ROAs total: 1596
+- ROAs IPv4:  950
+- ROAs IPv6:  650
+- ROAs total: 1600
 
-[0]: https://git.dn42.us/dn42/registry/commit/851d2cee4f5ac2e4223ba0b8ce6725bb4f5d50d0
+[0]: https://git.dn42.us/dn42/registry/commit/cf2b8a2c69a64adb8e14134e18cedf0425584e45
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
