@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "cf2b8a2c69a64adb8e14134e18cedf0425584e45",
-            "merge": "bb915d85 863e469c",
+            "commit": "f764de4ece12868d0b2c5fd7b171d5d938405f78",
+            "merge": "617702d3 b89ad768",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 23 Mar 2019 12:16:52 +0000",
-            "subject": "Merge branch 'master' of deut/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/cf2b8a2c69a64adb8e14134e18cedf0425584e45"
+            "date": "Sun, 24 Mar 2019 14:38:24 +0000",
+            "subject": "Merge branch 'master' of soma/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f764de4ece12868d0b2c5fd7b171d5d938405f78"
         }
     },
     "validationOutputFilters": {
@@ -3130,6 +3130,14 @@
                 "mnt-by": "MT-MNT"
             },
             {
+                "asn": 4242420141,
+                "prefix": "fd78:ec3b:e9e7::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd78:ec3b:e9e7::_48",
+                "source": "DN42",
+                "mnt-by": "DEEPWATER-MNT"
+            },
+            {
                 "asn": 4242421271,
                 "prefix": "fd79:300d:6056::/48",
                 "maxPrefixLength": 64,
@@ -3352,6 +3360,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd94:3e63:c202::_48",
                 "source": "DN42",
                 "mnt-by": "NORNET-MNT"
+            },
+            {
+                "asn": 4242421299,
+                "prefix": "fd94:3ffe:d256::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd94:3ffe:d256::_48",
+                "source": "DN42",
+                "mnt-by": "S-MNT"
             },
             {
                 "asn": 4242421475,
@@ -4320,6 +4336,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd6:aff6:5f6f::_48",
                 "source": "DN42",
                 "mnt-by": "CCCHB-NETGROUP-MNT"
+            },
+            {
+                "asn": 4242420568,
+                "prefix": "fdd7:7db4:6366::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd7:7db4:6366::_48",
+                "source": "DN42",
+                "mnt-by": "MARSHY-MNT"
             },
             {
                 "asn": 4242421709,
@@ -10418,6 +10442,14 @@
                 "mnt-by": "CLUTTERBOX-MNT"
             },
             {
+                "asn": 4242421299,
+                "prefix": "172.22.119.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.119.224_27",
+                "source": "DN42",
+                "mnt-by": "S-MNT"
+            },
+            {
                 "asn": 64720,
                 "prefix": "172.22.120.0/26",
                 "maxPrefixLength": 28,
@@ -11586,6 +11618,14 @@
                 "mnt-by": "KLEEN-MNT"
             },
             {
+                "asn": 4242420141,
+                "prefix": "172.23.100.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.100.224_27",
+                "source": "DN42",
+                "mnt-by": "DEEPWATER-MNT"
+            },
+            {
                 "asn": 4242422200,
                 "prefix": "172.23.101.0/25",
                 "maxPrefixLength": 28,
@@ -11880,6 +11920,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.158.160_27",
                 "source": "DN42",
                 "mnt-by": "ELOKO-MNT"
+            },
+            {
+                "asn": 4242420568,
+                "prefix": "172.23.158.192/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.158.192_26",
+                "source": "DN42",
+                "mnt-by": "MARSHY-MNT"
             },
             {
                 "asn": 4242420031,
