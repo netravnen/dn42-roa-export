@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "f764de4ece12868d0b2c5fd7b171d5d938405f78",
-            "merge": "617702d3 b89ad768",
+            "commit": "2441bde914a6c756434dcde793fcde711343cc28",
+            "merge": "fe894309 d5e58fa0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 24 Mar 2019 14:38:24 +0000",
-            "subject": "Merge branch 'master' of soma/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f764de4ece12868d0b2c5fd7b171d5d938405f78"
+            "date": "Tue, 26 Mar 2019 16:51:04 +0000",
+            "subject": "Merge branch 'master' of Cybermanager/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2441bde914a6c756434dcde793fcde711343cc28"
         }
     },
     "roas": [
@@ -3907,6 +3907,12 @@
         {
             "asn": "AS4242421978",
             "prefix": "fdfe:1647:a2bb::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422128",
+            "prefix": "fdfe:c918:265e::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8112,8 +8118,8 @@
         },
         {
             "asn": "AS4242423783",
-            "prefix": "172.22.156.128/27",
-            "maxLength": 28,
+            "prefix": "172.22.156.128/26",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {
@@ -9379,6 +9385,12 @@
         {
             "asn": "AS4242420039",
             "prefix": "172.23.238.128/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422128",
+            "prefix": "172.23.239.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },

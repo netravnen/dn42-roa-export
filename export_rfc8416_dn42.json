@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f764de4ece12868d0b2c5fd7b171d5d938405f78",
-            "merge": "617702d3 b89ad768",
+            "commit": "2441bde914a6c756434dcde793fcde711343cc28",
+            "merge": "fe894309 d5e58fa0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 24 Mar 2019 14:38:24 +0000",
-            "subject": "Merge branch 'master' of soma/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f764de4ece12868d0b2c5fd7b171d5d938405f78"
+            "date": "Tue, 26 Mar 2019 16:51:04 +0000",
+            "subject": "Merge branch 'master' of Cybermanager/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2441bde914a6c756434dcde793fcde711343cc28"
         }
     },
     "validationOutputFilters": {
@@ -5216,6 +5216,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfe:1647:a2bb::_48",
                 "source": "DN42",
                 "mnt-by": "ARENDTSEN-MNT"
+            },
+            {
+                "asn": 4242422128,
+                "prefix": "fdfe:c918:265e::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfe:c918:265e::_48",
+                "source": "DN42",
+                "mnt-by": "DEKINW-MNT"
             },
             {
                 "asn": 4242423042,
@@ -10819,9 +10827,9 @@
             },
             {
                 "asn": 4242423783,
-                "prefix": "172.22.156.128/27",
-                "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.156.128_27",
+                "prefix": "172.22.156.128/26",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.156.128_26",
                 "source": "DN42",
                 "mnt-by": "OZARK-MNT"
             },
@@ -12512,6 +12520,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.238.128_26",
                 "source": "DN42",
                 "mnt-by": "MKB-MNT"
+            },
+            {
+                "asn": 4242422128,
+                "prefix": "172.23.239.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.239.0_26",
+                "source": "DN42",
+                "mnt-by": "DEKINW-MNT"
             },
             {
                 "asn": 4242422877,
