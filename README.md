@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2441bde914a6c756434dcde793fcde711343cc28
-Merge: fe894309 d5e58fa0
+commit 23ca661f615c3219e0b2d21aa6e176d6b73081a1
+Merge: ecf37bef b6e25632
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Mar 26 16:51:04 2019 +0000
+Date:   Wed Mar 27 20:11:23 2019 +0000
 
-    Merge branch 'master' of Cybermanager/registry into master
+    Merge branch 'add_danimo' of danimo/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  954
-- ROAs IPv6:  654
-- ROAs total: 1608
+- ROAs IPv4:  956
+- ROAs IPv6:  656
+- ROAs total: 1612
 
-[0]: https://git.dn42.us/dn42/registry/commit/2441bde914a6c756434dcde793fcde711343cc28
+[0]: https://git.dn42.us/dn42/registry/commit/23ca661f615c3219e0b2d21aa6e176d6b73081a1
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
