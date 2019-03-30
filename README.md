@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 23ca661f615c3219e0b2d21aa6e176d6b73081a1
-Merge: ecf37bef b6e25632
+commit 8fdb3556ec100263a8f61427ea03358e93a4cf3c
+Merge: 933f1cc9 7d5bd372
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Mar 27 20:11:23 2019 +0000
+Date:   Fri Mar 29 23:40:55 2019 +0000
 
-    Merge branch 'add_danimo' of danimo/registry into master
+    Merge branch 'add_lfram' of lamaral/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  956
-- ROAs IPv6:  656
-- ROAs total: 1612
+- ROAs IPv4:  958
+- ROAs IPv6:  658
+- ROAs total: 1616
 
-[0]: https://git.dn42.us/dn42/registry/commit/23ca661f615c3219e0b2d21aa6e176d6b73081a1
+[0]: https://git.dn42.us/dn42/registry/commit/8fdb3556ec100263a8f61427ea03358e93a4cf3c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
