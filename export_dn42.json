@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "8fdb3556ec100263a8f61427ea03358e93a4cf3c",
-            "merge": "933f1cc9 7d5bd372",
+            "commit": "ceabf5536c848bf8fde103bf08ee20489988fd2c",
+            "merge": "8fdb3556 2a90bdd1",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 29 Mar 2019 23:40:55 +0000",
+            "date": "Sat, 30 Mar 2019 23:20:26 +0000",
             "subject": "Merge branch 'add_lfram' of lamaral/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8fdb3556ec100263a8f61427ea03358e93a4cf3c"
+            "url": "https://git.dn42.us/dn42/registry/commit/ceabf5536c848bf8fde103bf08ee20489988fd2c"
         }
     },
     "roas": [
@@ -7969,6 +7969,12 @@
         {
             "asn": "AS4242421166",
             "prefix": "172.22.131.32/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420724",
+            "prefix": "172.22.131.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
