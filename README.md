@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit ceabf5536c848bf8fde103bf08ee20489988fd2c
-Merge: 8fdb3556 2a90bdd1
+commit 6e92c45c76cbdb0d9061350abc2efcb7f5031c13
+Merge: ceabf553 d6eb6d83
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Mar 30 23:20:26 2019 +0000
+Date:   Mon Apr 1 17:54:33 2019 +0000
 
-    Merge branch 'add_lfram' of lamaral/registry into master
+    Merge branch 'master' of soma/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  658
 - ROAs total: 1617
 
-[0]: https://git.dn42.us/dn42/registry/commit/ceabf5536c848bf8fde103bf08ee20489988fd2c
+[0]: https://git.dn42.us/dn42/registry/commit/6e92c45c76cbdb0d9061350abc2efcb7f5031c13
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

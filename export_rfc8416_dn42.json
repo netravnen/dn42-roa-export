@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "ceabf5536c848bf8fde103bf08ee20489988fd2c",
-            "merge": "8fdb3556 2a90bdd1",
+            "commit": "6e92c45c76cbdb0d9061350abc2efcb7f5031c13",
+            "merge": "ceabf553 d6eb6d83",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 30 Mar 2019 23:20:26 +0000",
-            "subject": "Merge branch 'add_lfram' of lamaral/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ceabf5536c848bf8fde103bf08ee20489988fd2c"
+            "date": "Mon, 1 Apr 2019 17:54:33 +0000",
+            "subject": "Merge branch 'master' of soma/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6e92c45c76cbdb0d9061350abc2efcb7f5031c13"
         }
     },
     "validationOutputFilters": {
