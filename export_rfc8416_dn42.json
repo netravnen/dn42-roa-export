@@ -1762,6 +1762,14 @@
                 "mnt-by": "IMOTO-MNT"
             },
             {
+                "asn": 64713,
+                "prefix": "fd42:64:713::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:64:713::_48",
+                "source": "DN42",
+                "mnt-by": "MARTIN89-MNT"
+            },
+            {
                 "asn": 4242420113,
                 "prefix": "fd42:667c:6ad2::/48",
                 "maxPrefixLength": 64,
@@ -5526,14 +5534,6 @@
                 "prefix": "10.13.0.0/18",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.13.0.0_18",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 64884,
-                "prefix": "10.13.128.0/20",
-                "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.13.128.0_20",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
             },

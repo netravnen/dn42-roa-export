@@ -1319,6 +1319,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS64713",
+            "prefix": "fd42:64:713::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420113",
             "prefix": "fd42:667c:6ad2::/48",
             "maxLength": 64,
@@ -4141,12 +4147,6 @@
         {
             "asn": "AS65432",
             "prefix": "10.13.0.0/18",
-            "maxLength": 28,
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS64884",
-            "prefix": "10.13.128.0/20",
             "maxLength": 28,
             "ta": "ICVPN"
         },
