@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "6e92c45c76cbdb0d9061350abc2efcb7f5031c13",
-            "merge": "ceabf553 d6eb6d83",
+            "commit": "582191106bc288f4839f0eb8e8b425cd4414a967",
+            "merge": "bbc451f7 fa8ac288",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 1 Apr 2019 17:54:33 +0000",
-            "subject": "Merge branch 'master' of soma/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6e92c45c76cbdb0d9061350abc2efcb7f5031c13"
+            "date": "Mon, 8 Apr 2019 16:10:27 +0000",
+            "subject": "Merge branch 'master' of boliht/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/582191106bc288f4839f0eb8e8b425cd4414a967"
         }
     },
     "roas": [
@@ -2885,12 +2885,6 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS4242423226",
-            "prefix": "fdae:0a3a:0aa5:a742::/64",
-            "maxLength": "64",
-            "ta": "DN42"
-        },
-        {
             "asn": "AS4242420756",
             "prefix": "fdae:e2d8:34a1::/48",
             "maxLength": 64,
@@ -5318,12 +5312,6 @@
             "asn": "AS4242423759",
             "prefix": "172.20.130.128/28",
             "maxLength": "28",
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS4242423226",
-            "prefix": "172.20.131.120/29",
-            "maxLength": "29",
             "ta": "DN42"
         },
         {

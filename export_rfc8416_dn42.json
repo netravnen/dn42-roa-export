@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "6e92c45c76cbdb0d9061350abc2efcb7f5031c13",
-            "merge": "ceabf553 d6eb6d83",
+            "commit": "582191106bc288f4839f0eb8e8b425cd4414a967",
+            "merge": "bbc451f7 fa8ac288",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 1 Apr 2019 17:54:33 +0000",
-            "subject": "Merge branch 'master' of soma/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6e92c45c76cbdb0d9061350abc2efcb7f5031c13"
+            "date": "Mon, 8 Apr 2019 16:10:27 +0000",
+            "subject": "Merge branch 'master' of boliht/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/582191106bc288f4839f0eb8e8b425cd4414a967"
         }
     },
     "validationOutputFilters": {
@@ -3850,14 +3850,6 @@
                 "mnt-by": "LDG1-MNT"
             },
             {
-                "asn": 4242423226,
-                "prefix": "fdae:0a3a:0aa5:a742::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdae:0a3a:0aa5:a742::_64",
-                "source": "DN42",
-                "mnt-by": "BOLIHT-MNT"
-            },
-            {
                 "asn": 4242420756,
                 "prefix": "fdae:e2d8:34a1::/48",
                 "maxPrefixLength": 64,
@@ -7096,14 +7088,6 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.130.128_28",
                 "source": "DN42",
                 "mnt-by": "DRATHIR-MNT"
-            },
-            {
-                "asn": 4242423226,
-                "prefix": "172.20.131.120/29",
-                "maxPrefixLength": 29,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.131.120_29",
-                "source": "DN42",
-                "mnt-by": "BOLIHT-MNT"
             },
             {
                 "asn": 4242422365,

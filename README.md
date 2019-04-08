@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 6e92c45c76cbdb0d9061350abc2efcb7f5031c13
-Merge: ceabf553 d6eb6d83
+commit 582191106bc288f4839f0eb8e8b425cd4414a967
+Merge: bbc451f7 fa8ac288
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Apr 1 17:54:33 2019 +0000
+Date:   Mon Apr 8 16:10:27 2019 +0000
 
-    Merge branch 'master' of soma/registry into master
+    Merge branch 'master' of boliht/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  958
-- ROAs IPv6:  659
-- ROAs total: 1617
+- ROAs IPv4:  957
+- ROAs IPv6:  658
+- ROAs total: 1615
 
-[0]: https://git.dn42.us/dn42/registry/commit/6e92c45c76cbdb0d9061350abc2efcb7f5031c13
+[0]: https://git.dn42.us/dn42/registry/commit/582191106bc288f4839f0eb8e8b425cd4414a967
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
