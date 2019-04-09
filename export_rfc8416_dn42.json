@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "582191106bc288f4839f0eb8e8b425cd4414a967",
-            "merge": "bbc451f7 fa8ac288",
+            "commit": "5dfe5aa1f535cd228993ff2e5bd5b9f830c3b761",
+            "merge": "195b76ce ed5a787d",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 8 Apr 2019 16:10:27 +0000",
-            "subject": "Merge branch 'master' of boliht/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/582191106bc288f4839f0eb8e8b425cd4414a967"
+            "date": "Tue, 9 Apr 2019 17:46:09 +0000",
+            "subject": "Merge branch 'master' of DLIT-DN42/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5dfe5aa1f535cd228993ff2e5bd5b9f830c3b761"
         }
     },
     "validationOutputFilters": {
@@ -664,6 +664,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd25:1952:c72e::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420751,
+                "prefix": "fd25:ae36:d470::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd25:ae36:d470::_48",
+                "source": "DN42",
+                "mnt-by": "DLIT-MNT"
             },
             {
                 "asn": 4242420800,
@@ -8682,6 +8690,14 @@
                 "mnt-by": "AX206G-MNT"
             },
             {
+                "asn": 4242422543,
+                "prefix": "172.20.227.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.227.128_27",
+                "source": "DN42",
+                "mnt-by": "RESETTRAP-MNT"
+            },
+            {
                 "asn": 4242429990,
                 "prefix": "172.20.227.160/28",
                 "maxPrefixLength": 28,
@@ -9776,6 +9792,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.100.64_27",
                 "source": "DN42",
                 "mnt-by": "NSNW-MNT"
+            },
+            {
+                "asn": 4242420751,
+                "prefix": "172.21.100.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.100.96_27",
+                "source": "DN42",
+                "mnt-by": "DLIT-MNT"
             },
             {
                 "asn": 4242421656,
