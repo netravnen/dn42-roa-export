@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5dfe5aa1f535cd228993ff2e5bd5b9f830c3b761
-Merge: 195b76ce ed5a787d
+commit a93dcb5f3227409574c1bb8d8698b6f4245c2e14
+Merge: d7544d43 3ad323c8
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Apr 9 17:46:09 2019 +0000
+Date:   Wed Apr 10 17:46:33 2019 +0000
 
-    Merge branch 'master' of DLIT-DN42/registry into master
+    Merge branch 'master' of Cybermanager/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  959
-- ROAs IPv6:  659
-- ROAs total: 1618
+- ROAs IPv4:  961
+- ROAs IPv6:  661
+- ROAs total: 1622
 
-[0]: https://git.dn42.us/dn42/registry/commit/5dfe5aa1f535cd228993ff2e5bd5b9f830c3b761
+[0]: https://git.dn42.us/dn42/registry/commit/a93dcb5f3227409574c1bb8d8698b6f4245c2e14
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

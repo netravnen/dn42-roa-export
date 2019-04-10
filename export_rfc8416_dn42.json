@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "5dfe5aa1f535cd228993ff2e5bd5b9f830c3b761",
-            "merge": "195b76ce ed5a787d",
+            "commit": "a93dcb5f3227409574c1bb8d8698b6f4245c2e14",
+            "merge": "d7544d43 3ad323c8",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 9 Apr 2019 17:46:09 +0000",
-            "subject": "Merge branch 'master' of DLIT-DN42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5dfe5aa1f535cd228993ff2e5bd5b9f830c3b761"
+            "date": "Wed, 10 Apr 2019 17:46:33 +0000",
+            "subject": "Merge branch 'master' of Cybermanager/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a93dcb5f3227409574c1bb8d8698b6f4245c2e14"
         }
     },
     "validationOutputFilters": {
@@ -2618,6 +2618,14 @@
                 "mnt-by": "NETOM-MNT"
             },
             {
+                "asn": 4242423620,
+                "prefix": "fd46:972a:903b::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd46:972a:903b::_48",
+                "source": "DN42",
+                "mnt-by": "MARKR-MNT"
+            },
+            {
                 "asn": 64613,
                 "prefix": "fd46:aa43::/32",
                 "maxPrefixLength": 64,
@@ -4976,6 +4984,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf1:621a:aca3::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420159,
+                "prefix": "fdf1:f170:b834::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf1:f170:b834::_48",
+                "source": "DN42",
+                "mnt-by": "CBS-MNT"
             },
             {
                 "asn": 4242422017,
@@ -10322,6 +10338,14 @@
                 "mnt-by": "RDBCN-MNT"
             },
             {
+                "asn": 4242423620,
+                "prefix": "172.22.101.208/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.101.208_28",
+                "source": "DN42",
+                "mnt-by": "MARKR-MNT"
+            },
+            {
                 "asn": 4242423142,
                 "prefix": "172.22.101.224/27",
                 "maxPrefixLength": 28,
@@ -10672,6 +10696,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.132.96_27",
                 "source": "DN42",
                 "mnt-by": "BZZ-MNT"
+            },
+            {
+                "asn": 4242420159,
+                "prefix": "172.22.133.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.133.128_27",
+                "source": "DN42",
+                "mnt-by": "CBS-MNT"
             },
             {
                 "asn": 4242423939,
@@ -12603,9 +12635,9 @@
             },
             {
                 "asn": 4242422128,
-                "prefix": "172.23.239.0/26",
+                "prefix": "172.23.239.0/25",
                 "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.239.0_26",
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.239.0_25",
                 "source": "DN42",
                 "mnt-by": "DEKINW-MNT"
             },
