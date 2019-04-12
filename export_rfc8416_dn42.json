@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "a93dcb5f3227409574c1bb8d8698b6f4245c2e14",
-            "merge": "d7544d43 3ad323c8",
+            "commit": "7477084cc4979648972da98cc6b8986e69e7c643",
+            "merge": "fe1fb1d9 f2c43951",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 10 Apr 2019 17:46:33 +0000",
-            "subject": "Merge branch 'master' of Cybermanager/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a93dcb5f3227409574c1bb8d8698b6f4245c2e14"
+            "date": "Fri, 12 Apr 2019 17:04:28 +0000",
+            "subject": "Merge branch 'master' of adithepocz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7477084cc4979648972da98cc6b8986e69e7c643"
         }
     },
     "validationOutputFilters": {
@@ -2874,6 +2874,14 @@
                 "mnt-by": "XIAOYU-MNT"
             },
             {
+                "asn": 4242421063,
+                "prefix": "fd5e:86a9:f675::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5e:86a9:f675::_48",
+                "source": "DN42",
+                "mnt-by": "ZIIS-MNT"
+            },
+            {
                 "asn": 64634,
                 "prefix": "fd5e:f77b:309f::/48",
                 "maxPrefixLength": 64,
@@ -3992,6 +4000,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdbc:14ef:89dc::_48",
                 "source": "DN42",
                 "mnt-by": "FNORD-MNT"
+            },
+            {
+                "asn": 4242420589,
+                "prefix": "fdbc:a162:104c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdbc:a162:104c::_48",
+                "source": "DN42",
+                "mnt-by": "DEKTHEP-MNT"
             },
             {
                 "asn": 4242422547,
@@ -7032,6 +7048,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.128.96_29",
                 "source": "DN42",
                 "mnt-by": "SNEK-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "172.20.129.0/27",
+                "maxPrefixLength": 27,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.129.0_27",
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 4242422609,
@@ -10146,6 +10170,14 @@
                 "mnt-by": "CAICAI-MNT"
             },
             {
+                "asn": 4242420589,
+                "prefix": "172.21.88.0/25",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.88.0_25",
+                "source": "DN42",
+                "mnt-by": "DEKTHEP-MNT"
+            },
+            {
                 "asn": 4242420199,
                 "prefix": "172.21.88.128/28",
                 "maxPrefixLength": 28,
@@ -10160,6 +10192,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.88.144_28",
                 "source": "DN42",
                 "mnt-by": "IXNET-MNT"
+            },
+            {
+                "asn": 4242421063,
+                "prefix": "172.21.89.0/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.89.0_27",
+                "source": "DN42",
+                "mnt-by": "ZIIS-MNT"
             },
             {
                 "asn": 4242422544,

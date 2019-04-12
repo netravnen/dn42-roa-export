@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit a93dcb5f3227409574c1bb8d8698b6f4245c2e14
-Merge: d7544d43 3ad323c8
+commit 7477084cc4979648972da98cc6b8986e69e7c643
+Merge: fe1fb1d9 f2c43951
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Apr 10 17:46:33 2019 +0000
+Date:   Fri Apr 12 17:04:28 2019 +0000
 
-    Merge branch 'master' of Cybermanager/registry into master
+    Merge branch 'master' of adithepocz/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  961
-- ROAs IPv6:  661
-- ROAs total: 1622
+- ROAs IPv4:  964
+- ROAs IPv6:  663
+- ROAs total: 1627
 
-[0]: https://git.dn42.us/dn42/registry/commit/a93dcb5f3227409574c1bb8d8698b6f4245c2e14
+[0]: https://git.dn42.us/dn42/registry/commit/7477084cc4979648972da98cc6b8986e69e7c643
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
