@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7477084cc4979648972da98cc6b8986e69e7c643
-Merge: fe1fb1d9 f2c43951
+commit cc0c56932d17071e87c455d529b4b4345165cc72
+Merge: 5f1265bc 3bb8758b
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Apr 12 17:04:28 2019 +0000
+Date:   Sun Apr 14 11:06:17 2019 +0000
 
-    Merge branch 'master' of adithepocz/registry into master
+    Merge branch '57n-setup' of irl/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  964
-- ROAs IPv6:  663
-- ROAs total: 1627
+- ROAs IPv4:  966
+- ROAs IPv6:  664
+- ROAs total: 1630
 
-[0]: https://git.dn42.us/dn42/registry/commit/7477084cc4979648972da98cc6b8986e69e7c643
+[0]: https://git.dn42.us/dn42/registry/commit/cc0c56932d17071e87c455d529b4b4345165cc72
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

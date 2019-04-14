@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "7477084cc4979648972da98cc6b8986e69e7c643",
-            "merge": "fe1fb1d9 f2c43951",
+            "commit": "cc0c56932d17071e87c455d529b4b4345165cc72",
+            "merge": "5f1265bc 3bb8758b",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 12 Apr 2019 17:04:28 +0000",
-            "subject": "Merge branch 'master' of adithepocz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7477084cc4979648972da98cc6b8986e69e7c643"
+            "date": "Sun, 14 Apr 2019 11:06:17 +0000",
+            "subject": "Merge branch '57n-setup' of irl/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/cc0c56932d17071e87c455d529b4b4345165cc72"
         }
     },
     "roas": [
@@ -1525,6 +1525,12 @@
         {
             "asn": "AS4242420118",
             "prefix": "fd42:b10:1118::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420775",
+            "prefix": "fd42:b50d:baad::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5783,6 +5789,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420775",
+            "prefix": "172.20.159.192/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420041",
             "prefix": "172.20.159.8/29",
             "maxLength": "29",
@@ -9427,6 +9439,12 @@
         {
             "asn": "AS4242422037",
             "prefix": "172.23.231.0/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422244",
+            "prefix": "172.23.233.0/24",
             "maxLength": 28,
             "ta": "DN42"
         },
