@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit cc0c56932d17071e87c455d529b4b4345165cc72
-Merge: 5f1265bc 3bb8758b
+commit 08ca4dff4b8be146713f324e8f2f85b3671bd558
+Merge: 752ce3d9 ac3f07db
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Apr 14 11:06:17 2019 +0000
+Date:   Tue Apr 16 18:40:20 2019 +0000
 
-    Merge branch '57n-setup' of irl/registry into master
+    Merge branch 'master' of melan/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  966
-- ROAs IPv6:  664
-- ROAs total: 1630
+- ROAs IPv4:  968
+- ROAs IPv6:  666
+- ROAs total: 1634
 
-[0]: https://git.dn42.us/dn42/registry/commit/cc0c56932d17071e87c455d529b4b4345165cc72
+[0]: https://git.dn42.us/dn42/registry/commit/08ca4dff4b8be146713f324e8f2f85b3671bd558
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
