@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "08ca4dff4b8be146713f324e8f2f85b3671bd558",
-            "merge": "752ce3d9 ac3f07db",
+            "commit": "dfa20f38d7aabbd3b1d9b5c6d84a1b5754a6e4a3",
+            "merge": "08ca4dff ea2f5b4b",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 16 Apr 2019 18:40:20 +0000",
-            "subject": "Merge branch 'master' of melan/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/08ca4dff4b8be146713f324e8f2f85b3671bd558"
+            "date": "Tue, 16 Apr 2019 19:41:23 +0000",
+            "subject": "Merge branch 'master' of Yamakaja/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dfa20f38d7aabbd3b1d9b5c6d84a1b5754a6e4a3"
         }
     },
     "roas": [
@@ -6409,12 +6409,6 @@
         {
             "asn": "AS4242420360",
             "prefix": "172.20.2.32/27",
-            "maxLength": 28,
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS4242421191",
-            "prefix": "172.20.2.64/26",
             "maxLength": 28,
             "ta": "DN42"
         },
