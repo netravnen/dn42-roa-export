@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit dfa20f38d7aabbd3b1d9b5c6d84a1b5754a6e4a3
-Merge: 08ca4dff ea2f5b4b
+commit f48d2a54f029275f8dbb4192c201f2f9040ae24d
+Merge: dfa20f38 93057b97
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Apr 16 19:41:23 2019 +0000
+Date:   Wed Apr 17 17:06:14 2019 +0000
 
-    Merge branch 'master' of Yamakaja/registry into master
+    Merge branch 'master' of iedon/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  967
+- ROAs IPv4:  968
 - ROAs IPv6:  666
-- ROAs total: 1633
+- ROAs total: 1634
 
-[0]: https://git.dn42.us/dn42/registry/commit/dfa20f38d7aabbd3b1d9b5c6d84a1b5754a6e4a3
+[0]: https://git.dn42.us/dn42/registry/commit/f48d2a54f029275f8dbb4192c201f2f9040ae24d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "dfa20f38d7aabbd3b1d9b5c6d84a1b5754a6e4a3",
-            "merge": "08ca4dff ea2f5b4b",
+            "commit": "f48d2a54f029275f8dbb4192c201f2f9040ae24d",
+            "merge": "dfa20f38 93057b97",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 16 Apr 2019 19:41:23 +0000",
-            "subject": "Merge branch 'master' of Yamakaja/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/dfa20f38d7aabbd3b1d9b5c6d84a1b5754a6e4a3"
+            "date": "Wed, 17 Apr 2019 17:06:14 +0000",
+            "subject": "Merge branch 'master' of iedon/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f48d2a54f029275f8dbb4192c201f2f9040ae24d"
         }
     },
     "validationOutputFilters": {
@@ -13030,6 +13030,14 @@
                 "prefix": "172.23.91.0/25",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.91.0_25",
+                "source": "DN42",
+                "mnt-by": "IEDON-MNT"
+            },
+            {
+                "asn": 4242422189,
+                "prefix": "172.23.91.128/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.91.128_26",
                 "source": "DN42",
                 "mnt-by": "IEDON-MNT"
             },
