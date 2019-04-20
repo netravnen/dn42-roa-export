@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f48d2a54f029275f8dbb4192c201f2f9040ae24d
-Merge: dfa20f38 93057b97
+commit eb36aeb3ecd4298fcbb2d463d08ce718c374dc3c
+Merge: 84804e2f f5265ff8
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Apr 17 17:06:14 2019 +0000
+Date:   Fri Apr 19 19:26:59 2019 +0000
 
-    Merge branch 'master' of iedon/registry into master
+    Merge branch 'master' of markmcn/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  968
-- ROAs IPv6:  666
-- ROAs total: 1634
+- ROAs IPv4:  969
+- ROAs IPv6:  667
+- ROAs total: 1636
 
-[0]: https://git.dn42.us/dn42/registry/commit/f48d2a54f029275f8dbb4192c201f2f9040ae24d
+[0]: https://git.dn42.us/dn42/registry/commit/eb36aeb3ecd4298fcbb2d463d08ce718c374dc3c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
