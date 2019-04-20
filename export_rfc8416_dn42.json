@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "eb36aeb3ecd4298fcbb2d463d08ce718c374dc3c",
-            "merge": "84804e2f f5265ff8",
+            "commit": "b2d0d8a49f0ab8403a338042583703d0c4c769bc",
+            "merge": "003daf15 a42cb2a2",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 19 Apr 2019 19:26:59 +0000",
-            "subject": "Merge branch 'master' of markmcn/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/eb36aeb3ecd4298fcbb2d463d08ce718c374dc3c"
+            "date": "Sat, 20 Apr 2019 10:10:40 +0000",
+            "subject": "Merge branch 'updates' of klara/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b2d0d8a49f0ab8403a338042583703d0c4c769bc"
         }
     },
     "validationOutputFilters": {

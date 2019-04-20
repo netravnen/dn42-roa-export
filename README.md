@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit eb36aeb3ecd4298fcbb2d463d08ce718c374dc3c
-Merge: 84804e2f f5265ff8
+commit b2d0d8a49f0ab8403a338042583703d0c4c769bc
+Merge: 003daf15 a42cb2a2
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Apr 19 19:26:59 2019 +0000
+Date:   Sat Apr 20 10:10:40 2019 +0000
 
-    Merge branch 'master' of markmcn/registry into master
+    Merge branch 'updates' of klara/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  667
 - ROAs total: 1636
 
-[0]: https://git.dn42.us/dn42/registry/commit/eb36aeb3ecd4298fcbb2d463d08ce718c374dc3c
+[0]: https://git.dn42.us/dn42/registry/commit/b2d0d8a49f0ab8403a338042583703d0c4c769bc
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
