@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b2d0d8a49f0ab8403a338042583703d0c4c769bc",
-            "merge": "003daf15 a42cb2a2",
+            "commit": "0597627ca888a25169b4eb0cd9afea5a5becf9f0",
+            "merge": "db52172c b5aa2ff7",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 20 Apr 2019 10:10:40 +0000",
-            "subject": "Merge branch 'updates' of klara/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b2d0d8a49f0ab8403a338042583703d0c4c769bc"
+            "date": "Sun, 21 Apr 2019 14:05:44 +0000",
+            "subject": "Merge branch 'master' of yuxans/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0597627ca888a25169b4eb0cd9afea5a5becf9f0"
         }
     },
     "validationOutputFilters": {
@@ -3106,6 +3106,14 @@
                 "mnt-by": "NFEED-MNT"
             },
             {
+                "asn": 4242423338,
+                "prefix": "fd6a:22f6:b683::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd6a:22f6:b683::_48",
+                "source": "DN42",
+                "mnt-by": "YUXANS-MNT"
+            },
+            {
                 "asn": 4242423811,
                 "prefix": "fd6c:6c65:7669::/48",
                 "maxPrefixLength": 64,
@@ -4232,6 +4240,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc7:5384:30::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242423339,
+                "prefix": "fdc7:a5af:3231::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc7:a5af:3231::_48",
+                "source": "DN42",
+                "mnt-by": "CATER-MNT"
             },
             {
                 "asn": 64870,
@@ -7112,6 +7128,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.129.192_26",
                 "source": "DN42",
                 "mnt-by": "TW-MNT"
+            },
+            {
+                "asn": 4242423338,
+                "prefix": "172.20.129.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.129.32_27",
+                "source": "DN42",
+                "mnt-by": "YUXANS-MNT"
             },
             {
                 "asn": 4242421237,
@@ -10528,6 +10552,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.111.160_27",
                 "source": "DN42",
                 "mnt-by": "UNES-MNT"
+            },
+            {
+                "asn": 4242423339,
+                "prefix": "172.22.111.192/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.111.192_27",
+                "source": "DN42",
+                "mnt-by": "CATER-MNT"
             },
             {
                 "asn": 64647,

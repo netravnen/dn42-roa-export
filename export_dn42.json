@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "b2d0d8a49f0ab8403a338042583703d0c4c769bc",
-            "merge": "003daf15 a42cb2a2",
+            "commit": "0597627ca888a25169b4eb0cd9afea5a5becf9f0",
+            "merge": "db52172c b5aa2ff7",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 20 Apr 2019 10:10:40 +0000",
-            "subject": "Merge branch 'updates' of klara/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b2d0d8a49f0ab8403a338042583703d0c4c769bc"
+            "date": "Sun, 21 Apr 2019 14:05:44 +0000",
+            "subject": "Merge branch 'master' of yuxans/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0597627ca888a25169b4eb0cd9afea5a5becf9f0"
         }
     },
     "roas": [
@@ -2327,6 +2327,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423338",
+            "prefix": "fd6a:22f6:b683::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423811",
             "prefix": "fd6c:6c65:7669::/48",
             "maxLength": 64,
@@ -3171,6 +3177,12 @@
             "prefix": "fdc7:5384:30::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242423339",
+            "prefix": "fdc7:a5af:3231::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS64870",
@@ -5329,6 +5341,12 @@
         {
             "asn": "AS4242423452",
             "prefix": "172.20.129.192/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423338",
+            "prefix": "172.20.129.32/27",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -7891,6 +7909,12 @@
         {
             "asn": "AS4242421008",
             "prefix": "172.22.111.160/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423339",
+            "prefix": "172.22.111.192/27",
             "maxLength": 28,
             "ta": "DN42"
         },

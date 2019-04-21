@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b2d0d8a49f0ab8403a338042583703d0c4c769bc
-Merge: 003daf15 a42cb2a2
+commit 0597627ca888a25169b4eb0cd9afea5a5becf9f0
+Merge: db52172c b5aa2ff7
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Apr 20 10:10:40 2019 +0000
+Date:   Sun Apr 21 14:05:44 2019 +0000
 
-    Merge branch 'updates' of klara/registry into master
+    Merge branch 'master' of yuxans/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  969
-- ROAs IPv6:  667
-- ROAs total: 1636
+- ROAs IPv4:  971
+- ROAs IPv6:  669
+- ROAs total: 1640
 
-[0]: https://git.dn42.us/dn42/registry/commit/b2d0d8a49f0ab8403a338042583703d0c4c769bc
+[0]: https://git.dn42.us/dn42/registry/commit/0597627ca888a25169b4eb0cd9afea5a5becf9f0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
