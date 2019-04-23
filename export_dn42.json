@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0597627ca888a25169b4eb0cd9afea5a5becf9f0",
-            "merge": "db52172c b5aa2ff7",
+            "commit": "43329cd8556c9e0958f92331d85324a4d0b79f21",
+            "merge": "0597627c 84a6cea0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 21 Apr 2019 14:05:44 +0000",
-            "subject": "Merge branch 'master' of yuxans/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0597627ca888a25169b4eb0cd9afea5a5becf9f0"
+            "date": "Tue, 23 Apr 2019 17:44:09 +0000",
+            "subject": "Merge branch 'master' of kioubit/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/43329cd8556c9e0958f92331d85324a4d0b79f21"
         }
     },
     "roas": [
@@ -5545,7 +5545,7 @@
         {
             "asn": "AS4242423914",
             "prefix": "172.20.14.32/27",
-            "maxLength": 28,
+            "maxLength": "28",
             "ta": "DN42"
         },
         {

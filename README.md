@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0597627ca888a25169b4eb0cd9afea5a5becf9f0
-Merge: db52172c b5aa2ff7
+commit 43329cd8556c9e0958f92331d85324a4d0b79f21
+Merge: 0597627c 84a6cea0
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Apr 21 14:05:44 2019 +0000
+Date:   Tue Apr 23 17:44:09 2019 +0000
 
-    Merge branch 'master' of yuxans/registry into master
+    Merge branch 'master' of kioubit/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  669
 - ROAs total: 1640
 
-[0]: https://git.dn42.us/dn42/registry/commit/0597627ca888a25169b4eb0cd9afea5a5becf9f0
+[0]: https://git.dn42.us/dn42/registry/commit/43329cd8556c9e0958f92331d85324a4d0b79f21
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
