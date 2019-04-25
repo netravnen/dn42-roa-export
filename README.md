@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 43329cd8556c9e0958f92331d85324a4d0b79f21
-Merge: 0597627c 84a6cea0
+commit 66a073dea16953b1283ea88a1dbfebe84d0bd9ab
+Merge: 43329cd8 74c8b72f
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Apr 23 17:44:09 2019 +0000
+Date:   Wed Apr 24 19:24:53 2019 +0000
 
-    Merge branch 'master' of kioubit/registry into master
+    Merge branch 'master' of Xesxen/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  971
-- ROAs IPv6:  669
-- ROAs total: 1640
+- ROAs IPv4:  972
+- ROAs IPv6:  670
+- ROAs total: 1642
 
-[0]: https://git.dn42.us/dn42/registry/commit/43329cd8556c9e0958f92331d85324a4d0b79f21
+[0]: https://git.dn42.us/dn42/registry/commit/66a073dea16953b1283ea88a1dbfebe84d0bd9ab
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "43329cd8556c9e0958f92331d85324a4d0b79f21",
-            "merge": "0597627c 84a6cea0",
+            "commit": "66a073dea16953b1283ea88a1dbfebe84d0bd9ab",
+            "merge": "43329cd8 74c8b72f",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 23 Apr 2019 17:44:09 +0000",
-            "subject": "Merge branch 'master' of kioubit/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/43329cd8556c9e0958f92331d85324a4d0b79f21"
+            "date": "Wed, 24 Apr 2019 19:24:53 +0000",
+            "subject": "Merge branch 'master' of Xesxen/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/66a073dea16953b1283ea88a1dbfebe84d0bd9ab"
         }
     },
     "validationOutputFilters": {
@@ -4794,6 +4794,14 @@
                 "mnt-by": "SOMNET-MNT"
             },
             {
+                "asn": 4242420246,
+                "prefix": "fde7:56e7:ead3::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fde7:56e7:ead3::_48",
+                "source": "DN42",
+                "mnt-by": "XESXEN-MNT"
+            },
+            {
                 "asn": 4242420157,
                 "prefix": "fde7:76fd:7444::/48",
                 "maxPrefixLength": 64,
@@ -7400,6 +7408,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.14.32_27",
                 "source": "DN42",
                 "mnt-by": "KIOUBIT-MNT"
+            },
+            {
+                "asn": 4242420246,
+                "prefix": "172.20.14.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.14.64_27",
+                "source": "DN42",
+                "mnt-by": "XESXEN-MNT"
             },
             {
                 "asn": 4242420842,
