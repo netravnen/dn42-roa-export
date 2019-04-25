@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 66a073dea16953b1283ea88a1dbfebe84d0bd9ab
-Merge: 43329cd8 74c8b72f
+commit 9308d25b063decae38a04445d9c373a8c83a6742
+Merge: 0d32cbb7 d9968457
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Apr 24 19:24:53 2019 +0000
+Date:   Thu Apr 25 17:11:32 2019 +0000
 
-    Merge branch 'master' of Xesxen/registry into master
+    Merge branch 'master' of adithepocz/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  670
 - ROAs total: 1642
 
-[0]: https://git.dn42.us/dn42/registry/commit/66a073dea16953b1283ea88a1dbfebe84d0bd9ab
+[0]: https://git.dn42.us/dn42/registry/commit/9308d25b063decae38a04445d9c373a8c83a6742
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
