@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9308d25b063decae38a04445d9c373a8c83a6742
-Merge: 0d32cbb7 d9968457
+commit dbde812ed01c3fd319b0704647c37dc261f420aa
+Merge: 9308d25b 161a1a9b
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Apr 25 17:11:32 2019 +0000
+Date:   Thu Apr 25 20:28:45 2019 +0000
 
-    Merge branch 'master' of adithepocz/registry into master
+    Merge branch 'add-suawek-stuff-to-registry' of suawek/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  972
-- ROAs IPv6:  670
-- ROAs total: 1642
+- ROAs IPv4:  973
+- ROAs IPv6:  671
+- ROAs total: 1644
 
-[0]: https://git.dn42.us/dn42/registry/commit/9308d25b063decae38a04445d9c373a8c83a6742
+[0]: https://git.dn42.us/dn42/registry/commit/dbde812ed01c3fd319b0704647c37dc261f420aa
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

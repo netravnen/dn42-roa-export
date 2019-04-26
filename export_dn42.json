@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "9308d25b063decae38a04445d9c373a8c83a6742",
-            "merge": "0d32cbb7 d9968457",
+            "commit": "dbde812ed01c3fd319b0704647c37dc261f420aa",
+            "merge": "9308d25b 161a1a9b",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 25 Apr 2019 17:11:32 +0000",
-            "subject": "Merge branch 'master' of adithepocz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9308d25b063decae38a04445d9c373a8c83a6742"
+            "date": "Thu, 25 Apr 2019 20:28:45 +0000",
+            "subject": "Merge branch 'add-suawek-stuff-to-registry' of suawek/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dbde812ed01c3fd319b0704647c37dc261f420aa"
         }
     },
     "roas": [
@@ -2071,6 +2071,12 @@
         {
             "asn": "AS4242420086",
             "prefix": "fd53:a4f3:7e0e::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420798",
+            "prefix": "fd54:31d8:beeb::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6877,6 +6883,12 @@
         {
             "asn": "AS4242423733",
             "prefix": "172.20.32.0/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420798",
+            "prefix": "172.20.32.16/28",
             "maxLength": "28",
             "ta": "DN42"
         },
