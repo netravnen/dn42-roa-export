@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "dbde812ed01c3fd319b0704647c37dc261f420aa",
-            "merge": "9308d25b 161a1a9b",
+            "commit": "1678962838710d3598a4c567271c6013e948cc13",
+            "merge": "dbde812e fa89d022",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 25 Apr 2019 20:28:45 +0000",
-            "subject": "Merge branch 'add-suawek-stuff-to-registry' of suawek/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/dbde812ed01c3fd319b0704647c37dc261f420aa"
+            "date": "Sun, 28 Apr 2019 10:10:06 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1678962838710d3598a4c567271c6013e948cc13"
         }
     },
     "roas": [

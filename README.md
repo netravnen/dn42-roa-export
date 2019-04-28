@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit dbde812ed01c3fd319b0704647c37dc261f420aa
-Merge: 9308d25b 161a1a9b
+commit 1678962838710d3598a4c567271c6013e948cc13
+Merge: dbde812e fa89d022
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Apr 25 20:28:45 2019 +0000
+Date:   Sun Apr 28 10:10:06 2019 +0000
 
-    Merge branch 'add-suawek-stuff-to-registry' of suawek/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  671
 - ROAs total: 1644
 
-[0]: https://git.dn42.us/dn42/registry/commit/dbde812ed01c3fd319b0704647c37dc261f420aa
+[0]: https://git.dn42.us/dn42/registry/commit/1678962838710d3598a4c567271c6013e948cc13
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
