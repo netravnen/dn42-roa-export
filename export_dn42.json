@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "1678962838710d3598a4c567271c6013e948cc13",
-            "merge": "dbde812e fa89d022",
+            "commit": "d93c37036723ebac9d798fd7fb5572a1066a68d9",
+            "merge": "16789628 7722a30e",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 28 Apr 2019 10:10:06 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1678962838710d3598a4c567271c6013e948cc13"
+            "date": "Wed, 1 May 2019 18:16:06 +0000",
+            "subject": "Merge branch 'master' of 1715173329/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d93c37036723ebac9d798fd7fb5572a1066a68d9"
         }
     },
     "roas": [
@@ -481,6 +481,12 @@
         {
             "asn": "AS4242422037",
             "prefix": "fd23::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421223",
+            "prefix": "fd23:a2b2:9527::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6289,6 +6295,12 @@
         {
             "asn": "AS4242420037",
             "prefix": "172.20.189.0/25",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421223",
+            "prefix": "172.20.189.128/25",
             "maxLength": 28,
             "ta": "DN42"
         },
