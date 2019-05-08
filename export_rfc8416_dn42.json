@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "87a377a17f42d0314bf5b06e59b611012a96af60",
-            "merge": "6e4c54f6 7a16d746",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 6 May 2019 20:23:58 +0000",
-            "subject": "Merge branch 'master' of Alcatrash/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/87a377a17f42d0314bf5b06e59b611012a96af60"
+            "commit": "d9beeab8820a1a55de21cff693926b04fe1baba5",
+            "merge": "87a377a1 c785a8b8",
+            "author": "hexa- <hexa@darmstadt.ccc.de>",
+            "date": "Tue, 7 May 2019 19:34:44 +0000",
+            "subject": "Merge branch 'master' of jnhmn/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d9beeab8820a1a55de21cff693926b04fe1baba5"
         }
     },
     "validationOutputFilters": {
@@ -216,6 +216,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:ffba:ffba:0000::_64",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421201,
+                "prefix": "fd01:2f40:3d1d::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd01:2f40:3d1d::_48",
+                "source": "DN42",
+                "mnt-by": "LUELISTAN-MNT"
             },
             {
                 "asn": 4242421989,
@@ -8896,6 +8904,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.227.64_28",
                 "source": "DN42",
                 "mnt-by": "JAMESITS-MNT"
+            },
+            {
+                "asn": 4242421201,
+                "prefix": "172.20.227.96/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.227.96_28",
+                "source": "DN42",
+                "mnt-by": "LUELISTAN-MNT"
             },
             {
                 "asn": 4242420121,

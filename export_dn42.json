@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "87a377a17f42d0314bf5b06e59b611012a96af60",
-            "merge": "6e4c54f6 7a16d746",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 6 May 2019 20:23:58 +0000",
-            "subject": "Merge branch 'master' of Alcatrash/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/87a377a17f42d0314bf5b06e59b611012a96af60"
+            "commit": "d9beeab8820a1a55de21cff693926b04fe1baba5",
+            "merge": "87a377a1 c785a8b8",
+            "author": "hexa- <hexa@darmstadt.ccc.de>",
+            "date": "Tue, 7 May 2019 19:34:44 +0000",
+            "subject": "Merge branch 'master' of jnhmn/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d9beeab8820a1a55de21cff693926b04fe1baba5"
         }
     },
     "roas": [
@@ -159,6 +159,12 @@
             "prefix": "fd00:ffba:ffba:0000::/64",
             "maxLength": "64",
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242421201",
+            "prefix": "fd01:2f40:3d1d::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS4242421989",
@@ -6667,6 +6673,12 @@
         {
             "asn": "AS4242420086",
             "prefix": "172.20.227.64/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421201",
+            "prefix": "172.20.227.96/28",
             "maxLength": "28",
             "ta": "DN42"
         },
