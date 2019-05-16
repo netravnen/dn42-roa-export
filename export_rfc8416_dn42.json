@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "d9beeab8820a1a55de21cff693926b04fe1baba5",
-            "merge": "87a377a1 c785a8b8",
-            "author": "hexa- <hexa@darmstadt.ccc.de>",
-            "date": "Tue, 7 May 2019 19:34:44 +0000",
-            "subject": "Merge branch 'master' of jnhmn/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d9beeab8820a1a55de21cff693926b04fe1baba5"
+            "commit": "dbf0fc884c816761b7292b2f759f38f7416c9059",
+            "merge": "4b0a5bf0 f8d3abac",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Thu, 16 May 2019 18:18:22 +0000",
+            "subject": "Merge branch 'master' of Alcatrash/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dbf0fc884c816761b7292b2f759f38f7416c9059"
         }
     },
     "validationOutputFilters": {
@@ -1928,6 +1928,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:9510:cad1::_48",
                 "source": "DN42",
                 "mnt-by": "CARLOSJS-MNT"
+            },
+            {
+                "asn": 4242421055,
+                "prefix": "fd42:9564:c802::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:9564:c802::_48",
+                "source": "DN42",
+                "mnt-by": "TMWAWPL-MNT"
             },
             {
                 "asn": 4242423975,
@@ -3962,6 +3970,14 @@
                 "mnt-by": "LEMELISK-MNT"
             },
             {
+                "asn": 4242420177,
+                "prefix": "fdb2:b712:e8e::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb2:b712:e8e::_48",
+                "source": "DN42",
+                "mnt-by": "JHE-MNT"
+            },
+            {
                 "asn": 4242423759,
                 "prefix": "fdb2:f582:b9d1::/48",
                 "maxPrefixLength": 64,
@@ -4232,6 +4248,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc6:c4fe:1de4::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421166,
+                "prefix": "fdc6:dc8f:8c32::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc6:dc8f:8c32::_48",
+                "source": "DN42",
+                "mnt-by": "MTR-MNT"
             },
             {
                 "asn": 65043,
@@ -7810,6 +7834,14 @@
                 "mnt-by": "MIKI-MNT"
             },
             {
+                "asn": 4242421055,
+                "prefix": "172.20.159.16/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.159.16_28",
+                "source": "DN42",
+                "mnt-by": "TMWAWPL-MNT"
+            },
+            {
                 "asn": 4242420775,
                 "prefix": "172.20.159.192/28",
                 "maxPrefixLength": 28,
@@ -10576,6 +10608,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.104.0_24",
                 "source": "DN42",
                 "mnt-by": "F4ZER-MNT"
+            },
+            {
+                "asn": 4242420177,
+                "prefix": "172.22.105.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.105.32_27",
+                "source": "DN42",
+                "mnt-by": "JHE-MNT"
             },
             {
                 "asn": 4242420077,

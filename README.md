@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d9beeab8820a1a55de21cff693926b04fe1baba5
-Merge: 87a377a1 c785a8b8
-Author: hexa- <hexa@darmstadt.ccc.de>
-Date:   Tue May 7 19:34:44 2019 +0000
+commit dbf0fc884c816761b7292b2f759f38f7416c9059
+Merge: 4b0a5bf0 f8d3abac
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Thu May 16 18:18:22 2019 +0000
 
-    Merge branch 'master' of jnhmn/registry into master
+    Merge branch 'master' of Alcatrash/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  976
-- ROAs IPv6:  673
-- ROAs total: 1649
+- ROAs IPv4:  978
+- ROAs IPv6:  676
+- ROAs total: 1654
 
-[0]: https://git.dn42.us/dn42/registry/commit/d9beeab8820a1a55de21cff693926b04fe1baba5
+[0]: https://git.dn42.us/dn42/registry/commit/dbf0fc884c816761b7292b2f759f38f7416c9059
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
