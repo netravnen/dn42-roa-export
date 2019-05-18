@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "dbf0fc884c816761b7292b2f759f38f7416c9059",
-            "merge": "4b0a5bf0 f8d3abac",
+            "commit": "ae981d6a8605e0d1640b303276d1e69d3d27a27c",
+            "merge": "88cf47fb 7f4db610",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 16 May 2019 18:18:22 +0000",
-            "subject": "Merge branch 'master' of Alcatrash/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/dbf0fc884c816761b7292b2f759f38f7416c9059"
+            "date": "Sat, 18 May 2019 16:32:52 +0000",
+            "subject": "Merge branch 'master' of dcr/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ae981d6a8605e0d1640b303276d1e69d3d27a27c"
         }
     },
     "roas": [
@@ -1127,6 +1127,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420166",
+            "prefix": "fd42:3259:c01d::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423667",
             "prefix": "fd42:3667:3667::/48",
             "maxLength": 64,
@@ -2191,6 +2197,12 @@
         {
             "asn": "AS4242423158",
             "prefix": "fd5c:0f0f:39fc::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423331",
+            "prefix": "fd5e:6ea6:f0a1::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -3337,6 +3349,12 @@
         {
             "asn": "AS4242423843",
             "prefix": "fdd0:c468:8eb1::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422053",
+            "prefix": "fdd1:957f:6ea9::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5723,6 +5741,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422102",
+            "prefix": "172.20.149.160/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423699",
             "prefix": "172.20.149.64/26",
             "maxLength": 28,
@@ -6875,6 +6899,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423920",
+            "prefix": "172.20.246.192/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422480",
             "prefix": "172.20.248.0/24",
             "maxLength": 28,
@@ -6901,6 +6931,12 @@
         {
             "asn": "AS4242420154",
             "prefix": "172.20.28.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423331",
+            "prefix": "172.20.28.32/27",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -7595,6 +7631,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422053",
+            "prefix": "172.21.125.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423560",
             "prefix": "172.21.125.192/28",
             "maxLength": "28",
@@ -7609,6 +7651,12 @@
         {
             "asn": "AS4242423650",
             "prefix": "172.21.125.64/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420166",
+            "prefix": "172.21.125.96/27",
             "maxLength": 28,
             "ta": "DN42"
         },
