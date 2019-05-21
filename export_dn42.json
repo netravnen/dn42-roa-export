@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "ae981d6a8605e0d1640b303276d1e69d3d27a27c",
-            "merge": "88cf47fb 7f4db610",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 18 May 2019 16:32:52 +0000",
-            "subject": "Merge branch 'master' of dcr/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ae981d6a8605e0d1640b303276d1e69d3d27a27c"
+            "commit": "db1c680bf16441fe513b90100f118322e88d7359",
+            "merge": "4e36c0bd 52e8a736",
+            "author": "hexa- <hexa@darmstadt.ccc.de>",
+            "date": "Mon, 20 May 2019 20:01:13 +0000",
+            "subject": "Merge branch 'feature/new-user-bj-dn42' of bj/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/db1c680bf16441fe513b90100f118322e88d7359"
         }
     },
     "roas": [
@@ -1039,6 +1039,12 @@
         {
             "asn": "AS64643",
             "prefix": "fd42:23c:ac1b::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422605",
+            "prefix": null,
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6056,6 +6062,12 @@
             "asn": "AS4242423335",
             "prefix": "172.20.168.64/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422605",
+            "prefix": "172.20.168.96/28",
+            "maxLength": "28",
             "ta": "DN42"
         },
         {

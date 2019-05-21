@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit ae981d6a8605e0d1640b303276d1e69d3d27a27c
-Merge: 88cf47fb 7f4db610
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat May 18 16:32:52 2019 +0000
+commit db1c680bf16441fe513b90100f118322e88d7359
+Merge: 4e36c0bd 52e8a736
+Author: hexa- <hexa@darmstadt.ccc.de>
+Date:   Mon May 20 20:01:13 2019 +0000
 
-    Merge branch 'master' of dcr/registry into master
+    Merge branch 'feature/new-user-bj-dn42' of bj/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  983
+- ROAs IPv4:  985
 - ROAs IPv6:  679
-- ROAs total: 1662
+- ROAs total: 1664
 
-[0]: https://git.dn42.us/dn42/registry/commit/ae981d6a8605e0d1640b303276d1e69d3d27a27c
+[0]: https://git.dn42.us/dn42/registry/commit/db1c680bf16441fe513b90100f118322e88d7359
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
