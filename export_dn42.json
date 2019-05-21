@@ -1044,7 +1044,7 @@
         },
         {
             "asn": "AS4242422605",
-            "prefix": null,
+            "prefix": "fd42:2605:5062::/48",
             "maxLength": 64,
             "ta": "DN42"
         },

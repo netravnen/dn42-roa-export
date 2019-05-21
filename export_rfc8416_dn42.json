@@ -1395,9 +1395,9 @@
             },
             {
                 "asn": 4242422605,
-                "prefix": null,
+                "prefix": "fd42:2605:5062::/48",
                 "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/_",
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:2605:5062::_48",
                 "source": "DN42",
                 "mnt-by": "BJ-MNT"
             },
