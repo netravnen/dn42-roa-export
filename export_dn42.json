@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "e11ef68d2ae2293486d80da8f8f838115f777b5c",
-            "merge": "3e62633e e1c1a4d4",
+            "commit": "d348ea8d613132e2a64a6cc84a531b42ca2c7d21",
+            "merge": "e11ef68d 710127c0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 27 May 2019 20:32:47 +0000",
-            "subject": "Merge branch 'master' of tmwawpl/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e11ef68d2ae2293486d80da8f8f838115f777b5c"
+            "date": "Tue, 28 May 2019 17:49:55 +0000",
+            "subject": "Merge branch 'master' of toinux/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d348ea8d613132e2a64a6cc84a531b42ca2c7d21"
         }
     },
     "roas": [
@@ -2461,6 +2461,12 @@
         {
             "asn": "AS4242421271",
             "prefix": "fd79:300d:6056::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423692",
+            "prefix": "fd7b:7d64:4dae::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5497,6 +5503,12 @@
         {
             "asn": "AS4242420789",
             "prefix": "172.20.131.80/29",
+            "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423692",
+            "prefix": "172.20.131.88/29",
             "maxLength": "29",
             "ta": "DN42"
         },

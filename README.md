@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e11ef68d2ae2293486d80da8f8f838115f777b5c
-Merge: 3e62633e e1c1a4d4
+commit d348ea8d613132e2a64a6cc84a531b42ca2c7d21
+Merge: e11ef68d 710127c0
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon May 27 20:32:47 2019 +0000
+Date:   Tue May 28 17:49:55 2019 +0000
 
-    Merge branch 'master' of tmwawpl/registry into master
+    Merge branch 'master' of toinux/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  985
-- ROAs IPv6:  682
-- ROAs total: 1667
+- ROAs IPv4:  986
+- ROAs IPv6:  683
+- ROAs total: 1669
 
-[0]: https://git.dn42.us/dn42/registry/commit/e11ef68d2ae2293486d80da8f8f838115f777b5c
+[0]: https://git.dn42.us/dn42/registry/commit/d348ea8d613132e2a64a6cc84a531b42ca2c7d21
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
