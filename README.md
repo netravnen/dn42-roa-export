@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d348ea8d613132e2a64a6cc84a531b42ca2c7d21
-Merge: e11ef68d 710127c0
+commit 2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552
+Merge: 4dfbe3d0 473a4513
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue May 28 17:49:55 2019 +0000
+Date:   Wed May 29 18:28:31 2019 +0000
 
-    Merge branch 'master' of toinux/registry into master
+    Merge branch 'master' of kuruumari20/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  986
-- ROAs IPv6:  683
-- ROAs total: 1669
+- ROAs IPv4:  988
+- ROAs IPv6:  684
+- ROAs total: 1672
 
-[0]: https://git.dn42.us/dn42/registry/commit/d348ea8d613132e2a64a6cc84a531b42ca2c7d21
+[0]: https://git.dn42.us/dn42/registry/commit/2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

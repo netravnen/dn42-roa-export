@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "d348ea8d613132e2a64a6cc84a531b42ca2c7d21",
-            "merge": "e11ef68d 710127c0",
+            "commit": "2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552",
+            "merge": "4dfbe3d0 473a4513",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 28 May 2019 17:49:55 +0000",
-            "subject": "Merge branch 'master' of toinux/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d348ea8d613132e2a64a6cc84a531b42ca2c7d21"
+            "date": "Wed, 29 May 2019 18:28:31 +0000",
+            "subject": "Merge branch 'master' of kuruumari20/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552"
         }
     },
     "roas": [
@@ -3506,6 +3506,12 @@
             "asn": "AS4242422257",
             "prefix": "fddf:4811:38a0::/48",
             "maxLength": "48",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421145",
+            "prefix": "fddf:51f8:5744::/48",
+            "maxLength": 64,
             "ta": "DN42"
         },
         {
@@ -8441,6 +8447,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242421145",
+            "prefix": "172.22.149.64/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420031",
             "prefix": "172.22.150.64/26",
             "maxLength": 28,
@@ -9246,7 +9258,7 @@
         },
         {
             "asn": "AS4242420158",
-            "prefix": "172.23.150.0/26",
+            "prefix": "172.23.150.0/25",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -9487,6 +9499,12 @@
         {
             "asn": "AS4242420045",
             "prefix": "172.23.189.0/25",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420198",
+            "prefix": "172.23.190.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },

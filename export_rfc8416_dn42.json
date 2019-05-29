@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "d348ea8d613132e2a64a6cc84a531b42ca2c7d21",
-            "merge": "e11ef68d 710127c0",
+            "commit": "2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552",
+            "merge": "4dfbe3d0 473a4513",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 28 May 2019 17:49:55 +0000",
-            "subject": "Merge branch 'master' of toinux/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d348ea8d613132e2a64a6cc84a531b42ca2c7d21"
+            "date": "Wed, 29 May 2019 18:28:31 +0000",
+            "subject": "Merge branch 'master' of kuruumari20/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552"
         }
     },
     "validationOutputFilters": {
@@ -4680,6 +4680,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:4811:38a0::_48",
                 "source": "DN42",
                 "mnt-by": "ACONSULT-MNT"
+            },
+            {
+                "asn": 4242421145,
+                "prefix": "fddf:51f8:5744::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:51f8:5744::_48",
+                "source": "DN42",
+                "mnt-by": "KANA-MNT"
             },
             {
                 "asn": 65064,
@@ -11258,6 +11266,14 @@
                 "mnt-by": "RDBCN-MNT"
             },
             {
+                "asn": 4242421145,
+                "prefix": "172.22.149.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.149.64_27",
+                "source": "DN42",
+                "mnt-by": "KANA-MNT"
+            },
+            {
                 "asn": 4242420031,
                 "prefix": "172.22.150.64/26",
                 "maxPrefixLength": 28,
@@ -12331,9 +12347,9 @@
             },
             {
                 "asn": 4242420158,
-                "prefix": "172.23.150.0/26",
+                "prefix": "172.23.150.0/25",
                 "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.150.0_26",
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.150.0_25",
                 "source": "DN42",
                 "mnt-by": "ABCDE-MNT"
             },
@@ -12656,6 +12672,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.189.0_25",
                 "source": "DN42",
                 "mnt-by": "DELTAMAN-MNT"
+            },
+            {
+                "asn": 4242420198,
+                "prefix": "172.23.190.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.190.0_26",
+                "source": "DN42",
+                "mnt-by": "ABCDE-MNT"
             },
             {
                 "asn": 64712,
