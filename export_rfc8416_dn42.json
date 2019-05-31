@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "21fc69bc4943c8752eadd6d6d9389e32d60e032a",
-            "merge": "2e73233a 4112598c",
+            "commit": "cdae75d3e6afe36fadeca772333bdc45079a9efb",
+            "merge": "87904041 cffd20ad",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 31 May 2019 09:14:30 +0000",
-            "subject": "Merge branch 'master' of JPT/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/21fc69bc4943c8752eadd6d6d9389e32d60e032a"
+            "date": "Fri, 31 May 2019 16:59:45 +0000",
+            "subject": "Merge branch 'master' of janfred/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/cdae75d3e6afe36fadeca772333bdc45079a9efb"
         }
     },
     "validationOutputFilters": {
@@ -5208,6 +5208,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf3:2049:5152::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422236,
+                "prefix": "fdf4:9abf:8175::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf4:9abf:8175::_48",
+                "source": "DN42",
+                "mnt-by": "R2D2-MNT"
             },
             {
                 "asn": 64879,
