@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552",
-            "merge": "4dfbe3d0 473a4513",
+            "commit": "21fc69bc4943c8752eadd6d6d9389e32d60e032a",
+            "merge": "2e73233a 4112598c",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 29 May 2019 18:28:31 +0000",
-            "subject": "Merge branch 'master' of kuruumari20/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552"
+            "date": "Fri, 31 May 2019 09:14:30 +0000",
+            "subject": "Merge branch 'master' of JPT/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/21fc69bc4943c8752eadd6d6d9389e32d60e032a"
         }
     },
     "validationOutputFilters": {
@@ -4200,6 +4200,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc0:bc88:be::_48",
                 "source": "DN42",
                 "mnt-by": "LEMOER-MNT"
+            },
+            {
+                "asn": 4242423567,
+                "prefix": "fdc0:f16e:7051::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc0:f16e:7051::_48",
+                "source": "DN42",
+                "mnt-by": "JPT-MNT"
             },
             {
                 "asn": 64720,
@@ -11072,6 +11080,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.133.128_27",
                 "source": "DN42",
                 "mnt-by": "CBS-MNT"
+            },
+            {
+                "asn": 4242423567,
+                "prefix": "172.22.133.160/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.133.160_29",
+                "source": "DN42",
+                "mnt-by": "JPT-MNT"
             },
             {
                 "asn": 4242423939,

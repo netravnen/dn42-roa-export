@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552",
-            "merge": "4dfbe3d0 473a4513",
+            "commit": "21fc69bc4943c8752eadd6d6d9389e32d60e032a",
+            "merge": "2e73233a 4112598c",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 29 May 2019 18:28:31 +0000",
-            "subject": "Merge branch 'master' of kuruumari20/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552"
+            "date": "Fri, 31 May 2019 09:14:30 +0000",
+            "subject": "Merge branch 'master' of JPT/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/21fc69bc4943c8752eadd6d6d9389e32d60e032a"
         }
     },
     "roas": [
@@ -3145,6 +3145,12 @@
         {
             "asn": "AS4242421811",
             "prefix": "fdc0:bc88:be::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423567",
+            "prefix": "fdc0:f16e:7051::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8300,6 +8306,12 @@
             "asn": "AS4242420159",
             "prefix": "172.22.133.128/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423567",
+            "prefix": "172.22.133.160/29",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552
-Merge: 4dfbe3d0 473a4513
+commit 21fc69bc4943c8752eadd6d6d9389e32d60e032a
+Merge: 2e73233a 4112598c
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed May 29 18:28:31 2019 +0000
+Date:   Fri May 31 09:14:30 2019 +0000
 
-    Merge branch 'master' of kuruumari20/registry into master
+    Merge branch 'master' of JPT/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  988
-- ROAs IPv6:  684
-- ROAs total: 1672
+- ROAs IPv4:  989
+- ROAs IPv6:  685
+- ROAs total: 1674
 
-[0]: https://git.dn42.us/dn42/registry/commit/2e73233ad7c1f6d769f42ff5db71ea4cf6ef0552
+[0]: https://git.dn42.us/dn42/registry/commit/21fc69bc4943c8752eadd6d6d9389e32d60e032a
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
