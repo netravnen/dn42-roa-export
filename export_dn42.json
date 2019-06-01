@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "cdae75d3e6afe36fadeca772333bdc45079a9efb",
-            "merge": "87904041 cffd20ad",
+            "commit": "9163397c980bd75410d8a44c5f72137e69aff2c6",
+            "merge": "cdae75d3 211b9f6e",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 31 May 2019 16:59:45 +0000",
-            "subject": "Merge branch 'master' of janfred/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/cdae75d3e6afe36fadeca772333bdc45079a9efb"
+            "date": "Fri, 31 May 2019 23:32:12 +0000",
+            "subject": "Merge branch 'master' of Xesxen/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9163397c980bd75410d8a44c5f72137e69aff2c6"
         }
     },
     "roas": [
@@ -3079,6 +3079,12 @@
         {
             "asn": "AS4242422357",
             "prefix": "fdba:2737:210d::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423140",
+            "prefix": "fdbb:1126:ce06::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7040,6 +7046,12 @@
             "asn": "AS4242420798",
             "prefix": "172.20.32.16/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423140",
+            "prefix": "172.20.32.32/27",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {
