@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9163397c980bd75410d8a44c5f72137e69aff2c6
-Merge: cdae75d3 211b9f6e
+commit b0c88429b422dc07881f7ab0f030e940894a9d0f
+Merge: 9163397c 7567f993
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri May 31 23:32:12 2019 +0000
+Date:   Sun Jun 2 19:25:46 2019 +0000
 
-    Merge branch 'master' of Xesxen/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  687
 - ROAs total: 1677
 
-[0]: https://git.dn42.us/dn42/registry/commit/9163397c980bd75410d8a44c5f72137e69aff2c6
+[0]: https://git.dn42.us/dn42/registry/commit/b0c88429b422dc07881f7ab0f030e940894a9d0f
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "9163397c980bd75410d8a44c5f72137e69aff2c6",
-            "merge": "cdae75d3 211b9f6e",
+            "commit": "b0c88429b422dc07881f7ab0f030e940894a9d0f",
+            "merge": "9163397c 7567f993",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 31 May 2019 23:32:12 +0000",
-            "subject": "Merge branch 'master' of Xesxen/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9163397c980bd75410d8a44c5f72137e69aff2c6"
+            "date": "Sun, 2 Jun 2019 19:25:46 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b0c88429b422dc07881f7ab0f030e940894a9d0f"
         }
     },
     "validationOutputFilters": {
