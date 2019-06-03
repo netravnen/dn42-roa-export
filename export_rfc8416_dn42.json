@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b0c88429b422dc07881f7ab0f030e940894a9d0f",
-            "merge": "9163397c 7567f993",
+            "commit": "5a095aaa159cc5315341a57f136dcd2e3645aba4",
+            "merge": "dda0f1e4 08aeb9be",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 2 Jun 2019 19:25:46 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b0c88429b422dc07881f7ab0f030e940894a9d0f"
+            "date": "Mon, 3 Jun 2019 19:11:48 +0000",
+            "subject": "Merge branch 'master' of wisp/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5a095aaa159cc5315341a57f136dcd2e3645aba4"
         }
     },
     "validationOutputFilters": {
@@ -1888,6 +1888,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:7616:60d2::_48",
                 "source": "DN42",
                 "mnt-by": "HAELWENN-MNT"
+            },
+            {
+                "asn": 4242420947,
+                "prefix": "fd42:76b8:1c05::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:76b8:1c05::_48",
+                "source": "DN42",
+                "mnt-by": "WISP-MNT"
             },
             {
                 "asn": 4242421787,
