@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5a095aaa159cc5315341a57f136dcd2e3645aba4
-Merge: dda0f1e4 08aeb9be
+commit 1aba5200c0fdf7dc9b50865d8d34e084d581fb62
+Merge: 5a095aaa 6677e5a0
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Jun 3 19:11:48 2019 +0000
+Date:   Tue Jun 4 18:27:37 2019 +0000
 
-    Merge branch 'master' of wisp/registry into master
+    Merge branch 'master' of fionera/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  990
-- ROAs IPv6:  688
-- ROAs total: 1678
+- ROAs IPv4:  991
+- ROAs IPv6:  689
+- ROAs total: 1680
 
-[0]: https://git.dn42.us/dn42/registry/commit/5a095aaa159cc5315341a57f136dcd2e3645aba4
+[0]: https://git.dn42.us/dn42/registry/commit/1aba5200c0fdf7dc9b50865d8d34e084d581fb62
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

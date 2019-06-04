@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "5a095aaa159cc5315341a57f136dcd2e3645aba4",
-            "merge": "dda0f1e4 08aeb9be",
+            "commit": "1aba5200c0fdf7dc9b50865d8d34e084d581fb62",
+            "merge": "5a095aaa 6677e5a0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 3 Jun 2019 19:11:48 +0000",
-            "subject": "Merge branch 'master' of wisp/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5a095aaa159cc5315341a57f136dcd2e3645aba4"
+            "date": "Tue, 4 Jun 2019 18:27:37 +0000",
+            "subject": "Merge branch 'master' of fionera/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1aba5200c0fdf7dc9b50865d8d34e084d581fb62"
         }
     },
     "roas": [
@@ -1597,6 +1597,12 @@
         {
             "asn": "AS4242423965",
             "prefix": "fd42:bbbb:cafe::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422342",
+            "prefix": "fd42:beeb:beeb::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8101,6 +8107,12 @@
         {
             "asn": "AS4242420808",
             "prefix": "172.22.110.32/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422342",
+            "prefix": "172.22.110.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
