@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "1aba5200c0fdf7dc9b50865d8d34e084d581fb62",
-            "merge": "5a095aaa 6677e5a0",
+            "commit": "d50a23cd479e9c4206d7663109474a5a5480e369",
+            "merge": "1aba5200 8f46a23b",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 4 Jun 2019 18:27:37 +0000",
-            "subject": "Merge branch 'master' of fionera/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1aba5200c0fdf7dc9b50865d8d34e084d581fb62"
+            "date": "Thu, 6 Jun 2019 18:25:12 +0000",
+            "subject": "Merge branch 'master' of nojja/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d50a23cd479e9c4206d7663109474a5a5480e369"
         }
     },
     "roas": [
@@ -7250,6 +7250,12 @@
             "asn": "AS4242420991",
             "prefix": "172.20.46.224/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421277",
+            "prefix": "172.20.46.64/28",
+            "maxLength": "28",
             "ta": "DN42"
         },
         {

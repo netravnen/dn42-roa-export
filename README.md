@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 1aba5200c0fdf7dc9b50865d8d34e084d581fb62
-Merge: 5a095aaa 6677e5a0
+commit d50a23cd479e9c4206d7663109474a5a5480e369
+Merge: 1aba5200 8f46a23b
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Jun 4 18:27:37 2019 +0000
+Date:   Thu Jun 6 18:25:12 2019 +0000
 
-    Merge branch 'master' of fionera/registry into master
+    Merge branch 'master' of nojja/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  991
+- ROAs IPv4:  992
 - ROAs IPv6:  689
-- ROAs total: 1680
+- ROAs total: 1681
 
-[0]: https://git.dn42.us/dn42/registry/commit/1aba5200c0fdf7dc9b50865d8d34e084d581fb62
+[0]: https://git.dn42.us/dn42/registry/commit/d50a23cd479e9c4206d7663109474a5a5480e369
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
