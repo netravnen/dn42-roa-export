@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d50a23cd479e9c4206d7663109474a5a5480e369
-Merge: 1aba5200 8f46a23b
+commit 44381bb702238393d49ba385ff7c1517a9b7db81
+Merge: 79a24de5 96542bc0
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jun 6 18:25:12 2019 +0000
+Date:   Sat Jun 8 15:18:04 2019 +0000
 
-    Merge branch 'master' of nojja/registry into master
+    Merge branch 'master' of jonaseberhard/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  992
-- ROAs IPv6:  689
-- ROAs total: 1681
+- ROAs IPv4:  994
+- ROAs IPv6:  691
+- ROAs total: 1685
 
-[0]: https://git.dn42.us/dn42/registry/commit/d50a23cd479e9c4206d7663109474a5a5480e369
+[0]: https://git.dn42.us/dn42/registry/commit/44381bb702238393d49ba385ff7c1517a9b7db81
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

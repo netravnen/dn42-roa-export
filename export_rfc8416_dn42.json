@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "d50a23cd479e9c4206d7663109474a5a5480e369",
-            "merge": "1aba5200 8f46a23b",
+            "commit": "44381bb702238393d49ba385ff7c1517a9b7db81",
+            "merge": "79a24de5 96542bc0",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 6 Jun 2019 18:25:12 +0000",
-            "subject": "Merge branch 'master' of nojja/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d50a23cd479e9c4206d7663109474a5a5480e369"
+            "date": "Sat, 8 Jun 2019 15:18:04 +0000",
+            "subject": "Merge branch 'master' of jonaseberhard/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/44381bb702238393d49ba385ff7c1517a9b7db81"
         }
     },
     "validationOutputFilters": {
@@ -400,6 +400,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd10:2ea2:4dae::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420789,
+                "prefix": "fd10:7053:49de::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd10:7053:49de::_48",
+                "source": "DN42",
+                "mnt-by": "JOSENG-MNT"
             },
             {
                 "asn": 4242420809,
@@ -4286,6 +4294,14 @@
                 "prefix": "fdc3:10cd:ae9f::/48",
                 "maxPrefixLength": 64,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc3:10cd:ae9f::_48",
+                "source": "DN42",
+                "mnt-by": "JOSENG-MNT"
+            },
+            {
+                "asn": 4242420789,
+                "prefix": "fdc3:10cd:aea0::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc3:10cd:aea0::_48",
                 "source": "DN42",
                 "mnt-by": "JOSENG-MNT"
             },
@@ -8338,6 +8354,14 @@
                 "mnt-by": "WEITI-MNT"
             },
             {
+                "asn": 4242420789,
+                "prefix": "172.20.175.32/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.175.32_29",
+                "source": "DN42",
+                "mnt-by": "JOSENG-MNT"
+            },
+            {
                 "asn": 4242427761,
                 "prefix": "172.20.175.64/27",
                 "maxPrefixLength": 28,
@@ -9752,6 +9776,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.47.56_29",
                 "source": "DN42",
                 "mnt-by": "COLOCATIOUS-MNT"
+            },
+            {
+                "asn": 4242420789,
+                "prefix": "172.20.47.64/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.47.64_26",
+                "source": "DN42",
+                "mnt-by": "JOSENG-MNT"
             },
             {
                 "asn": 4242422707,
