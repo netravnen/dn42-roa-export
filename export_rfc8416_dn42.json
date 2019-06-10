@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "44381bb702238393d49ba385ff7c1517a9b7db81",
-            "merge": "79a24de5 96542bc0",
+            "commit": "b5468ab374dd8a4f207c3df3e4c5a7bb316247f1",
+            "merge": "b6fca6e2 3ad30bdb",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 8 Jun 2019 15:18:04 +0000",
-            "subject": "Merge branch 'master' of jonaseberhard/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/44381bb702238393d49ba385ff7c1517a9b7db81"
+            "date": "Mon, 10 Jun 2019 15:25:44 +0000",
+            "subject": "Merge branch 'master' of wockey/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b5468ab374dd8a4f207c3df3e4c5a7bb316247f1"
         }
     },
     "validationOutputFilters": {
@@ -600,6 +600,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd21:b4dc:4b00::_40",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420110,
+                "prefix": "fd22:0622:1f6c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd22:0622:1f6c::_48",
+                "source": "DN42",
+                "mnt-by": "3STADT-MNT"
             },
             {
                 "asn": 4242423581,
@@ -3352,6 +3360,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd7e:5330:e2d7::_48",
                 "source": "DN42",
                 "mnt-by": "JPC-MNT"
+            },
+            {
+                "asn": 4242422387,
+                "prefix": "fd7e:79ee:a1ca::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd7e:79ee:a1ca::_48",
+                "source": "DN42",
+                "mnt-by": "WOCKEY-MNT"
             },
             {
                 "asn": 4242422144,
@@ -12264,6 +12280,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.104.0_27",
                 "source": "DN42",
                 "mnt-by": "GNILEBEIN-MNT"
+            },
+            {
+                "asn": 4242422387,
+                "prefix": "172.23.109.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.109.0_26",
+                "source": "DN42",
+                "mnt-by": "WOCKEY-MNT"
             },
             {
                 "asn": 64526,
