@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b5468ab374dd8a4f207c3df3e4c5a7bb316247f1",
-            "merge": "b6fca6e2 3ad30bdb",
+            "commit": "507cdc595e2c008893f65fc2bb7e046f07c35c3d",
+            "merge": "b5468ab3 13970088",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 10 Jun 2019 15:25:44 +0000",
-            "subject": "Merge branch 'master' of wockey/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b5468ab374dd8a4f207c3df3e4c5a7bb316247f1"
+            "date": "Mon, 10 Jun 2019 20:47:32 +0000",
+            "subject": "Merge branch 'master' of Hyp3rX/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/507cdc595e2c008893f65fc2bb7e046f07c35c3d"
         }
     },
     "validationOutputFilters": {
@@ -3208,6 +3208,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd6a:22f6:b683::_48",
                 "source": "DN42",
                 "mnt-by": "YUXANS-MNT"
+            },
+            {
+                "asn": 4242421860,
+                "prefix": "fd6b:869c:c4a1::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd6b:869c:c4a1::_48",
+                "source": "DN42",
+                "mnt-by": "COOKIEFACTORY-MNT"
             },
             {
                 "asn": 4242423811,
@@ -10072,6 +10080,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.6.128_28",
                 "source": "DN42",
                 "mnt-by": "MENTHA-MNT"
+            },
+            {
+                "asn": 4242421860,
+                "prefix": "172.20.6.160/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.6.160_27",
+                "source": "DN42",
+                "mnt-by": "COOKIEFACTORY-MNT"
             },
             {
                 "asn": 4242420789,

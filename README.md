@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b5468ab374dd8a4f207c3df3e4c5a7bb316247f1
-Merge: b6fca6e2 3ad30bdb
+commit 507cdc595e2c008893f65fc2bb7e046f07c35c3d
+Merge: b5468ab3 13970088
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Jun 10 15:25:44 2019 +0000
+Date:   Mon Jun 10 20:47:32 2019 +0000
 
-    Merge branch 'master' of wockey/registry into master
+    Merge branch 'master' of Hyp3rX/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  995
-- ROAs IPv6:  693
-- ROAs total: 1688
+- ROAs IPv4:  996
+- ROAs IPv6:  694
+- ROAs total: 1690
 
-[0]: https://git.dn42.us/dn42/registry/commit/b5468ab374dd8a4f207c3df3e4c5a7bb316247f1
+[0]: https://git.dn42.us/dn42/registry/commit/507cdc595e2c008893f65fc2bb7e046f07c35c3d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
