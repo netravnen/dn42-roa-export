@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "507cdc595e2c008893f65fc2bb7e046f07c35c3d",
-            "merge": "b5468ab3 13970088",
+            "commit": "ca4c76d162762a369fd70b3a40300879c2bdb263",
+            "merge": "27af77a1 ebc79211",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 10 Jun 2019 20:47:32 +0000",
-            "subject": "Merge branch 'master' of Hyp3rX/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/507cdc595e2c008893f65fc2bb7e046f07c35c3d"
+            "date": "Wed, 12 Jun 2019 17:51:54 +0000",
+            "subject": "Merge branch 'master' of markteleport/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ca4c76d162762a369fd70b3a40300879c2bdb263"
         }
     },
     "roas": [
@@ -1451,6 +1451,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423847",
+            "prefix": "fd42:8437:8437::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422061",
             "prefix": "fd42:8700:90::/48",
             "maxLength": 64,
@@ -2209,6 +2215,12 @@
         {
             "asn": "AS64647",
             "prefix": "fd5b:70da:d123::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423321",
+            "prefix": "fd5b:a2c5:fe5c::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8179,6 +8191,12 @@
         {
             "asn": "AS4242421341",
             "prefix": "172.22.111.128/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423321",
+            "prefix": "172.22.111.144/28",
             "maxLength": "28",
             "ta": "DN42"
         },

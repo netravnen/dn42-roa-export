@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 507cdc595e2c008893f65fc2bb7e046f07c35c3d
-Merge: b5468ab3 13970088
+commit ca4c76d162762a369fd70b3a40300879c2bdb263
+Merge: 27af77a1 ebc79211
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Jun 10 20:47:32 2019 +0000
+Date:   Wed Jun 12 17:51:54 2019 +0000
 
-    Merge branch 'master' of Hyp3rX/registry into master
+    Merge branch 'master' of markteleport/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  996
-- ROAs IPv6:  694
-- ROAs total: 1690
+- ROAs IPv4:  997
+- ROAs IPv6:  696
+- ROAs total: 1693
 
-[0]: https://git.dn42.us/dn42/registry/commit/507cdc595e2c008893f65fc2bb7e046f07c35c3d
+[0]: https://git.dn42.us/dn42/registry/commit/ca4c76d162762a369fd70b3a40300879c2bdb263
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
