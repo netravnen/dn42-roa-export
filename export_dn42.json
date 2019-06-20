@@ -3623,12 +3623,6 @@
             "ta": "ICVPN"
         },
         {
-            "asn": "AS64887",
-            "prefix": "fddf:ebfd:a801:2192::/64",
-            "maxLength": "64",
-            "ta": "ICVPN"
-        },
-        {
             "asn": "AS65530",
             "prefix": "fddf:ebfd:a801:2196::/64",
             "maxLength": "64",
@@ -3654,19 +3648,7 @@
         },
         {
             "asn": "AS65530",
-            "prefix": "fddf:ebfd:a801:2267::/64",
-            "maxLength": "64",
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS65530",
             "prefix": "fddf:ebfd:a801:2268::/64",
-            "maxLength": "64",
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS65530",
-            "prefix": "fddf:ebfd:a801:2331::/64",
             "maxLength": "64",
             "ta": "ICVPN"
         },
@@ -4487,12 +4469,6 @@
             "ta": "ICVPN"
         },
         {
-            "asn": "AS64887",
-            "prefix": "10.146.0.0/16",
-            "maxLength": 28,
-            "ta": "ICVPN"
-        },
-        {
             "asn": "AS65147",
             "prefix": "10.147.0.0/16",
             "maxLength": 28,
@@ -4543,12 +4519,6 @@
         {
             "asn": "AS65201",
             "prefix": "10.152.64.0/18",
-            "maxLength": 28,
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS65530",
-            "prefix": "10.154.0.0/16",
             "maxLength": 28,
             "ta": "ICVPN"
         },
@@ -4807,12 +4777,6 @@
         {
             "asn": "AS65038",
             "prefix": "10.223.0.0/16",
-            "maxLength": 28,
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS65530",
-            "prefix": "10.224.0.0/16",
             "maxLength": 28,
             "ta": "ICVPN"
         },

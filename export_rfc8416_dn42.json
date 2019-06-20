@@ -4834,14 +4834,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 64887,
-                "prefix": "fddf:ebfd:a801:2192::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:ebfd:a801:2192::_64",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 65530,
                 "prefix": "fddf:ebfd:a801:2196::/64",
                 "maxPrefixLength": 64,
@@ -4875,25 +4867,9 @@
             },
             {
                 "asn": 65530,
-                "prefix": "fddf:ebfd:a801:2267::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:ebfd:a801:2267::_64",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 65530,
                 "prefix": "fddf:ebfd:a801:2268::/64",
                 "maxPrefixLength": 64,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:ebfd:a801:2268::_64",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 65530,
-                "prefix": "fddf:ebfd:a801:2331::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:ebfd:a801:2331::_64",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
             },
@@ -5986,14 +5962,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 64887,
-                "prefix": "10.146.0.0/16",
-                "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.146.0.0_16",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 65147,
                 "prefix": "10.147.0.0/16",
                 "maxPrefixLength": 28,
@@ -6062,14 +6030,6 @@
                 "prefix": "10.152.64.0/18",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.152.64.0_18",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 65530,
-                "prefix": "10.154.0.0/16",
-                "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.154.0.0_16",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
             },
@@ -6414,14 +6374,6 @@
                 "prefix": "10.223.0.0/16",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.223.0.0_16",
-                "source": "ICVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 65530,
-                "prefix": "10.224.0.0/16",
-                "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/10.224.0.0_16",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
             },
