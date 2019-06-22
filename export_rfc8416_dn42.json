@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "ca4c76d162762a369fd70b3a40300879c2bdb263",
-            "merge": "27af77a1 ebc79211",
+            "commit": "b46da8cf20a0c1c14847d74d90a76199eb0de0d0",
+            "merge": "ca17e7c7 72c1171d",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 12 Jun 2019 17:51:54 +0000",
-            "subject": "Merge branch 'master' of markteleport/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ca4c76d162762a369fd70b3a40300879c2bdb263"
+            "date": "Fri, 21 Jun 2019 21:43:51 +0000",
+            "subject": "Merge branch 'master' of jeniceek/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b46da8cf20a0c1c14847d74d90a76199eb0de0d0"
         }
     },
     "validationOutputFilters": {
@@ -4432,6 +4432,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc8:08a2:b198::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242423854,
+                "prefix": "fdc8:200e:654a::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc8:200e:654a::_48",
+                "source": "DN42",
+                "mnt-by": "MITORAJ-MNT"
             },
             {
                 "asn": 4242421588,
@@ -9480,6 +9488,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.33.64_27",
                 "source": "DN42",
                 "mnt-by": "XXSLDN-MNT"
+            },
+            {
+                "asn": 4242423854,
+                "prefix": "172.20.33.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.33.96_27",
+                "source": "DN42",
+                "mnt-by": "MITORAJ-MNT"
             },
             {
                 "asn": 4242423966,
