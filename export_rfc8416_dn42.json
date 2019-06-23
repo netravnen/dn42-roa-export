@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b46da8cf20a0c1c14847d74d90a76199eb0de0d0",
-            "merge": "ca17e7c7 72c1171d",
+            "commit": "0250e2471ced664d0e68fc4f7a908f7b7b6c90f1",
+            "merge": "b46da8cf d7062d8e",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 21 Jun 2019 21:43:51 +0000",
-            "subject": "Merge branch 'master' of jeniceek/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b46da8cf20a0c1c14847d74d90a76199eb0de0d0"
+            "date": "Sat, 22 Jun 2019 19:18:52 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0250e2471ced664d0e68fc4f7a908f7b7b6c90f1"
         }
     },
     "validationOutputFilters": {

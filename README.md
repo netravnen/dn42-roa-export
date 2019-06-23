@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b46da8cf20a0c1c14847d74d90a76199eb0de0d0
-Merge: ca17e7c7 72c1171d
+commit 0250e2471ced664d0e68fc4f7a908f7b7b6c90f1
+Merge: b46da8cf d7062d8e
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Jun 21 21:43:51 2019 +0000
+Date:   Sat Jun 22 19:18:52 2019 +0000
 
-    Merge branch 'master' of jeniceek/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  694
 - ROAs total: 1689
 
-[0]: https://git.dn42.us/dn42/registry/commit/b46da8cf20a0c1c14847d74d90a76199eb0de0d0
+[0]: https://git.dn42.us/dn42/registry/commit/0250e2471ced664d0e68fc4f7a908f7b7b6c90f1
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
