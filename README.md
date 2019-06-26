@@ -16,14 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit eca8c89df5bb43d6229d687c84e52782b772da2f
-Merge: 0250e247 57efcabc
-Author: Xuu <me@sour.is>
-Date:   Tue Jun 25 19:33:50 2019 +0000
+commit 9332873115bc6b698891d114185a0483fc03bb99
+Merge: eca8c89d d6c0cf12
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Wed Jun 26 17:56:07 2019 +0000
 
-    Merge branch 'as4242420119-dns' of jrb0001/registry into master
-    
-    looks gud.
+    Merge branch 'master' of sbernauer/registry into master
 ```
 
 ## crontab
@@ -36,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  995
-- ROAs IPv6:  694
-- ROAs total: 1689
+- ROAs IPv4:  996
+- ROAs IPv6:  695
+- ROAs total: 1691
 
-[0]: https://git.dn42.us/dn42/registry/commit/eca8c89df5bb43d6229d687c84e52782b772da2f
+[0]: https://git.dn42.us/dn42/registry/commit/9332873115bc6b698891d114185a0483fc03bb99
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "eca8c89df5bb43d6229d687c84e52782b772da2f",
-            "merge": "0250e247 57efcabc",
-            "author": "Xuu <me@sour.is>",
-            "date": "Tue, 25 Jun 2019 19:33:50 +0000",
-            "subject": "Merge branch 'as4242420119-dns' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/eca8c89df5bb43d6229d687c84e52782b772da2f"
+            "commit": "9332873115bc6b698891d114185a0483fc03bb99",
+            "merge": "eca8c89d d6c0cf12",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 26 Jun 2019 17:56:07 +0000",
+            "subject": "Merge branch 'master' of sbernauer/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9332873115bc6b698891d114185a0483fc03bb99"
         }
     },
     "validationOutputFilters": {
@@ -3304,6 +3304,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd74:40ee:b38a::_48",
                 "source": "DN42",
                 "mnt-by": "BODEMS-MNT"
+            },
+            {
+                "asn": 4242421297,
+                "prefix": "fd75:77d4:482b::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd75:77d4:482b::_48",
+                "source": "DN42",
+                "mnt-by": "SBERNAUER-MNT"
             },
             {
                 "asn": 4242423002,
@@ -9240,6 +9248,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.234.240_28",
                 "source": "DN42",
                 "mnt-by": "A3K-MNT"
+            },
+            {
+                "asn": 4242421297,
+                "prefix": "172.20.234.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.234.64_27",
+                "source": "DN42",
+                "mnt-by": "SBERNAUER-MNT"
             },
             {
                 "asn": 4242423268,
