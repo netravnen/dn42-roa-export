@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0250e2471ced664d0e68fc4f7a908f7b7b6c90f1",
-            "merge": "b46da8cf d7062d8e",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 22 Jun 2019 19:18:52 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0250e2471ced664d0e68fc4f7a908f7b7b6c90f1"
+            "commit": "eca8c89df5bb43d6229d687c84e52782b772da2f",
+            "merge": "0250e247 57efcabc",
+            "author": "Xuu <me@sour.is>",
+            "date": "Tue, 25 Jun 2019 19:33:50 +0000",
+            "subject": "Merge branch 'as4242420119-dns' of jrb0001/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/eca8c89df5bb43d6229d687c84e52782b772da2f"
         }
     },
     "roas": [
