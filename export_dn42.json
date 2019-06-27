@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "9332873115bc6b698891d114185a0483fc03bb99",
-            "merge": "eca8c89d d6c0cf12",
+            "commit": "711096814eb21f10b8fd2f4c4971236faaac77ee",
+            "merge": "b32a21a7 ab5e1420",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 26 Jun 2019 17:56:07 +0000",
-            "subject": "Merge branch 'master' of sbernauer/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9332873115bc6b698891d114185a0483fc03bb99"
+            "date": "Thu, 27 Jun 2019 18:38:33 +0000",
+            "subject": "Merge branch 'master' of kalpak/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/711096814eb21f10b8fd2f4c4971236faaac77ee"
         }
     },
     "roas": [
@@ -2473,6 +2473,12 @@
         {
             "asn": "AS4242423342",
             "prefix": "fd74:40ee:b38a::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423360",
+            "prefix": "fd74:e845:fe1a::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5747,6 +5753,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423360",
+            "prefix": "172.20.143.64/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422180",
             "prefix": "172.20.144.0/22",
             "maxLength": 28,
@@ -8300,6 +8312,12 @@
             "asn": "AS4242423974",
             "prefix": "172.22.125.0/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422277",
+            "prefix": "172.22.127.128/25",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {

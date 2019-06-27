@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9332873115bc6b698891d114185a0483fc03bb99
-Merge: eca8c89d d6c0cf12
+commit 711096814eb21f10b8fd2f4c4971236faaac77ee
+Merge: b32a21a7 ab5e1420
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Jun 26 17:56:07 2019 +0000
+Date:   Thu Jun 27 18:38:33 2019 +0000
 
-    Merge branch 'master' of sbernauer/registry into master
+    Merge branch 'master' of kalpak/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  996
-- ROAs IPv6:  695
-- ROAs total: 1691
+- ROAs IPv4:  998
+- ROAs IPv6:  696
+- ROAs total: 1694
 
-[0]: https://git.dn42.us/dn42/registry/commit/9332873115bc6b698891d114185a0483fc03bb99
+[0]: https://git.dn42.us/dn42/registry/commit/711096814eb21f10b8fd2f4c4971236faaac77ee
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
