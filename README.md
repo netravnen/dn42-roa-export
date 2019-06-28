@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 711096814eb21f10b8fd2f4c4971236faaac77ee
-Merge: b32a21a7 ab5e1420
+commit 145bce0853556f853eff9fabf2c547819043ccc0
+Merge: 71109681 b3e4f492
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jun 27 18:38:33 2019 +0000
+Date:   Thu Jun 27 19:16:45 2019 +0000
 
-    Merge branch 'master' of kalpak/registry into master
+    Merge branch 'master' of RLKT/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  998
-- ROAs IPv6:  696
-- ROAs total: 1694
+- ROAs IPv6:  698
+- ROAs total: 1696
 
-[0]: https://git.dn42.us/dn42/registry/commit/711096814eb21f10b8fd2f4c4971236faaac77ee
+[0]: https://git.dn42.us/dn42/registry/commit/145bce0853556f853eff9fabf2c547819043ccc0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
