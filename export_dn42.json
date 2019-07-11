@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "145bce0853556f853eff9fabf2c547819043ccc0",
-            "merge": "71109681 b3e4f492",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 27 Jun 2019 19:16:45 +0000",
-            "subject": "Merge branch 'master' of RLKT/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/145bce0853556f853eff9fabf2c547819043ccc0"
+            "commit": "98e499e2c751cc9d0022804cfc0173e65777f327",
+            "merge": "9c4d7aad e0af8dfd",
+            "author": "Xuu <me@sour.is>",
+            "date": "Wed, 10 Jul 2019 19:43:45 +0000",
+            "subject": "Merge branch 'master' of ichbinjoe/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/98e499e2c751cc9d0022804cfc0173e65777f327"
         }
     },
     "roas": [
@@ -7747,6 +7747,12 @@
         {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423642",
+            "prefix": "172.21.112.0/27",
             "maxLength": 28,
             "ta": "DN42"
         },

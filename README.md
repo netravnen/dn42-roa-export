@@ -16,12 +16,14 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 145bce0853556f853eff9fabf2c547819043ccc0
-Merge: 71109681 b3e4f492
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jun 27 19:16:45 2019 +0000
+commit 98e499e2c751cc9d0022804cfc0173e65777f327
+Merge: 9c4d7aad e0af8dfd
+Author: Xuu <me@sour.is>
+Date:   Wed Jul 10 19:43:45 2019 +0000
 
-    Merge branch 'master' of RLKT/registry into master
+    Merge branch 'master' of ichbinjoe/registry into master
+    
+    looks gud.
 ```
 
 ## crontab
@@ -34,11 +36,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  998
+- ROAs IPv4:  999
 - ROAs IPv6:  698
-- ROAs total: 1696
+- ROAs total: 1697
 
-[0]: https://git.dn42.us/dn42/registry/commit/145bce0853556f853eff9fabf2c547819043ccc0
+[0]: https://git.dn42.us/dn42/registry/commit/98e499e2c751cc9d0022804cfc0173e65777f327
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
