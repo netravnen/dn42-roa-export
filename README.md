@@ -16,14 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 98e499e2c751cc9d0022804cfc0173e65777f327
-Merge: 9c4d7aad e0af8dfd
-Author: Xuu <me@sour.is>
-Date:   Wed Jul 10 19:43:45 2019 +0000
+commit a72bf50908b10d3abf23b19cfd2cce06ac046f93
+Merge: 98e499e2 149df5e1
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Fri Jul 19 17:14:21 2019 +0000
 
-    Merge branch 'master' of ichbinjoe/registry into master
-    
-    looks gud.
+    Merge branch 'master' of gatuno/registry into master
 ```
 
 ## crontab
@@ -37,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  999
-- ROAs IPv6:  698
-- ROAs total: 1697
+- ROAs IPv6:  699
+- ROAs total: 1698
 
-[0]: https://git.dn42.us/dn42/registry/commit/98e499e2c751cc9d0022804cfc0173e65777f327
+[0]: https://git.dn42.us/dn42/registry/commit/a72bf50908b10d3abf23b19cfd2cce06ac046f93
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

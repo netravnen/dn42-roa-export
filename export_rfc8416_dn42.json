@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "98e499e2c751cc9d0022804cfc0173e65777f327",
-            "merge": "9c4d7aad e0af8dfd",
-            "author": "Xuu <me@sour.is>",
-            "date": "Wed, 10 Jul 2019 19:43:45 +0000",
-            "subject": "Merge branch 'master' of ichbinjoe/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/98e499e2c751cc9d0022804cfc0173e65777f327"
+            "commit": "a72bf50908b10d3abf23b19cfd2cce06ac046f93",
+            "merge": "98e499e2 149df5e1",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Fri, 19 Jul 2019 17:14:21 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a72bf50908b10d3abf23b19cfd2cce06ac046f93"
         }
     },
     "validationOutputFilters": {
@@ -1744,6 +1744,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:465:1337::_48",
                 "source": "DN42",
                 "mnt-by": "AGS-MNT"
+            },
+            {
+                "asn": 4242420180,
+                "prefix": "fd42:470:f0ef::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:470:f0ef::_48",
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242420573,
