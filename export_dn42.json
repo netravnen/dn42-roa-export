@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "a72bf50908b10d3abf23b19cfd2cce06ac046f93",
-            "merge": "98e499e2 149df5e1",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 19 Jul 2019 17:14:21 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a72bf50908b10d3abf23b19cfd2cce06ac046f93"
+            "commit": "5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9",
+            "merge": "a1d99c30 f0c753b6",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 19 Jul 2019 22:59:30 +0000",
+            "subject": "Merge branch 'master' of iedon/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9"
         }
     },
     "roas": [
@@ -349,12 +349,6 @@
         {
             "asn": "AS4242422027",
             "prefix": "fd15:fe2c:d179::/48",
-            "maxLength": 64,
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS4242420245",
-            "prefix": "fd16:c638:3d7c::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -1211,6 +1205,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422189",
+            "prefix": "fd42:4242:2189::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422202",
             "prefix": "fd42:4242:2202::/48",
             "maxLength": 64,
@@ -1345,6 +1345,12 @@
         {
             "asn": "AS4242420302",
             "prefix": "fd42:4999:6a6d::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421408",
+            "prefix": "fd42:53fb:543a::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -2099,6 +2105,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423820",
+            "prefix": "fd50:3c8f:b8b1::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS64654",
             "prefix": "fd51:2bb2:fd0d::/48",
             "maxLength": "64",
@@ -2251,6 +2263,12 @@
         {
             "asn": "AS4242423158",
             "prefix": "fd5c:0f0f:39fc::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423520",
+            "prefix": "fd5d:7bc7:ed1b::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -5813,18 +5831,6 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS4242420245",
-            "prefix": "172.20.148.72/29",
-            "maxLength": "29",
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS4242420245",
-            "prefix": "172.20.148.80/29",
-            "maxLength": "29",
-            "ta": "DN42"
-        },
-        {
             "asn": "AS4242422506",
             "prefix": "172.20.148.8/29",
             "maxLength": "29",
@@ -6026,6 +6032,12 @@
             "asn": "AS4242420775",
             "prefix": "172.20.159.192/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423520",
+            "prefix": "172.20.159.32/27",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {
@@ -7325,6 +7337,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242421408",
+            "prefix": "172.20.46.80/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421123",
             "prefix": "172.20.47.0/26",
             "maxLength": 28,
@@ -8387,6 +8405,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423847",
+            "prefix": "172.22.129.160/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421702",
             "prefix": "172.22.129.16/28",
             "maxLength": "28",
@@ -8791,6 +8815,12 @@
         {
             "asn": "AS4242421069",
             "prefix": "172.22.182.0/25",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423820",
+            "prefix": "172.22.182.128/27",
             "maxLength": 28,
             "ta": "DN42"
         },

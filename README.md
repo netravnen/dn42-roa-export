@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit a72bf50908b10d3abf23b19cfd2cce06ac046f93
-Merge: 98e499e2 149df5e1
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Jul 19 17:14:21 2019 +0000
+commit 5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9
+Merge: a1d99c30 f0c753b6
+Author: burble <simon@burble.com>
+Date:   Fri Jul 19 22:59:30 2019 +0000
 
-    Merge branch 'master' of gatuno/registry into master
+    Merge branch 'master' of iedon/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  999
-- ROAs IPv6:  699
-- ROAs total: 1698
+- ROAs IPv4:  1001
+- ROAs IPv6:  702
+- ROAs total: 1703
 
-[0]: https://git.dn42.us/dn42/registry/commit/a72bf50908b10d3abf23b19cfd2cce06ac046f93
+[0]: https://git.dn42.us/dn42/registry/commit/5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

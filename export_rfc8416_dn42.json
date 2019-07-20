@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "a72bf50908b10d3abf23b19cfd2cce06ac046f93",
-            "merge": "98e499e2 149df5e1",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 19 Jul 2019 17:14:21 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a72bf50908b10d3abf23b19cfd2cce06ac046f93"
+            "commit": "5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9",
+            "merge": "a1d99c30 f0c753b6",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 19 Jul 2019 22:59:30 +0000",
+            "subject": "Merge branch 'master' of iedon/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9"
         }
     },
     "validationOutputFilters": {
@@ -472,14 +472,6 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd15:fe2c:d179::_48",
                 "source": "DN42",
                 "mnt-by": "RDBCN-MNT"
-            },
-            {
-                "asn": 4242420245,
-                "prefix": "fd16:c638:3d7c::/48",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd16:c638:3d7c::_48",
-                "source": "DN42",
-                "mnt-by": "DROIDNEST-MNT"
             },
             {
                 "asn": 4242423973,
@@ -1618,6 +1610,14 @@
                 "mnt-by": "WHS-MNT"
             },
             {
+                "asn": 4242422189,
+                "prefix": "fd42:4242:2189::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:4242:2189::_48",
+                "source": "DN42",
+                "mnt-by": "IEDON-MNT"
+            },
+            {
                 "asn": 4242422202,
                 "prefix": "fd42:4242:2202::/48",
                 "maxPrefixLength": 64,
@@ -1800,6 +1800,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:4999:6a6d::_48",
                 "source": "DN42",
                 "mnt-by": "OO11-MNT"
+            },
+            {
+                "asn": 4242421408,
+                "prefix": "fd42:53fb:543a::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:53fb:543a::_48",
+                "source": "DN42",
+                "mnt-by": "BL4CKOUT-MNT"
             },
             {
                 "asn": 4242420666,
@@ -2802,6 +2810,14 @@
                 "mnt-by": "ZEBMCCORKLE-MNT"
             },
             {
+                "asn": 4242423820,
+                "prefix": "fd50:3c8f:b8b1::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd50:3c8f:b8b1::_48",
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64654,
                 "prefix": "fd51:2bb2:fd0d::/48",
                 "maxPrefixLength": 64,
@@ -3008,6 +3024,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5c:0f0f:39fc::_48",
                 "source": "DN42",
                 "mnt-by": "XIAOYU-MNT"
+            },
+            {
+                "asn": 4242423520,
+                "prefix": "fd5d:7bc7:ed1b::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5d:7bc7:ed1b::_48",
+                "source": "DN42",
+                "mnt-by": "FML-MNT"
             },
             {
                 "asn": 4242423331,
@@ -7754,22 +7778,6 @@
                 "mnt-by": "TUX333-MNT"
             },
             {
-                "asn": 4242420245,
-                "prefix": "172.20.148.72/29",
-                "maxPrefixLength": 29,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.148.72_29",
-                "source": "DN42",
-                "mnt-by": "DROIDNEST-MNT"
-            },
-            {
-                "asn": 4242420245,
-                "prefix": "172.20.148.80/29",
-                "maxPrefixLength": 29,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.148.80_29",
-                "source": "DN42",
-                "mnt-by": "DROIDNEST-MNT"
-            },
-            {
                 "asn": 4242422506,
                 "prefix": "172.20.148.8/29",
                 "maxPrefixLength": 29,
@@ -8040,6 +8048,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.159.192_28",
                 "source": "DN42",
                 "mnt-by": "TEEED-MNT"
+            },
+            {
+                "asn": 4242423520,
+                "prefix": "172.20.159.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.159.32_27",
+                "source": "DN42",
+                "mnt-by": "FML-MNT"
             },
             {
                 "asn": 4242420041,
@@ -9770,6 +9786,14 @@
                 "mnt-by": "NOJJA-MNT"
             },
             {
+                "asn": 4242421408,
+                "prefix": "172.20.46.80/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.46.80_28",
+                "source": "DN42",
+                "mnt-by": "BL4CKOUT-MNT"
+            },
+            {
                 "asn": 4242421123,
                 "prefix": "172.20.47.0/26",
                 "maxPrefixLength": 28,
@@ -11186,6 +11210,14 @@
                 "mnt-by": "RICK-MNT"
             },
             {
+                "asn": 4242423847,
+                "prefix": "172.22.129.160/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.129.160_27",
+                "source": "DN42",
+                "mnt-by": "THEQ-MNT"
+            },
+            {
                 "asn": 4242421702,
                 "prefix": "172.22.129.16/28",
                 "maxPrefixLength": 28,
@@ -11728,6 +11760,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.182.0_25",
                 "source": "DN42",
                 "mnt-by": "SEADOG007-MNT"
+            },
+            {
+                "asn": 4242423820,
+                "prefix": "172.22.182.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.182.128_27",
+                "source": "DN42",
+                "mnt-by": "SZB86-MNT"
             },
             {
                 "asn": 64784,
