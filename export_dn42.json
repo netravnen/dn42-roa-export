@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9",
-            "merge": "a1d99c30 f0c753b6",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 19 Jul 2019 22:59:30 +0000",
-            "subject": "Merge branch 'master' of iedon/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5d5bad7e882a864ce9ea0bef54f46f6f1b7524d9"
+            "commit": "c387495dadd287f0fb39e39a924ea9e56737feed",
+            "merge": "5d5bad7e 6d23b657",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 20 Jul 2019 12:08:40 +0000",
+            "subject": "Merge branch 'master' of j8fcde/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c387495dadd287f0fb39e39a924ea9e56737feed"
         }
     },
     "roas": [
@@ -2065,6 +2065,12 @@
         {
             "asn": "AS4242423328",
             "prefix": "fd48:f77d:8142::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422022",
+            "prefix": "fd48:fcde:4242::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8660,6 +8666,12 @@
             "asn": "AS4242423783",
             "prefix": "172.22.156.128/26",
             "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422022",
+            "prefix": "172.22.157.0/27",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {
