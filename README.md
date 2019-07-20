@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit c387495dadd287f0fb39e39a924ea9e56737feed
-Merge: 5d5bad7e 6d23b657
+commit e79e70f6dd6c0558c56b5fa0bf9115e6831ca60e
+Merge: 3239a5d9 1e4ab9ba
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Jul 20 12:08:40 2019 +0000
+Date:   Sat Jul 20 18:42:10 2019 +0000
 
-    Merge branch 'master' of j8fcde/registry into master
+    Merge branch 'master' of xs4me/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1002
-- ROAs IPv6:  703
-- ROAs total: 1705
+- ROAs IPv4:  1005
+- ROAs IPv6:  705
+- ROAs total: 1710
 
-[0]: https://git.dn42.us/dn42/registry/commit/c387495dadd287f0fb39e39a924ea9e56737feed
+[0]: https://git.dn42.us/dn42/registry/commit/e79e70f6dd6c0558c56b5fa0bf9115e6831ca60e
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
