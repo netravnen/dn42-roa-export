@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e79e70f6dd6c0558c56b5fa0bf9115e6831ca60e
-Merge: 3239a5d9 1e4ab9ba
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Jul 20 18:42:10 2019 +0000
+commit 530f970122f7b4d6081224931a2d54d0329923d8
+Merge: e79e70f6 8b2fca35
+Author: burble <simon@burble.com>
+Date:   Sat Jul 20 21:46:48 2019 +0000
 
-    Merge branch 'master' of xs4me/registry into master
+    Merge branch 'keyrotation' of jrb0001/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  705
 - ROAs total: 1710
 
-[0]: https://git.dn42.us/dn42/registry/commit/e79e70f6dd6c0558c56b5fa0bf9115e6831ca60e
+[0]: https://git.dn42.us/dn42/registry/commit/530f970122f7b4d6081224931a2d54d0329923d8
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
