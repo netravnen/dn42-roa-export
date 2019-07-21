@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 530f970122f7b4d6081224931a2d54d0329923d8
-Merge: e79e70f6 8b2fca35
+commit 001408787d6e1c4de9a4fa19c72b8fc47ad8de15
+Merge: 7de051f4 37ca6ea8
 Author: burble <simon@burble.com>
-Date:   Sat Jul 20 21:46:48 2019 +0000
+Date:   Sun Jul 21 12:35:38 2019 +0000
 
-    Merge branch 'keyrotation' of jrb0001/registry into master
+    Merge branch 'master' of momiji/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1005
-- ROAs IPv6:  705
-- ROAs total: 1710
+- ROAs IPv4:  1007
+- ROAs IPv6:  706
+- ROAs total: 1713
 
-[0]: https://git.dn42.us/dn42/registry/commit/530f970122f7b4d6081224931a2d54d0329923d8
+[0]: https://git.dn42.us/dn42/registry/commit/001408787d6e1c4de9a4fa19c72b8fc47ad8de15
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

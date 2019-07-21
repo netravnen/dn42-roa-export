@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "530f970122f7b4d6081224931a2d54d0329923d8",
-            "merge": "e79e70f6 8b2fca35",
+            "commit": "001408787d6e1c4de9a4fa19c72b8fc47ad8de15",
+            "merge": "7de051f4 37ca6ea8",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 20 Jul 2019 21:46:48 +0000",
-            "subject": "Merge branch 'keyrotation' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/530f970122f7b4d6081224931a2d54d0329923d8"
+            "date": "Sun, 21 Jul 2019 12:35:38 +0000",
+            "subject": "Merge branch 'master' of momiji/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/001408787d6e1c4de9a4fa19c72b8fc47ad8de15"
         }
     },
     "validationOutputFilters": {
@@ -4842,6 +4842,14 @@
                 "mnt-by": "RFC2460-MNT"
             },
             {
+                "asn": 4242423566,
+                "prefix": "fddf:375c:489e::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fddf:375c:489e::_48",
+                "source": "DN42",
+                "mnt-by": "MOMIJI-MNT"
+            },
+            {
                 "asn": 4242422257,
                 "prefix": "fddf:4811:38a0::/48",
                 "maxPrefixLength": 48,
@@ -8018,6 +8026,14 @@
                 "mnt-by": "BUROA-MNT"
             },
             {
+                "asn": 4242423566,
+                "prefix": "172.20.155.64/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.155.64_28",
+                "source": "DN42",
+                "mnt-by": "MOMIJI-MNT"
+            },
+            {
                 "asn": 4242423906,
                 "prefix": "172.20.156.0/23",
                 "maxPrefixLength": 28,
@@ -8360,6 +8376,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.172.0_28",
                 "source": "DN42",
                 "mnt-by": "ENS160-MNT"
+            },
+            {
+                "asn": 4242420491,
+                "prefix": "172.20.172.112/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.172.112_29",
+                "source": "DN42",
+                "mnt-by": "JARRODCHRISTIANSEN-MNT"
             },
             {
                 "asn": 4242420618,
