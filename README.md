@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 001408787d6e1c4de9a4fa19c72b8fc47ad8de15
-Merge: 7de051f4 37ca6ea8
-Author: burble <simon@burble.com>
-Date:   Sun Jul 21 12:35:38 2019 +0000
+commit c95b12991029489fa0dce2fe38f1c2c10015691d
+Merge: f1811b60 74b83732
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Tue Jul 23 19:40:15 2019 +0000
 
-    Merge branch 'master' of momiji/registry into master
+    Merge branch 'AS4242420144/contact-information-update' of netravnen/dn42-registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  706
 - ROAs total: 1713
 
-[0]: https://git.dn42.us/dn42/registry/commit/001408787d6e1c4de9a4fa19c72b8fc47ad8de15
+[0]: https://git.dn42.us/dn42/registry/commit/c95b12991029489fa0dce2fe38f1c2c10015691d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

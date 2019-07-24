@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "001408787d6e1c4de9a4fa19c72b8fc47ad8de15",
-            "merge": "7de051f4 37ca6ea8",
-            "author": "burble <simon@burble.com>",
-            "date": "Sun, 21 Jul 2019 12:35:38 +0000",
-            "subject": "Merge branch 'master' of momiji/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/001408787d6e1c4de9a4fa19c72b8fc47ad8de15"
+            "commit": "c95b12991029489fa0dce2fe38f1c2c10015691d",
+            "merge": "f1811b60 74b83732",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Tue, 23 Jul 2019 19:40:15 +0000",
+            "subject": "Merge branch 'AS4242420144/contact-information-update' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c95b12991029489fa0dce2fe38f1c2c10015691d"
         }
     },
     "roas": [
