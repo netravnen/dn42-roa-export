@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "c95b12991029489fa0dce2fe38f1c2c10015691d",
-            "merge": "f1811b60 74b83732",
+            "commit": "930dc0c0861c91043d69e83f7e30d73f4f589d65",
+            "merge": "04f319c2 88e244d1",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 23 Jul 2019 19:40:15 +0000",
-            "subject": "Merge branch 'AS4242420144/contact-information-update' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c95b12991029489fa0dce2fe38f1c2c10015691d"
+            "date": "Thu, 25 Jul 2019 17:32:50 +0000",
+            "subject": "Merge branch 'AS4242420144/dns/rnds' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/930dc0c0861c91043d69e83f7e30d73f4f589d65"
         }
     },
     "roas": [
