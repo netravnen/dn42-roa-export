@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 930dc0c0861c91043d69e83f7e30d73f4f589d65
-Merge: 04f319c2 88e244d1
+commit 83e0d594076f1c2df5d800907e30f930f3304fe1
+Merge: 930dc0c0 74e38c36
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jul 25 17:32:50 2019 +0000
+Date:   Thu Jul 25 19:45:16 2019 +0000
 
-    Merge branch 'AS4242420144/dns/rnds' of netravnen/dn42-registry into master
+    Merge branch 'master' of digilink/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1007
+- ROAs IPv4:  1008
 - ROAs IPv6:  706
-- ROAs total: 1713
+- ROAs total: 1714
 
-[0]: https://git.dn42.us/dn42/registry/commit/930dc0c0861c91043d69e83f7e30d73f4f589d65
+[0]: https://git.dn42.us/dn42/registry/commit/83e0d594076f1c2df5d800907e30f930f3304fe1
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

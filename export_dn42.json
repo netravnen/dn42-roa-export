@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "930dc0c0861c91043d69e83f7e30d73f4f589d65",
-            "merge": "04f319c2 88e244d1",
+            "commit": "83e0d594076f1c2df5d800907e30f930f3304fe1",
+            "merge": "930dc0c0 74e38c36",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 25 Jul 2019 17:32:50 +0000",
-            "subject": "Merge branch 'AS4242420144/dns/rnds' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/930dc0c0861c91043d69e83f7e30d73f4f589d65"
+            "date": "Thu, 25 Jul 2019 19:45:16 +0000",
+            "subject": "Merge branch 'master' of digilink/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/83e0d594076f1c2df5d800907e30f930f3304fe1"
         }
     },
     "roas": [
@@ -7483,6 +7483,12 @@
         {
             "asn": "AS4242421065",
             "prefix": "172.20.5.160/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420556",
+            "prefix": "172.20.5.192/27",
             "maxLength": 28,
             "ta": "DN42"
         },
