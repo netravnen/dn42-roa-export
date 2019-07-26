@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 83e0d594076f1c2df5d800907e30f930f3304fe1
-Merge: 930dc0c0 74e38c36
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Jul 25 19:45:16 2019 +0000
+commit 285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b
+Merge: fecd2a66 161b1762
+Author: burble <simon@burble.com>
+Date:   Fri Jul 26 16:20:39 2019 +0000
 
-    Merge branch 'master' of digilink/registry into master
+    Merge branch 'master' of alanjcastonguay/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1008
-- ROAs IPv6:  706
-- ROAs total: 1714
+- ROAs IPv4:  1009
+- ROAs IPv6:  708
+- ROAs total: 1717
 
-[0]: https://git.dn42.us/dn42/registry/commit/83e0d594076f1c2df5d800907e30f930f3304fe1
+[0]: https://git.dn42.us/dn42/registry/commit/285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

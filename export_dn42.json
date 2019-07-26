@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "83e0d594076f1c2df5d800907e30f930f3304fe1",
-            "merge": "930dc0c0 74e38c36",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 25 Jul 2019 19:45:16 +0000",
-            "subject": "Merge branch 'master' of digilink/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/83e0d594076f1c2df5d800907e30f930f3304fe1"
+            "commit": "285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b",
+            "merge": "fecd2a66 161b1762",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 26 Jul 2019 16:20:39 +0000",
+            "subject": "Merge branch 'master' of alanjcastonguay/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b"
         }
     },
     "roas": [
@@ -83,9 +83,15 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420198",
+            "prefix": "fd00:abcd:e:0100::/56",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420158",
             "prefix": "fd00:abcd:e::/48",
-            "maxLength": 64,
+            "maxLength": "64",
             "ta": "DN42"
         },
         {
@@ -1939,6 +1945,12 @@
         {
             "asn": "AS64773",
             "prefix": "fd42:df42::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420164",
+            "prefix": "fd42:e0f1:5b4b::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6709,6 +6721,12 @@
         {
             "asn": "AS4242420360",
             "prefix": "172.20.2.32/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420164",
+            "prefix": "172.20.2.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
