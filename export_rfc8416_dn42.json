@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "92c53767a27ff6472862ee3cd14a62e4620ced1c",
-            "merge": "285c6f89 a15b75e7",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 26 Jul 2019 20:18:29 +0000",
-            "subject": "Merge branch 'master' of JacobTheEldest/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/92c53767a27ff6472862ee3cd14a62e4620ced1c"
+            "commit": "7fe31a6ba4f52ca86f6f9243a365cee235454814",
+            "merge": "92c53767 92b6cc82",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 27 Jul 2019 08:34:52 +0000",
+            "subject": "Merge branch 'master' of serverwentdown/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7fe31a6ba4f52ca86f6f9243a365cee235454814"
         }
     },
     "validationOutputFilters": {
@@ -1760,6 +1760,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:465:1337::_48",
                 "source": "DN42",
                 "mnt-by": "AGS-MNT"
+            },
+            {
+                "asn": 4242422065,
+                "prefix": "fd42:470:ed5d::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:470:ed5d::_48",
+                "source": "DN42",
+                "mnt-by": "AMBROSE-MNT"
             },
             {
                 "asn": 4242420180,
@@ -10600,6 +10608,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.64.64_27",
                 "source": "DN42",
                 "mnt-by": "CHUANCHAN-MNT"
+            },
+            {
+                "asn": 4242422065,
+                "prefix": "172.21.64.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.64.96_27",
+                "source": "DN42",
+                "mnt-by": "AMBROSE-MNT"
             },
             {
                 "asn": 4242420778,
