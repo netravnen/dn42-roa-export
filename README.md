@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b
-Merge: fecd2a66 161b1762
+commit 92c53767a27ff6472862ee3cd14a62e4620ced1c
+Merge: 285c6f89 a15b75e7
 Author: burble <simon@burble.com>
-Date:   Fri Jul 26 16:20:39 2019 +0000
+Date:   Fri Jul 26 20:18:29 2019 +0000
 
-    Merge branch 'master' of alanjcastonguay/registry into master
+    Merge branch 'master' of JacobTheEldest/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1009
-- ROAs IPv6:  708
-- ROAs total: 1717
+- ROAs IPv4:  1010
+- ROAs IPv6:  709
+- ROAs total: 1719
 
-[0]: https://git.dn42.us/dn42/registry/commit/285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b
+[0]: https://git.dn42.us/dn42/registry/commit/92c53767a27ff6472862ee3cd14a62e4620ced1c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

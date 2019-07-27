@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b",
-            "merge": "fecd2a66 161b1762",
+            "commit": "92c53767a27ff6472862ee3cd14a62e4620ced1c",
+            "merge": "285c6f89 a15b75e7",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 26 Jul 2019 16:20:39 +0000",
-            "subject": "Merge branch 'master' of alanjcastonguay/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/285c6f89de39e14bf13b5bb10a5cf8f43f9afb1b"
+            "date": "Fri, 26 Jul 2019 20:18:29 +0000",
+            "subject": "Merge branch 'master' of JacobTheEldest/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/92c53767a27ff6472862ee3cd14a62e4620ced1c"
         }
     },
     "validationOutputFilters": {
@@ -168,6 +168,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:cf35:9507::_48",
                 "source": "DN42",
                 "mnt-by": "GIN42-MNT"
+            },
+            {
+                "asn": 4242420629,
+                "prefix": "fd00:dead:beef::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:dead:beef::_48",
+                "source": "DN42",
+                "mnt-by": "JACOBTHEELDEST-MNT"
             },
             {
                 "asn": 4242423815,
@@ -11688,6 +11696,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.159.0_28",
                 "source": "DN42",
                 "mnt-by": "BLACKHOLETW-MNT"
+            },
+            {
+                "asn": 4242420629,
+                "prefix": "172.22.159.16/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.159.16_28",
+                "source": "DN42",
+                "mnt-by": "JACOBTHEELDEST-MNT"
             },
             {
                 "asn": 64616,
