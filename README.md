@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7fe31a6ba4f52ca86f6f9243a365cee235454814
-Merge: 92c53767 92b6cc82
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Jul 27 08:34:52 2019 +0000
+commit 05b1eff550c5de2f60eefa6b487e5e5a170dd12b
+Merge: 7fe31a6b 26bbd67a
+Author: burble <simon@burble.com>
+Date:   Sat Jul 27 15:28:51 2019 +0000
 
-    Merge branch 'master' of serverwentdown/registry into master
+    Merge branch 'master' of Luclu7/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  710
 - ROAs total: 1721
 
-[0]: https://git.dn42.us/dn42/registry/commit/7fe31a6ba4f52ca86f6f9243a365cee235454814
+[0]: https://git.dn42.us/dn42/registry/commit/05b1eff550c5de2f60eefa6b487e5e5a170dd12b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
