@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "05b1eff550c5de2f60eefa6b487e5e5a170dd12b",
-            "merge": "7fe31a6b 26bbd67a",
-            "author": "burble <simon@burble.com>",
-            "date": "Sat, 27 Jul 2019 15:28:51 +0000",
-            "subject": "Merge branch 'master' of Luclu7/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/05b1eff550c5de2f60eefa6b487e5e5a170dd12b"
+            "commit": "7fe31a6ba4f52ca86f6f9243a365cee235454814",
+            "merge": "92c53767 92b6cc82",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 27 Jul 2019 08:34:52 +0000",
+            "subject": "Merge branch 'master' of serverwentdown/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7fe31a6ba4f52ca86f6f9243a365cee235454814"
         }
     },
     "validationOutputFilters": {
@@ -12667,9 +12667,9 @@
             },
             {
                 "asn": 4242423504,
-                "prefix": "172.23.132.0/27",
+                "prefix": "172.23.132.0/24",
                 "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.132.0_27",
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.132.0_24",
                 "source": "DN42",
                 "mnt-by": "LUCLU7-MNT"
             },
