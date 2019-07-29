@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "05b1eff550c5de2f60eefa6b487e5e5a170dd12b",
-            "merge": "7fe31a6b 26bbd67a",
+            "commit": "aac9c6b0197d56f71f3851a419daa48089a1b101",
+            "merge": "05b1eff5 7c3b00b2",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 27 Jul 2019 15:28:51 +0000",
-            "subject": "Merge branch 'master' of Luclu7/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/05b1eff550c5de2f60eefa6b487e5e5a170dd12b"
+            "date": "Sun, 28 Jul 2019 21:01:27 +0000",
+            "subject": "Merge branch 'master' of iamsi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/aac9c6b0197d56f71f3851a419daa48089a1b101"
         }
     },
     "validationOutputFilters": {
@@ -3640,6 +3640,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd91:8ef5:a5db::_48",
                 "source": "DN42",
                 "mnt-by": "ELOKO-MNT"
+            },
+            {
+                "asn": 4242421169,
+                "prefix": "fd91:de6e:e51d::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd91:de6e:e51d::_48",
+                "source": "DN42",
+                "mnt-by": "IAMSI-MNT"
             },
             {
                 "asn": 64861,

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 05b1eff550c5de2f60eefa6b487e5e5a170dd12b
-Merge: 7fe31a6b 26bbd67a
+commit aac9c6b0197d56f71f3851a419daa48089a1b101
+Merge: 05b1eff5 7c3b00b2
 Author: burble <simon@burble.com>
-Date:   Sat Jul 27 15:28:51 2019 +0000
+Date:   Sun Jul 28 21:01:27 2019 +0000
 
-    Merge branch 'master' of Luclu7/registry into master
+    Merge branch 'master' of iamsi/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1011
-- ROAs IPv6:  710
-- ROAs total: 1721
+- ROAs IPv6:  711
+- ROAs total: 1722
 
-[0]: https://git.dn42.us/dn42/registry/commit/05b1eff550c5de2f60eefa6b487e5e5a170dd12b
+[0]: https://git.dn42.us/dn42/registry/commit/aac9c6b0197d56f71f3851a419daa48089a1b101
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
