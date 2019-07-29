@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "aac9c6b0197d56f71f3851a419daa48089a1b101",
-            "merge": "05b1eff5 7c3b00b2",
+            "commit": "c705ed8262b73f7f2508f66c56ad4ac401796760",
+            "merge": "aac9c6b0 e6626d94",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 28 Jul 2019 21:01:27 +0000",
-            "subject": "Merge branch 'master' of iamsi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aac9c6b0197d56f71f3851a419daa48089a1b101"
+            "date": "Mon, 29 Jul 2019 19:09:38 +0000",
+            "subject": "Merge branch 'AS4242420144/new-contact-info' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c705ed8262b73f7f2508f66c56ad4ac401796760"
         }
     },
     "roas": [
