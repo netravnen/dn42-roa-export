@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "c705ed8262b73f7f2508f66c56ad4ac401796760",
-            "merge": "aac9c6b0 e6626d94",
-            "author": "burble <simon@burble.com>",
-            "date": "Mon, 29 Jul 2019 19:09:38 +0000",
-            "subject": "Merge branch 'AS4242420144/new-contact-info' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c705ed8262b73f7f2508f66c56ad4ac401796760"
+            "commit": "500af3e3f488add87583ba8dd0f35d33f3b40a45",
+            "merge": "c705ed82 8fd08a76",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Mon, 29 Jul 2019 19:30:39 +0000",
+            "subject": "Merge branch 'master' of yuuki/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/500af3e3f488add87583ba8dd0f35d33f3b40a45"
         }
     },
     "roas": [
@@ -637,6 +637,12 @@
         {
             "asn": "AS4242422626",
             "prefix": "fd31:2352:60a9::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422773",
+            "prefix": "fd31:3a4f:b7ae::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8048,6 +8054,12 @@
             "asn": "AS4242421873",
             "prefix": "172.21.79.64/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422773",
+            "prefix": "172.21.79.96/27",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {

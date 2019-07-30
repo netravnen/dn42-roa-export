@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit c705ed8262b73f7f2508f66c56ad4ac401796760
-Merge: aac9c6b0 e6626d94
-Author: burble <simon@burble.com>
-Date:   Mon Jul 29 19:09:38 2019 +0000
+commit 500af3e3f488add87583ba8dd0f35d33f3b40a45
+Merge: c705ed82 8fd08a76
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Mon Jul 29 19:30:39 2019 +0000
 
-    Merge branch 'AS4242420144/new-contact-info' of netravnen/dn42-registry into master
+    Merge branch 'master' of yuuki/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1011
-- ROAs IPv6:  711
-- ROAs total: 1722
+- ROAs IPv4:  1012
+- ROAs IPv6:  712
+- ROAs total: 1724
 
-[0]: https://git.dn42.us/dn42/registry/commit/c705ed8262b73f7f2508f66c56ad4ac401796760
+[0]: https://git.dn42.us/dn42/registry/commit/500af3e3f488add87583ba8dd0f35d33f3b40a45
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
