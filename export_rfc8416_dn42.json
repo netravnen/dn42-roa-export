@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "500af3e3f488add87583ba8dd0f35d33f3b40a45",
-            "merge": "c705ed82 8fd08a76",
+            "commit": "95ee311f09882bc481e8877e0dc12bd833343c96",
+            "merge": "500af3e3 508c4345",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 29 Jul 2019 19:30:39 +0000",
+            "date": "Wed, 31 Jul 2019 16:04:19 +0000",
             "subject": "Merge branch 'master' of yuuki/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/500af3e3f488add87583ba8dd0f35d33f3b40a45"
+            "url": "https://git.dn42.us/dn42/registry/commit/95ee311f09882bc481e8877e0dc12bd833343c96"
         }
     },
     "validationOutputFilters": {

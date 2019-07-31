@@ -16,10 +16,10 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 500af3e3f488add87583ba8dd0f35d33f3b40a45
-Merge: c705ed82 8fd08a76
+commit 95ee311f09882bc481e8877e0dc12bd833343c96
+Merge: 500af3e3 508c4345
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Jul 29 19:30:39 2019 +0000
+Date:   Wed Jul 31 16:04:19 2019 +0000
 
     Merge branch 'master' of yuuki/registry into master
 ```
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  712
 - ROAs total: 1724
 
-[0]: https://git.dn42.us/dn42/registry/commit/500af3e3f488add87583ba8dd0f35d33f3b40a45
+[0]: https://git.dn42.us/dn42/registry/commit/95ee311f09882bc481e8877e0dc12bd833343c96
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
