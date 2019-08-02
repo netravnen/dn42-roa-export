@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "95ee311f09882bc481e8877e0dc12bd833343c96",
-            "merge": "500af3e3 508c4345",
+            "commit": "2c8278fe66ded776f008ceed61839f79c4f76bb0",
+            "merge": "0ea13b1b 757d9275",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 31 Jul 2019 16:04:19 +0000",
-            "subject": "Merge branch 'master' of yuuki/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/95ee311f09882bc481e8877e0dc12bd833343c96"
+            "date": "Thu, 1 Aug 2019 20:22:03 +0000",
+            "subject": "Merge branch 'master' of ClementPrimot/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2c8278fe66ded776f008ceed61839f79c4f76bb0"
         }
     },
     "validationOutputFilters": {
@@ -1312,6 +1312,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:1b5:1b5::_48",
                 "source": "DN42",
                 "mnt-by": "LUGINBASH-MNT"
+            },
+            {
+                "asn": 4242423169,
+                "prefix": "fd42:1ebc:34f0::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:1ebc:34f0::_48",
+                "source": "DN42",
+                "mnt-by": "CLEMENTPRIMOT-MNT"
             },
             {
                 "asn": 4242423723,
@@ -8288,6 +8296,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.164.0_26",
                 "source": "DN42",
                 "mnt-by": "XTN1-MNT"
+            },
+            {
+                "asn": 4242423169,
+                "prefix": "172.20.164.128/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.164.128_26",
+                "source": "DN42",
+                "mnt-by": "CLEMENTPRIMOT-MNT"
             },
             {
                 "asn": 4242420256,

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 95ee311f09882bc481e8877e0dc12bd833343c96
-Merge: 500af3e3 508c4345
+commit 2c8278fe66ded776f008ceed61839f79c4f76bb0
+Merge: 0ea13b1b 757d9275
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Jul 31 16:04:19 2019 +0000
+Date:   Thu Aug 1 20:22:03 2019 +0000
 
-    Merge branch 'master' of yuuki/registry into master
+    Merge branch 'master' of ClementPrimot/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1012
-- ROAs IPv6:  712
-- ROAs total: 1724
+- ROAs IPv4:  1013
+- ROAs IPv6:  713
+- ROAs total: 1726
 
-[0]: https://git.dn42.us/dn42/registry/commit/95ee311f09882bc481e8877e0dc12bd833343c96
+[0]: https://git.dn42.us/dn42/registry/commit/2c8278fe66ded776f008ceed61839f79c4f76bb0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

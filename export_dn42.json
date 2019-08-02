@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "95ee311f09882bc481e8877e0dc12bd833343c96",
-            "merge": "500af3e3 508c4345",
+            "commit": "2c8278fe66ded776f008ceed61839f79c4f76bb0",
+            "merge": "0ea13b1b 757d9275",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 31 Jul 2019 16:04:19 +0000",
-            "subject": "Merge branch 'master' of yuuki/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/95ee311f09882bc481e8877e0dc12bd833343c96"
+            "date": "Thu, 1 Aug 2019 20:22:03 +0000",
+            "subject": "Merge branch 'master' of ClementPrimot/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2c8278fe66ded776f008ceed61839f79c4f76bb0"
         }
     },
     "roas": [
@@ -979,6 +979,12 @@
         {
             "asn": "AS4242423904",
             "prefix": "fd42:1b5:1b5::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423169",
+            "prefix": "fd42:1ebc:34f0::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6211,6 +6217,12 @@
         {
             "asn": "AS4242423023",
             "prefix": "172.20.164.0/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423169",
+            "prefix": "172.20.164.128/26",
             "maxLength": 28,
             "ta": "DN42"
         },
