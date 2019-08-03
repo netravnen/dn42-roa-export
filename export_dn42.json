@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "2c8278fe66ded776f008ceed61839f79c4f76bb0",
-            "merge": "0ea13b1b 757d9275",
+            "commit": "50106ae4e8b5f30f80e244c5e2a657eda871b7d0",
+            "merge": "4d3b1375 e3582974",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 1 Aug 2019 20:22:03 +0000",
-            "subject": "Merge branch 'master' of ClementPrimot/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2c8278fe66ded776f008ceed61839f79c4f76bb0"
+            "date": "Fri, 2 Aug 2019 20:07:43 +0000",
+            "subject": "Merge branch 'master' of ealbitz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/50106ae4e8b5f30f80e244c5e2a657eda871b7d0"
         }
     },
     "roas": [
@@ -1153,6 +1153,12 @@
         {
             "asn": "AS202265",
             "prefix": "fd42:2950::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420870",
+            "prefix": "fd42:2b13:a29c::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7058,6 +7064,12 @@
             "asn": "AS4242420205",
             "prefix": "172.20.234.0/26",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422289",
+            "prefix": "172.20.234.192/28",
+            "maxLength": "28",
             "ta": "DN42"
         },
         {

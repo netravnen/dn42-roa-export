@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2c8278fe66ded776f008ceed61839f79c4f76bb0
-Merge: 0ea13b1b 757d9275
+commit 50106ae4e8b5f30f80e244c5e2a657eda871b7d0
+Merge: 4d3b1375 e3582974
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Aug 1 20:22:03 2019 +0000
+Date:   Fri Aug 2 20:07:43 2019 +0000
 
-    Merge branch 'master' of ClementPrimot/registry into master
+    Merge branch 'master' of ealbitz/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1013
-- ROAs IPv6:  713
-- ROAs total: 1726
+- ROAs IPv4:  1014
+- ROAs IPv6:  714
+- ROAs total: 1728
 
-[0]: https://git.dn42.us/dn42/registry/commit/2c8278fe66ded776f008ceed61839f79c4f76bb0
+[0]: https://git.dn42.us/dn42/registry/commit/50106ae4e8b5f30f80e244c5e2a657eda871b7d0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
