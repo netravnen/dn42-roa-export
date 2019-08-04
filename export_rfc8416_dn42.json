@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "50106ae4e8b5f30f80e244c5e2a657eda871b7d0",
-            "merge": "4d3b1375 e3582974",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 2 Aug 2019 20:07:43 +0000",
-            "subject": "Merge branch 'master' of ealbitz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/50106ae4e8b5f30f80e244c5e2a657eda871b7d0"
+            "commit": "d13b1b472623892c94a8f221ca04a8b7fd5716d6",
+            "merge": "92e8afc6 f1b3ab32",
+            "author": "burble <simon@burble.com>",
+            "date": "Sun, 4 Aug 2019 13:01:31 +0000",
+            "subject": "Merge branch 'new-dns-update' of jrb0001/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d13b1b472623892c94a8f221ca04a8b7fd5716d6"
         }
     },
     "validationOutputFilters": {
@@ -2474,14 +2474,6 @@
                 "mnt-by": "KRSTN-MNT"
             },
             {
-                "asn": 64647,
-                "prefix": "fd42:d42:d42:54::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:54::_64",
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 4242420119,
                 "prefix": "fd42:d42:d42:54::/64",
                 "maxPrefixLength": 64,
@@ -2490,23 +2482,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242420138,
-                "prefix": "fd42:d42:d42:54::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:54::_64",
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4242422950,
-                "prefix": "fd42:d42:d42:54::/64",
-                "maxPrefixLength": 64,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:54::_64",
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4242421191,
+                "asn": 4242422601,
                 "prefix": "fd42:d42:d42:54::/64",
                 "maxPrefixLength": 64,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:54::_64",
@@ -7250,14 +7226,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 64647,
-                "prefix": "172.20.0.53/32",
-                "maxPrefixLength": 32,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.0.53_32",
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 4242420119,
                 "prefix": "172.20.0.53/32",
                 "maxPrefixLength": 32,
@@ -7266,23 +7234,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242420138,
-                "prefix": "172.20.0.53/32",
-                "maxPrefixLength": 32,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.0.53_32",
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4242422950,
-                "prefix": "172.20.0.53/32",
-                "maxPrefixLength": 32,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.0.53_32",
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4242421191,
+                "asn": 4242422601,
                 "prefix": "172.20.0.53/32",
                 "maxPrefixLength": 32,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.0.53_32",
