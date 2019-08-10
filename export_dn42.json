@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "d13b1b472623892c94a8f221ca04a8b7fd5716d6",
-            "merge": "92e8afc6 f1b3ab32",
-            "author": "burble <simon@burble.com>",
-            "date": "Sun, 4 Aug 2019 13:01:31 +0000",
-            "subject": "Merge branch 'new-dns-update' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d13b1b472623892c94a8f221ca04a8b7fd5716d6"
+            "commit": "37e65c733c4c2bf36c29945c089a960b247fff26",
+            "merge": "d13b1b47 9bd71ecb",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 10 Aug 2019 14:01:43 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/37e65c733c4c2bf36c29945c089a960b247fff26"
         }
     },
     "roas": [
