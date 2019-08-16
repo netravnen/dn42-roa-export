@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "8f2862f1cde54e1770eb560003ee442b6881d906",
-            "merge": "3b9a4fe0 46f61a58",
+            "commit": "4c955b011f00f0ec7b0100f2aaf4304205e5d8a2",
+            "merge": "f772f396 30c8d702",
             "author": "burble <simon@burble.com>",
-            "date": "Thu, 15 Aug 2019 15:49:41 +0000",
-            "subject": "Merge branch 'master' of wdatkinson/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8f2862f1cde54e1770eb560003ee442b6881d906"
+            "date": "Fri, 16 Aug 2019 08:39:14 +0000",
+            "subject": "Merge branch 'master' of scuttlebug/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4c955b011f00f0ec7b0100f2aaf4304205e5d8a2"
         }
     },
     "roas": [
@@ -2575,6 +2575,12 @@
         {
             "asn": "AS4242421271",
             "prefix": "fd79:300d:6056::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421982",
+            "prefix": "fd79:3730:0cc6::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -6379,6 +6385,12 @@
         {
             "asn": "AS4242421340",
             "prefix": "172.20.176.0/24",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421982",
+            "prefix": "172.20.177.0/27",
             "maxLength": 28,
             "ta": "DN42"
         },
