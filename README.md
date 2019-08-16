@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4c955b011f00f0ec7b0100f2aaf4304205e5d8a2
-Merge: f772f396 30c8d702
+commit 17928cbcce7a0737a65a815f43325d7c13357f4d
+Merge: 5fb1c9d1 ccd6508d
 Author: burble <simon@burble.com>
-Date:   Fri Aug 16 08:39:14 2019 +0000
+Date:   Fri Aug 16 18:50:32 2019 +0000
 
-    Merge branch 'master' of scuttlebug/registry into master
+    Merge branch 'master' of RipperFox/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1013
-- ROAs IPv6:  712
-- ROAs total: 1725
+- ROAs IPv4:  1014
+- ROAs IPv6:  714
+- ROAs total: 1728
 
-[0]: https://git.dn42.us/dn42/registry/commit/4c955b011f00f0ec7b0100f2aaf4304205e5d8a2
+[0]: https://git.dn42.us/dn42/registry/commit/17928cbcce7a0737a65a815f43325d7c13357f4d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
