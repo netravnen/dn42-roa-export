@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "17928cbcce7a0737a65a815f43325d7c13357f4d",
-            "merge": "5fb1c9d1 ccd6508d",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 16 Aug 2019 18:50:32 +0000",
-            "subject": "Merge branch 'master' of RipperFox/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/17928cbcce7a0737a65a815f43325d7c13357f4d"
+            "commit": "6c101517acf1c96a4c4c7ba79025027774dd9e5e",
+            "merge": "7346d9ae c19c1508",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sun, 18 Aug 2019 19:09:42 +0000",
+            "subject": "Merge branch 'extend' of xs4me/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6c101517acf1c96a4c4c7ba79025027774dd9e5e"
         }
     },
     "validationOutputFilters": {
@@ -5706,6 +5706,14 @@
                 "mnt-by": "TSX-MNT"
             },
             {
+                "asn": 0,
+                "prefix": "fdff:0:fcd0::/48",
+                "maxPrefixLength": 128,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdff:0:fcd0::_48",
+                "source": "DN42",
+                "mnt-by": "PRAUSCHER-MNT"
+            },
+            {
                 "asn": 4242423042,
                 "prefix": "fdff:23:42::/48",
                 "maxPrefixLength": 64,
@@ -7904,6 +7912,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.149.192_26",
                 "source": "DN42",
                 "mnt-by": "ALT-MNT"
+            },
+            {
+                "asn": 0,
+                "prefix": "172.20.149.32/27",
+                "maxPrefixLength": 32,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.149.32_27",
+                "source": "DN42",
+                "mnt-by": "PRAUSCHER-MNT"
             },
             {
                 "asn": 4242423699,
@@ -10739,9 +10755,9 @@
             },
             {
                 "asn": 4242421775,
-                "prefix": "172.21.74.80/28",
+                "prefix": "172.21.74.64/27",
                 "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.74.80_28",
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.74.64_27",
                 "source": "DN42",
                 "mnt-by": "XS4ME-MNT"
             },

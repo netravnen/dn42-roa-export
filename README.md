@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 17928cbcce7a0737a65a815f43325d7c13357f4d
-Merge: 5fb1c9d1 ccd6508d
-Author: burble <simon@burble.com>
-Date:   Fri Aug 16 18:50:32 2019 +0000
+commit 6c101517acf1c96a4c4c7ba79025027774dd9e5e
+Merge: 7346d9ae c19c1508
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Sun Aug 18 19:09:42 2019 +0000
 
-    Merge branch 'master' of RipperFox/registry into master
+    Merge branch 'extend' of xs4me/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1014
-- ROAs IPv6:  714
-- ROAs total: 1728
+- ROAs IPv4:  1015
+- ROAs IPv6:  715
+- ROAs total: 1730
 
-[0]: https://git.dn42.us/dn42/registry/commit/17928cbcce7a0737a65a815f43325d7c13357f4d
+[0]: https://git.dn42.us/dn42/registry/commit/6c101517acf1c96a4c4c7ba79025027774dd9e5e
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
