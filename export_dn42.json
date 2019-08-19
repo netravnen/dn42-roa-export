@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "6c101517acf1c96a4c4c7ba79025027774dd9e5e",
-            "merge": "7346d9ae c19c1508",
+            "commit": "00093f1ab4d979c3cb10575db8b68932dce9204d",
+            "merge": "6c101517 b724dedf",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 18 Aug 2019 19:09:42 +0000",
-            "subject": "Merge branch 'extend' of xs4me/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6c101517acf1c96a4c4c7ba79025027774dd9e5e"
+            "date": "Sun, 18 Aug 2019 21:06:32 +0000",
+            "subject": "Merge branch 'ORG-NETRAVNEN/feature/AS208391' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/00093f1ab4d979c3cb10575db8b68932dce9204d"
         }
     },
     "roas": [
@@ -71,7 +71,19 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS208391",
+            "prefix": "fd00:aaaa:251::/48",
+            "maxLength": "48",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420144",
+            "prefix": "fd00:aaaa:255::/48",
+            "maxLength": "48",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS208391",
             "prefix": "fd00:aaaa:255::/48",
             "maxLength": "48",
             "ta": "DN42"
@@ -5519,6 +5531,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS208391",
+            "prefix": "172.20.128.104/29",
+            "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422935",
             "prefix": "172.20.128.32/29",
             "maxLength": "29",
@@ -5544,6 +5562,12 @@
         },
         {
             "asn": "AS4242420144",
+            "prefix": "172.20.128.80/29",
+            "maxLength": "29",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS208391",
             "prefix": "172.20.128.80/29",
             "maxLength": "29",
             "ta": "DN42"
@@ -8519,7 +8543,19 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS208391",
+            "prefix": "172.22.128.0/27",
+            "maxLength": "27",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420144",
+            "prefix": "172.22.128.32/27",
+            "maxLength": "27",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS208391",
             "prefix": "172.22.128.32/27",
             "maxLength": "27",
             "ta": "DN42"

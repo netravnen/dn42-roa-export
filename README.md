@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 6c101517acf1c96a4c4c7ba79025027774dd9e5e
-Merge: 7346d9ae c19c1508
+commit 00093f1ab4d979c3cb10575db8b68932dce9204d
+Merge: 6c101517 b724dedf
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Aug 18 19:09:42 2019 +0000
+Date:   Sun Aug 18 21:06:32 2019 +0000
 
-    Merge branch 'extend' of xs4me/registry into master
+    Merge branch 'ORG-NETRAVNEN/feature/AS208391' of netravnen/dn42-registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1015
-- ROAs IPv6:  715
-- ROAs total: 1730
+- ROAs IPv4:  1019
+- ROAs IPv6:  717
+- ROAs total: 1736
 
-[0]: https://git.dn42.us/dn42/registry/commit/6c101517acf1c96a4c4c7ba79025027774dd9e5e
+[0]: https://git.dn42.us/dn42/registry/commit/00093f1ab4d979c3cb10575db8b68932dce9204d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
