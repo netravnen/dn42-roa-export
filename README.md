@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9e2a22810bd4dfee44c4359dfff145f11b02b8d8
-Merge: 00093f1a 3a97580c
+commit a4c0ef99b134c04ec3413b46ecf22d3b929afb76
+Merge: 6a443d7e 49e74b49
 Author: burble <simon@burble.com>
-Date:   Mon Aug 19 20:24:19 2019 +0000
+Date:   Tue Aug 20 13:37:23 2019 +0000
 
-    Merge branch 'master' of p0ns/registry into master
+    Merge branch 'master' of yangfl/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  732
 - ROAs total: 1754
 
-[0]: https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8
+[0]: https://git.dn42.us/dn42/registry/commit/a4c0ef99b134c04ec3413b46ecf22d3b929afb76
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

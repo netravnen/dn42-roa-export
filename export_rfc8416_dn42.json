@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "9e2a22810bd4dfee44c4359dfff145f11b02b8d8",
-            "merge": "00093f1a 3a97580c",
+            "commit": "a4c0ef99b134c04ec3413b46ecf22d3b929afb76",
+            "merge": "6a443d7e 49e74b49",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 19 Aug 2019 20:24:19 +0000",
-            "subject": "Merge branch 'master' of p0ns/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8"
+            "date": "Tue, 20 Aug 2019 13:37:23 +0000",
+            "subject": "Merge branch 'master' of yangfl/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a4c0ef99b134c04ec3413b46ecf22d3b929afb76"
         }
     },
     "validationOutputFilters": {
@@ -11498,20 +11498,20 @@
                 "mnt-by": "GIGGA-MNT"
             },
             {
+                "asn": 4242420140,
+                "prefix": "172.22.127.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.127.0_26",
+                "source": "DN42",
+                "mnt-by": "YANGFL-MNT"
+            },
+            {
                 "asn": 4242422277,
                 "prefix": "172.22.127.128/25",
                 "maxPrefixLength": 28,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.127.128_25",
                 "source": "DN42",
                 "mnt-by": "TTN-MNT"
-            },
-            {
-                "asn": 4242420140,
-                "prefix": "172.22.127.32/27",
-                "maxPrefixLength": 28,
-                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.127.32_27",
-                "source": "DN42",
-                "mnt-by": "YANGFL-MNT"
             },
             {
                 "asn": 4242420076,

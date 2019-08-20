@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "9e2a22810bd4dfee44c4359dfff145f11b02b8d8",
-            "merge": "00093f1a 3a97580c",
+            "commit": "a4c0ef99b134c04ec3413b46ecf22d3b929afb76",
+            "merge": "6a443d7e 49e74b49",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 19 Aug 2019 20:24:19 +0000",
-            "subject": "Merge branch 'master' of p0ns/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8"
+            "date": "Tue, 20 Aug 2019 13:37:23 +0000",
+            "subject": "Merge branch 'master' of yangfl/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a4c0ef99b134c04ec3413b46ecf22d3b929afb76"
         }
     },
     "roas": [
@@ -8621,14 +8621,14 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS4242422277",
-            "prefix": "172.22.127.128/25",
+            "asn": "AS4242420140",
+            "prefix": "172.22.127.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },
         {
-            "asn": "AS4242420140",
-            "prefix": "172.22.127.32/27",
+            "asn": "AS4242422277",
+            "prefix": "172.22.127.128/25",
             "maxLength": 28,
             "ta": "DN42"
         },
