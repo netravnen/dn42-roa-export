@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "9e2a22810bd4dfee44c4359dfff145f11b02b8d8",
-            "merge": "00093f1a 3a97580c",
-            "author": "burble <simon@burble.com>",
-            "date": "Mon, 19 Aug 2019 20:24:19 +0000",
-            "subject": "Merge branch 'master' of p0ns/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8"
+            "commit": "90de3d031ab153319f924dd53481c11fee669d5b",
+            "merge": "39846cd3 a06b1855",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Tue, 20 Aug 2019 18:31:33 +0000",
+            "subject": "Merge branch 'flobo-cleanup' of dn42/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/90de3d031ab153319f924dd53481c11fee669d5b"
         }
     },
     "roas": [
@@ -1289,6 +1289,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242422201",
+            "prefix": "fd42:4242:2201::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422202",
             "prefix": "fd42:4242:2202::/48",
             "maxLength": 64,
@@ -2327,12 +2333,6 @@
             "ta": "ICVPN"
         },
         {
-            "asn": "AS64647",
-            "prefix": "fd5b:70da:d123::/48",
-            "maxLength": 64,
-            "ta": "DN42"
-        },
-        {
             "asn": "AS4242423321",
             "prefix": "fd5b:a2c5:fe5c::/48",
             "maxLength": 64,
@@ -3151,12 +3151,6 @@
         {
             "asn": "AS4242420145",
             "prefix": "fda3:db3f:c50d::/48",
-            "maxLength": 64,
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS64647",
-            "prefix": "fda3:f376::/32",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7169,12 +7163,6 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS64647",
-            "prefix": "172.20.233.0/24",
-            "maxLength": 28,
-            "ta": "DN42"
-        },
-        {
             "asn": "AS4242420205",
             "prefix": "172.20.234.0/26",
             "maxLength": 28,
@@ -7985,12 +7973,6 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS64647",
-            "prefix": "172.21.105.0/24",
-            "maxLength": 28,
-            "ta": "DN42"
-        },
-        {
             "asn": "AS4242429990",
             "prefix": "172.21.106.0/27",
             "maxLength": 28,
@@ -8519,8 +8501,8 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS64647",
-            "prefix": "172.22.111.96/27",
+            "asn": "AS4242422201",
+            "prefix": "172.22.111.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -8621,14 +8603,14 @@
             "ta": "DN42"
         },
         {
-            "asn": "AS4242422277",
-            "prefix": "172.22.127.128/25",
+            "asn": "AS4242420140",
+            "prefix": "172.22.127.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },
         {
-            "asn": "AS4242420140",
-            "prefix": "172.22.127.32/27",
+            "asn": "AS4242422277",
+            "prefix": "172.22.127.128/25",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -9397,18 +9379,6 @@
         {
             "asn": "AS4242420277",
             "prefix": "172.22.77.0/27",
-            "maxLength": 28,
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS64647",
-            "prefix": "172.22.78.0/24",
-            "maxLength": 28,
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS64647",
-            "prefix": "172.22.78.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },

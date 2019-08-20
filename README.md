@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9e2a22810bd4dfee44c4359dfff145f11b02b8d8
-Merge: 00093f1a 3a97580c
-Author: burble <simon@burble.com>
-Date:   Mon Aug 19 20:24:19 2019 +0000
+commit 90de3d031ab153319f924dd53481c11fee669d5b
+Merge: 39846cd3 a06b1855
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Tue Aug 20 18:31:33 2019 +0000
 
-    Merge branch 'master' of p0ns/registry into master
+    Merge branch 'flobo-cleanup' of dn42/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1022
-- ROAs IPv6:  732
-- ROAs total: 1754
+- ROAs IPv4:  1018
+- ROAs IPv6:  731
+- ROAs total: 1749
 
-[0]: https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8
+[0]: https://git.dn42.us/dn42/registry/commit/90de3d031ab153319f924dd53481c11fee669d5b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
