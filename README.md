@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 00093f1ab4d979c3cb10575db8b68932dce9204d
-Merge: 6c101517 b724dedf
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Aug 18 21:06:32 2019 +0000
+commit 9e2a22810bd4dfee44c4359dfff145f11b02b8d8
+Merge: 00093f1a 3a97580c
+Author: burble <simon@burble.com>
+Date:   Mon Aug 19 20:24:19 2019 +0000
 
-    Merge branch 'ORG-NETRAVNEN/feature/AS208391' of netravnen/dn42-registry into master
+    Merge branch 'master' of p0ns/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1019
-- ROAs IPv6:  717
-- ROAs total: 1736
+- ROAs IPv4:  1022
+- ROAs IPv6:  732
+- ROAs total: 1754
 
-[0]: https://git.dn42.us/dn42/registry/commit/00093f1ab4d979c3cb10575db8b68932dce9204d
+[0]: https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

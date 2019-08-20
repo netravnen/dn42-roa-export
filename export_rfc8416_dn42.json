@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "00093f1ab4d979c3cb10575db8b68932dce9204d",
-            "merge": "6c101517 b724dedf",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 18 Aug 2019 21:06:32 +0000",
-            "subject": "Merge branch 'ORG-NETRAVNEN/feature/AS208391' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/00093f1ab4d979c3cb10575db8b68932dce9204d"
+            "commit": "9e2a22810bd4dfee44c4359dfff145f11b02b8d8",
+            "merge": "00093f1a 3a97580c",
+            "author": "burble <simon@burble.com>",
+            "date": "Mon, 19 Aug 2019 20:24:19 +0000",
+            "subject": "Merge branch 'master' of p0ns/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9e2a22810bd4dfee44c4359dfff145f11b02b8d8"
         }
     },
     "validationOutputFilters": {
@@ -256,6 +256,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd01:2f40:3d1d::_48",
                 "source": "DN42",
                 "mnt-by": "LUELISTAN-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd01:38f7:e6d8:4e04::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd01:38f7:e6d8:4e04::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242421989,
@@ -594,6 +602,14 @@
                 "mnt-by": "GOTROOT-MNT"
             },
             {
+                "asn": 4242420017,
+                "prefix": "fd1d:62fd:3f4c:a247::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd1d:62fd:3f4c:a247::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
                 "asn": 4242421976,
                 "prefix": "fd20:bdda:5df0::/48",
                 "maxPrefixLength": 64,
@@ -826,6 +842,14 @@
                 "mnt-by": "CHUANCHAN-MNT"
             },
             {
+                "asn": 4242421204,
+                "prefix": "fd2c:c87d:0c2e::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd2c:c87d:0c2e::_48",
+                "source": "DN42",
+                "mnt-by": "PONS-MNT"
+            },
+            {
                 "asn": 4242420013,
                 "prefix": "fd2d:22:cafe::/48",
                 "maxPrefixLength": 64,
@@ -896,6 +920,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd31:f6ee:ab9d::_48",
                 "source": "DN42",
                 "mnt-by": "RIPPERFOX-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd32:54d6:1962:ad35::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd32:54d6:1962:ad35::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242420148,
@@ -1664,6 +1696,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:4242:1337::_48",
                 "source": "DN42",
                 "mnt-by": "PANKY-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd42:4242:17::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:4242:17::_48",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242421842,
@@ -2794,6 +2834,14 @@
                 "mnt-by": "NETOM-MNT"
             },
             {
+                "asn": 4242420017,
+                "prefix": "fd44:8965:2e1c:2e76::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd44:8965:2e1c:2e76::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
                 "asn": 4242423620,
                 "prefix": "fd46:972a:903b::/48",
                 "maxPrefixLength": 64,
@@ -2840,6 +2888,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd4d:9197:24ee::_48",
                 "source": "DN42",
                 "mnt-by": "SPLITICE-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd4e:adda:1964:e293::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd4e:adda:1964:e293::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 64899,
@@ -3138,6 +3194,14 @@
                 "mnt-by": "SKUSAVI-MNT"
             },
             {
+                "asn": 4242420017,
+                "prefix": "fd5f:fd18:29d1:4f61::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5f:fd18:29d1:4f61::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
                 "asn": 4242423852,
                 "prefix": "fd62:172:23:125::/64",
                 "maxPrefixLength": 64,
@@ -3354,6 +3418,14 @@
                 "mnt-by": "KOOCHDOG-MNT"
             },
             {
+                "asn": 4242420017,
+                "prefix": "fd70:336f:17f6:3465::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd70:336f:17f6:3465::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
                 "asn": 4242423377,
                 "prefix": "fd70:3377::/48",
                 "maxPrefixLength": 64,
@@ -3384,6 +3456,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd71:07ce:bfbb::_48",
                 "source": "DN42",
                 "mnt-by": "LILLECARL-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd71:fd89:c4f0:6ea6::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd71:fd89:c4f0:6ea6::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242420140,
@@ -3480,6 +3560,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd79:3730:0cc6::_48",
                 "source": "DN42",
                 "mnt-by": "SCUTTLEBUG-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd79:f856:16d9:8882::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd79:f856:16d9:8882::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242423692,
@@ -3624,6 +3712,22 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd86:b4dc:4b1e::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd88:2e46:4b1c:5988::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd88:2e46:4b1c:5988::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd88:4903:4b9f:d66f::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd88:4903:4b9f:d66f::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242420448,
@@ -3792,6 +3896,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd97:4c4e:9d26::_48",
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "fd97:b8af:629c:7d45::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd97:b8af:629c:7d45::_64",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242423759,
@@ -5568,6 +5680,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfb:df0c:c64::_48",
                 "source": "DN42",
                 "mnt-by": "DEUT-MNT"
+            },
+            {
+                "asn": 4242421301,
+                "prefix": "fdfc:2689:117c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfc:2689:117c::_48",
+                "source": "DN42",
+                "mnt-by": "PONS-MNT"
             },
             {
                 "asn": 4242420020,
@@ -10786,6 +10906,22 @@
                 "mnt-by": "PF-MNT"
             },
             {
+                "asn": 4242421301,
+                "prefix": "172.21.74.32/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.74.32_28",
+                "source": "DN42",
+                "mnt-by": "PONS-MNT"
+            },
+            {
+                "asn": 4242421204,
+                "prefix": "172.21.74.48/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.74.48_28",
+                "source": "DN42",
+                "mnt-by": "PONS-MNT"
+            },
+            {
                 "asn": 4242421775,
                 "prefix": "172.21.74.64/27",
                 "maxPrefixLength": 28,
@@ -12120,6 +12256,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.239.0_24",
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
+            },
+            {
+                "asn": 4242420017,
+                "prefix": "172.22.240.128/25",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.240.128_25",
+                "source": "DN42",
+                "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
                 "asn": 4242423993,
