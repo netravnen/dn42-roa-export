@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "90de3d031ab153319f924dd53481c11fee669d5b",
-            "merge": "39846cd3 a06b1855",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 20 Aug 2019 18:31:33 +0000",
-            "subject": "Merge branch 'flobo-cleanup' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/90de3d031ab153319f924dd53481c11fee669d5b"
+            "commit": "e23dba60333cb4bfd34156006808bd705b511d3b",
+            "merge": "90de3d03 0ae0f318",
+            "author": "burble <simon@burble.com>",
+            "date": "Wed, 21 Aug 2019 16:41:29 +0000",
+            "subject": "Merge branch 'master' of nexus/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e23dba60333cb4bfd34156006808bd705b511d3b"
         }
     },
     "roas": [
@@ -3619,6 +3619,12 @@
         {
             "asn": "AS4242422287",
             "prefix": "fdcf:3c00:e001::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420813",
+            "prefix": "fdcf:7494:4f2c::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7783,6 +7789,12 @@
         {
             "asn": "AS4242420138",
             "prefix": "172.20.58.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420813",
+            "prefix": "172.20.58.160/27",
             "maxLength": 28,
             "ta": "DN42"
         },
