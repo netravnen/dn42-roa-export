@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "e23dba60333cb4bfd34156006808bd705b511d3b",
-            "merge": "90de3d03 0ae0f318",
-            "author": "burble <simon@burble.com>",
-            "date": "Wed, 21 Aug 2019 16:41:29 +0000",
-            "subject": "Merge branch 'master' of nexus/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e23dba60333cb4bfd34156006808bd705b511d3b"
+            "commit": "18b4c21567180ded2610e6582122b8594279e663",
+            "merge": "e23dba60 4f7786c6",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 21 Aug 2019 20:44:40 +0000",
+            "subject": "Merge branch 'master' of miska/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/18b4c21567180ded2610e6582122b8594279e663"
         }
     },
     "validationOutputFilters": {
@@ -1512,6 +1512,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:2606:32f4::_48",
                 "source": "DN42",
                 "mnt-by": "NULLROUTE-MNT"
+            },
+            {
+                "asn": 4242422882,
+                "prefix": "fd42:2882:2882::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:2882:2882::_48",
+                "source": "DN42",
+                "mnt-by": "MISKA-MNT"
             },
             {
                 "asn": 4242422935,
