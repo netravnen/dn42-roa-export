@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 18b4c21567180ded2610e6582122b8594279e663
-Merge: e23dba60 4f7786c6
+commit 03283b7ceacfd5a0f4f083e354835323ad8a813d
+Merge: 18b4c215 814d44a6
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Aug 21 20:44:40 2019 +0000
+Date:   Thu Aug 22 19:29:13 2019 +0000
 
-    Merge branch 'master' of miska/registry into master
+    Merge branch 'master' of florianb/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1019
-- ROAs IPv6:  733
-- ROAs total: 1752
+- ROAs IPv4:  1020
+- ROAs IPv6:  734
+- ROAs total: 1754
 
-[0]: https://git.dn42.us/dn42/registry/commit/18b4c21567180ded2610e6582122b8594279e663
+[0]: https://git.dn42.us/dn42/registry/commit/03283b7ceacfd5a0f4f083e354835323ad8a813d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

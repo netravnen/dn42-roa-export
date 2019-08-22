@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "18b4c21567180ded2610e6582122b8594279e663",
-            "merge": "e23dba60 4f7786c6",
+            "commit": "03283b7ceacfd5a0f4f083e354835323ad8a813d",
+            "merge": "18b4c215 814d44a6",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 21 Aug 2019 20:44:40 +0000",
-            "subject": "Merge branch 'master' of miska/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/18b4c21567180ded2610e6582122b8594279e663"
+            "date": "Thu, 22 Aug 2019 19:29:13 +0000",
+            "subject": "Merge branch 'master' of florianb/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/03283b7ceacfd5a0f4f083e354835323ad8a813d"
         }
     },
     "validationOutputFilters": {
@@ -4000,6 +4000,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd9d:5e08:b9f9:c3::_64",
                 "source": "CHAOSVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422228,
+                "prefix": "fd9e:2c7c:fea6::/47",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd9e:2c7c:fea6::_47",
+                "source": "DN42",
+                "mnt-by": "FLORIANB-MNT"
             },
             {
                 "asn": 4242423557,
@@ -10736,6 +10744,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.121.64_27",
                 "source": "DN42",
                 "mnt-by": "TIMK-MNT"
+            },
+            {
+                "asn": 4242422228,
+                "prefix": "172.21.125.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.125.0_26",
+                "source": "DN42",
+                "mnt-by": "FLORIANB-MNT"
             },
             {
                 "asn": 4242422053,
