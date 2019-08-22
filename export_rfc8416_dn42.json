@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "90de3d031ab153319f924dd53481c11fee669d5b",
-            "merge": "39846cd3 a06b1855",
+            "commit": "18b4c21567180ded2610e6582122b8594279e663",
+            "merge": "e23dba60 4f7786c6",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 20 Aug 2019 18:31:33 +0000",
-            "subject": "Merge branch 'flobo-cleanup' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/90de3d031ab153319f924dd53481c11fee669d5b"
+            "date": "Wed, 21 Aug 2019 20:44:40 +0000",
+            "subject": "Merge branch 'master' of miska/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/18b4c21567180ded2610e6582122b8594279e663"
         }
     },
     "validationOutputFilters": {
@@ -1512,6 +1512,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:2606:32f4::_48",
                 "source": "DN42",
                 "mnt-by": "NULLROUTE-MNT"
+            },
+            {
+                "asn": 4242422882,
+                "prefix": "fd42:2882:2882::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:2882:2882::_48",
+                "source": "DN42",
+                "mnt-by": "MISKA-MNT"
             },
             {
                 "asn": 4242422935,
@@ -4832,6 +4840,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdcf:3c00:e001::_48",
                 "source": "DN42",
                 "mnt-by": "PURRDETA-MNT"
+            },
+            {
+                "asn": 4242420813,
+                "prefix": "fdcf:7494:4f2c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdcf:7494:4f2c::_48",
+                "source": "DN42",
+                "mnt-by": "NEXUS-MNT"
             },
             {
                 "asn": 4242423914,
@@ -10384,6 +10400,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.58.128_27",
                 "source": "DN42",
                 "mnt-by": "HARDB1T-MNT"
+            },
+            {
+                "asn": 4242420813,
+                "prefix": "172.20.58.160/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.58.160_27",
+                "source": "DN42",
+                "mnt-by": "NEXUS-MNT"
             },
             {
                 "asn": 4242423904,

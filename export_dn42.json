@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "90de3d031ab153319f924dd53481c11fee669d5b",
-            "merge": "39846cd3 a06b1855",
+            "commit": "18b4c21567180ded2610e6582122b8594279e663",
+            "merge": "e23dba60 4f7786c6",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 20 Aug 2019 18:31:33 +0000",
-            "subject": "Merge branch 'flobo-cleanup' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/90de3d031ab153319f924dd53481c11fee669d5b"
+            "date": "Wed, 21 Aug 2019 20:44:40 +0000",
+            "subject": "Merge branch 'master' of miska/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/18b4c21567180ded2610e6582122b8594279e663"
         }
     },
     "roas": [
@@ -1129,6 +1129,12 @@
         {
             "asn": "AS206633",
             "prefix": "fd42:2606:32f4::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422882",
+            "prefix": "fd42:2882:2882::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -3619,6 +3625,12 @@
         {
             "asn": "AS4242422287",
             "prefix": "fdcf:3c00:e001::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420813",
+            "prefix": "fdcf:7494:4f2c::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7783,6 +7795,12 @@
         {
             "asn": "AS4242420138",
             "prefix": "172.20.58.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420813",
+            "prefix": "172.20.58.160/27",
             "maxLength": 28,
             "ta": "DN42"
         },

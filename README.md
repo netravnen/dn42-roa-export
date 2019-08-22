@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 90de3d031ab153319f924dd53481c11fee669d5b
-Merge: 39846cd3 a06b1855
+commit 18b4c21567180ded2610e6582122b8594279e663
+Merge: e23dba60 4f7786c6
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Aug 20 18:31:33 2019 +0000
+Date:   Wed Aug 21 20:44:40 2019 +0000
 
-    Merge branch 'flobo-cleanup' of dn42/registry into master
+    Merge branch 'master' of miska/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1018
-- ROAs IPv6:  731
-- ROAs total: 1749
+- ROAs IPv4:  1019
+- ROAs IPv6:  733
+- ROAs total: 1752
 
-[0]: https://git.dn42.us/dn42/registry/commit/90de3d031ab153319f924dd53481c11fee669d5b
+[0]: https://git.dn42.us/dn42/registry/commit/18b4c21567180ded2610e6582122b8594279e663
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
