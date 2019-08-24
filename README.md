@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 03283b7ceacfd5a0f4f083e354835323ad8a813d
-Merge: 18b4c215 814d44a6
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Aug 22 19:29:13 2019 +0000
+commit 7703dedcacde57443d16c133e876eb1ac5f084c9
+Merge: c24496cb 19844dbf
+Author: burble <simon@burble.com>
+Date:   Sat Aug 24 19:10:06 2019 +0000
 
-    Merge branch 'master' of florianb/registry into master
+    Merge branch 'master' of tobikris/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1020
-- ROAs IPv6:  734
-- ROAs total: 1754
+- ROAs IPv4:  1021
+- ROAs IPv6:  735
+- ROAs total: 1756
 
-[0]: https://git.dn42.us/dn42/registry/commit/03283b7ceacfd5a0f4f083e354835323ad8a813d
+[0]: https://git.dn42.us/dn42/registry/commit/7703dedcacde57443d16c133e876eb1ac5f084c9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
