@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7703dedcacde57443d16c133e876eb1ac5f084c9
-Merge: c24496cb 19844dbf
+commit 1ef87904df3a860268385aa068be6f612dc4840e
+Merge: 20518584 a3756965
 Author: burble <simon@burble.com>
-Date:   Sat Aug 24 19:10:06 2019 +0000
+Date:   Sun Aug 25 09:34:22 2019 +0000
 
-    Merge branch 'master' of tobikris/registry into master
+    Merge branch 'master' of Tharyrok/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1021
-- ROAs IPv6:  735
-- ROAs total: 1756
+- ROAs IPv4:  1023
+- ROAs IPv6:  737
+- ROAs total: 1760
 
-[0]: https://git.dn42.us/dn42/registry/commit/7703dedcacde57443d16c133e876eb1ac5f084c9
+[0]: https://git.dn42.us/dn42/registry/commit/1ef87904df3a860268385aa068be6f612dc4840e
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
