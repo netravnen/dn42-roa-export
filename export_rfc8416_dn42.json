@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "1ef87904df3a860268385aa068be6f612dc4840e",
-            "merge": "20518584 a3756965",
+            "commit": "4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f",
+            "merge": "1ef87904 a2f79de8",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 25 Aug 2019 09:34:22 +0000",
-            "subject": "Merge branch 'master' of Tharyrok/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1ef87904df3a860268385aa068be6f612dc4840e"
+            "date": "Fri, 30 Aug 2019 21:31:53 +0000",
+            "subject": "Merge branch 'psyke-robo6-ip4' of flokli/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f"
         }
     },
     "validationOutputFilters": {

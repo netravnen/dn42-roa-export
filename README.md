@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 1ef87904df3a860268385aa068be6f612dc4840e
-Merge: 20518584 a3756965
+commit 4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f
+Merge: 1ef87904 a2f79de8
 Author: burble <simon@burble.com>
-Date:   Sun Aug 25 09:34:22 2019 +0000
+Date:   Fri Aug 30 21:31:53 2019 +0000
 
-    Merge branch 'master' of Tharyrok/registry into master
+    Merge branch 'psyke-robo6-ip4' of flokli/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  737
 - ROAs total: 1760
 
-[0]: https://git.dn42.us/dn42/registry/commit/1ef87904df3a860268385aa068be6f612dc4840e
+[0]: https://git.dn42.us/dn42/registry/commit/4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
