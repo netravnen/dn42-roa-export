@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f
-Merge: 1ef87904 a2f79de8
+commit e602a71cb92704ab32694c4239f20f82860d829a
+Merge: 4652ed31 821ea7b6
 Author: burble <simon@burble.com>
-Date:   Fri Aug 30 21:31:53 2019 +0000
+Date:   Sun Sep 1 18:08:59 2019 +0000
 
-    Merge branch 'psyke-robo6-ip4' of flokli/registry into master
+    Merge branch 'master' of cap/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1023
-- ROAs IPv6:  737
-- ROAs total: 1760
+- ROAs IPv4:  1024
+- ROAs IPv6:  738
+- ROAs total: 1762
 
-[0]: https://git.dn42.us/dn42/registry/commit/4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f
+[0]: https://git.dn42.us/dn42/registry/commit/e602a71cb92704ab32694c4239f20f82860d829a
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f",
-            "merge": "1ef87904 a2f79de8",
+            "commit": "e602a71cb92704ab32694c4239f20f82860d829a",
+            "merge": "4652ed31 821ea7b6",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 30 Aug 2019 21:31:53 +0000",
-            "subject": "Merge branch 'psyke-robo6-ip4' of flokli/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4652ed319f4693e6ad8ce9bc7ba1c7f0b3dc663f"
+            "date": "Sun, 1 Sep 2019 18:08:59 +0000",
+            "subject": "Merge branch 'master' of cap/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e602a71cb92704ab32694c4239f20f82860d829a"
         }
     },
     "roas": [
@@ -3235,6 +3235,12 @@
         {
             "asn": "AS4242421050",
             "prefix": "fda9:26a9:1c47::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421632",
+            "prefix": "fdaa:bad:ca75::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -9043,6 +9049,12 @@
         {
             "asn": "AS4242421707",
             "prefix": "172.22.160.16/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421632",
+            "prefix": "172.22.160.32/28",
             "maxLength": "28",
             "ta": "DN42"
         },
