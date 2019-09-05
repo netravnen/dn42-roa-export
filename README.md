@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e602a71cb92704ab32694c4239f20f82860d829a
-Merge: 4652ed31 821ea7b6
-Author: burble <simon@burble.com>
-Date:   Sun Sep 1 18:08:59 2019 +0000
+commit aede89beb951f9fb820b5ba96170a6821e11abcf
+Merge: 2f56e736 5ae619d9
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Thu Sep 5 19:11:10 2019 +0000
 
-    Merge branch 'master' of cap/registry into master
+    Merge branch 'master' of zx1239856/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1024
-- ROAs IPv6:  738
-- ROAs total: 1762
+- ROAs IPv4:  1026
+- ROAs IPv6:  740
+- ROAs total: 1766
 
-[0]: https://git.dn42.us/dn42/registry/commit/e602a71cb92704ab32694c4239f20f82860d829a
+[0]: https://git.dn42.us/dn42/registry/commit/aede89beb951f9fb820b5ba96170a6821e11abcf
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
