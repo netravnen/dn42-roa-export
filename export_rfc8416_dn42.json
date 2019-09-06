@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "aede89beb951f9fb820b5ba96170a6821e11abcf",
-            "merge": "2f56e736 5ae619d9",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 5 Sep 2019 19:11:10 +0000",
-            "subject": "Merge branch 'master' of zx1239856/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aede89beb951f9fb820b5ba96170a6821e11abcf"
+            "commit": "4ad06379bbb68ba9221518fbbe6e587791ed03d8",
+            "merge": "aede89be dedeb011",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 6 Sep 2019 18:40:12 +0000",
+            "subject": "Merge branch 'protocon-objects' of protoCall7/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4ad06379bbb68ba9221518fbbe6e587791ed03d8"
         }
     },
     "validationOutputFilters": {
@@ -392,6 +392,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd0a:3599:3930::_48",
                 "source": "DN42",
                 "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 4242421275,
+                "prefix": "fd0c:70b0:1c7d::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd0c:70b0:1c7d::_48",
+                "source": "DN42",
+                "mnt-by": "PROTOCON-MNT"
             },
             {
                 "asn": 64864,
@@ -9088,6 +9096,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.191.64_27",
                 "source": "DN42",
                 "mnt-by": "TCDUE-MNT"
+            },
+            {
+                "asn": 4242421275,
+                "prefix": "172.20.191.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.191.96_27",
+                "source": "DN42",
+                "mnt-by": "PROTOCON-MNT"
             },
             {
                 "asn": 4242420115,

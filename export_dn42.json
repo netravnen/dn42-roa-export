@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "aede89beb951f9fb820b5ba96170a6821e11abcf",
-            "merge": "2f56e736 5ae619d9",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 5 Sep 2019 19:11:10 +0000",
-            "subject": "Merge branch 'master' of zx1239856/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aede89beb951f9fb820b5ba96170a6821e11abcf"
+            "commit": "4ad06379bbb68ba9221518fbbe6e587791ed03d8",
+            "merge": "aede89be dedeb011",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 6 Sep 2019 18:40:12 +0000",
+            "subject": "Merge branch 'protocon-objects' of protoCall7/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4ad06379bbb68ba9221518fbbe6e587791ed03d8"
         }
     },
     "roas": [
@@ -290,6 +290,12 @@
             "asn": "AS4242421237",
             "prefix": "fd0a:3599:3930::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421275",
+            "prefix": "fd0c:70b0:1c7d::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -6811,6 +6817,12 @@
         {
             "asn": "AS4242420191",
             "prefix": "172.20.191.64/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421275",
+            "prefix": "172.20.191.96/27",
             "maxLength": 28,
             "ta": "DN42"
         },
