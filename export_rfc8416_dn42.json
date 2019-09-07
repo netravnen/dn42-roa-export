@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "4ad06379bbb68ba9221518fbbe6e587791ed03d8",
-            "merge": "aede89be dedeb011",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 6 Sep 2019 18:40:12 +0000",
-            "subject": "Merge branch 'protocon-objects' of protoCall7/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4ad06379bbb68ba9221518fbbe6e587791ed03d8"
+            "commit": "278d0886014d116a86568648b9305982c0d5d2f3",
+            "merge": "4ad06379 084d9aa5",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 7 Sep 2019 16:43:39 +0000",
+            "subject": "Merge branch 'master' of santost12/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/278d0886014d116a86568648b9305982c0d5d2f3"
         }
     },
     "validationOutputFilters": {
@@ -912,6 +912,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd2f:5119:f2c::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420811,
+                "prefix": "fd2f:bcd0:d600::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd2f:bcd0:d600::_48",
+                "source": "DN42",
+                "mnt-by": "SANTOST12-MNT"
             },
             {
                 "asn": 4242422626,
@@ -8488,6 +8496,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.162.64_26",
                 "source": "DN42",
                 "mnt-by": "TECH9-MNT"
+            },
+            {
+                "asn": 4242420811,
+                "prefix": "172.20.162.8/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.162.8_29",
+                "source": "DN42",
+                "mnt-by": "SANTOST12-MNT"
             },
             {
                 "asn": 4242423645,

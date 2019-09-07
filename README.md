@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4ad06379bbb68ba9221518fbbe6e587791ed03d8
-Merge: aede89be dedeb011
-Author: burble <simon@burble.com>
-Date:   Fri Sep 6 18:40:12 2019 +0000
+commit 278d0886014d116a86568648b9305982c0d5d2f3
+Merge: 4ad06379 084d9aa5
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Sat Sep 7 16:43:39 2019 +0000
 
-    Merge branch 'protocon-objects' of protoCall7/registry into master
+    Merge branch 'master' of santost12/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1027
-- ROAs IPv6:  741
-- ROAs total: 1768
+- ROAs IPv4:  1028
+- ROAs IPv6:  742
+- ROAs total: 1770
 
-[0]: https://git.dn42.us/dn42/registry/commit/4ad06379bbb68ba9221518fbbe6e587791ed03d8
+[0]: https://git.dn42.us/dn42/registry/commit/278d0886014d116a86568648b9305982c0d5d2f3
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
