@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 278d0886014d116a86568648b9305982c0d5d2f3
-Merge: 4ad06379 084d9aa5
+commit 8122101cca19521183c5c1190bb750fdb6d23800
+Merge: 278d0886 c01cadbb
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Sep 7 16:43:39 2019 +0000
+Date:   Sun Sep 8 14:49:19 2019 +0000
 
-    Merge branch 'master' of santost12/registry into master
+    Merge branch 'master' of xs4me/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  742
 - ROAs total: 1770
 
-[0]: https://git.dn42.us/dn42/registry/commit/278d0886014d116a86568648b9305982c0d5d2f3
+[0]: https://git.dn42.us/dn42/registry/commit/8122101cca19521183c5c1190bb750fdb6d23800
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
