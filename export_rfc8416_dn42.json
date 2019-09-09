@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "8122101cca19521183c5c1190bb750fdb6d23800",
-            "merge": "278d0886 c01cadbb",
+            "commit": "0e6fb31942c362d49fb038557c58d95748e2d056",
+            "merge": "8122101c ed81f505",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 8 Sep 2019 14:49:19 +0000",
-            "subject": "Merge branch 'master' of xs4me/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8122101cca19521183c5c1190bb750fdb6d23800"
+            "date": "Sun, 8 Sep 2019 19:34:30 +0000",
+            "subject": "Merge branch 'master' of den/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0e6fb31942c362d49fb038557c58d95748e2d056"
         }
     },
     "validationOutputFilters": {
@@ -392,6 +392,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd0a:3599:3930::_48",
                 "source": "DN42",
                 "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 65099,
+                "prefix": "fd0a:d928:b30d::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd0a:d928:b30d::_48",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
             },
             {
                 "asn": 4242421275,
@@ -8288,6 +8296,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.154.0_26",
                 "source": "DN42",
                 "mnt-by": "TDS-MNT"
+            },
+            {
+                "asn": 4242423221,
+                "prefix": "172.20.154.64/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.154.64_28",
+                "source": "DN42",
+                "mnt-by": "PN-MNT"
             },
             {
                 "asn": 4242423435,
