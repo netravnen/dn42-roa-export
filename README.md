@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0e6fb31942c362d49fb038557c58d95748e2d056
-Merge: 8122101c ed81f505
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Sep 8 19:34:30 2019 +0000
+commit 65fcdaa1abc92ac31f21c3efcf01539039bbc8ea
+Merge: 3e96cbbb 17a5711e
+Author: burble <simon@burble.com>
+Date:   Tue Sep 10 07:26:20 2019 +0000
 
-    Merge branch 'master' of den/registry into master
+    Merge branch 'master' of KayMW/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1029
-- ROAs IPv6:  743
-- ROAs total: 1772
+- ROAs IPv4:  1030
+- ROAs IPv6:  744
+- ROAs total: 1774
 
-[0]: https://git.dn42.us/dn42/registry/commit/0e6fb31942c362d49fb038557c58d95748e2d056
+[0]: https://git.dn42.us/dn42/registry/commit/65fcdaa1abc92ac31f21c3efcf01539039bbc8ea
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

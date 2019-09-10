@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0e6fb31942c362d49fb038557c58d95748e2d056",
-            "merge": "8122101c ed81f505",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 8 Sep 2019 19:34:30 +0000",
-            "subject": "Merge branch 'master' of den/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0e6fb31942c362d49fb038557c58d95748e2d056"
+            "commit": "65fcdaa1abc92ac31f21c3efcf01539039bbc8ea",
+            "merge": "3e96cbbb 17a5711e",
+            "author": "burble <simon@burble.com>",
+            "date": "Tue, 10 Sep 2019 07:26:20 +0000",
+            "subject": "Merge branch 'master' of KayMW/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/65fcdaa1abc92ac31f21c3efcf01539039bbc8ea"
         }
     },
     "roas": [
@@ -506,6 +506,12 @@
             "asn": "AS4242420110",
             "prefix": "fd22:0622:1f6c::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421514",
+            "prefix": "fd22:cf08:697b::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -7928,6 +7934,12 @@
             "asn": "AS4242420527",
             "prefix": "172.20.59.0/26",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421514",
+            "prefix": "172.20.59.128/28",
+            "maxLength": "28",
             "ta": "DN42"
         },
         {
