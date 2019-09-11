@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit bc55b790c973a6f4638e15942800216b43941175
-Merge: 65fcdaa1 f93d44a8
-Author: burble <simon@burble.com>
-Date:   Tue Sep 10 19:21:25 2019 +0000
+commit d72deac84fe3e1f1a26ff48979c5539ac8bf7faa
+Merge: b6470d78 a20a8d48
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Wed Sep 11 18:50:44 2019 +0000
 
-    Merge branch 'master' of dalun/registry into master
+    Merge branch 'AS4242420144/transfer_net' of netravnen/dn42-registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1031
+- ROAs IPv4:  1032
 - ROAs IPv6:  745
-- ROAs total: 1776
+- ROAs total: 1777
 
-[0]: https://git.dn42.us/dn42/registry/commit/bc55b790c973a6f4638e15942800216b43941175
+[0]: https://git.dn42.us/dn42/registry/commit/d72deac84fe3e1f1a26ff48979c5539ac8bf7faa
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
