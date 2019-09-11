@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "65fcdaa1abc92ac31f21c3efcf01539039bbc8ea",
-            "merge": "3e96cbbb 17a5711e",
+            "commit": "bc55b790c973a6f4638e15942800216b43941175",
+            "merge": "65fcdaa1 f93d44a8",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 10 Sep 2019 07:26:20 +0000",
-            "subject": "Merge branch 'master' of KayMW/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/65fcdaa1abc92ac31f21c3efcf01539039bbc8ea"
+            "date": "Tue, 10 Sep 2019 19:21:25 +0000",
+            "subject": "Merge branch 'master' of dalun/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/bc55b790c973a6f4638e15942800216b43941175"
         }
     },
     "roas": [
@@ -2744,6 +2744,12 @@
             "asn": "AS4242423404",
             "prefix": "fd7b:9886:1c8c::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421256",
+            "prefix": "fd7c:9293:9293::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -8659,6 +8665,12 @@
         {
             "asn": "AS4242421985",
             "prefix": "172.22.114.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421256",
+            "prefix": "172.22.115.0/25",
             "maxLength": 28,
             "ta": "DN42"
         },

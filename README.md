@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 65fcdaa1abc92ac31f21c3efcf01539039bbc8ea
-Merge: 3e96cbbb 17a5711e
+commit bc55b790c973a6f4638e15942800216b43941175
+Merge: 65fcdaa1 f93d44a8
 Author: burble <simon@burble.com>
-Date:   Tue Sep 10 07:26:20 2019 +0000
+Date:   Tue Sep 10 19:21:25 2019 +0000
 
-    Merge branch 'master' of KayMW/registry into master
+    Merge branch 'master' of dalun/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1030
-- ROAs IPv6:  744
-- ROAs total: 1774
+- ROAs IPv4:  1031
+- ROAs IPv6:  745
+- ROAs total: 1776
 
-[0]: https://git.dn42.us/dn42/registry/commit/65fcdaa1abc92ac31f21c3efcf01539039bbc8ea
+[0]: https://git.dn42.us/dn42/registry/commit/bc55b790c973a6f4638e15942800216b43941175
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
