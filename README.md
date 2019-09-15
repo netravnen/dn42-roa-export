@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d72deac84fe3e1f1a26ff48979c5539ac8bf7faa
-Merge: b6470d78 a20a8d48
+commit 6ba1d3df5a8c5c05b8ed8e7bdad1c1c0877bb7a4
+Merge: d72deac8 a69a59c5
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Sep 11 18:50:44 2019 +0000
+Date:   Sun Sep 15 09:21:23 2019 +0000
 
-    Merge branch 'AS4242420144/transfer_net' of netravnen/dn42-registry into master
+    Merge branch 'master' of aljama/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1032
+- ROAs IPv4:  1033
 - ROAs IPv6:  745
-- ROAs total: 1777
+- ROAs total: 1778
 
-[0]: https://git.dn42.us/dn42/registry/commit/d72deac84fe3e1f1a26ff48979c5539ac8bf7faa
+[0]: https://git.dn42.us/dn42/registry/commit/6ba1d3df5a8c5c05b8ed8e7bdad1c1c0877bb7a4
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
