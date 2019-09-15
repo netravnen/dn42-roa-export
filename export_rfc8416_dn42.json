@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "6ba1d3df5a8c5c05b8ed8e7bdad1c1c0877bb7a4",
-            "merge": "d72deac8 a69a59c5",
+            "commit": "7dd71f58e151709077e8ec6e79b498b7f02d530d",
+            "merge": "6ba1d3df fbe4d73c",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 15 Sep 2019 09:21:23 +0000",
-            "subject": "Merge branch 'master' of aljama/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6ba1d3df5a8c5c05b8ed8e7bdad1c1c0877bb7a4"
+            "date": "Sun, 15 Sep 2019 17:36:57 +0000",
+            "subject": "Merge branch 'master' of Splash/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7dd71f58e151709077e8ec6e79b498b7f02d530d"
         }
     },
     "validationOutputFilters": {

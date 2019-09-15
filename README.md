@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 6ba1d3df5a8c5c05b8ed8e7bdad1c1c0877bb7a4
-Merge: d72deac8 a69a59c5
+commit 7dd71f58e151709077e8ec6e79b498b7f02d530d
+Merge: 6ba1d3df fbe4d73c
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Sep 15 09:21:23 2019 +0000
+Date:   Sun Sep 15 17:36:57 2019 +0000
 
-    Merge branch 'master' of aljama/registry into master
+    Merge branch 'master' of Splash/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  745
 - ROAs total: 1778
 
-[0]: https://git.dn42.us/dn42/registry/commit/6ba1d3df5a8c5c05b8ed8e7bdad1c1c0877bb7a4
+[0]: https://git.dn42.us/dn42/registry/commit/7dd71f58e151709077e8ec6e79b498b7f02d530d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
