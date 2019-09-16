@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7dd71f58e151709077e8ec6e79b498b7f02d530d
-Merge: 6ba1d3df fbe4d73c
+commit ac5412b84a2dd177d441bc7753b7db4d1876db71
+Merge: 7dd71f58 a8baefd1
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Sep 15 17:36:57 2019 +0000
+Date:   Mon Sep 16 16:32:20 2019 +0000
 
-    Merge branch 'master' of Splash/registry into master
+    Merge branch 'master' of r33int/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1033
-- ROAs IPv6:  745
-- ROAs total: 1778
+- ROAs IPv4:  1034
+- ROAs IPv6:  746
+- ROAs total: 1780
 
-[0]: https://git.dn42.us/dn42/registry/commit/7dd71f58e151709077e8ec6e79b498b7f02d530d
+[0]: https://git.dn42.us/dn42/registry/commit/ac5412b84a2dd177d441bc7753b7db4d1876db71
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
