@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "ac5412b84a2dd177d441bc7753b7db4d1876db71",
-            "merge": "7dd71f58 a8baefd1",
+            "commit": "d9cfe19e37039a35d9a163f955b132a353fc67ac",
+            "merge": "56398ed5 767f74b4",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 16 Sep 2019 16:32:20 +0000",
-            "subject": "Merge branch 'master' of r33int/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ac5412b84a2dd177d441bc7753b7db4d1876db71"
+            "date": "Tue, 17 Sep 2019 18:27:50 +0000",
+            "subject": "Merge branch 'asn-new' of xs4me/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d9cfe19e37039a35d9a163f955b132a353fc67ac"
         }
     },
     "roas": [
@@ -476,6 +476,12 @@
             "asn": "AS4242420017",
             "prefix": "fd1d:62fd:3f4c:a247::/64",
             "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420488",
+            "prefix": "fd1d:8832:3c69::/48",
+            "maxLength": 64,
             "ta": "DN42"
         },
         {
@@ -3719,6 +3725,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242421508",
+            "prefix": "fdcf:de54:13ef::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423843",
             "prefix": "fdd0:c468:8eb1::/48",
             "maxLength": 64,
@@ -6617,6 +6629,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242421508",
+            "prefix": "172.20.175.96/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421340",
             "prefix": "172.20.176.0/24",
             "maxLength": 28,
@@ -7249,6 +7267,12 @@
         {
             "asn": "AS4242422440",
             "prefix": "172.20.229.96/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420488",
+            "prefix": "172.20.231.16/28",
             "maxLength": "28",
             "ta": "DN42"
         },

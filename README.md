@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit ac5412b84a2dd177d441bc7753b7db4d1876db71
-Merge: 7dd71f58 a8baefd1
+commit d9cfe19e37039a35d9a163f955b132a353fc67ac
+Merge: 56398ed5 767f74b4
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Sep 16 16:32:20 2019 +0000
+Date:   Tue Sep 17 18:27:50 2019 +0000
 
-    Merge branch 'master' of r33int/registry into master
+    Merge branch 'asn-new' of xs4me/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1034
-- ROAs IPv6:  746
-- ROAs total: 1780
+- ROAs IPv4:  1036
+- ROAs IPv6:  748
+- ROAs total: 1784
 
-[0]: https://git.dn42.us/dn42/registry/commit/ac5412b84a2dd177d441bc7753b7db4d1876db71
+[0]: https://git.dn42.us/dn42/registry/commit/d9cfe19e37039a35d9a163f955b132a353fc67ac
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

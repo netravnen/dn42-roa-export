@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "ac5412b84a2dd177d441bc7753b7db4d1876db71",
-            "merge": "7dd71f58 a8baefd1",
+            "commit": "d9cfe19e37039a35d9a163f955b132a353fc67ac",
+            "merge": "56398ed5 767f74b4",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 16 Sep 2019 16:32:20 +0000",
-            "subject": "Merge branch 'master' of r33int/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ac5412b84a2dd177d441bc7753b7db4d1876db71"
+            "date": "Tue, 17 Sep 2019 18:27:50 +0000",
+            "subject": "Merge branch 'asn-new' of xs4me/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d9cfe19e37039a35d9a163f955b132a353fc67ac"
         }
     },
     "validationOutputFilters": {
@@ -640,6 +640,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd1d:62fd:3f4c:a247::_64",
                 "source": "DN42",
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
+                "asn": 4242420488,
+                "prefix": "fd1d:8832:3c69::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd1d:8832:3c69::_48",
+                "source": "DN42",
+                "mnt-by": "CK-MNT"
             },
             {
                 "asn": 4242421976,
@@ -4962,6 +4970,14 @@
                 "mnt-by": "KIOUBIT-MNT"
             },
             {
+                "asn": 4242421508,
+                "prefix": "fdcf:de54:13ef::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdcf:de54:13ef::_48",
+                "source": "DN42",
+                "mnt-by": "SKID-MNT"
+            },
+            {
                 "asn": 4242423843,
                 "prefix": "fdd0:c468:8eb1::/48",
                 "maxPrefixLength": 64,
@@ -8826,6 +8842,14 @@
                 "mnt-by": "QSX-MNT"
             },
             {
+                "asn": 4242421508,
+                "prefix": "172.20.175.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.175.96_27",
+                "source": "DN42",
+                "mnt-by": "SKID-MNT"
+            },
+            {
                 "asn": 4242421340,
                 "prefix": "172.20.176.0/24",
                 "maxPrefixLength": 28,
@@ -9672,6 +9696,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.229.96_28",
                 "source": "DN42",
                 "mnt-by": "SABERNET-MNT"
+            },
+            {
+                "asn": 4242420488,
+                "prefix": "172.20.231.16/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.231.16_28",
+                "source": "DN42",
+                "mnt-by": "CK-MNT"
             },
             {
                 "asn": 4242421233,
