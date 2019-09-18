@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "d9cfe19e37039a35d9a163f955b132a353fc67ac",
-            "merge": "56398ed5 767f74b4",
+            "commit": "a6331ae8b31579d208ada40faf16a1efc309d01a",
+            "merge": "d9cfe19e 038d0b67",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 17 Sep 2019 18:27:50 +0000",
-            "subject": "Merge branch 'asn-new' of xs4me/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d9cfe19e37039a35d9a163f955b132a353fc67ac"
+            "date": "Wed, 18 Sep 2019 15:56:14 +0000",
+            "subject": "Merge branch 'master' of xs4me/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a6331ae8b31579d208ada40faf16a1efc309d01a"
         }
     },
     "roas": [
