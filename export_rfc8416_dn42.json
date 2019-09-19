@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "a6331ae8b31579d208ada40faf16a1efc309d01a",
-            "merge": "d9cfe19e 038d0b67",
+            "commit": "8e551198018c31fefb0834e5de41a4719ff814d2",
+            "merge": "a6331ae8 741d6c4d",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 18 Sep 2019 15:56:14 +0000",
-            "subject": "Merge branch 'master' of xs4me/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a6331ae8b31579d208ada40faf16a1efc309d01a"
+            "date": "Wed, 18 Sep 2019 20:07:13 +0000",
+            "subject": "Merge branch 'master' of rmlhuk/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8e551198018c31fefb0834e5de41a4719ff814d2"
         }
     },
     "validationOutputFilters": {
@@ -4392,6 +4392,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda9:26a9:1c47::_48",
                 "source": "DN42",
                 "mnt-by": "NAPSTERBATER-MNT"
+            },
+            {
+                "asn": 4242422058,
+                "prefix": "fdaa:243c:4101::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdaa:243c:4101::_48",
+                "source": "DN42",
+                "mnt-by": "RMLHUK-MNT"
             },
             {
                 "asn": 4242421632,
@@ -10928,6 +10936,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.118.0_25",
                 "source": "DN42",
                 "mnt-by": "ZLD-MNT"
+            },
+            {
+                "asn": 4242422058,
+                "prefix": "172.21.120.0/24",
+                "maxPrefixLength": 27,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.120.0_24",
+                "source": "DN42",
+                "mnt-by": "RMLHUK-MNT"
             },
             {
                 "asn": 4242423975,

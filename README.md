@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit a6331ae8b31579d208ada40faf16a1efc309d01a
-Merge: d9cfe19e 038d0b67
+commit 8e551198018c31fefb0834e5de41a4719ff814d2
+Merge: a6331ae8 741d6c4d
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Sep 18 15:56:14 2019 +0000
+Date:   Wed Sep 18 20:07:13 2019 +0000
 
-    Merge branch 'master' of xs4me/registry into master
+    Merge branch 'master' of rmlhuk/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1036
-- ROAs IPv6:  748
-- ROAs total: 1784
+- ROAs IPv4:  1037
+- ROAs IPv6:  749
+- ROAs total: 1786
 
-[0]: https://git.dn42.us/dn42/registry/commit/a6331ae8b31579d208ada40faf16a1efc309d01a
+[0]: https://git.dn42.us/dn42/registry/commit/8e551198018c31fefb0834e5de41a4719ff814d2
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
