@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "8e551198018c31fefb0834e5de41a4719ff814d2",
-            "merge": "a6331ae8 741d6c4d",
+            "commit": "f27c98bcb363d952c225eee253db6e52b8a5f288",
+            "merge": "8e551198 889111b6",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 18 Sep 2019 20:07:13 +0000",
-            "subject": "Merge branch 'master' of rmlhuk/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8e551198018c31fefb0834e5de41a4719ff814d2"
+            "date": "Sat, 21 Sep 2019 21:03:10 +0000",
+            "subject": "Merge branch 'master' of cuechan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f27c98bcb363d952c225eee253db6e52b8a5f288"
         }
     },
     "roas": [
@@ -1249,6 +1249,12 @@
         {
             "asn": "AS4242420870",
             "prefix": "fd42:2b13:a29c::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420162",
+            "prefix": "fd42:2feb:5536::/48",
             "maxLength": 64,
             "ta": "DN42"
         },

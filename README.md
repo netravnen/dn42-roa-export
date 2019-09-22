@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8e551198018c31fefb0834e5de41a4719ff814d2
-Merge: a6331ae8 741d6c4d
+commit f27c98bcb363d952c225eee253db6e52b8a5f288
+Merge: 8e551198 889111b6
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Sep 18 20:07:13 2019 +0000
+Date:   Sat Sep 21 21:03:10 2019 +0000
 
-    Merge branch 'master' of rmlhuk/registry into master
+    Merge branch 'master' of cuechan/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1037
-- ROAs IPv6:  749
-- ROAs total: 1786
+- ROAs IPv6:  750
+- ROAs total: 1787
 
-[0]: https://git.dn42.us/dn42/registry/commit/8e551198018c31fefb0834e5de41a4719ff814d2
+[0]: https://git.dn42.us/dn42/registry/commit/f27c98bcb363d952c225eee253db6e52b8a5f288
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
