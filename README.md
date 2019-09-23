@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f27c98bcb363d952c225eee253db6e52b8a5f288
-Merge: 8e551198 889111b6
+commit f38c77347b07e7f7d296db323efbba5dbadc74f0
+Merge: f27c98bc fd652dc6
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Sep 21 21:03:10 2019 +0000
+Date:   Sun Sep 22 21:08:49 2019 +0000
 
-    Merge branch 'master' of cuechan/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  750
 - ROAs total: 1787
 
-[0]: https://git.dn42.us/dn42/registry/commit/f27c98bcb363d952c225eee253db6e52b8a5f288
+[0]: https://git.dn42.us/dn42/registry/commit/f38c77347b07e7f7d296db323efbba5dbadc74f0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
