@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f38c77347b07e7f7d296db323efbba5dbadc74f0
-Merge: f27c98bc fd652dc6
+commit dd20ae3b8bbb82cf9aa9549ea0d60431341d13f4
+Merge: f38c7734 6e7951ed
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Sep 22 21:08:49 2019 +0000
+Date:   Mon Sep 23 16:37:49 2019 +0000
 
-    Merge branch 'master' of burble/registry into master
+    Merge branch 'master' of okazdal/skrtm into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1037
-- ROAs IPv6:  750
-- ROAs total: 1787
+- ROAs IPv4:  1038
+- ROAs IPv6:  751
+- ROAs total: 1789
 
-[0]: https://git.dn42.us/dn42/registry/commit/f38c77347b07e7f7d296db323efbba5dbadc74f0
+[0]: https://git.dn42.us/dn42/registry/commit/dd20ae3b8bbb82cf9aa9549ea0d60431341d13f4
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

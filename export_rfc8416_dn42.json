@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f38c77347b07e7f7d296db323efbba5dbadc74f0",
-            "merge": "f27c98bc fd652dc6",
+            "commit": "dd20ae3b8bbb82cf9aa9549ea0d60431341d13f4",
+            "merge": "f38c7734 6e7951ed",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 22 Sep 2019 21:08:49 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f38c77347b07e7f7d296db323efbba5dbadc74f0"
+            "date": "Mon, 23 Sep 2019 16:37:49 +0000",
+            "subject": "Merge branch 'master' of okazdal/skrtm into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dd20ae3b8bbb82cf9aa9549ea0d60431341d13f4"
         }
     },
     "validationOutputFilters": {
@@ -4096,6 +4096,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd9e:2c7c:fea6::_47",
                 "source": "DN42",
                 "mnt-by": "FLORIANB-MNT"
+            },
+            {
+                "asn": 4242422251,
+                "prefix": "fd9e:e609:dde2::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd9e:e609:dde2::_48",
+                "source": "DN42",
+                "mnt-by": "SKRTM-MNT"
             },
             {
                 "asn": 4242423557,
@@ -9368,6 +9376,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.2.64_27",
                 "source": "DN42",
                 "mnt-by": "ALANJCASTONGUAY-MNT"
+            },
+            {
+                "asn": 4242422251,
+                "prefix": "172.20.2.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.2.96_27",
+                "source": "DN42",
+                "mnt-by": "SKRTM-MNT"
             },
             {
                 "asn": 4242423389,
