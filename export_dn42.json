@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0a0b6a3154260d0f266eadcf15a7b79458aa8956",
-            "merge": "ec37a49b 98147969",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 23 Sep 2019 20:12:50 +0000",
-            "subject": "Merge branch 'master' of r33int/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0a0b6a3154260d0f266eadcf15a7b79458aa8956"
+            "commit": "1a76e78b0de27f1efde324593551dffdf3ab36e5",
+            "merge": "0a0b6a31 09a5f4c4",
+            "author": "burble <simon@burble.com>",
+            "date": "Tue, 24 Sep 2019 17:31:46 +0000",
+            "subject": "Merge branch 'master' of milos/registry-fvpn into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1a76e78b0de27f1efde324593551dffdf3ab36e5"
         }
     },
     "roas": [
@@ -3457,6 +3457,12 @@
         {
             "asn": "AS4242422547",
             "prefix": "fdbc:f9dc:67ad::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420528",
+            "prefix": "fdbd:329d:c58a::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8149,6 +8155,12 @@
         {
             "asn": "AS4242421656",
             "prefix": "172.21.101.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420528",
+            "prefix": "172.21.101.32/27",
             "maxLength": 28,
             "ta": "DN42"
         },
