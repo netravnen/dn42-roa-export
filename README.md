@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit dd20ae3b8bbb82cf9aa9549ea0d60431341d13f4
-Merge: f38c7734 6e7951ed
+commit 0a0b6a3154260d0f266eadcf15a7b79458aa8956
+Merge: ec37a49b 98147969
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Mon Sep 23 16:37:49 2019 +0000
+Date:   Mon Sep 23 20:12:50 2019 +0000
 
-    Merge branch 'master' of okazdal/skrtm into master
+    Merge branch 'master' of r33int/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  751
 - ROAs total: 1789
 
-[0]: https://git.dn42.us/dn42/registry/commit/dd20ae3b8bbb82cf9aa9549ea0d60431341d13f4
+[0]: https://git.dn42.us/dn42/registry/commit/0a0b6a3154260d0f266eadcf15a7b79458aa8956
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
