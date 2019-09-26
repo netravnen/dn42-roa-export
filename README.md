@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 1a76e78b0de27f1efde324593551dffdf3ab36e5
-Merge: 0a0b6a31 09a5f4c4
-Author: burble <simon@burble.com>
-Date:   Tue Sep 24 17:31:46 2019 +0000
+commit 9edf105ce2e472ddb575607f7ba95b52913cd59e
+Merge: c4655315 f8894173
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Thu Sep 26 16:46:18 2019 +0000
 
-    Merge branch 'master' of milos/registry-fvpn into master
+    Merge branch 'master' of eleix/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1039
-- ROAs IPv6:  752
-- ROAs total: 1791
+- ROAs IPv4:  1042
+- ROAs IPv6:  755
+- ROAs total: 1797
 
-[0]: https://git.dn42.us/dn42/registry/commit/1a76e78b0de27f1efde324593551dffdf3ab36e5
+[0]: https://git.dn42.us/dn42/registry/commit/9edf105ce2e472ddb575607f7ba95b52913cd59e
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

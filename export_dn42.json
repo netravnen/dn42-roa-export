@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "1a76e78b0de27f1efde324593551dffdf3ab36e5",
-            "merge": "0a0b6a31 09a5f4c4",
-            "author": "burble <simon@burble.com>",
-            "date": "Tue, 24 Sep 2019 17:31:46 +0000",
-            "subject": "Merge branch 'master' of milos/registry-fvpn into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1a76e78b0de27f1efde324593551dffdf3ab36e5"
+            "commit": "9edf105ce2e472ddb575607f7ba95b52913cd59e",
+            "merge": "c4655315 f8894173",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Thu, 26 Sep 2019 16:46:18 +0000",
+            "subject": "Merge branch 'master' of eleix/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9edf105ce2e472ddb575607f7ba95b52913cd59e"
         }
     },
     "roas": [
@@ -2321,6 +2321,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420212",
+            "prefix": "fd54:4355:b6ac::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS64654",
             "prefix": "fd55:caa:bde3::/64",
             "maxLength": "64",
@@ -2738,6 +2744,12 @@
             "asn": "AS4242420017",
             "prefix": "fd79:f856:16d9:8882::/64",
             "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420176",
+            "prefix": "fd7a:c01e:db7c::/48",
+            "maxLength": 64,
             "ta": "DN42"
         },
         {
@@ -3811,6 +3823,12 @@
         {
             "asn": "AS4242421709",
             "prefix": "fdd8:2631:13ac::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423621",
+            "prefix": "fdd8:da7b:92f5::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -7187,6 +7205,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420212",
+            "prefix": "172.20.21.96/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421410",
             "prefix": "172.20.22.0/23",
             "maxLength": 28,
@@ -8015,6 +8039,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423621",
+            "prefix": "172.20.59.64/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242421506",
             "prefix": "172.20.6.0/28",
             "maxLength": "28",
@@ -8696,6 +8726,12 @@
             "asn": "AS4242420124",
             "prefix": "172.22.111.0/26",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420176",
+            "prefix": "172.22.111.112/29",
+            "maxLength": "29",
             "ta": "DN42"
         },
         {
