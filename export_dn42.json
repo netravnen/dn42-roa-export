@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "9edf105ce2e472ddb575607f7ba95b52913cd59e",
-            "merge": "c4655315 f8894173",
+            "commit": "82d529827a064ebe0719cfd1bdbf0c51cded062d",
+            "merge": "96f1600f cd4f18e8",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 26 Sep 2019 16:46:18 +0000",
-            "subject": "Merge branch 'master' of eleix/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9edf105ce2e472ddb575607f7ba95b52913cd59e"
+            "date": "Sun, 29 Sep 2019 09:22:36 +0000",
+            "subject": "Merge branch 'master' of xs4me/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/82d529827a064ebe0719cfd1bdbf0c51cded062d"
         }
     },
     "roas": [
@@ -699,12 +699,6 @@
             "prefix": "fd2f:5119:f2c::/48",
             "maxLength": 64,
             "ta": "ICVPN"
-        },
-        {
-            "asn": "AS4242420811",
-            "prefix": "fd2f:bcd0:d600::/48",
-            "maxLength": 64,
-            "ta": "DN42"
         },
         {
             "asn": "AS4242422626",
@@ -6452,12 +6446,6 @@
             "asn": "AS4242421588",
             "prefix": "172.20.162.64/26",
             "maxLength": 28,
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS4242420811",
-            "prefix": "172.20.162.8/29",
-            "maxLength": "29",
             "ta": "DN42"
         },
         {

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9edf105ce2e472ddb575607f7ba95b52913cd59e
-Merge: c4655315 f8894173
+commit 82d529827a064ebe0719cfd1bdbf0c51cded062d
+Merge: 96f1600f cd4f18e8
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Thu Sep 26 16:46:18 2019 +0000
+Date:   Sun Sep 29 09:22:36 2019 +0000
 
-    Merge branch 'master' of eleix/registry into master
+    Merge branch 'master' of xs4me/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1042
-- ROAs IPv6:  755
-- ROAs total: 1797
+- ROAs IPv4:  1041
+- ROAs IPv6:  754
+- ROAs total: 1795
 
-[0]: https://git.dn42.us/dn42/registry/commit/9edf105ce2e472ddb575607f7ba95b52913cd59e
+[0]: https://git.dn42.us/dn42/registry/commit/82d529827a064ebe0719cfd1bdbf0c51cded062d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
