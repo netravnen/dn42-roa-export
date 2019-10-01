@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 82d529827a064ebe0719cfd1bdbf0c51cded062d
-Merge: 96f1600f cd4f18e8
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sun Sep 29 09:22:36 2019 +0000
+commit 5e2d2d7b57b1405432c8a4c0842320bdf607153d
+Merge: 6e3604bf 9898ad3e
+Author: burble <simon@burble.com>
+Date:   Tue Oct 1 07:36:12 2019 +0000
 
-    Merge branch 'master' of xs4me/registry into master
+    Merge branch 'master' of jvoss/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1041
-- ROAs IPv6:  754
-- ROAs total: 1795
+- ROAs IPv4:  1043
+- ROAs IPv6:  756
+- ROAs total: 1799
 
-[0]: https://git.dn42.us/dn42/registry/commit/82d529827a064ebe0719cfd1bdbf0c51cded062d
+[0]: https://git.dn42.us/dn42/registry/commit/5e2d2d7b57b1405432c8a4c0842320bdf607153d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

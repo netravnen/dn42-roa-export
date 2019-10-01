@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "82d529827a064ebe0719cfd1bdbf0c51cded062d",
-            "merge": "96f1600f cd4f18e8",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 29 Sep 2019 09:22:36 +0000",
-            "subject": "Merge branch 'master' of xs4me/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/82d529827a064ebe0719cfd1bdbf0c51cded062d"
+            "commit": "5e2d2d7b57b1405432c8a4c0842320bdf607153d",
+            "merge": "6e3604bf 9898ad3e",
+            "author": "burble <simon@burble.com>",
+            "date": "Tue, 1 Oct 2019 07:36:12 +0000",
+            "subject": "Merge branch 'master' of jvoss/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5e2d2d7b57b1405432c8a4c0842320bdf607153d"
         }
     },
     "validationOutputFilters": {
@@ -440,6 +440,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd0e:8db3:d50a::_64",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422010,
+                "prefix": "fd0f:6965:e916::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd0f:6965:e916::_48",
+                "source": "DN42",
+                "mnt-by": "ONVOX-MNT"
             },
             {
                 "asn": 65046,
@@ -4984,6 +4992,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdcd:3682:1c17::_48",
                 "source": "DN42",
                 "mnt-by": "NOCTURNO-MNT"
+            },
+            {
+                "asn": 4242423399,
+                "prefix": "fdcf:205f:3b98::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdcf:205f:3b98::_48",
+                "source": "DN42",
+                "mnt-by": "BYTEREALM-MNT"
             },
             {
                 "asn": 4242422287,
@@ -11618,6 +11634,14 @@
                 "mnt-by": "FIONERA-MNT"
             },
             {
+                "asn": 4242422010,
+                "prefix": "172.22.110.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.110.96_27",
+                "source": "DN42",
+                "mnt-by": "ONVOX-MNT"
+            },
+            {
                 "asn": 4242420124,
                 "prefix": "172.22.111.0/26",
                 "maxPrefixLength": 28,
@@ -13200,6 +13224,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.119.224_28",
                 "source": "DN42",
                 "mnt-by": "JAMESITS-MNT"
+            },
+            {
+                "asn": 4242423399,
+                "prefix": "172.23.119.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.119.32_27",
+                "source": "DN42",
+                "mnt-by": "BYTEREALM-MNT"
             },
             {
                 "asn": 4242420756,
