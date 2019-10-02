@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "5e2d2d7b57b1405432c8a4c0842320bdf607153d",
-            "merge": "6e3604bf 9898ad3e",
+            "commit": "f7261452db58a715b07ca7b9488f4193503865e5",
+            "merge": "5e2d2d7b 749818ec",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 1 Oct 2019 07:36:12 +0000",
-            "subject": "Merge branch 'master' of jvoss/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5e2d2d7b57b1405432c8a4c0842320bdf607153d"
+            "date": "Tue, 1 Oct 2019 18:46:35 +0000",
+            "subject": "Merge branch 'fstab-new' of bradfier/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f7261452db58a715b07ca7b9488f4193503865e5"
         }
     },
     "roas": [
@@ -20,6 +20,12 @@
             "asn": "AS4242422914",
             "prefix": "fd00:1444:1821::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421470",
+            "prefix": "fd00:191e:1470::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -5737,6 +5743,12 @@
         {
             "asn": "AS4242420095",
             "prefix": "172.20.12.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421470",
+            "prefix": "172.20.12.160/27",
             "maxLength": 28,
             "ta": "DN42"
         },

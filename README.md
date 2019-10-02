@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5e2d2d7b57b1405432c8a4c0842320bdf607153d
-Merge: 6e3604bf 9898ad3e
+commit f7261452db58a715b07ca7b9488f4193503865e5
+Merge: 5e2d2d7b 749818ec
 Author: burble <simon@burble.com>
-Date:   Tue Oct 1 07:36:12 2019 +0000
+Date:   Tue Oct 1 18:46:35 2019 +0000
 
-    Merge branch 'master' of jvoss/registry into master
+    Merge branch 'fstab-new' of bradfier/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1043
-- ROAs IPv6:  756
-- ROAs total: 1799
+- ROAs IPv4:  1044
+- ROAs IPv6:  757
+- ROAs total: 1801
 
-[0]: https://git.dn42.us/dn42/registry/commit/5e2d2d7b57b1405432c8a4c0842320bdf607153d
+[0]: https://git.dn42.us/dn42/registry/commit/f7261452db58a715b07ca7b9488f4193503865e5
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
