@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f7261452db58a715b07ca7b9488f4193503865e5
-Merge: 5e2d2d7b 749818ec
+commit f33e4f58648025b7915b869c4ed6ef0f49aab0f5
+Merge: cfa78312 f67d25de
 Author: burble <simon@burble.com>
-Date:   Tue Oct 1 18:46:35 2019 +0000
+Date:   Wed Oct 2 19:12:10 2019 +0000
 
-    Merge branch 'fstab-new' of bradfier/registry into master
+    Merge branch 'master' of xs4me/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  757
 - ROAs total: 1801
 
-[0]: https://git.dn42.us/dn42/registry/commit/f7261452db58a715b07ca7b9488f4193503865e5
+[0]: https://git.dn42.us/dn42/registry/commit/f33e4f58648025b7915b869c4ed6ef0f49aab0f5
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

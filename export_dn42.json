@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "f7261452db58a715b07ca7b9488f4193503865e5",
-            "merge": "5e2d2d7b 749818ec",
+            "commit": "f33e4f58648025b7915b869c4ed6ef0f49aab0f5",
+            "merge": "cfa78312 f67d25de",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 1 Oct 2019 18:46:35 +0000",
-            "subject": "Merge branch 'fstab-new' of bradfier/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f7261452db58a715b07ca7b9488f4193503865e5"
+            "date": "Wed, 2 Oct 2019 19:12:10 +0000",
+            "subject": "Merge branch 'master' of xs4me/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f33e4f58648025b7915b869c4ed6ef0f49aab0f5"
         }
     },
     "roas": [
