@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f33e4f58648025b7915b869c4ed6ef0f49aab0f5
-Merge: cfa78312 f67d25de
+commit 8304ec9fd87c0cb667527bf3e1d2d9b4ca08faa4
+Merge: 1ea09ce3 60f1a16f
 Author: burble <simon@burble.com>
-Date:   Wed Oct 2 19:12:10 2019 +0000
+Date:   Fri Oct 4 08:09:10 2019 +0000
 
-    Merge branch 'master' of xs4me/registry into master
+    Merge branch 'master' of Napsterbater/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  757
 - ROAs total: 1801
 
-[0]: https://git.dn42.us/dn42/registry/commit/f33e4f58648025b7915b869c4ed6ef0f49aab0f5
+[0]: https://git.dn42.us/dn42/registry/commit/8304ec9fd87c0cb667527bf3e1d2d9b4ca08faa4
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
