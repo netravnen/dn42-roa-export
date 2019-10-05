@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "8304ec9fd87c0cb667527bf3e1d2d9b4ca08faa4",
-            "merge": "1ea09ce3 60f1a16f",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 4 Oct 2019 08:09:10 +0000",
-            "subject": "Merge branch 'master' of Napsterbater/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8304ec9fd87c0cb667527bf3e1d2d9b4ca08faa4"
+            "commit": "922fb9422b83ec85d5c16ba09ff794d895bf409a",
+            "merge": "b84c7691 0bcca002",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sat, 5 Oct 2019 09:00:16 +0000",
+            "subject": "Merge branch 'master' of jvoss/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/922fb9422b83ec85d5c16ba09ff794d895bf409a"
         }
     },
     "validationOutputFilters": {
@@ -1080,6 +1080,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd3b:ba37:f906::_60",
                 "source": "DN42",
                 "mnt-by": "SPIELWIESE-MNT"
+            },
+            {
+                "asn": 4242421942,
+                "prefix": "fd3c:99a3:21fb::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd3c:99a3:21fb::_48",
+                "source": "DN42",
+                "mnt-by": "CHUCKOGGY-MNT"
             },
             {
                 "asn": 4242421339,
@@ -4496,6 +4504,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdae:e2d8:34a1::_48",
                 "source": "DN42",
                 "mnt-by": "LEMELISK-MNT"
+            },
+            {
+                "asn": 4242420207,
+                "prefix": "fdb1:e72a:343d::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb1:e72a:343d::_48",
+                "source": "DN42",
+                "mnt-by": "ROUTEDBITS-MNT"
             },
             {
                 "asn": 4242420177,
@@ -9194,6 +9210,14 @@
                 "mnt-by": "LANAO-MNT"
             },
             {
+                "asn": 4242420207,
+                "prefix": "172.20.19.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.19.64_27",
+                "source": "DN42",
+                "mnt-by": "ROUTEDBITS-MNT"
+            },
+            {
                 "asn": 4242423759,
                 "prefix": "172.20.190.0/26",
                 "maxPrefixLength": 28,
@@ -10400,6 +10424,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.47.128_28",
                 "source": "DN42",
                 "mnt-by": "WHMCR-MNT"
+            },
+            {
+                "asn": 4242421942,
+                "prefix": "172.20.47.160/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.47.160_27",
+                "source": "DN42",
+                "mnt-by": "CHUCKOGGY-MNT"
             },
             {
                 "asn": 4242423173,

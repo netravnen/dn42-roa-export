@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8304ec9fd87c0cb667527bf3e1d2d9b4ca08faa4
-Merge: 1ea09ce3 60f1a16f
-Author: burble <simon@burble.com>
-Date:   Fri Oct 4 08:09:10 2019 +0000
+commit 922fb9422b83ec85d5c16ba09ff794d895bf409a
+Merge: b84c7691 0bcca002
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Sat Oct 5 09:00:16 2019 +0000
 
-    Merge branch 'master' of Napsterbater/registry into master
+    Merge branch 'master' of jvoss/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1044
-- ROAs IPv6:  757
-- ROAs total: 1801
+- ROAs IPv4:  1046
+- ROAs IPv6:  759
+- ROAs total: 1805
 
-[0]: https://git.dn42.us/dn42/registry/commit/8304ec9fd87c0cb667527bf3e1d2d9b4ca08faa4
+[0]: https://git.dn42.us/dn42/registry/commit/922fb9422b83ec85d5c16ba09ff794d895bf409a
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
