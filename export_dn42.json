@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb",
-            "merge": "922fb942 89bafb03",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 5 Oct 2019 15:24:46 +0000",
-            "subject": "Merge branch 'master' of rhinelab/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb"
+            "commit": "7d725736022a04dd3bf736cbb4d50700d23f146f",
+            "merge": "80d9e6eb 3f72b4ac",
+            "author": "burble <simon@burble.com>",
+            "date": "Sun, 6 Oct 2019 08:08:47 +0000",
+            "subject": "Merge branch 'master' of Napsterbater/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7d725736022a04dd3bf736cbb4d50700d23f146f"
         }
     },
     "roas": [

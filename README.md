@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb
-Merge: 922fb942 89bafb03
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Oct 5 15:24:46 2019 +0000
+commit 7d725736022a04dd3bf736cbb4d50700d23f146f
+Merge: 80d9e6eb 3f72b4ac
+Author: burble <simon@burble.com>
+Date:   Sun Oct 6 08:08:47 2019 +0000
 
-    Merge branch 'master' of rhinelab/registry into master
+    Merge branch 'master' of Napsterbater/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  760
 - ROAs total: 1807
 
-[0]: https://git.dn42.us/dn42/registry/commit/80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb
+[0]: https://git.dn42.us/dn42/registry/commit/7d725736022a04dd3bf736cbb4d50700d23f146f
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
