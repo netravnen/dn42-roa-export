@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "922fb9422b83ec85d5c16ba09ff794d895bf409a",
-            "merge": "b84c7691 0bcca002",
+            "commit": "80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb",
+            "merge": "922fb942 89bafb03",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sat, 5 Oct 2019 09:00:16 +0000",
-            "subject": "Merge branch 'master' of jvoss/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/922fb9422b83ec85d5c16ba09ff794d895bf409a"
+            "date": "Sat, 5 Oct 2019 15:24:46 +0000",
+            "subject": "Merge branch 'master' of rhinelab/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb"
         }
     },
     "roas": [
@@ -2726,6 +2726,12 @@
             "asn": "AS4242420003",
             "prefix": "fd76:b436:28bc::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423925",
+            "prefix": "fd76:d330:272b::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -10699,6 +10705,12 @@
         {
             "asn": "AS4242420124",
             "prefix": "172.23.47.0/24",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423925",
+            "prefix": "172.23.50.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },

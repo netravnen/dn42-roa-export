@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 922fb9422b83ec85d5c16ba09ff794d895bf409a
-Merge: b84c7691 0bcca002
+commit 80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb
+Merge: 922fb942 89bafb03
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Sat Oct 5 09:00:16 2019 +0000
+Date:   Sat Oct 5 15:24:46 2019 +0000
 
-    Merge branch 'master' of jvoss/registry into master
+    Merge branch 'master' of rhinelab/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1046
-- ROAs IPv6:  759
-- ROAs total: 1805
+- ROAs IPv4:  1047
+- ROAs IPv6:  760
+- ROAs total: 1807
 
-[0]: https://git.dn42.us/dn42/registry/commit/922fb9422b83ec85d5c16ba09ff794d895bf409a
+[0]: https://git.dn42.us/dn42/registry/commit/80d9e6ebb0015f8dfa04d55bf318ba457dbea9cb
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
