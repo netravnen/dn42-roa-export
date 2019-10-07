@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7d725736022a04dd3bf736cbb4d50700d23f146f
-Merge: 80d9e6eb 3f72b4ac
+commit 595d8ba2780f9e75258539e7e601974f659e792b
+Merge: 7d725736 dc84bba0
 Author: burble <simon@burble.com>
-Date:   Sun Oct 6 08:08:47 2019 +0000
+Date:   Sun Oct 6 14:11:20 2019 +0000
 
-    Merge branch 'master' of Napsterbater/registry into master
+    Merge branch 'master' of tardisx/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1047
-- ROAs IPv6:  760
-- ROAs total: 1807
+- ROAs IPv4:  1048
+- ROAs IPv6:  761
+- ROAs total: 1809
 
-[0]: https://git.dn42.us/dn42/registry/commit/7d725736022a04dd3bf736cbb4d50700d23f146f
+[0]: https://git.dn42.us/dn42/registry/commit/595d8ba2780f9e75258539e7e601974f659e792b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

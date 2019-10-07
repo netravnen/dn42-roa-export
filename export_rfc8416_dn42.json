@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "7d725736022a04dd3bf736cbb4d50700d23f146f",
-            "merge": "80d9e6eb 3f72b4ac",
+            "commit": "595d8ba2780f9e75258539e7e601974f659e792b",
+            "merge": "7d725736 dc84bba0",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 6 Oct 2019 08:08:47 +0000",
-            "subject": "Merge branch 'master' of Napsterbater/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7d725736022a04dd3bf736cbb4d50700d23f146f"
+            "date": "Sun, 6 Oct 2019 14:11:20 +0000",
+            "subject": "Merge branch 'master' of tardisx/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/595d8ba2780f9e75258539e7e601974f659e792b"
         }
     },
     "validationOutputFilters": {
@@ -4824,6 +4824,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc6:30c3:8662::_48",
                 "source": "DN42",
                 "mnt-by": "XXSLDN-MNT"
+            },
+            {
+                "asn": 4242420723,
+                "prefix": "fdc6:6093:bfda::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc6:6093:bfda::_48",
+                "source": "DN42",
+                "mnt-by": "DROPBEAR-MNT"
             },
             {
                 "asn": 65242,
@@ -11424,6 +11432,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.89.32_27",
                 "source": "DN42",
                 "mnt-by": "RLKT-MNT"
+            },
+            {
+                "asn": 4242420723,
+                "prefix": "172.21.89.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.89.96_27",
+                "source": "DN42",
+                "mnt-by": "DROPBEAR-MNT"
             },
             {
                 "asn": 4242422544,

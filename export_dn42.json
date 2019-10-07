@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "7d725736022a04dd3bf736cbb4d50700d23f146f",
-            "merge": "80d9e6eb 3f72b4ac",
+            "commit": "595d8ba2780f9e75258539e7e601974f659e792b",
+            "merge": "7d725736 dc84bba0",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 6 Oct 2019 08:08:47 +0000",
-            "subject": "Merge branch 'master' of Napsterbater/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7d725736022a04dd3bf736cbb4d50700d23f146f"
+            "date": "Sun, 6 Oct 2019 14:11:20 +0000",
+            "subject": "Merge branch 'master' of tardisx/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/595d8ba2780f9e75258539e7e601974f659e792b"
         }
     },
     "roas": [
@@ -3614,6 +3614,12 @@
             "asn": "AS4242423377",
             "prefix": "fdc6:30c3:8662::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420723",
+            "prefix": "fdc6:6093:bfda::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -8563,6 +8569,12 @@
         {
             "asn": "AS4242421994",
             "prefix": "172.21.89.32/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420723",
+            "prefix": "172.21.89.96/27",
             "maxLength": 28,
             "ta": "DN42"
         },
