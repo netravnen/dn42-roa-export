@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 595d8ba2780f9e75258539e7e601974f659e792b
-Merge: 7d725736 dc84bba0
-Author: burble <simon@burble.com>
-Date:   Sun Oct 6 14:11:20 2019 +0000
+commit fb9ab18ad47c93c0422e5eb4e32e19d2001810bd
+Merge: 595d8ba2 c3cdcb1e
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Tue Oct 8 09:41:59 2019 +0000
 
-    Merge branch 'master' of tardisx/registry into master
+    Merge branch 'master' of burble/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  761
 - ROAs total: 1809
 
-[0]: https://git.dn42.us/dn42/registry/commit/595d8ba2780f9e75258539e7e601974f659e792b
+[0]: https://git.dn42.us/dn42/registry/commit/fb9ab18ad47c93c0422e5eb4e32e19d2001810bd
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

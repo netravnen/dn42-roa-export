@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "595d8ba2780f9e75258539e7e601974f659e792b",
-            "merge": "7d725736 dc84bba0",
-            "author": "burble <simon@burble.com>",
-            "date": "Sun, 6 Oct 2019 14:11:20 +0000",
-            "subject": "Merge branch 'master' of tardisx/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/595d8ba2780f9e75258539e7e601974f659e792b"
+            "commit": "fb9ab18ad47c93c0422e5eb4e32e19d2001810bd",
+            "merge": "595d8ba2 c3cdcb1e",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Tue, 8 Oct 2019 09:41:59 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/fb9ab18ad47c93c0422e5eb4e32e19d2001810bd"
         }
     },
     "validationOutputFilters": {
