@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "3d2e85efc63b709c1470679c1532ced57006af6e",
-            "merge": "5484af30 4e1facc5",
-            "author": "burble <simon@burble.com>",
-            "date": "Wed, 9 Oct 2019 17:12:57 +0000",
-            "subject": "Merge branch 'master' of xuu/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3d2e85efc63b709c1470679c1532ced57006af6e"
+            "commit": "b0d04b2716a90401a38f9a13bf68e8a66b41f228",
+            "merge": "3d2e85ef abfe4c78",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Thu, 10 Oct 2019 10:59:03 +0000",
+            "subject": "Merge branch 'master' of mkosmo/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b0d04b2716a90401a38f9a13bf68e8a66b41f228"
         }
     },
     "roas": [
@@ -2972,6 +2972,12 @@
             "asn": "AS4242420053",
             "prefix": "fd93:2559:f2ef::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422011",
+            "prefix": "fd93:6244:7aef::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -6679,6 +6685,12 @@
         {
             "asn": "AS4242421542",
             "prefix": "172.20.173.32/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422011",
+            "prefix": "172.20.173.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
