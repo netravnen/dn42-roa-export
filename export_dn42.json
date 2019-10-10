@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "5484af30c05506ac584116f0de81f42a5552d2d4",
-            "merge": "fb9ab18a 8f0f2be4",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 8 Oct 2019 20:48:23 +0000",
-            "subject": "Merge branch 'master' of hax404/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5484af30c05506ac584116f0de81f42a5552d2d4"
+            "commit": "3d2e85efc63b709c1470679c1532ced57006af6e",
+            "merge": "5484af30 4e1facc5",
+            "author": "burble <simon@burble.com>",
+            "date": "Wed, 9 Oct 2019 17:12:57 +0000",
+            "subject": "Merge branch 'master' of xuu/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3d2e85efc63b709c1470679c1532ced57006af6e"
         }
     },
     "roas": [
@@ -2016,6 +2016,12 @@
         },
         {
             "asn": "AS64719",
+            "prefix": "fd42:d42:d42:80::/64",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422601",
             "prefix": "fd42:d42:d42:80::/64",
             "maxLength": "64",
             "ta": "DN42"
@@ -9828,6 +9834,12 @@
         },
         {
             "asn": "AS64719",
+            "prefix": "172.23.0.80/32",
+            "maxLength": "32",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422601",
             "prefix": "172.23.0.80/32",
             "maxLength": "32",
             "ta": "DN42"

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5484af30c05506ac584116f0de81f42a5552d2d4
-Merge: fb9ab18a 8f0f2be4
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Oct 8 20:48:23 2019 +0000
+commit 3d2e85efc63b709c1470679c1532ced57006af6e
+Merge: 5484af30 4e1facc5
+Author: burble <simon@burble.com>
+Date:   Wed Oct 9 17:12:57 2019 +0000
 
-    Merge branch 'master' of hax404/registry into master
+    Merge branch 'master' of xuu/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1047
-- ROAs IPv6:  761
-- ROAs total: 1808
+- ROAs IPv4:  1048
+- ROAs IPv6:  762
+- ROAs total: 1810
 
-[0]: https://git.dn42.us/dn42/registry/commit/5484af30c05506ac584116f0de81f42a5552d2d4
+[0]: https://git.dn42.us/dn42/registry/commit/3d2e85efc63b709c1470679c1532ced57006af6e
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

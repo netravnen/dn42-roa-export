@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "5484af30c05506ac584116f0de81f42a5552d2d4",
-            "merge": "fb9ab18a 8f0f2be4",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 8 Oct 2019 20:48:23 +0000",
-            "subject": "Merge branch 'master' of hax404/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5484af30c05506ac584116f0de81f42a5552d2d4"
+            "commit": "3d2e85efc63b709c1470679c1532ced57006af6e",
+            "merge": "5484af30 4e1facc5",
+            "author": "burble <simon@burble.com>",
+            "date": "Wed, 9 Oct 2019 17:12:57 +0000",
+            "subject": "Merge branch 'master' of xuu/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3d2e85efc63b709c1470679c1532ced57006af6e"
         }
     },
     "validationOutputFilters": {
@@ -2679,7 +2679,7 @@
                 "maxPrefixLength": 64,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:80::_64",
                 "source": "DN42",
-                "mnt-by": "LUTOMA-MNT"
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 4242420123,
@@ -2687,7 +2687,7 @@
                 "maxPrefixLength": 64,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:80::_64",
                 "source": "DN42",
-                "mnt-by": "LUTOMA-MNT"
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 64719,
@@ -2695,7 +2695,15 @@
                 "maxPrefixLength": 64,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:80::_64",
                 "source": "DN42",
-                "mnt-by": "LUTOMA-MNT"
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "fd42:d42:d42:80::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:d42:d42:80::_64",
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 4242420022,
@@ -13095,7 +13103,7 @@
                 "maxPrefixLength": 32,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.0.80_32",
                 "source": "DN42",
-                "mnt-by": "LUTOMA-MNT"
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 64737,
@@ -13103,7 +13111,7 @@
                 "maxPrefixLength": 32,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.0.80_32",
                 "source": "DN42",
-                "mnt-by": "LUTOMA-MNT"
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 64719,
@@ -13111,7 +13119,15 @@
                 "maxPrefixLength": 32,
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.0.80_32",
                 "source": "DN42",
-                "mnt-by": "LUTOMA-MNT"
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "172.23.0.80/32",
+                "maxPrefixLength": 32,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.0.80_32",
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 64828,
