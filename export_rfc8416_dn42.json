@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b0d04b2716a90401a38f9a13bf68e8a66b41f228",
-            "merge": "3d2e85ef abfe4c78",
+            "commit": "e52f75fba53da6c0761ac586620c2f90f68bb9b6",
+            "merge": "b8e01d22 4edd33b8",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 10 Oct 2019 10:59:03 +0000",
-            "subject": "Merge branch 'master' of mkosmo/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b0d04b2716a90401a38f9a13bf68e8a66b41f228"
+            "date": "Fri, 11 Oct 2019 12:51:24 +0000",
+            "subject": "Merge branch 'master' of jamieweb/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e52f75fba53da6c0761ac586620c2f90f68bb9b6"
         }
     },
     "validationOutputFilters": {
@@ -17,6 +17,142 @@
     "locallyAddedAssertions": {
         "bgpsecAssertions": [],
         "prefixAssertions": [
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3000::/40",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3000::_40",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3000::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3000::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3010::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3010::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3020::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3020::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3030::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3030::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3040::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3040::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3050::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3050::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3060::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3060::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3070::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3070::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3080::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3080::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:3090::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:3090::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:30a0::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:30a0::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:30b0::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:30b0::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:30c0::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:30c0::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:30d0::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:30d0::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:30e0::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:30e0::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "fd00:0801:30f0::/44",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:0801:30f0::_44",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
             {
                 "asn": 64626,
                 "prefix": "fd00:1337:cafe::/48",
@@ -3256,6 +3392,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5c:0f0f:39fc::_48",
                 "source": "DN42",
                 "mnt-by": "XIAOYU-MNT"
+            },
+            {
+                "asn": 4242420171,
+                "prefix": "fd5c:d982:d80d:9243::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5c:d982:d80d:9243::_64",
+                "source": "DN42",
+                "mnt-by": "JAMIEWEB-MNT"
             },
             {
                 "asn": 4242423520,
@@ -7642,6 +7786,14 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420656,
+                "prefix": "172.20.0.35/32",
+                "maxPrefixLength": 32,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.0.35_32",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
                 "asn": 4242420119,
                 "prefix": "172.20.0.53/32",
                 "maxPrefixLength": 32,
@@ -10160,6 +10312,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.32.64_27",
                 "source": "DN42",
                 "mnt-by": "CKL-MNT"
+            },
+            {
+                "asn": 4242420171,
+                "prefix": "172.20.32.96/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.32.96_28",
+                "source": "DN42",
+                "mnt-by": "JAMIEWEB-MNT"
             },
             {
                 "asn": 4242422777,
@@ -12784,6 +12944,30 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.44.0_23",
                 "source": "DN42",
                 "mnt-by": "JCIX-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "172.22.50.0/23",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.50.0_23",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "172.22.50.0/24",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.50.0_24",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
+            },
+            {
+                "asn": 4242420656,
+                "prefix": "172.22.51.0/24",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.51.0_24",
+                "source": "DN42",
+                "mnt-by": "AIRGAPPED-MNT"
             },
             {
                 "asn": 64654,

@@ -1,15 +1,117 @@
 {
     "_comments": {
         "modified": {
-            "commit": "b0d04b2716a90401a38f9a13bf68e8a66b41f228",
-            "merge": "3d2e85ef abfe4c78",
+            "commit": "e52f75fba53da6c0761ac586620c2f90f68bb9b6",
+            "merge": "b8e01d22 4edd33b8",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Thu, 10 Oct 2019 10:59:03 +0000",
-            "subject": "Merge branch 'master' of mkosmo/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b0d04b2716a90401a38f9a13bf68e8a66b41f228"
+            "date": "Fri, 11 Oct 2019 12:51:24 +0000",
+            "subject": "Merge branch 'master' of jamieweb/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e52f75fba53da6c0761ac586620c2f90f68bb9b6"
         }
     },
     "roas": [
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3000::/40",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3000::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3010::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3020::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3030::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3040::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3050::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3060::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3070::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3080::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:3090::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:30a0::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:30b0::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:30c0::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:30d0::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:30e0::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "fd00:0801:30f0::/44",
+            "maxLength": "64",
+            "ta": "DN42"
+        },
         {
             "asn": "AS64626",
             "prefix": "fd00:1337:cafe::/48",
@@ -2438,6 +2540,12 @@
             "asn": "AS4242423158",
             "prefix": "fd5c:0f0f:39fc::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420171",
+            "prefix": "fd5c:d982:d80d:9243::/64",
+            "maxLength": "64",
             "ta": "DN42"
         },
         {
@@ -5729,6 +5837,12 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS4242420656",
+            "prefix": "172.20.0.35/32",
+            "maxLength": "32",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242420119",
             "prefix": "172.20.0.53/32",
             "maxLength": "32",
@@ -7616,6 +7730,12 @@
             "asn": "AS4242420640",
             "prefix": "172.20.32.64/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420171",
+            "prefix": "172.20.32.96/28",
+            "maxLength": "28",
             "ta": "DN42"
         },
         {
@@ -9583,6 +9703,24 @@
         {
             "asn": "AS4242422333",
             "prefix": "172.22.44.0/23",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "172.22.50.0/23",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "172.22.50.0/24",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420656",
+            "prefix": "172.22.51.0/24",
             "maxLength": 28,
             "ta": "DN42"
         },
