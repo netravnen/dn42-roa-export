@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e52f75fba53da6c0761ac586620c2f90f68bb9b6
-Merge: b8e01d22 4edd33b8
+commit fb4ad0a7a4634ed0dbec4dbe351023a195de4cda
+Merge: e52f75fb a5bd3984
 Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Oct 11 12:51:24 2019 +0000
+Date:   Fri Oct 11 15:03:55 2019 +0000
 
-    Merge branch 'master' of jamieweb/registry into master
+    Merge branch 'master' of zylx0532/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1054
+- ROAs IPv4:  1055
 - ROAs IPv6:  781
-- ROAs total: 1835
+- ROAs total: 1836
 
-[0]: https://git.dn42.us/dn42/registry/commit/e52f75fba53da6c0761ac586620c2f90f68bb9b6
+[0]: https://git.dn42.us/dn42/registry/commit/fb4ad0a7a4634ed0dbec4dbe351023a195de4cda
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
