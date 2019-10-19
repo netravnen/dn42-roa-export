@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "fb4ad0a7a4634ed0dbec4dbe351023a195de4cda",
-            "merge": "e52f75fb a5bd3984",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 11 Oct 2019 15:03:55 +0000",
-            "subject": "Merge branch 'master' of zylx0532/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/fb4ad0a7a4634ed0dbec4dbe351023a195de4cda"
+            "commit": "3d6b4dffaf310994c55f62eaf6ab443e399abc17",
+            "merge": "005bd161 156d870e",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 18 Oct 2019 17:27:43 +0000",
+            "subject": "Merge branch 'master' of jamieweb/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3d6b4dffaf310994c55f62eaf6ab443e399abc17"
         }
     },
     "validationOutputFilters": {
