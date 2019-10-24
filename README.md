@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 3d6b4dffaf310994c55f62eaf6ab443e399abc17
-Merge: 005bd161 156d870e
-Author: burble <simon@burble.com>
-Date:   Fri Oct 18 17:27:43 2019 +0000
+commit 3345b121839de980f30a6d1a0692f7e8bf90bb4d
+Merge: 3d6b4dff 1100ba48
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Wed Oct 23 15:45:33 2019 +0000
 
-    Merge branch 'master' of jamieweb/registry into master
+    Merge branch 'master' of mael/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1055
-- ROAs IPv6:  781
-- ROAs total: 1836
+- ROAs IPv4:  1056
+- ROAs IPv6:  782
+- ROAs total: 1838
 
-[0]: https://git.dn42.us/dn42/registry/commit/3d6b4dffaf310994c55f62eaf6ab443e399abc17
+[0]: https://git.dn42.us/dn42/registry/commit/3345b121839de980f30a6d1a0692f7e8bf90bb4d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

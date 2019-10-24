@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "3d6b4dffaf310994c55f62eaf6ab443e399abc17",
-            "merge": "005bd161 156d870e",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 18 Oct 2019 17:27:43 +0000",
-            "subject": "Merge branch 'master' of jamieweb/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3d6b4dffaf310994c55f62eaf6ab443e399abc17"
+            "commit": "3345b121839de980f30a6d1a0692f7e8bf90bb4d",
+            "merge": "3d6b4dff 1100ba48",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 23 Oct 2019 15:45:33 +0000",
+            "subject": "Merge branch 'master' of mael/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3345b121839de980f30a6d1a0692f7e8bf90bb4d"
         }
     },
     "validationOutputFilters": {
@@ -3416,6 +3416,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5e:6ea6:f0a1::_48",
                 "source": "DN42",
                 "mnt-by": "CRABNECK-MNT"
+            },
+            {
+                "asn": 4242422590,
+                "prefix": "fd5e:724d:f1bb::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5e:724d:f1bb::_48",
+                "source": "DN42",
+                "mnt-by": "OUTOUT-MNT"
             },
             {
                 "asn": 4242421063,
@@ -11936,6 +11944,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.111.192_27",
                 "source": "DN42",
                 "mnt-by": "CATER-MNT"
+            },
+            {
+                "asn": 4242422590,
+                "prefix": "172.22.111.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.111.224_27",
+                "source": "DN42",
+                "mnt-by": "OUTOUT-MNT"
             },
             {
                 "asn": 4242422201,
