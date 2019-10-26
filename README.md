@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 158d4ae8248da5c8bb370abe8694be475910c970
-Merge: 38d3a48a f466eada
-Author: burble <simon@burble.com>
-Date:   Thu Oct 24 13:23:10 2019 +0000
+commit 9e79ac91ba2639a54c3de4a8bcf17d2884d8aca2
+Merge: bfda7e65 302a6085
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Fri Oct 25 20:37:04 2019 +0000
 
-    Merge branch 'master' of tris/registry into master
+    Merge branch 'master' of worttir/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1058
-- ROAs IPv6:  784
-- ROAs total: 1842
+- ROAs IPv4:  1059
+- ROAs IPv6:  785
+- ROAs total: 1844
 
-[0]: https://git.dn42.us/dn42/registry/commit/158d4ae8248da5c8bb370abe8694be475910c970
+[0]: https://git.dn42.us/dn42/registry/commit/9e79ac91ba2639a54c3de4a8bcf17d2884d8aca2
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

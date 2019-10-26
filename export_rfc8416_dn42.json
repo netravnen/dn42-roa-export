@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "158d4ae8248da5c8bb370abe8694be475910c970",
-            "merge": "38d3a48a f466eada",
-            "author": "burble <simon@burble.com>",
-            "date": "Thu, 24 Oct 2019 13:23:10 +0000",
-            "subject": "Merge branch 'master' of tris/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/158d4ae8248da5c8bb370abe8694be475910c970"
+            "commit": "9e79ac91ba2639a54c3de4a8bcf17d2884d8aca2",
+            "merge": "bfda7e65 302a6085",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Fri, 25 Oct 2019 20:37:04 +0000",
+            "subject": "Merge branch 'master' of worttir/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9e79ac91ba2639a54c3de4a8bcf17d2884d8aca2"
         }
     },
     "validationOutputFilters": {
@@ -3504,6 +3504,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd62:77fb:94bf::_48",
                 "source": "DN42",
                 "mnt-by": "HESSNET-MNT"
+            },
+            {
+                "asn": 4242422681,
+                "prefix": "fd62:7eab:c85f::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd62:7eab:c85f::_48",
+                "source": "DN42",
+                "mnt-by": "WORTTIR-MNT"
             },
             {
                 "asn": 4242421128,
@@ -12816,6 +12824,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.187.0_24",
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
+            },
+            {
+                "asn": 4242422681,
+                "prefix": "172.22.188.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.188.0_26",
+                "source": "DN42",
+                "mnt-by": "WORTTIR-MNT"
             },
             {
                 "asn": 4242420045,
