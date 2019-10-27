@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "9e79ac91ba2639a54c3de4a8bcf17d2884d8aca2",
-            "merge": "bfda7e65 302a6085",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 25 Oct 2019 20:37:04 +0000",
-            "subject": "Merge branch 'master' of worttir/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9e79ac91ba2639a54c3de4a8bcf17d2884d8aca2"
+            "commit": "0873107fcdb139ab23358e037c1a88607da77f1b",
+            "merge": "9e79ac91 ee45d0d9",
+            "author": "burble <simon@burble.com>",
+            "date": "Sun, 27 Oct 2019 09:40:08 +0000",
+            "subject": "Merge branch 'add-sharp' of sharp/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0873107fcdb139ab23358e037c1a88607da77f1b"
         }
     },
     "roas": [
@@ -3122,6 +3122,12 @@
             "asn": "AS4242421299",
             "prefix": "fd94:3ffe:d256::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420312",
+            "prefix": "fd94:a80f:cd40::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -7627,6 +7633,12 @@
         {
             "asn": "AS4242420318",
             "prefix": "172.20.235.64/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420312",
+            "prefix": "172.20.236.0/26",
             "maxLength": 28,
             "ta": "DN42"
         },
