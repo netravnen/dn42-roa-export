@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "0873107fcdb139ab23358e037c1a88607da77f1b",
-            "merge": "9e79ac91 ee45d0d9",
-            "author": "burble <simon@burble.com>",
-            "date": "Sun, 27 Oct 2019 09:40:08 +0000",
-            "subject": "Merge branch 'add-sharp' of sharp/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0873107fcdb139ab23358e037c1a88607da77f1b"
+            "commit": "56912c75a3f98d65c5f19819d00a70bebde09582",
+            "merge": "738e8af8 6e12a9f4",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 30 Oct 2019 17:36:26 +0000",
+            "subject": "Merge branch 'master' of gturkoglu/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/56912c75a3f98d65c5f19819d00a70bebde09582"
         }
     },
     "validationOutputFilters": {
@@ -4850,6 +4850,14 @@
                 "mnt-by": "FNORD-MNT"
             },
             {
+                "asn": 4242420281,
+                "prefix": "fdbc:5fef:2184::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdbc:5fef:2184::_48",
+                "source": "DN42",
+                "mnt-by": "GT-MNT"
+            },
+            {
                 "asn": 4242422547,
                 "prefix": "fdbc:f9dc:67ad::/48",
                 "maxPrefixLength": 64,
@@ -5944,6 +5952,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf0:09bb:7814::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420359,
+                "prefix": "fdf0:09bb:7815::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf0:09bb:7815::_48",
+                "source": "DN42",
+                "mnt-by": "RELIGHT-MNT"
             },
             {
                 "asn": 64895,
@@ -10042,6 +10058,14 @@
                 "mnt-by": "LUELISTAN-MNT"
             },
             {
+                "asn": 4242423951,
+                "prefix": "172.20.229.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.229.128_27",
+                "source": "DN42",
+                "mnt-by": "OUTSOURCER-MNT"
+            },
+            {
                 "asn": 4242422440,
                 "prefix": "172.20.229.96/28",
                 "maxPrefixLength": 28,
@@ -10296,6 +10320,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.28.32_27",
                 "source": "DN42",
                 "mnt-by": "CRABNECK-MNT"
+            },
+            {
+                "asn": 4242420281,
+                "prefix": "172.20.28.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.28.64_27",
+                "source": "DN42",
+                "mnt-by": "GT-MNT"
             },
             {
                 "asn": 4242421189,
@@ -12032,6 +12064,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.114.0_27",
                 "source": "DN42",
                 "mnt-by": "BPEETERS-MNT"
+            },
+            {
+                "asn": 4242420359,
+                "prefix": "172.22.114.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.114.32_27",
+                "source": "DN42",
+                "mnt-by": "RELIGHT-MNT"
             },
             {
                 "asn": 4242421256,

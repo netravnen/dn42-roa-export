@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0873107fcdb139ab23358e037c1a88607da77f1b
-Merge: 9e79ac91 ee45d0d9
-Author: burble <simon@burble.com>
-Date:   Sun Oct 27 09:40:08 2019 +0000
+commit 56912c75a3f98d65c5f19819d00a70bebde09582
+Merge: 738e8af8 6e12a9f4
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Wed Oct 30 17:36:26 2019 +0000
 
-    Merge branch 'add-sharp' of sharp/registry into master
+    Merge branch 'master' of gturkoglu/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1060
-- ROAs IPv6:  786
-- ROAs total: 1846
+- ROAs IPv4:  1063
+- ROAs IPv6:  788
+- ROAs total: 1851
 
-[0]: https://git.dn42.us/dn42/registry/commit/0873107fcdb139ab23358e037c1a88607da77f1b
+[0]: https://git.dn42.us/dn42/registry/commit/56912c75a3f98d65c5f19819d00a70bebde09582
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

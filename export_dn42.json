@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0873107fcdb139ab23358e037c1a88607da77f1b",
-            "merge": "9e79ac91 ee45d0d9",
-            "author": "burble <simon@burble.com>",
-            "date": "Sun, 27 Oct 2019 09:40:08 +0000",
-            "subject": "Merge branch 'add-sharp' of sharp/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0873107fcdb139ab23358e037c1a88607da77f1b"
+            "commit": "56912c75a3f98d65c5f19819d00a70bebde09582",
+            "merge": "738e8af8 6e12a9f4",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 30 Oct 2019 17:36:26 +0000",
+            "subject": "Merge branch 'master' of gturkoglu/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/56912c75a3f98d65c5f19819d00a70bebde09582"
         }
     },
     "roas": [
@@ -3635,6 +3635,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420281",
+            "prefix": "fdbc:5fef:2184::/48",
+            "maxLength": "48",
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422547",
             "prefix": "fdbc:f9dc:67ad::/48",
             "maxLength": 64,
@@ -4455,6 +4461,12 @@
             "prefix": "fdf0:09bb:7814::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242420359",
+            "prefix": "fdf0:09bb:7815::/48",
+            "maxLength": "48",
+            "ta": "DN42"
         },
         {
             "asn": "AS64895",
@@ -7529,6 +7541,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242423951",
+            "prefix": "172.20.229.128/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242422440",
             "prefix": "172.20.229.96/28",
             "maxLength": "28",
@@ -7717,6 +7735,12 @@
         {
             "asn": "AS4242423331",
             "prefix": "172.20.28.32/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420281",
+            "prefix": "172.20.28.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },
@@ -9019,6 +9043,12 @@
         {
             "asn": "AS4242421985",
             "prefix": "172.22.114.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420359",
+            "prefix": "172.22.114.32/27",
             "maxLength": 28,
             "ta": "DN42"
         },
