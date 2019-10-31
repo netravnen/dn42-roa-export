@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 56912c75a3f98d65c5f19819d00a70bebde09582
-Merge: 738e8af8 6e12a9f4
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Oct 30 17:36:26 2019 +0000
+commit e984cd755347875a7d08d4aa8c4782c11329ddca
+Merge: 56912c75 8200eaa2
+Author: burble <simon@burble.com>
+Date:   Thu Oct 31 09:50:57 2019 +0000
 
-    Merge branch 'master' of gturkoglu/registry into master
+    Merge branch 'master' of Tchekda/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1063
-- ROAs IPv6:  788
-- ROAs total: 1851
+- ROAs IPv4:  1064
+- ROAs IPv6:  789
+- ROAs total: 1853
 
-[0]: https://git.dn42.us/dn42/registry/commit/56912c75a3f98d65c5f19819d00a70bebde09582
+[0]: https://git.dn42.us/dn42/registry/commit/e984cd755347875a7d08d4aa8c4782c11329ddca
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
