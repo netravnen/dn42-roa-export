@@ -16,10 +16,10 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e984cd755347875a7d08d4aa8c4782c11329ddca
-Merge: 56912c75 8200eaa2
+commit 83c900f0bf2462e97eeefc0c8761b8b8fe3e3285
+Merge: 3af5f7d2 7d67dfe9
 Author: burble <simon@burble.com>
-Date:   Thu Oct 31 09:50:57 2019 +0000
+Date:   Fri Nov 1 22:24:31 2019 +0000
 
     Merge branch 'master' of Tchekda/registry into master
 ```
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  789
 - ROAs total: 1853
 
-[0]: https://git.dn42.us/dn42/registry/commit/e984cd755347875a7d08d4aa8c4782c11329ddca
+[0]: https://git.dn42.us/dn42/registry/commit/83c900f0bf2462e97eeefc0c8761b8b8fe3e3285
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

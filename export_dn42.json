@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "e984cd755347875a7d08d4aa8c4782c11329ddca",
-            "merge": "56912c75 8200eaa2",
+            "commit": "83c900f0bf2462e97eeefc0c8761b8b8fe3e3285",
+            "merge": "3af5f7d2 7d67dfe9",
             "author": "burble <simon@burble.com>",
-            "date": "Thu, 31 Oct 2019 09:50:57 +0000",
+            "date": "Fri, 1 Nov 2019 22:24:31 +0000",
             "subject": "Merge branch 'master' of Tchekda/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e984cd755347875a7d08d4aa8c4782c11329ddca"
+            "url": "https://git.dn42.us/dn42/registry/commit/83c900f0bf2462e97eeefc0c8761b8b8fe3e3285"
         }
     },
     "roas": [
