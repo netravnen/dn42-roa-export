@@ -4140,12 +4140,6 @@
         },
         {
             "asn": "AS65530",
-            "prefix": "fddf:ebfd:a801:212::/64",
-            "maxLength": "64",
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS65530",
             "prefix": "fddf:ebfd:a801:2144::/64",
             "maxLength": "64",
             "ta": "ICVPN"
@@ -5737,12 +5731,6 @@
         {
             "asn": "AS65041",
             "prefix": "10.59.32.0/20",
-            "maxLength": 28,
-            "ta": "ICVPN"
-        },
-        {
-            "asn": "AS65530",
-            "prefix": "10.6.0.0/16",
             "maxLength": 28,
             "ta": "ICVPN"
         },
