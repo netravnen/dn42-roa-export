@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f8c57e53a72072d9b7f5cb337ab043241e3f3484",
-            "merge": "3a73f651 09e4802d",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 3 Nov 2019 22:09:57 +0000",
-            "subject": "Merge branch 'master' of eri/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f8c57e53a72072d9b7f5cb337ab043241e3f3484"
+            "commit": "0e47f7b51366da6d924cc54aeaf39e60fe5f0824",
+            "merge": "f8c57e53 beb66c70",
+            "author": "burble <simon@burble.com>",
+            "date": "Mon, 4 Nov 2019 09:28:39 +0000",
+            "subject": "Merge branch 'master' of pr0j3ctx/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0e47f7b51366da6d924cc54aeaf39e60fe5f0824"
         }
     },
     "validationOutputFilters": {
@@ -5360,6 +5360,22 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd7:7db4:6366::_48",
                 "source": "DN42",
                 "mnt-by": "MARSHY-MNT"
+            },
+            {
+                "asn": 4242422424,
+                "prefix": "fdd7:e654:c010::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd7:e654:c010::_48",
+                "source": "DN42",
+                "mnt-by": "PR0-MNT"
+            },
+            {
+                "asn": 4242422424,
+                "prefix": "fdd7:e654:c018::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd7:e654:c018::_48",
+                "source": "DN42",
+                "mnt-by": "PR0-MNT"
             },
             {
                 "asn": 4242421709,
@@ -13024,6 +13040,22 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.252.160_27",
                 "source": "DN42",
                 "mnt-by": "2F30-MNT"
+            },
+            {
+                "asn": 4242422424,
+                "prefix": "172.22.252.192/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.252.192_27",
+                "source": "DN42",
+                "mnt-by": "PR0-MNT"
+            },
+            {
+                "asn": 4242422424,
+                "prefix": "172.22.252.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.252.224_27",
+                "source": "DN42",
+                "mnt-by": "PR0-MNT"
             },
             {
                 "asn": 64828,
