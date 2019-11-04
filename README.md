@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 83c900f0bf2462e97eeefc0c8761b8b8fe3e3285
-Merge: 3af5f7d2 7d67dfe9
-Author: burble <simon@burble.com>
-Date:   Fri Nov 1 22:24:31 2019 +0000
+commit f8c57e53a72072d9b7f5cb337ab043241e3f3484
+Merge: 3a73f651 09e4802d
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Sun Nov 3 22:09:57 2019 +0000
 
-    Merge branch 'master' of Tchekda/registry into master
+    Merge branch 'master' of eri/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1063
-- ROAs IPv6:  788
-- ROAs total: 1851
+- ROAs IPv4:  1065
+- ROAs IPv6:  789
+- ROAs total: 1854
 
-[0]: https://git.dn42.us/dn42/registry/commit/83c900f0bf2462e97eeefc0c8761b8b8fe3e3285
+[0]: https://git.dn42.us/dn42/registry/commit/f8c57e53a72072d9b7f5cb337ab043241e3f3484
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

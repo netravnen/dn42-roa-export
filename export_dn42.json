@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "83c900f0bf2462e97eeefc0c8761b8b8fe3e3285",
-            "merge": "3af5f7d2 7d67dfe9",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 1 Nov 2019 22:24:31 +0000",
-            "subject": "Merge branch 'master' of Tchekda/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/83c900f0bf2462e97eeefc0c8761b8b8fe3e3285"
+            "commit": "f8c57e53a72072d9b7f5cb337ab043241e3f3484",
+            "merge": "3a73f651 09e4802d",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sun, 3 Nov 2019 22:09:57 +0000",
+            "subject": "Merge branch 'master' of eri/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f8c57e53a72072d9b7f5cb337ab043241e3f3484"
         }
     },
     "roas": [
@@ -3859,6 +3859,12 @@
         {
             "asn": "AS4242422718",
             "prefix": "fdc9:a4d4:c4ce::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420646",
+            "prefix": "fdc9:aa4d:b87c::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8129,6 +8135,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242420646",
+            "prefix": "172.20.5.224/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS4242423723",
             "prefix": "172.20.50.0/26",
             "maxLength": 28,
@@ -8402,6 +8414,12 @@
             "asn": "AS4242420101",
             "prefix": "172.20.66.64/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421127",
+            "prefix": "172.20.72.0/21",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {

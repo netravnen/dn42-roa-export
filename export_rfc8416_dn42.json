@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "83c900f0bf2462e97eeefc0c8761b8b8fe3e3285",
-            "merge": "3af5f7d2 7d67dfe9",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 1 Nov 2019 22:24:31 +0000",
-            "subject": "Merge branch 'master' of Tchekda/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/83c900f0bf2462e97eeefc0c8761b8b8fe3e3285"
+            "commit": "f8c57e53a72072d9b7f5cb337ab043241e3f3484",
+            "merge": "3a73f651 09e4802d",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sun, 3 Nov 2019 22:09:57 +0000",
+            "subject": "Merge branch 'master' of eri/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f8c57e53a72072d9b7f5cb337ab043241e3f3484"
         }
     },
     "validationOutputFilters": {
@@ -5152,6 +5152,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc9:a4d4:c4ce::_48",
                 "source": "DN42",
                 "mnt-by": "GIGA-MNT"
+            },
+            {
+                "asn": 4242420646,
+                "prefix": "fdc9:aa4d:b87c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc9:aa4d:b87c::_48",
+                "source": "DN42",
+                "mnt-by": "GRAHAMC-MNT"
             },
             {
                 "asn": 65514,
@@ -10842,6 +10850,14 @@
                 "mnt-by": "DIGILINK-MNT"
             },
             {
+                "asn": 4242420646,
+                "prefix": "172.20.5.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.5.224_27",
+                "source": "DN42",
+                "mnt-by": "GRAHAMC-MNT"
+            },
+            {
                 "asn": 4242423723,
                 "prefix": "172.20.50.0/26",
                 "maxPrefixLength": 28,
@@ -11208,6 +11224,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.66.64_28",
                 "source": "DN42",
                 "mnt-by": "HEXA-MNT"
+            },
+            {
+                "asn": 4242421127,
+                "prefix": "172.20.72.0/21",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.72.0_21",
+                "source": "DN42",
+                "mnt-by": "ZW-MNT"
             },
             {
                 "asn": 4242423201,
