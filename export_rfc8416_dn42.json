@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "0e47f7b51366da6d924cc54aeaf39e60fe5f0824",
-            "merge": "f8c57e53 beb66c70",
-            "author": "burble <simon@burble.com>",
-            "date": "Mon, 4 Nov 2019 09:28:39 +0000",
-            "subject": "Merge branch 'master' of pr0j3ctx/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0e47f7b51366da6d924cc54aeaf39e60fe5f0824"
+            "commit": "d6aec59c0cee0cfc22587dee197b7b07ce66e49d",
+            "merge": "0e47f7b5 dd5fa8cf",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Mon, 4 Nov 2019 21:47:56 +0000",
+            "subject": "Merge branch 'master' of itunali/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d6aec59c0cee0cfc22587dee197b7b07ce66e49d"
         }
     },
     "validationOutputFilters": {
@@ -3832,6 +3832,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd76:d330:272b::_48",
                 "source": "DN42",
                 "mnt-by": "RHINE-MNT"
+            },
+            {
+                "asn": 4242421977,
+                "prefix": "fd78:062f:d291:3f33::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd78:062f:d291:3f33::_64",
+                "source": "DN42",
+                "mnt-by": "ITUNALI-MNT"
             },
             {
                 "asn": 4242421841,
@@ -12864,6 +12872,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.173.0_24",
                 "source": "DN42",
                 "mnt-by": "JOMAT-MNT"
+            },
+            {
+                "asn": 4242421977,
+                "prefix": "172.22.177.64/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.177.64_28",
+                "source": "DN42",
+                "mnt-by": "ITUNALI-MNT"
             },
             {
                 "asn": 4242421873,

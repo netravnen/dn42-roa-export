@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0e47f7b51366da6d924cc54aeaf39e60fe5f0824
-Merge: f8c57e53 beb66c70
-Author: burble <simon@burble.com>
-Date:   Mon Nov 4 09:28:39 2019 +0000
+commit d6aec59c0cee0cfc22587dee197b7b07ce66e49d
+Merge: 0e47f7b5 dd5fa8cf
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Mon Nov 4 21:47:56 2019 +0000
 
-    Merge branch 'master' of pr0j3ctx/registry into master
+    Merge branch 'master' of itunali/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1067
-- ROAs IPv6:  791
-- ROAs total: 1858
+- ROAs IPv4:  1068
+- ROAs IPv6:  792
+- ROAs total: 1860
 
-[0]: https://git.dn42.us/dn42/registry/commit/0e47f7b51366da6d924cc54aeaf39e60fe5f0824
+[0]: https://git.dn42.us/dn42/registry/commit/d6aec59c0cee0cfc22587dee197b7b07ce66e49d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

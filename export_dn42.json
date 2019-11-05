@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "0e47f7b51366da6d924cc54aeaf39e60fe5f0824",
-            "merge": "f8c57e53 beb66c70",
-            "author": "burble <simon@burble.com>",
-            "date": "Mon, 4 Nov 2019 09:28:39 +0000",
-            "subject": "Merge branch 'master' of pr0j3ctx/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0e47f7b51366da6d924cc54aeaf39e60fe5f0824"
+            "commit": "d6aec59c0cee0cfc22587dee197b7b07ce66e49d",
+            "merge": "0e47f7b5 dd5fa8cf",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Mon, 4 Nov 2019 21:47:56 +0000",
+            "subject": "Merge branch 'master' of itunali/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d6aec59c0cee0cfc22587dee197b7b07ce66e49d"
         }
     },
     "roas": [
@@ -2870,6 +2870,12 @@
             "asn": "AS4242423925",
             "prefix": "fd76:d330:272b::/48",
             "maxLength": "48",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421977",
+            "prefix": "fd78:062f:d291:3f33::/64",
+            "maxLength": "64",
             "ta": "DN42"
         },
         {
@@ -9644,6 +9650,12 @@
             "asn": "AS4242421554",
             "prefix": "172.22.173.0/24",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421977",
+            "prefix": "172.22.177.64/28",
+            "maxLength": "28",
             "ta": "DN42"
         },
         {
