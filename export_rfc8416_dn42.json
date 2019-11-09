@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "d6aec59c0cee0cfc22587dee197b7b07ce66e49d",
-            "merge": "0e47f7b5 dd5fa8cf",
+            "commit": "91105893301db18e5df970bebe59182904bb2df7",
+            "merge": "d6aec59c e9e2c4b7",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Mon, 4 Nov 2019 21:47:56 +0000",
-            "subject": "Merge branch 'master' of itunali/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d6aec59c0cee0cfc22587dee197b7b07ce66e49d"
+            "date": "Fri, 8 Nov 2019 16:06:11 +0000",
+            "subject": "Merge branch 'master' of Huramkin/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/91105893301db18e5df970bebe59182904bb2df7"
         }
     },
     "validationOutputFilters": {
@@ -6178,6 +6178,14 @@
                 "mnt-by": "UNBEDENKLICH-MNT"
             },
             {
+                "asn": 4242423821,
+                "prefix": "fdfc:44e4:146e:8f69::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfc:44e4:146e:8f69::_64",
+                "source": "DN42",
+                "mnt-by": "HATO-MNT"
+            },
+            {
                 "asn": 64871,
                 "prefix": "fdfc:ba7c:0ca1::/48",
                 "maxPrefixLength": 64,
@@ -8968,6 +8976,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.164.96_27",
                 "source": "DN42",
                 "mnt-by": "ZYRADYL-MNT"
+            },
+            {
+                "asn": 4242423821,
+                "prefix": "172.20.165.8/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.165.8_29",
+                "source": "DN42",
+                "mnt-by": "HATO-MNT"
             },
             {
                 "asn": 4242422113,
