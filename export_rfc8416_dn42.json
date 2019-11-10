@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "91105893301db18e5df970bebe59182904bb2df7",
-            "merge": "d6aec59c e9e2c4b7",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 8 Nov 2019 16:06:11 +0000",
-            "subject": "Merge branch 'master' of Huramkin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/91105893301db18e5df970bebe59182904bb2df7"
+            "commit": "4f3d5e5037a1c63728732727a382096d46507cd9",
+            "merge": "b5fb0806 47c30a7f",
+            "author": "burble <simon@burble.com>",
+            "date": "Sun, 10 Nov 2019 08:31:36 +0000",
+            "subject": "Merge branch 'master' of bitcloud/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4f3d5e5037a1c63728732727a382096d46507cd9"
         }
     },
     "validationOutputFilters": {
@@ -4600,6 +4600,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda4:c3cb:737c::_48",
                 "source": "DN42",
                 "mnt-by": "SOUTERRAIN-MNT"
+            },
+            {
+                "asn": 4242422369,
+                "prefix": "fda5:ac02:e120::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda5:ac02:e120::_48",
+                "source": "DN42",
+                "mnt-by": "BITCLOUD-MNT"
             },
             {
                 "asn": 4242420469,
@@ -9480,6 +9488,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.186.0_24",
                 "source": "DN42",
                 "mnt-by": "TECH9-MNT"
+            },
+            {
+                "asn": 4242422369,
+                "prefix": "172.20.188.0/24",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.188.0_24",
+                "source": "DN42",
+                "mnt-by": "BITCLOUD-MNT"
             },
             {
                 "asn": 4242420037,

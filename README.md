@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 91105893301db18e5df970bebe59182904bb2df7
-Merge: d6aec59c e9e2c4b7
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Fri Nov 8 16:06:11 2019 +0000
+commit 4f3d5e5037a1c63728732727a382096d46507cd9
+Merge: b5fb0806 47c30a7f
+Author: burble <simon@burble.com>
+Date:   Sun Nov 10 08:31:36 2019 +0000
 
-    Merge branch 'master' of Huramkin/registry into master
+    Merge branch 'master' of bitcloud/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1069
-- ROAs IPv6:  793
-- ROAs total: 1862
+- ROAs IPv4:  1070
+- ROAs IPv6:  794
+- ROAs total: 1864
 
-[0]: https://git.dn42.us/dn42/registry/commit/91105893301db18e5df970bebe59182904bb2df7
+[0]: https://git.dn42.us/dn42/registry/commit/4f3d5e5037a1c63728732727a382096d46507cd9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
