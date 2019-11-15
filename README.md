@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4f3d5e5037a1c63728732727a382096d46507cd9
-Merge: b5fb0806 47c30a7f
+commit 660d09b065bbb2408ce9cf2da6abd12c12c5ad89
+Merge: 30dd6959 42a86085
 Author: burble <simon@burble.com>
-Date:   Sun Nov 10 08:31:36 2019 +0000
+Date:   Fri Nov 15 17:58:40 2019 +0000
 
-    Merge branch 'master' of bitcloud/registry into master
+    Merge branch 'yonghan' of yonghan/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1070
-- ROAs IPv6:  794
-- ROAs total: 1864
+- ROAs IPv6:  795
+- ROAs total: 1865
 
-[0]: https://git.dn42.us/dn42/registry/commit/4f3d5e5037a1c63728732727a382096d46507cd9
+[0]: https://git.dn42.us/dn42/registry/commit/660d09b065bbb2408ce9cf2da6abd12c12c5ad89
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

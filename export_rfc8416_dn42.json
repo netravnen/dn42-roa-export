@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "4f3d5e5037a1c63728732727a382096d46507cd9",
-            "merge": "b5fb0806 47c30a7f",
+            "commit": "660d09b065bbb2408ce9cf2da6abd12c12c5ad89",
+            "merge": "30dd6959 42a86085",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 10 Nov 2019 08:31:36 +0000",
-            "subject": "Merge branch 'master' of bitcloud/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4f3d5e5037a1c63728732727a382096d46507cd9"
+            "date": "Fri, 15 Nov 2019 17:58:40 +0000",
+            "subject": "Merge branch 'yonghan' of yonghan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/660d09b065bbb2408ce9cf2da6abd12c12c5ad89"
         }
     },
     "validationOutputFilters": {
@@ -6112,6 +6112,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf8:34f6:4f6f::_48",
                 "source": "DN42",
                 "mnt-by": "JASONSREALM-MNT"
+            },
+            {
+                "asn": 4242420904,
+                "prefix": "fdf8:69c9:0134::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf8:69c9:0134::_48",
+                "source": "DN42",
+                "mnt-by": "Y525-MNT"
             },
             {
                 "asn": 4242422005,
