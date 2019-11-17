@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "660d09b065bbb2408ce9cf2da6abd12c12c5ad89",
-            "merge": "30dd6959 42a86085",
-            "author": "burble <simon@burble.com>",
-            "date": "Fri, 15 Nov 2019 17:58:40 +0000",
-            "subject": "Merge branch 'yonghan' of yonghan/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/660d09b065bbb2408ce9cf2da6abd12c12c5ad89"
+            "commit": "fba0f3f1931ffc93c97dbe26a19680d897425230",
+            "merge": "660d09b0 0704495f",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Sun, 17 Nov 2019 13:07:10 +0000",
+            "subject": "Merge branch 'master' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/fba0f3f1931ffc93c97dbe26a19680d897425230"
         }
     },
     "roas": [
