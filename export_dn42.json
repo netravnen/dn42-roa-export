@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "fba0f3f1931ffc93c97dbe26a19680d897425230",
-            "merge": "660d09b0 0704495f",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 17 Nov 2019 13:07:10 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/fba0f3f1931ffc93c97dbe26a19680d897425230"
+            "commit": "6a3410e77421abeefcdc6aad722a6ca30a35eee0",
+            "merge": "ee97c3ac a1bc0235",
+            "author": "burble <simon@burble.com>",
+            "date": "Tue, 19 Nov 2019 18:48:18 +0000",
+            "subject": "Merge branch 'master' of 5670/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6a3410e77421abeefcdc6aad722a6ca30a35eee0"
         }
     },
     "roas": [
@@ -2829,6 +2829,12 @@
             "prefix": "fd73:111:e824::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242421020",
+            "prefix": "fd73:3033:1913::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS4242423301",
@@ -8861,6 +8867,12 @@
             "ta": "DN42"
         },
         {
+            "asn": "AS4242421020",
+            "prefix": "172.21.93.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
             "asn": "AS0",
             "prefix": "172.21.99.0/27",
             "maxLength": 32,
@@ -10243,6 +10255,12 @@
         {
             "asn": "AS4242422387",
             "prefix": "172.23.109.0/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420899",
+            "prefix": "172.23.109.128/27",
             "maxLength": 28,
             "ta": "DN42"
         },
