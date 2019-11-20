@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "6a3410e77421abeefcdc6aad722a6ca30a35eee0",
-            "merge": "ee97c3ac a1bc0235",
+            "commit": "15aac17162bdafb9014280d0ce9b94bef0656a1a",
+            "merge": "504deb52 a684b26b",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 19 Nov 2019 18:48:18 +0000",
-            "subject": "Merge branch 'master' of 5670/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6a3410e77421abeefcdc6aad722a6ca30a35eee0"
+            "date": "Wed, 20 Nov 2019 17:19:03 +0000",
+            "subject": "Merge branch 'initial' of yousong/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/15aac17162bdafb9014280d0ce9b94bef0656a1a"
         }
     },
     "roas": [
@@ -482,6 +482,12 @@
             "asn": "AS4242423640",
             "prefix": "fd12:ee00:9898::/48",
             "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421043",
+            "prefix": "fd13:ae3a:9022::/48",
+            "maxLength": "48",
             "ta": "DN42"
         },
         {
@@ -2509,6 +2515,12 @@
         {
             "asn": "AS4242423853",
             "prefix": "fd57:1523:5216::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420428",
+            "prefix": "fd58:eb75:347d::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -8071,6 +8083,12 @@
         {
             "asn": "AS4242421408",
             "prefix": "172.20.46.80/28",
+            "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242421043",
+            "prefix": "172.20.46.96/28",
             "maxLength": "28",
             "ta": "DN42"
         },

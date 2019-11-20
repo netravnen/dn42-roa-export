@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "6a3410e77421abeefcdc6aad722a6ca30a35eee0",
-            "merge": "ee97c3ac a1bc0235",
+            "commit": "15aac17162bdafb9014280d0ce9b94bef0656a1a",
+            "merge": "504deb52 a684b26b",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 19 Nov 2019 18:48:18 +0000",
-            "subject": "Merge branch 'master' of 5670/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6a3410e77421abeefcdc6aad722a6ca30a35eee0"
+            "date": "Wed, 20 Nov 2019 17:19:03 +0000",
+            "subject": "Merge branch 'initial' of yousong/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/15aac17162bdafb9014280d0ce9b94bef0656a1a"
         }
     },
     "validationOutputFilters": {
@@ -648,6 +648,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd12:ee00:9898::_48",
                 "source": "DN42",
                 "mnt-by": "HESSENET-MNT"
+            },
+            {
+                "asn": 4242421043,
+                "prefix": "fd13:ae3a:9022::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd13:ae3a:9022::_48",
+                "source": "DN42",
+                "mnt-by": "YOUSONG-MNT"
             },
             {
                 "asn": 65052,
@@ -3352,6 +3360,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd57:1523:5216::_48",
                 "source": "DN42",
                 "mnt-by": "CHENYAO2333-MNT"
+            },
+            {
+                "asn": 4242420428,
+                "prefix": "fd58:eb75:347d::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd58:eb75:347d::_48",
+                "source": "DN42",
+                "mnt-by": "HAX404-MNT"
             },
             {
                 "asn": 76175,
@@ -10768,6 +10784,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.46.80_28",
                 "source": "DN42",
                 "mnt-by": "BL4CKOUT-MNT"
+            },
+            {
+                "asn": 4242421043,
+                "prefix": "172.20.46.96/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.46.96_28",
+                "source": "DN42",
+                "mnt-by": "YOUSONG-MNT"
             },
             {
                 "asn": 4242421123,
