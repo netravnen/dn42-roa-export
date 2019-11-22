@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 15aac17162bdafb9014280d0ce9b94bef0656a1a
-Merge: 504deb52 a684b26b
-Author: burble <simon@burble.com>
-Date:   Wed Nov 20 17:19:03 2019 +0000
+commit 3e84796bb9ad863f2c7476933c3f8e7111115d5b
+Merge: d605f646 dfd7864d
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Fri Nov 22 16:47:28 2019 +0000
 
-    Merge branch 'initial' of yousong/registry into master
+    Merge branch 'master' of x84-noc/dn42-registry-x84 into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1073
-- ROAs IPv6:  798
-- ROAs total: 1871
+- ROAs IPv4:  1075
+- ROAs IPv6:  800
+- ROAs total: 1875
 
-[0]: https://git.dn42.us/dn42/registry/commit/15aac17162bdafb9014280d0ce9b94bef0656a1a
+[0]: https://git.dn42.us/dn42/registry/commit/3e84796bb9ad863f2c7476933c3f8e7111115d5b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

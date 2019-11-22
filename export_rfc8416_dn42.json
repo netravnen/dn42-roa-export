@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "15aac17162bdafb9014280d0ce9b94bef0656a1a",
-            "merge": "504deb52 a684b26b",
-            "author": "burble <simon@burble.com>",
-            "date": "Wed, 20 Nov 2019 17:19:03 +0000",
-            "subject": "Merge branch 'initial' of yousong/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/15aac17162bdafb9014280d0ce9b94bef0656a1a"
+            "commit": "3e84796bb9ad863f2c7476933c3f8e7111115d5b",
+            "merge": "d605f646 dfd7864d",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Fri, 22 Nov 2019 16:47:28 +0000",
+            "subject": "Merge branch 'master' of x84-noc/dn42-registry-x84 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3e84796bb9ad863f2c7476933c3f8e7111115d5b"
         }
     },
     "validationOutputFilters": {
@@ -3706,6 +3706,14 @@
                 "mnt-by": "YUXANS-MNT"
             },
             {
+                "asn": 4242421629,
+                "prefix": "fd6a:c707:c3c8:be2a::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd6a:c707:c3c8:be2a::_64",
+                "source": "DN42",
+                "mnt-by": "ZERUKS-MNT"
+            },
+            {
                 "asn": 4242421860,
                 "prefix": "fd6b:869c:c4a1::/48",
                 "maxPrefixLength": 64,
@@ -6240,6 +6248,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfd:1651:0065:f398::_64",
                 "source": "DN42",
                 "mnt-by": "ZAICA-MNT"
+            },
+            {
+                "asn": 4242422284,
+                "prefix": "fdfd:25fe:c901::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfd:25fe:c901::_48",
+                "source": "DN42",
+                "mnt-by": "X84-MNT"
             },
             {
                 "asn": 4242421994,
@@ -8810,6 +8826,14 @@
                 "mnt-by": "NULLROUTE-MNT"
             },
             {
+                "asn": 4242421629,
+                "prefix": "172.20.158.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.158.32_27",
+                "source": "DN42",
+                "mnt-by": "ZERUKS-MNT"
+            },
+            {
                 "asn": 4242422878,
                 "prefix": "172.20.159.0/29",
                 "maxPrefixLength": 29,
@@ -10008,6 +10032,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.22.0_23",
                 "source": "DN42",
                 "mnt-by": "IKEY-MNT"
+            },
+            {
+                "asn": 4242422284,
+                "prefix": "172.20.224.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.224.0_26",
+                "source": "DN42",
+                "mnt-by": "X84-MNT"
             },
             {
                 "asn": 4242423965,
