@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "3e84796bb9ad863f2c7476933c3f8e7111115d5b",
-            "merge": "d605f646 dfd7864d",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 22 Nov 2019 16:47:28 +0000",
-            "subject": "Merge branch 'master' of x84-noc/dn42-registry-x84 into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3e84796bb9ad863f2c7476933c3f8e7111115d5b"
+            "commit": "abdc21d34015105c9243143a90ba5b725d03b653",
+            "merge": "3e84796b 364059bb",
+            "author": "burble <simon@burble.com>",
+            "date": "Wed, 27 Nov 2019 18:55:05 +0000",
+            "subject": "Merge branch 'yonghan' of yonghan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/abdc21d34015105c9243143a90ba5b725d03b653"
         }
     },
     "validationOutputFilters": {
