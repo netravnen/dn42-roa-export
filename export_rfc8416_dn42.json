@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "abdc21d34015105c9243143a90ba5b725d03b653",
-            "merge": "3e84796b 364059bb",
+            "commit": "787a9a099b988902cf12c91da9014648c0c60803",
+            "merge": "6ab4c3f5 c76902b9",
             "author": "burble <simon@burble.com>",
-            "date": "Wed, 27 Nov 2019 18:55:05 +0000",
-            "subject": "Merge branch 'yonghan' of yonghan/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/abdc21d34015105c9243143a90ba5b725d03b653"
+            "date": "Thu, 28 Nov 2019 12:24:41 +0000",
+            "subject": "Merge branch 'master' of lrinQVQ/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/787a9a099b988902cf12c91da9014648c0c60803"
         }
     },
     "validationOutputFilters": {
@@ -3290,6 +3290,14 @@
                 "mnt-by": "TCHEKDA-MNT"
             },
             {
+                "asn": 4242422410,
+                "prefix": "fd55:a814:708c::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd55:a814:708c::_48",
+                "source": "DN42",
+                "mnt-by": "ZENITHAL-MNT"
+            },
+            {
                 "asn": 64654,
                 "prefix": "fd55:caa:bde3::/64",
                 "maxPrefixLength": 64,
@@ -4768,6 +4776,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb1:e72a:343d::_48",
                 "source": "DN42",
                 "mnt-by": "ROUTEDBITS-MNT"
+            },
+            {
+                "asn": 4242423774,
+                "prefix": "fdb2:520f:f4a7::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb2:520f:f4a7::_48",
+                "source": "DN42",
+                "mnt-by": "LRINQVQ-MNT"
             },
             {
                 "asn": 4242420177,
@@ -10922,6 +10938,14 @@
                 "mnt-by": "CYBERTINUS-MNT"
             },
             {
+                "asn": 4242423774,
+                "prefix": "172.20.48.192/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.48.192_27",
+                "source": "DN42",
+                "mnt-by": "LRINQVQ-MNT"
+            },
+            {
                 "asn": 4242420573,
                 "prefix": "172.20.48.32/27",
                 "maxPrefixLength": 28,
@@ -11480,6 +11504,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.113.192_27",
                 "source": "DN42",
                 "mnt-by": "JUNJUN-MNT"
+            },
+            {
+                "asn": 4242422410,
+                "prefix": "172.21.113.224/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.113.224_27",
+                "source": "DN42",
+                "mnt-by": "ZENITHAL-MNT"
             },
             {
                 "asn": 4242421010,
