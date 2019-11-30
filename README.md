@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 43211ba8f50ac17cfb6ea0e00159e2bbd641411c
-Merge: 787a9a09 96f94480
+commit 8b11787263318e68f9bdefff1c04f0b25bba8760
+Merge: 43211ba8 fec9e8ff
 Author: burble <simon@burble.com>
-Date:   Sat Nov 30 12:52:27 2019 +0000
+Date:   Sat Nov 30 15:56:06 2019 +0000
 
-    Merge branch 'master' of andatche/registry into master
+    Merge branch 'master' of santost12/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1078
-- ROAs IPv6:  803
-- ROAs total: 1881
+- ROAs IPv4:  1079
+- ROAs IPv6:  804
+- ROAs total: 1883
 
-[0]: https://git.dn42.us/dn42/registry/commit/43211ba8f50ac17cfb6ea0e00159e2bbd641411c
+[0]: https://git.dn42.us/dn42/registry/commit/8b11787263318e68f9bdefff1c04f0b25bba8760
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
