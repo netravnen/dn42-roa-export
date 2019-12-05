@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8b11787263318e68f9bdefff1c04f0b25bba8760
-Merge: 43211ba8 fec9e8ff
+commit b21c27ff259f709755ac2da4f702041d28335ee2
+Merge: b03573f0 e80347ca
 Author: burble <simon@burble.com>
-Date:   Sat Nov 30 15:56:06 2019 +0000
+Date:   Thu Dec 5 13:10:09 2019 +0000
 
-    Merge branch 'master' of santost12/registry into master
+    Merge branch 'master' of anthony-bible/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1079
-- ROAs IPv6:  804
-- ROAs total: 1883
+- ROAs IPv4:  1081
+- ROAs IPv6:  806
+- ROAs total: 1887
 
-[0]: https://git.dn42.us/dn42/registry/commit/8b11787263318e68f9bdefff1c04f0b25bba8760
+[0]: https://git.dn42.us/dn42/registry/commit/b21c27ff259f709755ac2da4f702041d28335ee2
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

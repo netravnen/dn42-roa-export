@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "8b11787263318e68f9bdefff1c04f0b25bba8760",
-            "merge": "43211ba8 fec9e8ff",
+            "commit": "b21c27ff259f709755ac2da4f702041d28335ee2",
+            "merge": "b03573f0 e80347ca",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 30 Nov 2019 15:56:06 +0000",
-            "subject": "Merge branch 'master' of santost12/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8b11787263318e68f9bdefff1c04f0b25bba8760"
+            "date": "Thu, 5 Dec 2019 13:10:09 +0000",
+            "subject": "Merge branch 'master' of anthony-bible/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b21c27ff259f709755ac2da4f702041d28335ee2"
         }
     },
     "validationOutputFilters": {
@@ -4970,6 +4970,14 @@
                 "mnt-by": "VIRCOSNET-MNT"
             },
             {
+                "asn": 4242423952,
+                "prefix": "fdbd:8dc9:3d2b::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdbd:8dc9:3d2b::_48",
+                "source": "DN42",
+                "mnt-by": "GIMPYB-MNT"
+            },
+            {
                 "asn": 64892,
                 "prefix": "fdbe:12d0:03d2::/64",
                 "maxPrefixLength": 64,
@@ -5496,6 +5504,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd9:a233:58d9::_48",
                 "source": "DN42",
                 "mnt-by": "XIAOYU-MNT"
+            },
+            {
+                "asn": 4242423670,
+                "prefix": "fdd9:cecf:b296::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd9:cecf:b296::_48",
+                "source": "DN42",
+                "mnt-by": "BLEEN-MNT"
             },
             {
                 "asn": 4242420567,
@@ -9386,6 +9402,14 @@
                 "mnt-by": "MOT-MNT"
             },
             {
+                "asn": 4242423670,
+                "prefix": "172.20.18.112/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.18.112_28",
+                "source": "DN42",
+                "mnt-by": "BLEEN-MNT"
+            },
+            {
                 "asn": 4242421842,
                 "prefix": "172.20.18.128/27",
                 "maxPrefixLength": 28,
@@ -11512,6 +11536,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.106.32_27",
                 "source": "DN42",
                 "mnt-by": "BENL-MNT"
+            },
+            {
+                "asn": 4242423952,
+                "prefix": "172.21.106.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.106.64_27",
+                "source": "DN42",
+                "mnt-by": "GIMPYB-MNT"
             },
             {
                 "asn": 4242420155,
