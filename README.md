@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b21c27ff259f709755ac2da4f702041d28335ee2
-Merge: b03573f0 e80347ca
+commit 0f0279e410a58f0e66a987a6534f8cc662fe67c0
+Merge: b21c27ff 7939b945
 Author: burble <simon@burble.com>
-Date:   Thu Dec 5 13:10:09 2019 +0000
+Date:   Mon Dec 9 21:18:51 2019 +0000
 
-    Merge branch 'master' of anthony-bible/registry into master
+    Merge branch 'master' of SkyEm/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  806
 - ROAs total: 1887
 
-[0]: https://git.dn42.us/dn42/registry/commit/b21c27ff259f709755ac2da4f702041d28335ee2
+[0]: https://git.dn42.us/dn42/registry/commit/0f0279e410a58f0e66a987a6534f8cc662fe67c0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

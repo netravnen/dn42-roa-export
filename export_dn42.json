@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "b21c27ff259f709755ac2da4f702041d28335ee2",
-            "merge": "b03573f0 e80347ca",
+            "commit": "0f0279e410a58f0e66a987a6534f8cc662fe67c0",
+            "merge": "b21c27ff 7939b945",
             "author": "burble <simon@burble.com>",
-            "date": "Thu, 5 Dec 2019 13:10:09 +0000",
-            "subject": "Merge branch 'master' of anthony-bible/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b21c27ff259f709755ac2da4f702041d28335ee2"
+            "date": "Mon, 9 Dec 2019 21:18:51 +0000",
+            "subject": "Merge branch 'master' of SkyEm/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0f0279e410a58f0e66a987a6534f8cc662fe67c0"
         }
     },
     "roas": [
