@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0f0279e410a58f0e66a987a6534f8cc662fe67c0
-Merge: b21c27ff 7939b945
+commit a2bd25708b4bd9a529c5e3492ad26b724413f515
+Merge: 0f0279e4 5f847b13
 Author: burble <simon@burble.com>
-Date:   Mon Dec 9 21:18:51 2019 +0000
+Date:   Tue Dec 10 20:54:48 2019 +0000
 
-    Merge branch 'master' of SkyEm/registry into master
+    Merge branch 'master' of maraun/dn42-registry-AS4242424242 into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1081
-- ROAs IPv6:  806
-- ROAs total: 1887
+- ROAs IPv4:  1082
+- ROAs IPv6:  807
+- ROAs total: 1889
 
-[0]: https://git.dn42.us/dn42/registry/commit/0f0279e410a58f0e66a987a6534f8cc662fe67c0
+[0]: https://git.dn42.us/dn42/registry/commit/a2bd25708b4bd9a529c5e3492ad26b724413f515
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

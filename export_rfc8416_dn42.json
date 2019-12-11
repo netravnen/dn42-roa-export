@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "0f0279e410a58f0e66a987a6534f8cc662fe67c0",
-            "merge": "b21c27ff 7939b945",
+            "commit": "a2bd25708b4bd9a529c5e3492ad26b724413f515",
+            "merge": "0f0279e4 5f847b13",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 9 Dec 2019 21:18:51 +0000",
-            "subject": "Merge branch 'master' of SkyEm/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0f0279e410a58f0e66a987a6534f8cc662fe67c0"
+            "date": "Tue, 10 Dec 2019 20:54:48 +0000",
+            "subject": "Merge branch 'master' of maraun/dn42-registry-AS4242424242 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a2bd25708b4bd9a529c5e3492ad26b724413f515"
         }
     },
     "validationOutputFilters": {
@@ -4818,6 +4818,14 @@
                 "mnt-by": "DRATHIR-MNT"
             },
             {
+                "asn": 4242422225,
+                "prefix": "fdb3:4cc3:3bfb:7830::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb3:4cc3:3bfb:7830::_64",
+                "source": "DN42",
+                "mnt-by": "MARAUN-MNT"
+            },
+            {
                 "asn": 64712,
                 "prefix": "fdb3:d376:9939::/48",
                 "maxPrefixLength": 64,
@@ -8064,6 +8072,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.12.160_27",
                 "source": "DN42",
                 "mnt-by": "FSTAB-MNT"
+            },
+            {
+                "asn": 4242422225,
+                "prefix": "172.20.12.192/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.12.192_27",
+                "source": "DN42",
+                "mnt-by": "MARAUN-MNT"
             },
             {
                 "asn": 4242423610,
