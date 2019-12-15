@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "33cba7f614fd0917ab2ec5c0d98f02fb596387cb",
-            "merge": "0e094150 45bb954c",
+            "commit": "e7c61bc814d92d772d42701cf1ad647d5ec6b57d",
+            "merge": "33cba7f6 54d26c4a",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 13 Dec 2019 22:11:52 +0000",
-            "subject": "Merge branch 'master' of ncon/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/33cba7f614fd0917ab2ec5c0d98f02fb596387cb"
+            "date": "Sun, 15 Dec 2019 17:47:43 +0000",
+            "subject": "Merge branch 'master' of maraun/dn42-registry-AS4242424242 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e7c61bc814d92d772d42701cf1ad647d5ec6b57d"
         }
     },
     "validationOutputFilters": {

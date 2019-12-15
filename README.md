@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 33cba7f614fd0917ab2ec5c0d98f02fb596387cb
-Merge: 0e094150 45bb954c
+commit e7c61bc814d92d772d42701cf1ad647d5ec6b57d
+Merge: 33cba7f6 54d26c4a
 Author: burble <simon@burble.com>
-Date:   Fri Dec 13 22:11:52 2019 +0000
+Date:   Sun Dec 15 17:47:43 2019 +0000
 
-    Merge branch 'master' of ncon/registry into master
+    Merge branch 'master' of maraun/dn42-registry-AS4242424242 into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  811
 - ROAs total: 1897
 
-[0]: https://git.dn42.us/dn42/registry/commit/33cba7f614fd0917ab2ec5c0d98f02fb596387cb
+[0]: https://git.dn42.us/dn42/registry/commit/e7c61bc814d92d772d42701cf1ad647d5ec6b57d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
