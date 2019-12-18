@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "e7c61bc814d92d772d42701cf1ad647d5ec6b57d",
-            "merge": "33cba7f6 54d26c4a",
+            "commit": "359006bc7f30802009f07487288c727f9c36a45c",
+            "merge": "e7c61bc8 8d4730b0",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 15 Dec 2019 17:47:43 +0000",
-            "subject": "Merge branch 'master' of maraun/dn42-registry-AS4242424242 into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e7c61bc814d92d772d42701cf1ad647d5ec6b57d"
+            "date": "Wed, 18 Dec 2019 19:04:06 +0000",
+            "subject": "Merge branch 'master' of qpli920501/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/359006bc7f30802009f07487288c727f9c36a45c"
         }
     },
     "roas": [
@@ -897,6 +897,12 @@
             "prefix": "fd37:b4dc:4b1e::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242423231",
+            "prefix": "fd37:b948:9c2e::/48",
+            "maxLength": 64,
+            "ta": "DN42"
         },
         {
             "asn": "AS4242422439",
@@ -10429,6 +10435,12 @@
         {
             "asn": "AS64526",
             "prefix": "172.23.11.0/24",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423231",
+            "prefix": "172.23.111.0/27",
             "maxLength": 28,
             "ta": "DN42"
         },

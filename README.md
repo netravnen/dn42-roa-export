@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e7c61bc814d92d772d42701cf1ad647d5ec6b57d
-Merge: 33cba7f6 54d26c4a
+commit 359006bc7f30802009f07487288c727f9c36a45c
+Merge: e7c61bc8 8d4730b0
 Author: burble <simon@burble.com>
-Date:   Sun Dec 15 17:47:43 2019 +0000
+Date:   Wed Dec 18 19:04:06 2019 +0000
 
-    Merge branch 'master' of maraun/dn42-registry-AS4242424242 into master
+    Merge branch 'master' of qpli920501/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1086
-- ROAs IPv6:  811
-- ROAs total: 1897
+- ROAs IPv4:  1087
+- ROAs IPv6:  812
+- ROAs total: 1899
 
-[0]: https://git.dn42.us/dn42/registry/commit/e7c61bc814d92d772d42701cf1ad647d5ec6b57d
+[0]: https://git.dn42.us/dn42/registry/commit/359006bc7f30802009f07487288c727f9c36a45c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
