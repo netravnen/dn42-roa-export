@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "481f01905a3f17d80b56a978ea255dae83102fe4",
-            "merge": "ae141725 4056b463",
+            "commit": "96e0ad492d8148b9aaec5b9bee0f926f1eb73da7",
+            "merge": "481f0190 044d29a3",
             "author": "burble <simon@burble.com>",
-            "date": "Thu, 19 Dec 2019 10:06:12 +0000",
-            "subject": "Merge branch 'registration/donuts' of donuts/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/481f01905a3f17d80b56a978ea255dae83102fe4"
+            "date": "Thu, 19 Dec 2019 17:00:41 +0000",
+            "subject": "Merge branch 'add-outloudvi' of outloudvi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/96e0ad492d8148b9aaec5b9bee0f926f1eb73da7"
         }
     },
     "validationOutputFilters": {
@@ -3160,6 +3160,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd46:aa43::_32",
                 "source": "DN42",
                 "mnt-by": "LIFEDIO-MNT"
+            },
+            {
+                "asn": 4242421037,
+                "prefix": "fd46:e3dc:db4a::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd46:e3dc:db4a::_48",
+                "source": "DN42",
+                "mnt-by": "LIBREHS-MNT"
             },
             {
                 "asn": 4242423328,

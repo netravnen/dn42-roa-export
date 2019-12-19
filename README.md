@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 481f01905a3f17d80b56a978ea255dae83102fe4
-Merge: ae141725 4056b463
+commit 96e0ad492d8148b9aaec5b9bee0f926f1eb73da7
+Merge: 481f0190 044d29a3
 Author: burble <simon@burble.com>
-Date:   Thu Dec 19 10:06:12 2019 +0000
+Date:   Thu Dec 19 17:00:41 2019 +0000
 
-    Merge branch 'registration/donuts' of donuts/registry into master
+    Merge branch 'add-outloudvi' of outloudvi/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1087
-- ROAs IPv6:  814
-- ROAs total: 1901
+- ROAs IPv6:  815
+- ROAs total: 1902
 
-[0]: https://git.dn42.us/dn42/registry/commit/481f01905a3f17d80b56a978ea255dae83102fe4
+[0]: https://git.dn42.us/dn42/registry/commit/96e0ad492d8148b9aaec5b9bee0f926f1eb73da7
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
