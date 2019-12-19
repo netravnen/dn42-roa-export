@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 18e1f74d3cc6819554b12ccc3e0dbae035682e09
-Merge: 6a170ab3 456df955
+commit 481f01905a3f17d80b56a978ea255dae83102fe4
+Merge: ae141725 4056b463
 Author: burble <simon@burble.com>
-Date:   Wed Dec 18 19:18:35 2019 +0000
+Date:   Thu Dec 19 10:06:12 2019 +0000
 
-    Merge branch 'master' of mortzu/registry into master
+    Merge branch 'registration/donuts' of donuts/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1085
-- ROAs IPv6:  812
-- ROAs total: 1897
+- ROAs IPv4:  1087
+- ROAs IPv6:  814
+- ROAs total: 1901
 
-[0]: https://git.dn42.us/dn42/registry/commit/18e1f74d3cc6819554b12ccc3e0dbae035682e09
+[0]: https://git.dn42.us/dn42/registry/commit/481f01905a3f17d80b56a978ea255dae83102fe4
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

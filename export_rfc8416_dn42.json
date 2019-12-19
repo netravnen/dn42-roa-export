@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "18e1f74d3cc6819554b12ccc3e0dbae035682e09",
-            "merge": "6a170ab3 456df955",
+            "commit": "481f01905a3f17d80b56a978ea255dae83102fe4",
+            "merge": "ae141725 4056b463",
             "author": "burble <simon@burble.com>",
-            "date": "Wed, 18 Dec 2019 19:18:35 +0000",
-            "subject": "Merge branch 'master' of mortzu/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/18e1f74d3cc6819554b12ccc3e0dbae035682e09"
+            "date": "Thu, 19 Dec 2019 10:06:12 +0000",
+            "subject": "Merge branch 'registration/donuts' of donuts/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/481f01905a3f17d80b56a978ea255dae83102fe4"
         }
     },
     "validationOutputFilters": {
@@ -3610,6 +3610,14 @@
                 "mnt-by": "SOASURS-MNT"
             },
             {
+                "asn": 4242420173,
+                "prefix": "fd62:cd4d:28a1::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd62:cd4d:28a1::_48",
+                "source": "DN42",
+                "mnt-by": "DONUTS-MNT"
+            },
+            {
                 "asn": 64654,
                 "prefix": "fd63:1e39:6f73:2929::/64",
                 "maxPrefixLength": 64,
@@ -5384,6 +5392,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdcd:3682:1c17::_48",
                 "source": "DN42",
                 "mnt-by": "NOCTURNO-MNT"
+            },
+            {
+                "asn": 4242423999,
+                "prefix": "fdce:ebc5:bbd8::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdce:ebc5:bbd8::_48",
+                "source": "DN42",
+                "mnt-by": "CPBARNES-MNT"
             },
             {
                 "asn": 4242423399,
@@ -9306,6 +9322,14 @@
                 "mnt-by": "JUMPNET-MNT"
             },
             {
+                "asn": 4242423999,
+                "prefix": "172.20.172.176/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.172.176_29",
+                "source": "DN42",
+                "mnt-by": "CPBARNES-MNT"
+            },
+            {
                 "asn": 4242420993,
                 "prefix": "172.20.172.224/27",
                 "maxPrefixLength": 28,
@@ -11800,6 +11824,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.65.32_28",
                 "source": "DN42",
                 "mnt-by": "ADRA-MNT"
+            },
+            {
+                "asn": 4242423999,
+                "prefix": "172.21.65.64/29",
+                "maxPrefixLength": 29,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.65.64_29",
+                "source": "DN42",
+                "mnt-by": "CPBARNES-MNT"
             },
             {
                 "asn": 4242423886,
