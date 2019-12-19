@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 359006bc7f30802009f07487288c727f9c36a45c
-Merge: e7c61bc8 8d4730b0
+commit 18e1f74d3cc6819554b12ccc3e0dbae035682e09
+Merge: 6a170ab3 456df955
 Author: burble <simon@burble.com>
-Date:   Wed Dec 18 19:04:06 2019 +0000
+Date:   Wed Dec 18 19:18:35 2019 +0000
 
-    Merge branch 'master' of qpli920501/registry into master
+    Merge branch 'master' of mortzu/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1087
+- ROAs IPv4:  1085
 - ROAs IPv6:  812
-- ROAs total: 1899
+- ROAs total: 1897
 
-[0]: https://git.dn42.us/dn42/registry/commit/359006bc7f30802009f07487288c727f9c36a45c
+[0]: https://git.dn42.us/dn42/registry/commit/18e1f74d3cc6819554b12ccc3e0dbae035682e09
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

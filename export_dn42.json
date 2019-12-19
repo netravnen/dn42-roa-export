@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "359006bc7f30802009f07487288c727f9c36a45c",
-            "merge": "e7c61bc8 8d4730b0",
+            "commit": "18e1f74d3cc6819554b12ccc3e0dbae035682e09",
+            "merge": "6a170ab3 456df955",
             "author": "burble <simon@burble.com>",
-            "date": "Wed, 18 Dec 2019 19:04:06 +0000",
-            "subject": "Merge branch 'master' of qpli920501/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/359006bc7f30802009f07487288c727f9c36a45c"
+            "date": "Wed, 18 Dec 2019 19:18:35 +0000",
+            "subject": "Merge branch 'master' of mortzu/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/18e1f74d3cc6819554b12ccc3e0dbae035682e09"
         }
     },
     "roas": [
@@ -9942,19 +9942,7 @@
         },
         {
             "asn": "AS64794",
-            "prefix": "172.22.192.16/28",
-            "maxLength": "28",
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS64794",
-            "prefix": "172.22.192.48/28",
-            "maxLength": "28",
-            "ta": "DN42"
-        },
-        {
-            "asn": "AS64794",
-            "prefix": "172.22.193.0/24",
+            "prefix": "172.22.193.0/25",
             "maxLength": 28,
             "ta": "DN42"
         },
