@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "96e0ad492d8148b9aaec5b9bee0f926f1eb73da7",
-            "merge": "481f0190 044d29a3",
+            "commit": "673808c46627d3dea2924b946579c69b5b88902a",
+            "merge": "503cacba b59a34d4",
             "author": "burble <simon@burble.com>",
-            "date": "Thu, 19 Dec 2019 17:00:41 +0000",
-            "subject": "Merge branch 'add-outloudvi' of outloudvi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/96e0ad492d8148b9aaec5b9bee0f926f1eb73da7"
+            "date": "Mon, 23 Dec 2019 10:21:51 +0000",
+            "subject": "Merge branch 'master' of njd/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/673808c46627d3dea2924b946579c69b5b88902a"
         }
     },
     "validationOutputFilters": {
@@ -512,6 +512,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd07:96ae:572e::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242423027,
+                "prefix": "fd08:a855:d4c7::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd08:a855:d4c7::_48",
+                "source": "DN42",
+                "mnt-by": "DW-MNT"
             },
             {
                 "asn": 4242420505,
@@ -6304,6 +6312,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfa:6eef:c3e2::_48",
                 "source": "DN42",
                 "mnt-by": "JAMESITS-MNT"
+            },
+            {
+                "asn": 4242420416,
+                "prefix": "fdfa:8c85:5ca3::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfa:8c85:5ca3::_48",
+                "source": "DN42",
+                "mnt-by": "NJD-MNT"
             },
             {
                 "asn": 4242420115,
@@ -13242,6 +13258,14 @@
                 "mnt-by": "DUMMY-MNT"
             },
             {
+                "asn": 4242423027,
+                "prefix": "172.22.186.0/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.186.0_27",
+                "source": "DN42",
+                "mnt-by": "DW-MNT"
+            },
+            {
                 "asn": 4242422502,
                 "prefix": "172.22.186.64/28",
                 "maxPrefixLength": 28,
@@ -13920,6 +13944,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.104.0_27",
                 "source": "DN42",
                 "mnt-by": "GNILEBEIN-MNT"
+            },
+            {
+                "asn": 4242420416,
+                "prefix": "172.23.104.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.104.32_27",
+                "source": "DN42",
+                "mnt-by": "NJD-MNT"
             },
             {
                 "asn": 4242422387,
