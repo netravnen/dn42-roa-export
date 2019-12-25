@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "673808c46627d3dea2924b946579c69b5b88902a",
-            "merge": "503cacba b59a34d4",
+            "commit": "9e7d90bed418f20c7ef2859cacb88ca0daab5abe",
+            "merge": "673808c4 8ea69914",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 23 Dec 2019 10:21:51 +0000",
-            "subject": "Merge branch 'master' of njd/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/673808c46627d3dea2924b946579c69b5b88902a"
+            "date": "Tue, 24 Dec 2019 20:31:37 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9e7d90bed418f20c7ef2859cacb88ca0daab5abe"
         }
     },
     "roas": [
@@ -8672,6 +8672,12 @@
             "asn": "AS4242423737",
             "prefix": "172.21.100.0/28",
             "maxLength": "28",
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423088",
+            "prefix": "172.21.100.128/25",
+            "maxLength": 28,
             "ta": "DN42"
         },
         {

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "673808c46627d3dea2924b946579c69b5b88902a",
-            "merge": "503cacba b59a34d4",
+            "commit": "9e7d90bed418f20c7ef2859cacb88ca0daab5abe",
+            "merge": "673808c4 8ea69914",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 23 Dec 2019 10:21:51 +0000",
-            "subject": "Merge branch 'master' of njd/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/673808c46627d3dea2924b946579c69b5b88902a"
+            "date": "Tue, 24 Dec 2019 20:31:37 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9e7d90bed418f20c7ef2859cacb88ca0daab5abe"
         }
     },
     "validationOutputFilters": {
@@ -11568,6 +11568,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.100.0_28",
                 "source": "DN42",
                 "mnt-by": "NETCLIPSE-MNT"
+            },
+            {
+                "asn": 4242423088,
+                "prefix": "172.21.100.128/25",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.100.128_25",
+                "source": "DN42",
+                "mnt-by": "SUNNET-MNT"
             },
             {
                 "asn": 4242428988,

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 673808c46627d3dea2924b946579c69b5b88902a
-Merge: 503cacba b59a34d4
+commit 9e7d90bed418f20c7ef2859cacb88ca0daab5abe
+Merge: 673808c4 8ea69914
 Author: burble <simon@burble.com>
-Date:   Mon Dec 23 10:21:51 2019 +0000
+Date:   Tue Dec 24 20:31:37 2019 +0000
 
-    Merge branch 'master' of njd/registry into master
+    Merge branch 'master' of sunaihui/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1089
+- ROAs IPv4:  1090
 - ROAs IPv6:  817
-- ROAs total: 1906
+- ROAs total: 1907
 
-[0]: https://git.dn42.us/dn42/registry/commit/673808c46627d3dea2924b946579c69b5b88902a
+[0]: https://git.dn42.us/dn42/registry/commit/9e7d90bed418f20c7ef2859cacb88ca0daab5abe
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
