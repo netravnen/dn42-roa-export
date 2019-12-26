@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "9e7d90bed418f20c7ef2859cacb88ca0daab5abe",
-            "merge": "673808c4 8ea69914",
+            "commit": "f122f1f17abe7686da560e9ba977f06cb2c3e45d",
+            "merge": "7973e568 ed8d35a9",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 24 Dec 2019 20:31:37 +0000",
-            "subject": "Merge branch 'master' of sunaihui/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9e7d90bed418f20c7ef2859cacb88ca0daab5abe"
+            "date": "Thu, 26 Dec 2019 18:36:09 +0000",
+            "subject": "Merge branch 'master' of Brueggus/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f122f1f17abe7686da560e9ba977f06cb2c3e45d"
         }
     },
     "validationOutputFilters": {
@@ -4192,6 +4192,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd88:dead:beef::_48",
                 "source": "DN42",
                 "mnt-by": "MITSUHA-MNT"
+            },
+            {
+                "asn": 4242420710,
+                "prefix": "fd89:e30d:4035::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd89:e30d:4035::_48",
+                "source": "DN42",
+                "mnt-by": "BRUEGGUS-MNT"
             },
             {
                 "asn": 4242423943,
@@ -10416,6 +10424,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.232.64_29",
                 "source": "DN42",
                 "mnt-by": "ANUBIOZ-MNT"
+            },
+            {
+                "asn": 4242420710,
+                "prefix": "172.20.232.80/28",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.232.80_28",
+                "source": "DN42",
+                "mnt-by": "BRUEGGUS-MNT"
             },
             {
                 "asn": 4242420205,

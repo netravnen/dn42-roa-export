@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9e7d90bed418f20c7ef2859cacb88ca0daab5abe
-Merge: 673808c4 8ea69914
+commit f122f1f17abe7686da560e9ba977f06cb2c3e45d
+Merge: 7973e568 ed8d35a9
 Author: burble <simon@burble.com>
-Date:   Tue Dec 24 20:31:37 2019 +0000
+Date:   Thu Dec 26 18:36:09 2019 +0000
 
-    Merge branch 'master' of sunaihui/registry into master
+    Merge branch 'master' of Brueggus/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1090
-- ROAs IPv6:  817
-- ROAs total: 1907
+- ROAs IPv4:  1091
+- ROAs IPv6:  818
+- ROAs total: 1909
 
-[0]: https://git.dn42.us/dn42/registry/commit/9e7d90bed418f20c7ef2859cacb88ca0daab5abe
+[0]: https://git.dn42.us/dn42/registry/commit/f122f1f17abe7686da560e9ba977f06cb2c3e45d
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
