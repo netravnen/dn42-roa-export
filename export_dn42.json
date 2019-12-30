@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "f122f1f17abe7686da560e9ba977f06cb2c3e45d",
-            "merge": "7973e568 ed8d35a9",
+            "commit": "7c945e95da7762f57528b320c5777ff6bafa43a0",
+            "merge": "afd2eaf6 4f80020a",
             "author": "burble <simon@burble.com>",
-            "date": "Thu, 26 Dec 2019 18:36:09 +0000",
-            "subject": "Merge branch 'master' of Brueggus/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f122f1f17abe7686da560e9ba977f06cb2c3e45d"
+            "date": "Sun, 29 Dec 2019 20:29:49 +0000",
+            "subject": "Merge branch 'nserver-172.20.149.32_27' of prauscher/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7c945e95da7762f57528b320c5777ff6bafa43a0"
         }
     },
     "roas": [
@@ -3961,6 +3961,12 @@
         {
             "asn": "AS4242421588",
             "prefix": "fdc8:c633:5319::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423088",
+            "prefix": "fdc8:dc88:ee11::/48",
             "maxLength": 64,
             "ta": "DN42"
         },

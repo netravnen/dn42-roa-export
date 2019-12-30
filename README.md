@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f122f1f17abe7686da560e9ba977f06cb2c3e45d
-Merge: 7973e568 ed8d35a9
+commit 7c945e95da7762f57528b320c5777ff6bafa43a0
+Merge: afd2eaf6 4f80020a
 Author: burble <simon@burble.com>
-Date:   Thu Dec 26 18:36:09 2019 +0000
+Date:   Sun Dec 29 20:29:49 2019 +0000
 
-    Merge branch 'master' of Brueggus/registry into master
+    Merge branch 'nserver-172.20.149.32_27' of prauscher/registry into master
 ```
 
 ## crontab
@@ -35,10 +35,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1091
-- ROAs IPv6:  818
-- ROAs total: 1909
+- ROAs IPv6:  819
+- ROAs total: 1910
 
-[0]: https://git.dn42.us/dn42/registry/commit/f122f1f17abe7686da560e9ba977f06cb2c3e45d
+[0]: https://git.dn42.us/dn42/registry/commit/7c945e95da7762f57528b320c5777ff6bafa43a0
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
