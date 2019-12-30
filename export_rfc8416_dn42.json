@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "7c945e95da7762f57528b320c5777ff6bafa43a0",
-            "merge": "afd2eaf6 4f80020a",
+            "commit": "d73e2ed3ee81f01897a0cc28362466812913add4",
+            "merge": "7c945e95 3ab8e543",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 29 Dec 2019 20:29:49 +0000",
-            "subject": "Merge branch 'nserver-172.20.149.32_27' of prauscher/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7c945e95da7762f57528b320c5777ff6bafa43a0"
+            "date": "Mon, 30 Dec 2019 10:57:05 +0000",
+            "subject": "Merge branch 'master' of OceanShen/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d73e2ed3ee81f01897a0cc28362466812913add4"
         }
     },
     "validationOutputFilters": {
@@ -648,6 +648,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd11:ee7a:93aa::_48",
                 "source": "DN42",
                 "mnt-by": "TRRUNDE-MNT"
+            },
+            {
+                "asn": 4242423882,
+                "prefix": "fd12:ac4a:1e71::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd12:ac4a:1e71::_48",
+                "source": "DN42",
+                "mnt-by": "SENAO-MNT"
             },
             {
                 "asn": 4242423640,
@@ -13000,6 +13008,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.151.0_27",
                 "source": "DN42",
                 "mnt-by": "RAPPET-MNT"
+            },
+            {
+                "asn": 4242423882,
+                "prefix": "172.22.151.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.151.64_27",
+                "source": "DN42",
+                "mnt-by": "SENAO-MNT"
             },
             {
                 "asn": 64752,

@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "7c945e95da7762f57528b320c5777ff6bafa43a0",
-            "merge": "afd2eaf6 4f80020a",
+            "commit": "d73e2ed3ee81f01897a0cc28362466812913add4",
+            "merge": "7c945e95 3ab8e543",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 29 Dec 2019 20:29:49 +0000",
-            "subject": "Merge branch 'nserver-172.20.149.32_27' of prauscher/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7c945e95da7762f57528b320c5777ff6bafa43a0"
+            "date": "Mon, 30 Dec 2019 10:57:05 +0000",
+            "subject": "Merge branch 'master' of OceanShen/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d73e2ed3ee81f01897a0cc28362466812913add4"
         }
     },
     "roas": [
@@ -481,6 +481,12 @@
         {
             "asn": "AS4242420160",
             "prefix": "fd11:ee7a:93aa::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423882",
+            "prefix": "fd12:ac4a:1e71::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -9745,6 +9751,12 @@
         {
             "asn": "AS4242423889",
             "prefix": "172.22.151.0/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242423882",
+            "prefix": "172.22.151.64/27",
             "maxLength": 28,
             "ta": "DN42"
         },

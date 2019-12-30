@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7c945e95da7762f57528b320c5777ff6bafa43a0
-Merge: afd2eaf6 4f80020a
+commit d73e2ed3ee81f01897a0cc28362466812913add4
+Merge: 7c945e95 3ab8e543
 Author: burble <simon@burble.com>
-Date:   Sun Dec 29 20:29:49 2019 +0000
+Date:   Mon Dec 30 10:57:05 2019 +0000
 
-    Merge branch 'nserver-172.20.149.32_27' of prauscher/registry into master
+    Merge branch 'master' of OceanShen/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1091
-- ROAs IPv6:  819
-- ROAs total: 1910
+- ROAs IPv4:  1092
+- ROAs IPv6:  820
+- ROAs total: 1912
 
-[0]: https://git.dn42.us/dn42/registry/commit/7c945e95da7762f57528b320c5777ff6bafa43a0
+[0]: https://git.dn42.us/dn42/registry/commit/d73e2ed3ee81f01897a0cc28362466812913add4
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
