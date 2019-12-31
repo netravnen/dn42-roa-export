@@ -6154,6 +6154,30 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 65190,
+                "prefix": "fdef:f10f:1337:cafe::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdef:f10f:1337:cafe::_64",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 65190,
+                "prefix": "fdef:f20f:1337:cafe::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdef:f20f:1337:cafe::_64",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 65190,
+                "prefix": "fdef:f30f:1337:cafe::/64",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdef:f30f:1337:cafe::_64",
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 201173,
                 "prefix": "fdef:ffc0:3dd7::/48",
                 "maxPrefixLength": 64,

@@ -4613,6 +4613,24 @@
             "ta": "ICVPN"
         },
         {
+            "asn": "AS65190",
+            "prefix": "fdef:f10f:1337:cafe::/64",
+            "maxLength": "64",
+            "ta": "ICVPN"
+        },
+        {
+            "asn": "AS65190",
+            "prefix": "fdef:f20f:1337:cafe::/64",
+            "maxLength": "64",
+            "ta": "ICVPN"
+        },
+        {
+            "asn": "AS65190",
+            "prefix": "fdef:f30f:1337:cafe::/64",
+            "maxLength": "64",
+            "ta": "ICVPN"
+        },
+        {
             "asn": "AS201173",
             "prefix": "fdef:ffc0:3dd7::/48",
             "maxLength": 64,
