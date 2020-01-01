@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d3e4ba410bfb9aebfec4987226cc756e3525ae41
-Merge: 8430b592 c6049ac0
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Tue Dec 31 20:10:38 2019 +0000
+commit 10dc78bd052934c98a2f414278825b8acb145f18
+Merge: 1e3a4593 823120de
+Author: burble <simon@burble.com>
+Date:   Wed Jan 1 18:11:06 2020 +0000
 
-    Merge branch 'master' of Kioubit/registry into master
+    Merge branch 'master' of sunaihui/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  823
 - ROAs total: 1916
 
-[0]: https://git.dn42.us/dn42/registry/commit/d3e4ba410bfb9aebfec4987226cc756e3525ae41
+[0]: https://git.dn42.us/dn42/registry/commit/10dc78bd052934c98a2f414278825b8acb145f18
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

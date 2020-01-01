@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "d3e4ba410bfb9aebfec4987226cc756e3525ae41",
-            "merge": "8430b592 c6049ac0",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Tue, 31 Dec 2019 20:10:38 +0000",
-            "subject": "Merge branch 'master' of Kioubit/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d3e4ba410bfb9aebfec4987226cc756e3525ae41"
+            "commit": "10dc78bd052934c98a2f414278825b8acb145f18",
+            "merge": "1e3a4593 823120de",
+            "author": "burble <simon@burble.com>",
+            "date": "Wed, 1 Jan 2020 18:11:06 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/10dc78bd052934c98a2f414278825b8acb145f18"
         }
     },
     "roas": [
