@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "d73e2ed3ee81f01897a0cc28362466812913add4",
-            "merge": "7c945e95 3ab8e543",
-            "author": "burble <simon@burble.com>",
-            "date": "Mon, 30 Dec 2019 10:57:05 +0000",
-            "subject": "Merge branch 'master' of OceanShen/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d73e2ed3ee81f01897a0cc28362466812913add4"
+            "commit": "d3e4ba410bfb9aebfec4987226cc756e3525ae41",
+            "merge": "8430b592 c6049ac0",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Tue, 31 Dec 2019 20:10:38 +0000",
+            "subject": "Merge branch 'master' of Kioubit/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d3e4ba410bfb9aebfec4987226cc756e3525ae41"
         }
     },
     "roas": [
@@ -8474,6 +8474,12 @@
             "asn": "AS4242422914",
             "prefix": "172.20.53.64/27",
             "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS0",
+            "prefix": "172.20.53.96/27",
+            "maxLength": 32,
             "ta": "DN42"
         },
         {

@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d73e2ed3ee81f01897a0cc28362466812913add4
-Merge: 7c945e95 3ab8e543
-Author: burble <simon@burble.com>
-Date:   Mon Dec 30 10:57:05 2019 +0000
+commit d3e4ba410bfb9aebfec4987226cc756e3525ae41
+Merge: 8430b592 c6049ac0
+Author: jrb0001 <jrb0001@692b8c32.de>
+Date:   Tue Dec 31 20:10:38 2019 +0000
 
-    Merge branch 'master' of OceanShen/registry into master
+    Merge branch 'master' of Kioubit/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1092
+- ROAs IPv4:  1093
 - ROAs IPv6:  823
-- ROAs total: 1915
+- ROAs total: 1916
 
-[0]: https://git.dn42.us/dn42/registry/commit/d73e2ed3ee81f01897a0cc28362466812913add4
+[0]: https://git.dn42.us/dn42/registry/commit/d3e4ba410bfb9aebfec4987226cc756e3525ae41
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
