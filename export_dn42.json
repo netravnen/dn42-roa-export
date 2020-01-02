@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "10dc78bd052934c98a2f414278825b8acb145f18",
-            "merge": "1e3a4593 823120de",
-            "author": "burble <simon@burble.com>",
-            "date": "Wed, 1 Jan 2020 18:11:06 +0000",
-            "subject": "Merge branch 'master' of sunaihui/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/10dc78bd052934c98a2f414278825b8acb145f18"
+            "commit": "2c6b529ca21319abd637fe92ae6d744be76fb9cf",
+            "merge": "782382a6 d1eb6817",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 1 Jan 2020 19:38:54 +0000",
+            "subject": "Merge branch 'AS4242422624' of mephisto/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2c6b529ca21319abd637fe92ae6d744be76fb9cf"
         }
     },
     "roas": [
@@ -1915,6 +1915,12 @@
         {
             "asn": "AS4242420775",
             "prefix": "fd42:b50d:baad::/48",
+            "maxLength": 64,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422624",
+            "prefix": "fd42:b60d:6174::/48",
             "maxLength": 64,
             "ta": "DN42"
         },
@@ -11035,6 +11041,12 @@
         {
             "asn": "AS4242422377",
             "prefix": "172.23.203.64/26",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242422624",
+            "prefix": "172.23.207.0/24",
             "maxLength": 28,
             "ta": "DN42"
         },
