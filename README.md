@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2c6b529ca21319abd637fe92ae6d744be76fb9cf
-Merge: 782382a6 d1eb6817
-Author: jrb0001 <jrb0001@692b8c32.de>
-Date:   Wed Jan 1 19:38:54 2020 +0000
+commit 274b2f74d7a3e38d42721dfd094d3c8c9a18a3e9
+Merge: b23edced 67988205
+Author: burble <simon@burble.com>
+Date:   Fri Jan 3 15:34:11 2020 +0000
 
-    Merge branch 'AS4242422624' of mephisto/registry into master
+    Merge branch 'master' of sunaihui/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1094
-- ROAs IPv6:  824
-- ROAs total: 1918
+- ROAs IPv4:  1081
+- ROAs IPv6:  811
+- ROAs total: 1892
 
-[0]: https://git.dn42.us/dn42/registry/commit/2c6b529ca21319abd637fe92ae6d744be76fb9cf
+[0]: https://git.dn42.us/dn42/registry/commit/274b2f74d7a3e38d42721dfd094d3c8c9a18a3e9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
