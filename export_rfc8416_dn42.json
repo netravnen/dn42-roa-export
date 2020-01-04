@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "274b2f74d7a3e38d42721dfd094d3c8c9a18a3e9",
-            "merge": "b23edced 67988205",
+            "commit": "71e2d87177d42837c5b6125ca2f9be9b5de9934f",
+            "merge": "fa277934 6daad869",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 3 Jan 2020 15:34:11 +0000",
-            "subject": "Merge branch 'master' of sunaihui/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/274b2f74d7a3e38d42721dfd094d3c8c9a18a3e9"
+            "date": "Fri, 3 Jan 2020 23:13:40 +0000",
+            "subject": "Merge branch 'master' of mephisto/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/71e2d87177d42837c5b6125ca2f9be9b5de9934f"
         }
     },
     "validationOutputFilters": {
@@ -6144,6 +6144,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf3:2049:5152::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420515,
+                "prefix": "fdf4:83f1:6f4f::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdf4:83f1:6f4f::_48",
+                "source": "DN42",
+                "mnt-by": "QLEAN-MNT"
             },
             {
                 "asn": 4242422236,
@@ -14880,6 +14888,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.38.160_27",
                 "source": "DN42",
                 "mnt-by": "SIS-MNT"
+            },
+            {
+                "asn": 4242420515,
+                "prefix": "172.23.40.0/25",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.40.0_25",
+                "source": "DN42",
+                "mnt-by": "QLEAN-MNT"
             },
             {
                 "asn": 64600,

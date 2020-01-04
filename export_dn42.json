@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "274b2f74d7a3e38d42721dfd094d3c8c9a18a3e9",
-            "merge": "b23edced 67988205",
+            "commit": "71e2d87177d42837c5b6125ca2f9be9b5de9934f",
+            "merge": "fa277934 6daad869",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 3 Jan 2020 15:34:11 +0000",
-            "subject": "Merge branch 'master' of sunaihui/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/274b2f74d7a3e38d42721dfd094d3c8c9a18a3e9"
+            "date": "Fri, 3 Jan 2020 23:13:40 +0000",
+            "subject": "Merge branch 'master' of mephisto/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/71e2d87177d42837c5b6125ca2f9be9b5de9934f"
         }
     },
     "roas": [
@@ -4605,6 +4605,12 @@
             "prefix": "fdf3:2049:5152::/48",
             "maxLength": 64,
             "ta": "ICVPN"
+        },
+        {
+            "asn": "AS4242420515",
+            "prefix": "fdf4:83f1:6f4f::/48",
+            "maxLength": "48",
+            "ta": "DN42"
         },
         {
             "asn": "AS4242422236",
@@ -11155,6 +11161,12 @@
         {
             "asn": "AS202265",
             "prefix": "172.23.38.160/27",
+            "maxLength": 28,
+            "ta": "DN42"
+        },
+        {
+            "asn": "AS4242420515",
+            "prefix": "172.23.40.0/25",
             "maxLength": 28,
             "ta": "DN42"
         },
