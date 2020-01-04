@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 71e2d87177d42837c5b6125ca2f9be9b5de9934f
-Merge: fa277934 6daad869
+commit 687d39a31ac037688e070d46226348efd681245c
+Merge: da7c7082 1eb142ec
 Author: burble <simon@burble.com>
-Date:   Fri Jan 3 23:13:40 2020 +0000
+Date:   Sat Jan 4 10:04:14 2020 +0000
 
-    Merge branch 'master' of mephisto/registry into master
+    Merge branch 'master' of inrin/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1082
-- ROAs IPv6:  812
-- ROAs total: 1894
+- ROAs IPv4:  1083
+- ROAs IPv6:  814
+- ROAs total: 1897
 
-[0]: https://git.dn42.us/dn42/registry/commit/71e2d87177d42837c5b6125ca2f9be9b5de9934f
+[0]: https://git.dn42.us/dn42/registry/commit/687d39a31ac037688e070d46226348efd681245c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
