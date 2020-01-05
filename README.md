@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 687d39a31ac037688e070d46226348efd681245c
-Merge: da7c7082 1eb142ec
+commit 03af8d13595dac37bb735cd1dd554a27d1bbb922
+Merge: 687d39a3 bcf85794
 Author: burble <simon@burble.com>
-Date:   Sat Jan 4 10:04:14 2020 +0000
+Date:   Sun Jan 5 16:49:10 2020 +0000
 
-    Merge branch 'master' of inrin/registry into master
+    Merge branch 'master' of trobotham/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  814
 - ROAs total: 1897
 
-[0]: https://git.dn42.us/dn42/registry/commit/687d39a31ac037688e070d46226348efd681245c
+[0]: https://git.dn42.us/dn42/registry/commit/03af8d13595dac37bb735cd1dd554a27d1bbb922
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

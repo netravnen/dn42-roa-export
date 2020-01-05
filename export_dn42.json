@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "687d39a31ac037688e070d46226348efd681245c",
-            "merge": "da7c7082 1eb142ec",
+            "commit": "03af8d13595dac37bb735cd1dd554a27d1bbb922",
+            "merge": "687d39a3 bcf85794",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 4 Jan 2020 10:04:14 +0000",
-            "subject": "Merge branch 'master' of inrin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/687d39a31ac037688e070d46226348efd681245c"
+            "date": "Sun, 5 Jan 2020 16:49:10 +0000",
+            "subject": "Merge branch 'master' of trobotham/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/03af8d13595dac37bb735cd1dd554a27d1bbb922"
         }
     },
     "roas": [
