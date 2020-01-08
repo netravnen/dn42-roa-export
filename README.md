@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 03af8d13595dac37bb735cd1dd554a27d1bbb922
-Merge: 687d39a3 bcf85794
+commit a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128
+Merge: 12ac5461 05b139f8
 Author: burble <simon@burble.com>
-Date:   Sun Jan 5 16:49:10 2020 +0000
+Date:   Tue Jan 7 17:18:43 2020 +0000
 
-    Merge branch 'master' of trobotham/registry into master
+    Merge branch 'master' of monoxane/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1083
-- ROAs IPv6:  814
-- ROAs total: 1897
+- ROAs IPv4:  1085
+- ROAs IPv6:  818
+- ROAs total: 1903
 
-[0]: https://git.dn42.us/dn42/registry/commit/03af8d13595dac37bb735cd1dd554a27d1bbb922
+[0]: https://git.dn42.us/dn42/registry/commit/a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

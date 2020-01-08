@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "03af8d13595dac37bb735cd1dd554a27d1bbb922",
-            "merge": "687d39a3 bcf85794",
+            "commit": "a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128",
+            "merge": "12ac5461 05b139f8",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 5 Jan 2020 16:49:10 +0000",
-            "subject": "Merge branch 'master' of trobotham/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/03af8d13595dac37bb735cd1dd554a27d1bbb922"
+            "date": "Tue, 7 Jan 2020 17:18:43 +0000",
+            "subject": "Merge branch 'master' of monoxane/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128"
         }
     },
     "validationOutputFilters": {
@@ -722,6 +722,14 @@
                 "mnt-by": "LANAO-MNT"
             },
             {
+                "asn": 4242422227,
+                "prefix": "fd16:fb99:7f9b::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd16:fb99:7f9b::_48",
+                "source": "DN42",
+                "mnt-by": "WXMN-MNT"
+            },
+            {
                 "asn": 4242423973,
                 "prefix": "fd17:149a:85f9::/48",
                 "maxPrefixLength": 64,
@@ -920,6 +928,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd23:698f:1b00::_47",
                 "source": "DN42",
                 "mnt-by": "SKORPY-MNT"
+            },
+            {
+                "asn": 4242423265,
+                "prefix": "fd23:7764:3e32::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd23:7764:3e32::_48",
+                "source": "DN42",
+                "mnt-by": "WAWEIC-MNT"
             },
             {
                 "asn": 4242421335,
@@ -5546,6 +5562,14 @@
                 "mnt-by": "ZZ-MNT"
             },
             {
+                "asn": 4242422801,
+                "prefix": "fdd4:42d8:c154::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdd4:42d8:c154::_48",
+                "source": "DN42",
+                "mnt-by": "PETROS-MNT"
+            },
+            {
                 "asn": 4242420161,
                 "prefix": "fdd5:7244:2776::/48",
                 "maxPrefixLength": 64,
@@ -5872,6 +5896,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fde8:ef06:b45a::_48",
                 "source": "DN42",
                 "mnt-by": "NOPE-MNT"
+            },
+            {
+                "asn": 4242420175,
+                "prefix": "fde9:7fb8:427f::/48",
+                "maxPrefixLength": 48,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fde9:7fb8:427f::_48",
+                "source": "DN42",
+                "mnt-by": "MONOXANE-MNT"
             },
             {
                 "asn": 4242420149,
@@ -12490,6 +12522,14 @@
                 "mnt-by": "TTN-MNT"
             },
             {
+                "asn": 4242422227,
+                "prefix": "172.22.127.64/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.127.64_27",
+                "source": "DN42",
+                "mnt-by": "WXMN-MNT"
+            },
+            {
                 "asn": 4242420076,
                 "prefix": "172.22.127.96/27",
                 "maxPrefixLength": 28,
@@ -14192,6 +14232,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.16.192_26",
                 "source": "DN42",
                 "mnt-by": "GRMML-MNT"
+            },
+            {
+                "asn": 4242422801,
+                "prefix": "172.23.160.0/26",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.160.0_26",
+                "source": "DN42",
+                "mnt-by": "PETROS-MNT"
             },
             {
                 "asn": 4242422890,
