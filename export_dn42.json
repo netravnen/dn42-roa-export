@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128",
-            "merge": "12ac5461 05b139f8",
+            "commit": "e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a",
+            "merge": "661bec67 30bb3688",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 7 Jan 2020 17:18:43 +0000",
-            "subject": "Merge branch 'master' of monoxane/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128"
+            "date": "Fri, 10 Jan 2020 12:32:13 +0000",
+            "subject": "Merge branch 'domain/cert' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a"
         }
     },
     "roas": [
@@ -387,6 +387,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421928",
+            "prefix": "fd03:7e46:2707::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ESCAMBEAU-MNT"
         },
         {
             "asn": "AS4242423585",
@@ -9328,6 +9335,13 @@
             "mnt-by": "TI-MNT"
         },
         {
+            "asn": "AS4242421928",
+            "prefix": "172.20.34.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ESCAMBEAU-MNT"
+        },
+        {
             "asn": "AS4242420905",
             "prefix": "172.20.34.192/26",
             "maxLength": 28,
@@ -13333,8 +13347,12 @@
         }
     ],
     "metadata": {
-        "counts": 1903,
-        "generated": 1578658788,
-        "valid": 1578917988
+        "counts": 1905,
+        "generated": 1578680410,
+        "valid": 1578939610,
+        "human": {
+            "generated": "2020-01-10T18:20:10+00:00",
+            "valid": "2020-01-13T18:20:10+00:00"
+        }
     }
 }

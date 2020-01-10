@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128",
-            "merge": "12ac5461 05b139f8",
+            "commit": "e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a",
+            "merge": "661bec67 30bb3688",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 7 Jan 2020 17:18:43 +0000",
-            "subject": "Merge branch 'master' of monoxane/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a5f0f9ac815e9a3a4bf15d2d4ef1e51f1b30e128"
+            "date": "Fri, 10 Jan 2020 12:32:13 +0000",
+            "subject": "Merge branch 'domain/cert' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a"
         }
     },
     "validationOutputFilters": {
@@ -448,6 +448,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd01:67c:2ed8::_48",
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421928,
+                "prefix": "fd03:7e46:2707::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd03:7e46:2707::_48",
+                "source": "DN42",
+                "mnt-by": "ESCAMBEAU-MNT"
             },
             {
                 "asn": 4242423585,
@@ -10664,6 +10672,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.34.0_26",
                 "source": "DN42",
                 "mnt-by": "TI-MNT"
+            },
+            {
+                "asn": 4242421928,
+                "prefix": "172.20.34.128/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.34.128_27",
+                "source": "DN42",
+                "mnt-by": "ESCAMBEAU-MNT"
             },
             {
                 "asn": 4242420905,
