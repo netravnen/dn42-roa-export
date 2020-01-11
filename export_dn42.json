@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a",
-            "merge": "661bec67 30bb3688",
+            "commit": "eb8ee620f3f74f47e2f501713bcdd713b2ab672b",
+            "merge": "e5ddd303 2713fd59",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 10 Jan 2020 12:32:13 +0000",
-            "subject": "Merge branch 'domain/cert' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a"
+            "date": "Fri, 10 Jan 2020 21:35:00 +0000",
+            "subject": "Merge branch 'master' of stathis/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/eb8ee620f3f74f47e2f501713bcdd713b2ab672b"
         }
     },
     "roas": [
@@ -905,6 +905,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "KIBO-MNT"
+        },
+        {
+            "asn": "AS4242423008",
+            "prefix": "fd2a:8eb0:74bd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "STATHIS-MNT"
         },
         {
             "asn": "AS4242423918",
@@ -8817,6 +8824,13 @@
             "mnt-by": "INTERACTIVELABS-MNT"
         },
         {
+            "asn": "AS4242423008",
+            "prefix": "172.20.21.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "STATHIS-MNT"
+        },
+        {
             "asn": "AS4242423581",
             "prefix": "172.20.21.32/27",
             "maxLength": 28,
@@ -13347,12 +13361,12 @@
         }
     ],
     "metadata": {
-        "counts": 1905,
-        "generated": 1578680410,
-        "valid": 1578939610,
+        "counts": 1907,
+        "generated": 1578702008,
+        "valid": 1578961208,
         "human": {
-            "generated": "2020-01-10T18:20:10+00:00",
-            "valid": "2020-01-13T18:20:10+00:00"
+            "generated": "2020-01-11T00:20:08+00:00",
+            "valid": "2020-01-14T00:20:08+00:00"
         }
     }
 }

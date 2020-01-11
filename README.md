@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a
-Merge: 661bec67 30bb3688
+commit eb8ee620f3f74f47e2f501713bcdd713b2ab672b
+Merge: e5ddd303 2713fd59
 Author: burble <simon@burble.com>
-Date:   Fri Jan 10 12:32:13 2020 +0000
+Date:   Fri Jan 10 21:35:00 2020 +0000
 
-    Merge branch 'domain/cert' of netravnen/dn42-registry into master
+    Merge branch 'master' of stathis/registry into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1086
-- ROAs IPv6:  819
-- ROAs total: 1905
+- ROAs IPv4:  1087
+- ROAs IPv6:  820
+- ROAs total: 1907
 
-[0]: https://git.dn42.us/dn42/registry/commit/e5ddd303d7bf9535a4c22a883afddc4cfe70fc4a
+[0]: https://git.dn42.us/dn42/registry/commit/eb8ee620f3f74f47e2f501713bcdd713b2ab672b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
