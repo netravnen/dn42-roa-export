@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "eb8ee620f3f74f47e2f501713bcdd713b2ab672b",
-            "merge": "e5ddd303 2713fd59",
+            "commit": "8f7fc2c1c1508c2bc2512589e32f93f7080351d1",
+            "merge": "eb8ee620 a80f0dc8",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 10 Jan 2020 21:35:00 +0000",
-            "subject": "Merge branch 'master' of stathis/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/eb8ee620f3f74f47e2f501713bcdd713b2ab672b"
+            "date": "Sat, 11 Jan 2020 10:58:41 +0000",
+            "subject": "Merge branch 'master' of acid/registry-acid into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8f7fc2c1c1508c2bc2512589e32f93f7080351d1"
         }
     },
     "roas": [
@@ -4211,6 +4211,13 @@
             "mnt-by": "MRF-MNT"
         },
         {
+            "asn": "AS4242421848",
+            "prefix": "fda7:fb2b:4733::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MISTERGEEK-MNT"
+        },
+        {
             "asn": "AS4242423755",
             "prefix": "fda8:5557:beb7::/48",
             "maxLength": 64,
@@ -7961,6 +7968,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ZYRADYL-MNT"
+        },
+        {
+            "asn": "AS4242421848",
+            "prefix": "172.20.165.16/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MISTERGEEK-MNT"
         },
         {
             "asn": "AS4242423821",
@@ -13361,12 +13375,12 @@
         }
     ],
     "metadata": {
-        "counts": 1907,
-        "generated": 1578723601,
-        "valid": 1578982801,
+        "counts": 1909,
+        "generated": 1578745225,
+        "valid": 1579004425,
         "human": {
-            "generated": "2020-01-11T06:20:01+00:00",
-            "valid": "2020-01-14T06:20:01+00:00"
+            "generated": "2020-01-11T12:20:25+00:00",
+            "valid": "2020-01-14T12:20:25+00:00"
         }
     }
 }

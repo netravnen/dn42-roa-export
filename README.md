@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit eb8ee620f3f74f47e2f501713bcdd713b2ab672b
-Merge: e5ddd303 2713fd59
+commit 8f7fc2c1c1508c2bc2512589e32f93f7080351d1
+Merge: eb8ee620 a80f0dc8
 Author: burble <simon@burble.com>
-Date:   Fri Jan 10 21:35:00 2020 +0000
+Date:   Sat Jan 11 10:58:41 2020 +0000
 
-    Merge branch 'master' of stathis/registry into master
+    Merge branch 'master' of acid/registry-acid into master
 ```
 
 ## crontab
@@ -34,11 +34,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1087
-- ROAs IPv6:  820
-- ROAs total: 1907
+- ROAs IPv4:  1088
+- ROAs IPv6:  821
+- ROAs total: 1909
 
-[0]: https://git.dn42.us/dn42/registry/commit/eb8ee620f3f74f47e2f501713bcdd713b2ab672b
+[0]: https://git.dn42.us/dn42/registry/commit/8f7fc2c1c1508c2bc2512589e32f93f7080351d1
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
