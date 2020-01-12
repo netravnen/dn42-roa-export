@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "8f7fc2c1c1508c2bc2512589e32f93f7080351d1",
-            "merge": "eb8ee620 a80f0dc8",
+            "commit": "b2f342d702ec2667bbfbde10b205d0461ead0624",
+            "merge": "dd8b3418 ab50773f",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 11 Jan 2020 10:58:41 +0000",
-            "subject": "Merge branch 'master' of acid/registry-acid into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8f7fc2c1c1508c2bc2512589e32f93f7080351d1"
+            "date": "Sun, 12 Jan 2020 10:18:20 +0000",
+            "subject": "Merge branch 'master' of DONDON/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b2f342d702ec2667bbfbde10b205d0461ead0624"
         }
     },
     "roas": [
@@ -13376,11 +13376,11 @@
     ],
     "metadata": {
         "counts": 1909,
-        "generated": 1578809996,
-        "valid": 1579069196,
+        "generated": 1578831622,
+        "valid": 1579090822,
         "human": {
-            "generated": "2020-01-12T06:19:56+00:00",
-            "valid": "2020-01-15T06:19:56+00:00"
+            "generated": "2020-01-12T12:20:22+00:00",
+            "valid": "2020-01-15T12:20:22+00:00"
         }
     }
 }

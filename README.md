@@ -16,12 +16,12 @@
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8f7fc2c1c1508c2bc2512589e32f93f7080351d1
-Merge: eb8ee620 a80f0dc8
+commit b2f342d702ec2667bbfbde10b205d0461ead0624
+Merge: dd8b3418 ab50773f
 Author: burble <simon@burble.com>
-Date:   Sat Jan 11 10:58:41 2020 +0000
+Date:   Sun Jan 12 10:18:20 2020 +0000
 
-    Merge branch 'master' of acid/registry-acid into master
+    Merge branch 'master' of DONDON/registry into master
 ```
 
 ## crontab
@@ -38,7 +38,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  821
 - ROAs total: 1909
 
-[0]: https://git.dn42.us/dn42/registry/commit/8f7fc2c1c1508c2bc2512589e32f93f7080351d1
+[0]: https://git.dn42.us/dn42/registry/commit/b2f342d702ec2667bbfbde10b205d0461ead0624
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
