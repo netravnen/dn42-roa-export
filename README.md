@@ -13,6 +13,9 @@
 - These files are [gortr][3] compatible:
   - [export_dn42.json](export_dn42.json)
 
+Note the gortr file is DateTime stamped only, it is not signed with any certificaty. So you will need to add
+`-verify=false` as a runtime parameter when loading the cache file.
+
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
