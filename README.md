@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b2f342d702ec2667bbfbde10b205d0461ead0624
-Merge: dd8b3418 ab50773f
-Author: burble <simon@burble.com>
-Date:   Sun Jan 12 10:18:20 2020 +0000
+commit 95c7e70a196fa8773dafdb0b276f2ad73b411b76
+Merge: b2f342d7 1fd8881d
+Author: burble
+Date:   Sun Jan 12 21:10:14 2020 +0000
 
-    Merge branch 'master' of DONDON/registry into master
+    Merge branch 'master' of marios/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1088
-- ROAs IPv6:  821
-- ROAs total: 1909
+- ROAs IPv4:  1089
+- ROAs IPv6:  822
+- ROAs total: 1911
 
-[0]: https://git.dn42.us/dn42/registry/commit/b2f342d702ec2667bbfbde10b205d0461ead0624
+[0]: https://git.dn42.us/dn42/registry/commit/95c7e70a196fa8773dafdb0b276f2ad73b411b76
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

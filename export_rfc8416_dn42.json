@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b2f342d702ec2667bbfbde10b205d0461ead0624",
-            "merge": "dd8b3418 ab50773f",
+            "commit": "95c7e70a196fa8773dafdb0b276f2ad73b411b76",
+            "merge": "b2f342d7 1fd8881d",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 12 Jan 2020 10:18:20 +0000",
-            "subject": "Merge branch 'master' of DONDON/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b2f342d702ec2667bbfbde10b205d0461ead0624"
+            "date": "Sun, 12 Jan 2020 21:10:14 +0000",
+            "subject": "Merge branch 'master' of marios/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/95c7e70a196fa8773dafdb0b276f2ad73b411b76"
         }
     },
     "validationOutputFilters": {
@@ -2648,6 +2648,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:beef:cafe::_48",
                 "source": "DN42",
                 "mnt-by": "CSMITH-MNT"
+            },
+            {
+                "asn": 4242420525,
+                "prefix": "fd42:beef:dead::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:beef:dead::_48",
+                "source": "DN42",
+                "mnt-by": "MARIOS-MNT"
             },
             {
                 "asn": 4242423355,
@@ -14920,6 +14928,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.239.128_25",
                 "source": "DN42",
                 "mnt-by": "SODRE-MNT"
+            },
+            {
+                "asn": 4242420525,
+                "prefix": "172.23.240.32/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.240.32_27",
+                "source": "DN42",
+                "mnt-by": "MARIOS-MNT"
             },
             {
                 "asn": 76175,

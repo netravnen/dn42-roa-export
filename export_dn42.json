@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "b2f342d702ec2667bbfbde10b205d0461ead0624",
-            "merge": "dd8b3418 ab50773f",
+            "commit": "95c7e70a196fa8773dafdb0b276f2ad73b411b76",
+            "merge": "b2f342d7 1fd8881d",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 12 Jan 2020 10:18:20 +0000",
-            "subject": "Merge branch 'master' of DONDON/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b2f342d702ec2667bbfbde10b205d0461ead0624"
+            "date": "Sun, 12 Jan 2020 21:10:14 +0000",
+            "subject": "Merge branch 'master' of marios/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/95c7e70a196fa8773dafdb0b276f2ad73b411b76"
         }
     },
     "roas": [
@@ -2312,6 +2312,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "CSMITH-MNT"
+        },
+        {
+            "asn": "AS4242420525",
+            "prefix": "fd42:beef:dead::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MARIOS-MNT"
         },
         {
             "asn": "AS4242423355",
@@ -13052,6 +13059,13 @@
             "mnt-by": "SODRE-MNT"
         },
         {
+            "asn": "AS4242420525",
+            "prefix": "172.23.240.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MARIOS-MNT"
+        },
+        {
             "asn": "AS76175",
             "prefix": "172.23.245.0/24",
             "maxLength": 28,
@@ -13375,12 +13389,12 @@
         }
     ],
     "metadata": {
-        "counts": 1909,
-        "generated": 1578853195,
-        "valid": 1579112395,
+        "counts": 1911,
+        "generated": 1578874823,
+        "valid": 1579134023,
         "human": {
-            "generated": "2020-01-12T18:19:55+00:00",
-            "valid": "2020-01-15T18:19:55+00:00"
+            "generated": "2020-01-13T00:20:23+00:00",
+            "valid": "2020-01-16T00:20:23+00:00"
         }
     }
 }
