@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "f510407deb361c2d31b58135cceea66ae3702390",
-            "merge": "95c7e70a 064a92e4",
+            "commit": "5c700e01d83e9b854598527de211f2f9f864505c",
+            "merge": "f510407d 29b6518f",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 13 Jan 2020 19:36:45 +0000",
-            "subject": "Merge branch 'master' of DONDON/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f510407deb361c2d31b58135cceea66ae3702390"
+            "date": "Tue, 14 Jan 2020 11:09:57 +0000",
+            "subject": "Merge branch 'master' of nchevrier/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5c700e01d83e9b854598527de211f2f9f864505c"
         }
     },
     "roas": [
@@ -1815,6 +1815,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "ICARUSTECH-MNT"
+        },
+        {
+            "asn": "AS4242422499",
+            "prefix": "fd42:4242:2499::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NICOLAS-MNT"
         },
         {
             "asn": "AS4242422601",
@@ -13367,6 +13374,13 @@
             "mnt-by": "HEXA-MNT"
         },
         {
+            "asn": "AS4242422499",
+            "prefix": "172.23.99.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NICOLAS-MNT"
+        },
+        {
             "asn": "AS64654",
             "prefix": "172.31.0.0/16",
             "maxLength": 32,
@@ -13389,12 +13403,12 @@
         }
     ],
     "metadata": {
-        "counts": 1911,
-        "generated": 1578982808,
-        "valid": 1579242008,
+        "counts": 1913,
+        "generated": 1579004423,
+        "valid": 1579263623,
         "human": {
-            "generated": "2020-01-14T06:20:08+00:00",
-            "valid": "2020-01-17T06:20:08+00:00"
+            "generated": "2020-01-14T12:20:23+00:00",
+            "valid": "2020-01-17T12:20:23+00:00"
         }
     }
 }

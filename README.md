@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f510407deb361c2d31b58135cceea66ae3702390
-Merge: 95c7e70a 064a92e4
+commit 5c700e01d83e9b854598527de211f2f9f864505c
+Merge: f510407d 29b6518f
 Author: burble
-Date:   Mon Jan 13 19:36:45 2020 +0000
+Date:   Tue Jan 14 11:09:57 2020 +0000
 
-    Merge branch 'master' of DONDON/registry into master
+    Merge branch 'master' of nchevrier/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1089
-- ROAs IPv6:  822
-- ROAs total: 1911
+- ROAs IPv4:  1090
+- ROAs IPv6:  823
+- ROAs total: 1913
 
-[0]: https://git.dn42.us/dn42/registry/commit/f510407deb361c2d31b58135cceea66ae3702390
+[0]: https://git.dn42.us/dn42/registry/commit/5c700e01d83e9b854598527de211f2f9f864505c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
