@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "95c7e70a196fa8773dafdb0b276f2ad73b411b76",
-            "merge": "b2f342d7 1fd8881d",
+            "commit": "f510407deb361c2d31b58135cceea66ae3702390",
+            "merge": "95c7e70a 064a92e4",
             "author": "burble <simon@burble.com>",
-            "date": "Sun, 12 Jan 2020 21:10:14 +0000",
-            "subject": "Merge branch 'master' of marios/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/95c7e70a196fa8773dafdb0b276f2ad73b411b76"
+            "date": "Mon, 13 Jan 2020 19:36:45 +0000",
+            "subject": "Merge branch 'master' of DONDON/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f510407deb361c2d31b58135cceea66ae3702390"
         }
     },
     "validationOutputFilters": {
