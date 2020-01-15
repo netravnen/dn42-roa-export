@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "5c700e01d83e9b854598527de211f2f9f864505c",
-            "merge": "f510407d 29b6518f",
+            "commit": "4084dd66b6508bcf84ce19d165bf6bd577685e69",
+            "merge": "bb715f79 44679136",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 14 Jan 2020 11:09:57 +0000",
-            "subject": "Merge branch 'master' of nchevrier/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5c700e01d83e9b854598527de211f2f9f864505c"
+            "date": "Tue, 14 Jan 2020 20:01:08 +0000",
+            "subject": "Merge branch 'master' of marvo/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4084dd66b6508bcf84ce19d165bf6bd577685e69"
         }
     },
     "roas": [
@@ -828,6 +828,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "RAPID-NINJA-MNT"
+        },
+        {
+            "asn": "AS4242422816",
+            "prefix": "fd23:9fed:1099::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MVO-MNT"
         },
         {
             "asn": "AS4242422037",
@@ -7305,6 +7312,13 @@
             "mnt-by": "TOINUX-MNT"
         },
         {
+            "asn": "AS4242422816",
+            "prefix": "172.20.131.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MVO-MNT"
+        },
+        {
             "asn": "AS4242421616",
             "prefix": "172.20.135.0/27",
             "maxLength": 28,
@@ -13403,12 +13417,12 @@
         }
     ],
     "metadata": {
-        "counts": 1913,
-        "generated": 1579026006,
-        "valid": 1579285206,
+        "counts": 1915,
+        "generated": 1579047622,
+        "valid": 1579306822,
         "human": {
-            "generated": "2020-01-14T18:20:06+00:00",
-            "valid": "2020-01-17T18:20:06+00:00"
+            "generated": "2020-01-15T00:20:22+00:00",
+            "valid": "2020-01-18T00:20:22+00:00"
         }
     }
 }

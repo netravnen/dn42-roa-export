@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "5c700e01d83e9b854598527de211f2f9f864505c",
-            "merge": "f510407d 29b6518f",
+            "commit": "4084dd66b6508bcf84ce19d165bf6bd577685e69",
+            "merge": "bb715f79 44679136",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 14 Jan 2020 11:09:57 +0000",
-            "subject": "Merge branch 'master' of nchevrier/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5c700e01d83e9b854598527de211f2f9f864505c"
+            "date": "Tue, 14 Jan 2020 20:01:08 +0000",
+            "subject": "Merge branch 'master' of marvo/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4084dd66b6508bcf84ce19d165bf6bd577685e69"
         }
     },
     "validationOutputFilters": {
@@ -952,6 +952,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd23:9cd1:20a5::_48",
                 "source": "DN42",
                 "mnt-by": "RAPID-NINJA-MNT"
+            },
+            {
+                "asn": 4242422816,
+                "prefix": "fd23:9fed:1099::/48",
+                "maxPrefixLength": 64,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd23:9fed:1099::_48",
+                "source": "DN42",
+                "mnt-by": "MVO-MNT"
             },
             {
                 "asn": 4242422037,
@@ -8352,6 +8360,14 @@
                 "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.131.88_29",
                 "source": "DN42",
                 "mnt-by": "TOINUX-MNT"
+            },
+            {
+                "asn": 4242422816,
+                "prefix": "172.20.131.96/27",
+                "maxPrefixLength": 28,
+                "comment": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.131.96_27",
+                "source": "DN42",
+                "mnt-by": "MVO-MNT"
             },
             {
                 "asn": 4242421616,
