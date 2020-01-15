@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "4084dd66b6508bcf84ce19d165bf6bd577685e69",
-            "merge": "bb715f79 44679136",
+            "commit": "e2d5abe637c61de0c41f3ef12a6a8bba113b78e2",
+            "merge": "4084dd66 2308208e",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 14 Jan 2020 20:01:08 +0000",
-            "subject": "Merge branch 'master' of marvo/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4084dd66b6508bcf84ce19d165bf6bd577685e69"
+            "date": "Wed, 15 Jan 2020 17:00:01 +0000",
+            "subject": "Merge branch 'master' of andre.peters/AS4242421238 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e2d5abe637c61de0c41f3ef12a6a8bba113b78e2"
         }
     },
     "roas": [
@@ -4608,6 +4608,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421238",
+            "prefix": "fdc5:7835:68c8::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOO-MNT"
         },
         {
             "asn": "AS4242423516",
@@ -11666,6 +11673,13 @@
             "mnt-by": "MTR-MNT"
         },
         {
+            "asn": "AS4242421238",
+            "prefix": "172.22.189.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOO-MNT"
+        },
+        {
             "asn": "AS4242423158",
             "prefix": "172.22.190.0/23",
             "maxLength": 28,
@@ -13417,12 +13431,12 @@
         }
     ],
     "metadata": {
-        "counts": 1915,
-        "generated": 1579090812,
-        "valid": 1579350012,
+        "counts": 1917,
+        "generated": 1579112413,
+        "valid": 1579371613,
         "human": {
-            "generated": "2020-01-15T12:20:12+00:00",
-            "valid": "2020-01-18T12:20:12+00:00"
+            "generated": "2020-01-15T18:20:13+00:00",
+            "valid": "2020-01-18T18:20:13+00:00"
         }
     }
 }
