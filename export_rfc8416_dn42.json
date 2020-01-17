@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "e2d5abe637c61de0c41f3ef12a6a8bba113b78e2",
-            "merge": "4084dd66 2308208e",
+            "commit": "7d7f408bb3ecbdbe6777b6187c4be5c6dcc20af6",
+            "merge": "4fb4c45c dc0bf09c",
             "author": "burble <simon@burble.com>",
-            "date": "Wed, 15 Jan 2020 17:00:01 +0000",
-            "subject": "Merge branch 'master' of andre.peters/AS4242421238 into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e2d5abe637c61de0c41f3ef12a6a8bba113b78e2"
+            "date": "Fri, 17 Jan 2020 11:25:06 +0000",
+            "subject": "Merge branch 'master' of beefsteak/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7d7f408bb3ecbdbe6777b6187c4be5c6dcc20af6"
         }
     },
     "validationOutputFilters": {
@@ -8257,6 +8257,17 @@
                 "mnt-by": "WUNIX-MNT"
             },
             {
+                "asn": 4242423816,
+                "prefix": "fdec:2b86:0777::/48",
+                "maxPrefixLength": 64,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdec:2b86:0777::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdec:2b86:0777::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "BEEFSTEAK-MNT"
+            },
+            {
                 "asn": 65520,
                 "prefix": "fdec:4562:434f::/64",
                 "maxPrefixLength": 64,
@@ -11511,6 +11522,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "MVO-MNT"
+            },
+            {
+                "asn": 4242423816,
+                "prefix": "172.20.132.96/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.132.96_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.132.96_27"
+                },
+                "source": "DN42",
+                "mnt-by": "BEEFSTEAK-MNT"
             },
             {
                 "asn": 4242421616,
