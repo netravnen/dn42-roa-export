@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "7d7f408bb3ecbdbe6777b6187c4be5c6dcc20af6",
-            "merge": "4fb4c45c dc0bf09c",
+            "commit": "94db903e0dcf1d5c17b0033f16126b9fbba5c309",
+            "merge": "29b27770 b510e0cb",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 17 Jan 2020 11:25:06 +0000",
-            "subject": "Merge branch 'master' of beefsteak/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7d7f408bb3ecbdbe6777b6187c4be5c6dcc20af6"
+            "date": "Sat, 18 Jan 2020 23:08:06 +0000",
+            "subject": "Merge branch 'master' of santost12/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/94db903e0dcf1d5c17b0033f16126b9fbba5c309"
         }
     },
     "validationOutputFilters": {
@@ -2678,6 +2678,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "BART-MNT"
+            },
+            {
+                "asn": 4242420642,
+                "prefix": "fd42:350a:700b::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd42:350a:700b::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd42:350a:700b::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "DONDON-MNT"
             },
             {
                 "asn": 4242423667,
@@ -7485,6 +7496,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "REWBYSOFT-MNT"
+            },
+            {
+                "asn": 4242420677,
+                "prefix": "fdca:88bb:ba3a::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdca:88bb:ba3a::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdca:88bb:ba3a::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "NEVERLOCATE-MNT"
             },
             {
                 "asn": 64856,
@@ -12921,6 +12943,17 @@
                 "mnt-by": "42ISLIFE-MNT"
             },
             {
+                "asn": 4242420677,
+                "prefix": "172.20.175.176/28",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.175.176_28",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.175.176_28"
+                },
+                "source": "DN42",
+                "mnt-by": "NEVERLOCATE-MNT"
+            },
+            {
                 "asn": 4242423905,
                 "prefix": "172.20.175.192/26",
                 "maxPrefixLength": 28,
@@ -13843,6 +13876,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "JOMAT-MNT"
+            },
+            {
+                "asn": 4242420642,
+                "prefix": "172.20.201.0/24",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.201.0_24",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.201.0_24"
+                },
+                "source": "DN42",
+                "mnt-by": "DONDON-MNT"
             },
             {
                 "asn": 4242421093,
