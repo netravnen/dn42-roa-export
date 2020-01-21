@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "aad393dac52bb548ee2920bd78081823adf5dcaa",
-            "merge": "94db903e c5f94415",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 19 Jan 2020 21:22:20 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aad393dac52bb548ee2920bd78081823adf5dcaa"
+            "commit": "762ed70b06ec2c1a9475e9c1df54abaf40795355",
+            "merge": "aad393da fffb7528",
+            "author": "burble <simon@burble.com>",
+            "date": "Mon, 20 Jan 2020 21:01:26 +0000",
+            "subject": "Merge branch 'master' of lx117/AS4242420530 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/762ed70b06ec2c1a9475e9c1df54abaf40795355"
         }
     },
     "roas": [
@@ -4882,6 +4882,17 @@
             },
             "ta": "DN42",
             "mnt-by": "NXTHOST-MNT"
+        },
+        {
+            "asn": "AS4242421434",
+            "prefix": "fd5b:d2a7::/44",
+            "maxLength": 64,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5b:d2a7::_44",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd5b:d2a7::_44"
+            },
+            "ta": "DN42",
+            "mnt-by": "HAKO-MNT"
         },
         {
             "asn": "AS4242420742",
@@ -18447,6 +18458,17 @@
             "mnt-by": "MORTZU-MNT"
         },
         {
+            "asn": "AS4242421434",
+            "prefix": "172.22.2.0/23",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.2.0_23",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.2.0_23"
+            },
+            "ta": "DN42",
+            "mnt-by": "HAKO-MNT"
+        },
+        {
             "asn": "AS64828",
             "prefix": "172.22.228.0/24",
             "maxLength": 28,
@@ -21165,12 +21187,12 @@
         }
     ],
     "metadata": {
-        "counts": 1923,
-        "generated": 1579544420,
-        "valid": 1579803620,
+        "counts": 1925,
+        "generated": 1579566029,
+        "valid": 1579825229,
         "human": {
-            "generated": "2020-01-20T18:20:20+00:00",
-            "valid": "2020-01-23T18:20:20+00:00"
+            "generated": "2020-01-21T00:20:29+00:00",
+            "valid": "2020-01-24T00:20:29+00:00"
         }
     }
 }

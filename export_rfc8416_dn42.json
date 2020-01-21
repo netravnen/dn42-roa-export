@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "aad393dac52bb548ee2920bd78081823adf5dcaa",
-            "merge": "94db903e c5f94415",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Sun, 19 Jan 2020 21:22:20 +0000",
-            "subject": "Merge branch 'master' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aad393dac52bb548ee2920bd78081823adf5dcaa"
+            "commit": "762ed70b06ec2c1a9475e9c1df54abaf40795355",
+            "merge": "aad393da fffb7528",
+            "author": "burble <simon@burble.com>",
+            "date": "Mon, 20 Jan 2020 21:01:26 +0000",
+            "subject": "Merge branch 'master' of lx117/AS4242420530 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/762ed70b06ec2c1a9475e9c1df54abaf40795355"
         }
     },
     "validationOutputFilters": {
@@ -4889,6 +4889,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "NXTHOST-MNT"
+            },
+            {
+                "asn": 4242421434,
+                "prefix": "fd5b:d2a7::/44",
+                "maxPrefixLength": 64,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd5b:d2a7::_44",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd5b:d2a7::_44"
+                },
+                "source": "DN42",
+                "mnt-by": "HAKO-MNT"
             },
             {
                 "asn": 4242420742,
@@ -18452,6 +18463,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "MORTZU-MNT"
+            },
+            {
+                "asn": 4242421434,
+                "prefix": "172.22.2.0/23",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.2.0_23",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.2.0_23"
+                },
+                "source": "DN42",
+                "mnt-by": "HAKO-MNT"
             },
             {
                 "asn": 64828,
