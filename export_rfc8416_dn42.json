@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "e0585b566a38c006f8b731e1b5cd278d42ce7f23",
-            "merge": "03b45588 00efc6a9",
+            "commit": "69c584fef2c67d93076f8dd3fa4cc6ab62cdacf9",
+            "merge": "658d4c2c 85085515",
             "author": "burble <simon@burble.com>",
-            "date": "Tue, 21 Jan 2020 08:31:30 +0000",
-            "subject": "Merge branch 'master' of santost12/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e0585b566a38c006f8b731e1b5cd278d42ce7f23"
+            "date": "Tue, 21 Jan 2020 13:41:08 +0000",
+            "subject": "Merge branch 'master' of qinlong/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/69c584fef2c67d93076f8dd3fa4cc6ab62cdacf9"
         }
     },
     "validationOutputFilters": {
@@ -7386,6 +7386,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "CATER-MNT"
+            },
+            {
+                "asn": 4242422340,
+                "prefix": "fdc7:d436:6765::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdc7:d436:6765::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdc7:d436:6765::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "ROBOTHAM-MNT"
             },
             {
                 "asn": 64870,
@@ -19299,6 +19310,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "JAKOB-MNT"
+            },
+            {
+                "asn": 4242422340,
+                "prefix": "172.23.101.192/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.101.192_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.23.101.192_27"
+                },
+                "source": "DN42",
+                "mnt-by": "ROBOTHAM-MNT"
             },
             {
                 "asn": 4242420321,
