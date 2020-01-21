@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "762ed70b06ec2c1a9475e9c1df54abaf40795355",
-            "merge": "aad393da fffb7528",
+            "commit": "e0585b566a38c006f8b731e1b5cd278d42ce7f23",
+            "merge": "03b45588 00efc6a9",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 20 Jan 2020 21:01:26 +0000",
-            "subject": "Merge branch 'master' of lx117/AS4242420530 into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/762ed70b06ec2c1a9475e9c1df54abaf40795355"
+            "date": "Tue, 21 Jan 2020 08:31:30 +0000",
+            "subject": "Merge branch 'master' of santost12/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e0585b566a38c006f8b731e1b5cd278d42ce7f23"
         }
     },
     "roas": [
@@ -21188,11 +21188,11 @@
     ],
     "metadata": {
         "counts": 1925,
-        "generated": 1579587610,
-        "valid": 1579846810,
+        "generated": 1579609235,
+        "valid": 1579868435,
         "human": {
-            "generated": "2020-01-21T06:20:10+00:00",
-            "valid": "2020-01-24T06:20:10+00:00"
+            "generated": "2020-01-21T12:20:35+00:00",
+            "valid": "2020-01-24T12:20:35+00:00"
         }
     }
 }
