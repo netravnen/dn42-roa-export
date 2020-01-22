@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 69c584fef2c67d93076f8dd3fa4cc6ab62cdacf9
-Merge: 658d4c2c 85085515
-Author: burble
-Date:   Tue Jan 21 13:41:08 2020 +0000
+commit 574d2e77ef880df9ca3fbc0a9b08adeed8862530
+Merge: 69c584fe f9465bd9
+Author: jrb0001
+Date:   Tue Jan 21 19:30:09 2020 +0000
 
-    Merge branch 'master' of qinlong/registry into master
+    Merge branch 'master' of elokiano/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1097
-- ROAs IPv6:  830
-- ROAs total: 1927
+- ROAs IPv4:  1098
+- ROAs IPv6:  831
+- ROAs total: 1929
 
-[0]: https://git.dn42.us/dn42/registry/commit/69c584fef2c67d93076f8dd3fa4cc6ab62cdacf9
+[0]: https://git.dn42.us/dn42/registry/commit/574d2e77ef880df9ca3fbc0a9b08adeed8862530
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "69c584fef2c67d93076f8dd3fa4cc6ab62cdacf9",
-            "merge": "658d4c2c 85085515",
-            "author": "burble <simon@burble.com>",
-            "date": "Tue, 21 Jan 2020 13:41:08 +0000",
-            "subject": "Merge branch 'master' of qinlong/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/69c584fef2c67d93076f8dd3fa4cc6ab62cdacf9"
+            "commit": "574d2e77ef880df9ca3fbc0a9b08adeed8862530",
+            "merge": "69c584fe f9465bd9",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Tue, 21 Jan 2020 19:30:09 +0000",
+            "subject": "Merge branch 'master' of elokiano/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/574d2e77ef880df9ca3fbc0a9b08adeed8862530"
         }
     },
     "validationOutputFilters": {
@@ -5824,6 +5824,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "DEN-MNT"
+            },
+            {
+                "asn": 4242423954,
+                "prefix": "fd85:050d:222d::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd85:050d:222d::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd85:050d:222d::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "ELOKIANO-MNT"
             },
             {
                 "asn": 4242421009,
@@ -13326,6 +13337,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "DDEV-MNT"
+            },
+            {
+                "asn": 4242423954,
+                "prefix": "172.20.184.0/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.184.0_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.184.0_27"
+                },
+                "source": "DN42",
+                "mnt-by": "ELOKIANO-MNT"
             },
             {
                 "asn": 4242421788,
