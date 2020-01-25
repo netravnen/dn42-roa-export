@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit ee5c05c5ea57accd14bb9863cfe970f9b091cf88
-Merge: 925d5878 3452c1cf
-Author: jrb0001
-Date:   Fri Jan 24 22:13:50 2020 +0000
+commit 17450776976b8d621206a41a541a89ab4f8d9085
+Merge: ee5c05c5 bb68d8eb
+Author: burble
+Date:   Sat Jan 25 07:47:40 2020 +0000
 
-    Merge branch 'cleanup/less_objects' of netravnen/dn42-registry into master
+    Merge branch 'master' of liyumin/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1091
-- ROAs IPv6:  830
-- ROAs total: 1921
+- ROAs IPv4:  1092
+- ROAs IPv6:  831
+- ROAs total: 1923
 
-[0]: https://git.dn42.us/dn42/registry/commit/ee5c05c5ea57accd14bb9863cfe970f9b091cf88
+[0]: https://git.dn42.us/dn42/registry/commit/17450776976b8d621206a41a541a89ab4f8d9085
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "ee5c05c5ea57accd14bb9863cfe970f9b091cf88",
-            "merge": "925d5878 3452c1cf",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Fri, 24 Jan 2020 22:13:50 +0000",
-            "subject": "Merge branch 'cleanup/less_objects' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ee5c05c5ea57accd14bb9863cfe970f9b091cf88"
+            "commit": "17450776976b8d621206a41a541a89ab4f8d9085",
+            "merge": "ee5c05c5 bb68d8eb",
+            "author": "burble <simon@burble.com>",
+            "date": "Sat, 25 Jan 2020 07:47:40 +0000",
+            "subject": "Merge branch 'master' of liyumin/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/17450776976b8d621206a41a541a89ab4f8d9085"
         }
     },
     "roas": [
@@ -6829,6 +6829,17 @@
             },
             "ta": "DN42",
             "mnt-by": "LRINQVQ-MNT"
+        },
+        {
+            "asn": "AS4242422042",
+            "prefix": "fdb2:b297:900d::/48",
+            "maxLength": 48,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb2:b297:900d::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdb2:b297:900d::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "LIYUMIN-MNT"
         },
         {
             "asn": "AS4242420177",
@@ -17369,6 +17380,17 @@
             "mnt-by": "VIRTIT-MNT"
         },
         {
+            "asn": "AS4242422024",
+            "prefix": "172.22.124.0/28",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.124.0_28",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.124.0_28"
+            },
+            "ta": "DN42",
+            "mnt-by": "LIYUMIN-MNT"
+        },
+        {
             "asn": "AS4242423974",
             "prefix": "172.22.125.0/28",
             "maxLength": 28,
@@ -21143,12 +21165,12 @@
         }
     ],
     "metadata": {
-        "counts": 1921,
-        "generated": 1579933210,
-        "valid": 1580192410,
+        "counts": 1923,
+        "generated": 1579954818,
+        "valid": 1580214018,
         "human": {
-            "generated": "2020-01-25T06:20:10+00:00",
-            "valid": "2020-01-28T06:20:10+00:00"
+            "generated": "2020-01-25T12:20:18+00:00",
+            "valid": "2020-01-28T12:20:18+00:00"
         }
     }
 }
