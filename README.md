@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 925d5878ac8472bd322c757a42bc5384d1ac9a35
-Merge: a34dcbfa 139f1d9c
-Author: burble
-Date:   Fri Jan 24 15:15:12 2020 +0000
+commit ee5c05c5ea57accd14bb9863cfe970f9b091cf88
+Merge: 925d5878 3452c1cf
+Author: jrb0001
+Date:   Fri Jan 24 22:13:50 2020 +0000
 
-    Merge branch 'master' of FantasqueX/registry into master
+    Merge branch 'cleanup/less_objects' of netravnen/dn42-registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1098
-- ROAs IPv6:  832
-- ROAs total: 1930
+- ROAs IPv4:  1091
+- ROAs IPv6:  830
+- ROAs total: 1921
 
-[0]: https://git.dn42.us/dn42/registry/commit/925d5878ac8472bd322c757a42bc5384d1ac9a35
+[0]: https://git.dn42.us/dn42/registry/commit/ee5c05c5ea57accd14bb9863cfe970f9b091cf88
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
