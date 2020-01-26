@@ -19,10 +19,10 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 17450776976b8d621206a41a541a89ab4f8d9085
-Merge: ee5c05c5 bb68d8eb
+commit f1345fe2a039d37553fc2aac6d1eed1c81286448 (HEAD -> master, upstream/master, origin/master, mycode/master, gl/master, gh/master, AS4242420144/master)
+Merge: fa3bcb81 0ccdc505
 Author: burble
-Date:   Sat Jan 25 07:47:40 2020 +0000
+Date:   Sat Jan 25 22:54:05 2020 +0000
 
     Merge branch 'master' of liyumin/registry into master
 ```
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  831
 - ROAs total: 1923
 
-[0]: https://git.dn42.us/dn42/registry/commit/17450776976b8d621206a41a541a89ab4f8d9085
+[0]: https://git.dn42.us/dn42/registry/commit/f1345fe2a039d37553fc2aac6d1eed1c81286448
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

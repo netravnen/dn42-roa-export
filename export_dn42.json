@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "17450776976b8d621206a41a541a89ab4f8d9085",
-            "merge": "ee5c05c5 bb68d8eb",
+            "commit": "f1345fe2a039d37553fc2aac6d1eed1c81286448",
+            "merge": "fa3bcb81 0ccdc505",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 25 Jan 2020 07:47:40 +0000",
+            "date": "Sat, 25 Jan 2020 22:54:05 +0000",
             "subject": "Merge branch 'master' of liyumin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/17450776976b8d621206a41a541a89ab4f8d9085"
+            "url": "https://git.dn42.us/dn42/registry/commit/f1345fe2a039d37553fc2aac6d1eed1c81286448"
         }
     },
     "roas": [
@@ -6831,7 +6831,7 @@
             "mnt-by": "LRINQVQ-MNT"
         },
         {
-            "asn": "AS4242422042",
+            "asn": "AS4242422024",
             "prefix": "fdb2:b297:900d::/48",
             "maxLength": 48,
             "url": {
@@ -21166,11 +21166,11 @@
     ],
     "metadata": {
         "counts": 1923,
-        "generated": 1579976411,
-        "valid": 1580235611,
+        "generated": 1579998015,
+        "valid": 1580257215,
         "human": {
-            "generated": "2020-01-25T18:20:11+00:00",
-            "valid": "2020-01-28T18:20:11+00:00"
+            "generated": "2020-01-26T00:20:15+00:00",
+            "valid": "2020-01-29T00:20:15+00:00"
         }
     }
 }
