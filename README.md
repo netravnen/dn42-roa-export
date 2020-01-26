@@ -19,7 +19,7 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f1345fe2a039d37553fc2aac6d1eed1c81286448
+commit f1345fe2a039d37553fc2aac6d1eed1c81286448 (HEAD -> master, upstream/master, origin/master, mycode/master, gl/master, gh/master, AS4242420144/master)
 Merge: fa3bcb81 0ccdc505
 Author: burble
 Date:   Sat Jan 25 22:54:05 2020 +0000
