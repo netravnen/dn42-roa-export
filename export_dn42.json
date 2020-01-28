@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "8597aff2888a81f8e98111847437846c579851e1",
-            "merge": "ce7339b1 89f27082",
+            "commit": "dbeb67dc620235abeb953bb916f3c108fb1e166f",
+            "merge": "8597aff2 6f5ae12b",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 27 Jan 2020 19:09:51 +0000",
-            "subject": "Merge branch 'master' of xyz479/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8597aff2888a81f8e98111847437846c579851e1"
+            "date": "Tue, 28 Jan 2020 17:47:14 +0000",
+            "subject": "Merge branch 'auth/ssh' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dbeb67dc620235abeb953bb916f3c108fb1e166f"
         }
     },
     "roas": [
@@ -1703,6 +1703,17 @@
             },
             "ta": "DN42",
             "mnt-by": "QPLI920501-MNT"
+        },
+        {
+            "asn": "AS4242423605",
+            "prefix": "fd38:3ec1:a11b::/48",
+            "maxLength": 64,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd38:3ec1:a11b::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd38:3ec1:a11b::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "BUKN-MNT"
         },
         {
             "asn": "AS4242422439",
@@ -17039,6 +17050,17 @@
             "mnt-by": "PHAUX-MNT"
         },
         {
+            "asn": "AS4242423605",
+            "prefix": "172.22.101.96/28",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.101.96_28",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.101.96_28"
+            },
+            "ta": "DN42",
+            "mnt-by": "BUKN-MNT"
+        },
+        {
             "asn": "AS4242420321",
             "prefix": "172.22.102.0/23",
             "maxLength": 28,
@@ -21198,12 +21220,12 @@
         }
     ],
     "metadata": {
-        "counts": 1926,
-        "generated": 1580219055,
-        "valid": 1580478255,
+        "counts": 1928,
+        "generated": 1580235584,
+        "valid": 1580494784,
         "human": {
-            "generated": "2020-01-28T13:44:15+00:00",
-            "valid": "2020-01-31T13:44:15+00:00"
+            "generated": "2020-01-28T18:19:44+00:00",
+            "valid": "2020-01-31T18:19:44+00:00"
         }
     }
 }
