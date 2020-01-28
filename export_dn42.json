@@ -1705,17 +1705,6 @@
             "mnt-by": "QPLI920501-MNT"
         },
         {
-            "asn": "AS4242423605",
-            "prefix": "fd38:3ec1:a11b::/48",
-            "maxLength": 64,
-            "url": {
-                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd38:3ec1:a11b::_48",
-                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd38:3ec1:a11b::_48"
-            },
-            "ta": "DN42",
-            "mnt-by": "BUKN-MNT"
-        },
-        {
             "asn": "AS4242422439",
             "prefix": "fd39:1c:2c1b::/48",
             "maxLength": 64,
@@ -17050,17 +17039,6 @@
             "mnt-by": "PHAUX-MNT"
         },
         {
-            "asn": "AS4242423605",
-            "prefix": "172.22.101.96/28",
-            "maxLength": 28,
-            "url": {
-                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.101.96_28",
-                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.101.96_28"
-            },
-            "ta": "DN42",
-            "mnt-by": "BUKN-MNT"
-        },
-        {
             "asn": "AS4242420321",
             "prefix": "172.22.102.0/23",
             "maxLength": 28,
@@ -21220,12 +21198,12 @@
         }
     ],
     "metadata": {
-        "counts": 1928,
-        "generated": 1580235584,
-        "valid": 1580494784,
+        "counts": 1926,
+        "generated": 1580241074,
+        "valid": 1580500274,
         "human": {
-            "generated": "2020-01-28T18:19:44+00:00",
-            "valid": "2020-01-31T18:19:44+00:00"
+            "generated": "2020-01-28T19:51:14+00:00",
+            "valid": "2020-01-31T19:51:14+00:00"
         }
     }
 }
