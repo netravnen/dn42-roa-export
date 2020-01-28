@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f1345fe2a039d37553fc2aac6d1eed1c81286448",
-            "merge": "fa3bcb81 0ccdc505",
+            "commit": "8597aff2888a81f8e98111847437846c579851e1",
+            "merge": "ce7339b1 89f27082",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 25 Jan 2020 22:54:05 +0000",
-            "subject": "Merge branch 'master' of liyumin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f1345fe2a039d37553fc2aac6d1eed1c81286448"
+            "date": "Mon, 27 Jan 2020 19:09:51 +0000",
+            "subject": "Merge branch 'master' of xyz479/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8597aff2888a81f8e98111847437846c579851e1"
         }
     },
     "validationOutputFilters": {
@@ -5287,6 +5287,17 @@
                 "mnt-by": "NFEED-MNT"
             },
             {
+                "asn": 4242420213,
+                "prefix": "fd6a:16b9:a0b2::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd6a:16b9:a0b2::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd6a:16b9:a0b2::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "XYZ479-MNT"
+            },
+            {
                 "asn": 4242423338,
                 "prefix": "fd6a:22f6:b683::/48",
                 "maxPrefixLength": 64,
@@ -6836,6 +6847,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "LRINQVQ-MNT"
+            },
+            {
+                "asn": 4242422389,
+                "prefix": "fdb2:a999:7f8c::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdb2:a999:7f8c::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdb2:a999:7f8c::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "KYLE-MNT"
             },
             {
                 "asn": 4242422024,
@@ -16538,6 +16560,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "XS4ME-MNT"
+            },
+            {
+                "asn": 4242422389,
+                "prefix": "172.21.74.96/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.74.96_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.21.74.96_27"
+                },
+                "source": "DN42",
+                "mnt-by": "KYLE-MNT"
             },
             {
                 "asn": 4242420526,
