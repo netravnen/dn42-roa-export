@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "dbeb67dc620235abeb953bb916f3c108fb1e166f",
-            "merge": "8597aff2 6f5ae12b",
-            "author": "burble <simon@burble.com>",
-            "date": "Tue, 28 Jan 2020 17:47:14 +0000",
-            "subject": "Merge branch 'auth/ssh' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/dbeb67dc620235abeb953bb916f3c108fb1e166f"
+            "commit": "727970f5f36125125193e2afbb15426109c63304",
+            "merge": "dbeb67dc 9be09017",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Wed, 29 Jan 2020 17:09:00 +0000",
+            "subject": "Merge branch 'misc/rename_netblocks' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/727970f5f36125125193e2afbb15426109c63304"
         }
     },
     "validationOutputFilters": {
