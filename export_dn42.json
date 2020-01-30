@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "727970f5f36125125193e2afbb15426109c63304",
-            "merge": "dbeb67dc 9be09017",
+            "commit": "f68fef45ae82e8dfd57637c0da187f4caaa8e3d3",
+            "merge": "daeed3a8 d7700a10",
             "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 29 Jan 2020 17:09:00 +0000",
-            "subject": "Merge branch 'misc/rename_netblocks' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/727970f5f36125125193e2afbb15426109c63304"
+            "date": "Wed, 29 Jan 2020 21:15:26 +0000",
+            "subject": "Merge branch 'DNS' of nchevrier/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f68fef45ae82e8dfd57637c0da187f4caaa8e3d3"
         }
     },
     "roas": [
@@ -18524,6 +18524,17 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
+            "asn": "AS0",
+            "prefix": "172.22.240.0/26",
+            "maxLength": 32,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.240.0_26",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.240.0_26"
+            },
+            "ta": "DN42",
+            "mnt-by": "NETRAVNEN-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "172.22.240.128/25",
             "maxLength": 28,
@@ -21198,12 +21209,12 @@
         }
     ],
     "metadata": {
-        "counts": 1926,
-        "generated": 1580321981,
-        "valid": 1580581181,
+        "counts": 1927,
+        "generated": 1580343603,
+        "valid": 1580602803,
         "human": {
-            "generated": "2020-01-29T18:19:41+00:00",
-            "valid": "2020-02-01T18:19:41+00:00"
+            "generated": "2020-01-30T00:20:03+00:00",
+            "valid": "2020-02-02T00:20:03+00:00"
         }
     }
 }
