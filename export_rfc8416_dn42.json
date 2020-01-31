@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "f68fef45ae82e8dfd57637c0da187f4caaa8e3d3",
-            "merge": "daeed3a8 d7700a10",
-            "author": "jrb0001 <jrb0001@692b8c32.de>",
-            "date": "Wed, 29 Jan 2020 21:15:26 +0000",
-            "subject": "Merge branch 'DNS' of nchevrier/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f68fef45ae82e8dfd57637c0da187f4caaa8e3d3"
+            "commit": "b512061e3c30c06458f4418018de4a1503cae75a",
+            "merge": "6f6b4773 146d6466",
+            "author": "burble <simon@burble.com>",
+            "date": "Fri, 31 Jan 2020 13:07:08 +0000",
+            "subject": "Merge branch 'master' of bolto90/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b512061e3c30c06458f4418018de4a1503cae75a"
         }
     },
     "validationOutputFilters": {
@@ -9170,6 +9170,17 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423605,
+                "prefix": "fdff:b87d:f5b0::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdff:b87d:f5b0::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdff:b87d:f5b0::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "BUKN-MNT"
+            },
+            {
                 "asn": 4242420138,
                 "prefix": "fdff:feed:c0de::/48",
                 "maxPrefixLength": 64,
@@ -17044,6 +17055,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "PHAUX-MNT"
+            },
+            {
+                "asn": 4242423605,
+                "prefix": "172.22.101.96/28",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.101.96_28",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.101.96_28"
+                },
+                "source": "DN42",
+                "mnt-by": "BUKN-MNT"
             },
             {
                 "asn": 4242420321,
