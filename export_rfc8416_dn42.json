@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "b512061e3c30c06458f4418018de4a1503cae75a",
-            "merge": "6f6b4773 146d6466",
+            "commit": "eb73a3fed5aa14f269c309c48fd2ad131e0de0d9",
+            "merge": "3837aac8 2ce69e2b",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 31 Jan 2020 13:07:08 +0000",
-            "subject": "Merge branch 'master' of bolto90/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b512061e3c30c06458f4418018de4a1503cae75a"
+            "date": "Fri, 31 Jan 2020 17:12:42 +0000",
+            "subject": "Merge branch 'master' of kn/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/eb73a3fed5aa14f269c309c48fd2ad131e0de0d9"
         }
     },
     "validationOutputFilters": {
@@ -8937,6 +8937,17 @@
                 },
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421239,
+                "prefix": "fdfd:03ba:342d::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfd:03ba:342d::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdfd:03ba:342d::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "KN-MNT"
             },
             {
                 "asn": 4242420165,

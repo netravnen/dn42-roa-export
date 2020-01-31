@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "b512061e3c30c06458f4418018de4a1503cae75a",
-            "merge": "6f6b4773 146d6466",
+            "commit": "eb73a3fed5aa14f269c309c48fd2ad131e0de0d9",
+            "merge": "3837aac8 2ce69e2b",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 31 Jan 2020 13:07:08 +0000",
-            "subject": "Merge branch 'master' of bolto90/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b512061e3c30c06458f4418018de4a1503cae75a"
+            "date": "Fri, 31 Jan 2020 17:12:42 +0000",
+            "subject": "Merge branch 'master' of kn/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/eb73a3fed5aa14f269c309c48fd2ad131e0de0d9"
         }
     },
     "roas": [
@@ -8930,6 +8930,17 @@
             },
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421239",
+            "prefix": "fdfd:03ba:342d::/48",
+            "maxLength": 48,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdfd:03ba:342d::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdfd:03ba:342d::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "KN-MNT"
         },
         {
             "asn": "AS4242420165",
@@ -21231,12 +21242,12 @@
         }
     ],
     "metadata": {
-        "counts": 1929,
-        "generated": 1580478259,
-        "valid": 1580737459,
+        "counts": 1930,
+        "generated": 1580494788,
+        "valid": 1580753988,
         "human": {
-            "generated": "2020-01-31T13:44:19+00:00",
-            "valid": "2020-02-03T13:44:19+00:00"
+            "generated": "2020-01-31T18:19:48+00:00",
+            "valid": "2020-02-03T18:19:48+00:00"
         }
     }
 }
