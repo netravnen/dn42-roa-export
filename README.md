@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0f68ff9f13b0ad5f99e4958b7a59a38ad6d40aef
-Merge: eb73a3fe 4ce3745a
+commit d23c04100ecf3d6bc06c643724e78cbe400051ed
+Merge: b54166a5 414c75f0
 Author: burble
-Date:   2020-01-31 23:15:57 +0000
+Date:   2020-02-01 18:19:11 +0000
 
-    Merge branch 'master' of okashi/registry into master
+    Merge branch 'master' of gatuno/registry into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  836
 - ROAs total: 1931
 
-[0]: https://git.dn42.us/dn42/registry/commit/0f68ff9f13b0ad5f99e4958b7a59a38ad6d40aef
+[0]: https://git.dn42.us/dn42/registry/commit/d23c04100ecf3d6bc06c643724e78cbe400051ed
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
