@@ -22,7 +22,7 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 commit 0f68ff9f13b0ad5f99e4958b7a59a38ad6d40aef
 Merge: eb73a3fe 4ce3745a
 Author: burble
-Date:   Fri Jan 31 23:15:57 2020 +0000
+Date:   2020-01-31 23:15:57 +0000
 
     Merge branch 'master' of okashi/registry into master
 ```
