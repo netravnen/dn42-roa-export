@@ -22,7 +22,7 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 commit 594ab552ec97a5519e6f9638c2d2c1a8f40ed42f
 Merge: d23c0410 ea9647db
 Author: burble
-Date:   2020-02-01 22:10:34 +0000
+Date:   Sat Feb 1 22:10:34 2020 +0000
 
     Merge branch 'AS4242422237' of munsternet/registry into master
 ```
