@@ -22,7 +22,7 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 commit 594ab552ec97a5519e6f9638c2d2c1a8f40ed42f
 Merge: d23c0410 ea9647db
 Author: burble
-Date:   2020-02-01 22:10:34 +0000
+Date:   Sat Feb 1 22:10:34 2020 +0000
 
     Merge branch 'AS4242422237' of munsternet/registry into master
 ```
@@ -37,9 +37,9 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1095
-- ROAs IPv6:  836
-- ROAs total: 1931
+- ROAs IPv4:  1097
+- ROAs IPv6:  837
+- ROAs total: 1934
 
 [0]: https://git.dn42.us/dn42/registry/commit/594ab552ec97a5519e6f9638c2d2c1a8f40ed42f
 [1]: https://git.dn42.us/dn42/registry

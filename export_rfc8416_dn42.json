@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "0f68ff9f13b0ad5f99e4958b7a59a38ad6d40aef",
-            "merge": "eb73a3fe 4ce3745a",
+            "commit": "594ab552ec97a5519e6f9638c2d2c1a8f40ed42f",
+            "merge": "d23c0410 ea9647db",
             "author": "burble <simon@burble.com>",
-            "date": "Fri, 31 Jan 2020 23:15:57 +0000",
-            "subject": "Merge branch 'master' of okashi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0f68ff9f13b0ad5f99e4958b7a59a38ad6d40aef"
+            "date": "Sat, 1 Feb 2020 22:10:34 +0000",
+            "subject": "Merge branch 'AS4242422237' of munsternet/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/594ab552ec97a5519e6f9638c2d2c1a8f40ed42f"
         }
     },
     "validationOutputFilters": {
@@ -643,6 +643,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "TYLER-MNT"
+            },
+            {
+                "asn": 4242422237,
+                "prefix": "fd05:a2d1:a767::/48",
+                "maxPrefixLength": 48,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd05:a2d1:a767::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd05:a2d1:a767::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "MUNSTERNET-MNT"
             },
             {
                 "asn": 65026,
@@ -16815,6 +16826,17 @@
                 "mnt-by": "HEIAS-MNT"
             },
             {
+                "asn": 4242423419,
+                "prefix": "172.21.92.64/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.21.92.64_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.21.92.64_27"
+                },
+                "source": "DN42",
+                "mnt-by": "OKASHI-MNT"
+            },
+            {
                 "asn": 4242421020,
                 "prefix": "172.21.93.0/27",
                 "maxPrefixLength": 28,
@@ -17462,6 +17484,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "VIRTIT-MNT"
+            },
+            {
+                "asn": 4242420180,
+                "prefix": "172.22.122.0/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.22.122.0_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.22.122.0_27"
+                },
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422024,
