@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "594ab552ec97a5519e6f9638c2d2c1a8f40ed42f",
-            "merge": "d23c0410 ea9647db",
+            "commit": "025d69761f52d5b5fbc2ea8e632484b15f48f563",
+            "merge": "3cfee1a6 70df0a85",
             "author": "burble <simon@burble.com>",
-            "date": "Sat, 1 Feb 2020 22:10:34 +0000",
-            "subject": "Merge branch 'AS4242422237' of munsternet/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/594ab552ec97a5519e6f9638c2d2c1a8f40ed42f"
+            "date": "Mon, 3 Feb 2020 11:59:22 +0000",
+            "subject": "Merge branch 'master' of Hexanet/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/025d69761f52d5b5fbc2ea8e632484b15f48f563"
         }
     },
     "roas": [
@@ -1219,6 +1219,17 @@
             },
             "ta": "DN42",
             "mnt-by": "FUTURSOLO-MNT"
+        },
+        {
+            "asn": "AS4242420286",
+            "prefix": "fd23:2a7a:15ae::/48",
+            "maxLength": 48,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd23:2a7a:15ae::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd23:2a7a:15ae::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "BAKABYTE-MNT"
         },
         {
             "asn": "AS64699",
@@ -6644,6 +6655,17 @@
             "mnt-by": "BITCLOUD-MNT"
         },
         {
+            "asn": "AS4242423078",
+            "prefix": "fda6:2474:15a4::/48",
+            "maxLength": 48,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fda6:2474:15a4::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fda6:2474:15a4::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "HEXANET-MNT"
+        },
+        {
             "asn": "AS4242420469",
             "prefix": "fda7:a975:bfc2::/48",
             "maxLength": 64,
@@ -11592,6 +11614,17 @@
             },
             "ta": "DN42",
             "mnt-by": "MVO-MNT"
+        },
+        {
+            "asn": "AS4242421296",
+            "prefix": "172.20.132.0/27",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.132.0_27",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.132.0_27"
+            },
+            "ta": "DN42",
+            "mnt-by": "FANTASQUEX-MNT"
         },
         {
             "asn": "AS4242423816",
@@ -19646,6 +19679,17 @@
             "mnt-by": "ROT13-MNT"
         },
         {
+            "asn": "AS4242420286",
+            "prefix": "172.23.128.96/27",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.128.96_27",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.23.128.96_27"
+            },
+            "ta": "DN42",
+            "mnt-by": "BAKABYTE-MNT"
+        },
+        {
             "asn": "AS4242423504",
             "prefix": "172.23.132.0/27",
             "maxLength": 28,
@@ -21286,12 +21330,12 @@
         }
     ],
     "metadata": {
-        "counts": 1934,
-        "generated": 1580710787,
-        "valid": 1580969987,
+        "counts": 1938,
+        "generated": 1580732401,
+        "valid": 1580991601,
         "human": {
-            "generated": "2020-02-03T06:19:47+00:00",
-            "valid": "2020-02-06T06:19:47+00:00"
+            "generated": "2020-02-03T12:20:01+00:00",
+            "valid": "2020-02-06T12:20:01+00:00"
         }
     }
 }

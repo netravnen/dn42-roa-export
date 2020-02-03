@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 594ab552ec97a5519e6f9638c2d2c1a8f40ed42f
-Merge: d23c0410 ea9647db
+commit 025d69761f52d5b5fbc2ea8e632484b15f48f563
+Merge: 3cfee1a6 70df0a85
 Author: burble
-Date:   2020-02-01 22:10:34 +0000
+Date:   2020-02-03 11:59:22 +0000
 
-    Merge branch 'AS4242422237' of munsternet/registry into master
+    Merge branch 'master' of Hexanet/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1097
-- ROAs IPv6:  837
-- ROAs total: 1934
+- ROAs IPv4:  1099
+- ROAs IPv6:  839
+- ROAs total: 1938
 
-[0]: https://git.dn42.us/dn42/registry/commit/594ab552ec97a5519e6f9638c2d2c1a8f40ed42f
+[0]: https://git.dn42.us/dn42/registry/commit/025d69761f52d5b5fbc2ea8e632484b15f48f563
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
