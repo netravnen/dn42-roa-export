@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 025d69761f52d5b5fbc2ea8e632484b15f48f563
-Merge: 3cfee1a6 70df0a85
+commit 3146fb928fe94a2ac391590d46c12bb555a1a680
+Merge: 025d6976 28a5ddfc
 Author: burble
-Date:   2020-02-03 11:59:22 +0000
+Date:   2020-02-03 19:15:22 +0000
 
-    Merge branch 'master' of Hexanet/registry into master
+    Merge branch 'master' of packetframe/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1099
-- ROAs IPv6:  839
-- ROAs total: 1938
+- ROAs IPv4:  1100
+- ROAs IPv6:  840
+- ROAs total: 1940
 
-[0]: https://git.dn42.us/dn42/registry/commit/025d69761f52d5b5fbc2ea8e632484b15f48f563
+[0]: https://git.dn42.us/dn42/registry/commit/3146fb928fe94a2ac391590d46c12bb555a1a680
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

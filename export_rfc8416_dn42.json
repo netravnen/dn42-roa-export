@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "025d69761f52d5b5fbc2ea8e632484b15f48f563",
-            "merge": "3cfee1a6 70df0a85",
+            "commit": "3146fb928fe94a2ac391590d46c12bb555a1a680",
+            "merge": "025d6976 28a5ddfc",
             "author": "burble <simon@burble.com>",
-            "date": "Mon, 3 Feb 2020 11:59:22 +0000",
-            "subject": "Merge branch 'master' of Hexanet/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/025d69761f52d5b5fbc2ea8e632484b15f48f563"
+            "date": "Mon, 3 Feb 2020 19:15:22 +0000",
+            "subject": "Merge branch 'master' of packetframe/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3146fb928fe94a2ac391590d46c12bb555a1a680"
         }
     },
     "validationOutputFilters": {
@@ -1820,6 +1820,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "TWINK0R-MNT"
+            },
+            {
+                "asn": 4242423113,
+                "prefix": "fd3d:714a:d119::/48",
+                "maxPrefixLength": 64,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd3d:714a:d119::_48",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd3d:714a:d119::_48"
+                },
+                "source": "DN42",
+                "mnt-by": "PACKETFRAME-MNT"
             },
             {
                 "asn": 4242428989,
@@ -19684,6 +19695,17 @@
                 },
                 "source": "DN42",
                 "mnt-by": "ROT13-MNT"
+            },
+            {
+                "asn": 4242423113,
+                "prefix": "172.23.128.64/27",
+                "maxPrefixLength": 28,
+                "url": {
+                    "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.23.128.64_27",
+                    "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.23.128.64_27"
+                },
+                "source": "DN42",
+                "mnt-by": "PACKETFRAME-MNT"
             },
             {
                 "asn": 4242420286,
