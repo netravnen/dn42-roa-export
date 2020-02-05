@@ -1,12 +1,12 @@
 {
     "_comments": {
         "modified": {
-            "commit": "3146fb928fe94a2ac391590d46c12bb555a1a680",
-            "merge": "025d6976 28a5ddfc",
-            "author": "burble <simon@burble.com>",
-            "date": "Mon, 3 Feb 2020 19:15:22 +0000",
-            "subject": "Merge branch 'master' of packetframe/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3146fb928fe94a2ac391590d46c12bb555a1a680"
+            "commit": "09a893b1112dce89a4387144f59174b48c5c72bf",
+            "merge": "bf5fd92e 6e12fb72",
+            "author": "jrb0001 <jrb0001@692b8c32.de>",
+            "date": "Tue, 4 Feb 2020 19:33:16 +0000",
+            "subject": "Merge branch 'master' of AleMal/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/09a893b1112dce89a4387144f59174b48c5c72bf"
         }
     },
     "roas": [
@@ -229,6 +229,17 @@
             },
             "ta": "DN42",
             "mnt-by": "FSTAB-MNT"
+        },
+        {
+            "asn": "AS4242421331",
+            "prefix": "fd00:1926:817::/48",
+            "maxLength": 48,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fd00:1926:817::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fd00:1926:817::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "NIA-MNT"
         },
         {
             "asn": "AS4242423348",
@@ -7194,6 +7205,17 @@
             "mnt-by": "JOMAT-MNT"
         },
         {
+            "asn": "AS4242421525",
+            "prefix": "fdbf:54f1:66b8::/48",
+            "maxLength": 48,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inet6num/fdbf:54f1:66b8::_48",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route6/fdbf:54f1:66b8::_48"
+            },
+            "ta": "DN42",
+            "mnt-by": "ALEMAL-MNT"
+        },
+        {
             "asn": "AS4242423944",
             "prefix": "fdbf:6d9c:4e2d::/48",
             "maxLength": 64,
@@ -11319,6 +11341,17 @@
             "mnt-by": "MARAUN-MNT"
         },
         {
+            "asn": "AS4242421525",
+            "prefix": "172.20.12.224/27",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.12.224_27",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.12.224_27"
+            },
+            "ta": "DN42",
+            "mnt-by": "ALEMAL-MNT"
+        },
+        {
             "asn": "AS4242423610",
             "prefix": "172.20.12.80/28",
             "maxLength": 28,
@@ -12417,6 +12450,17 @@
             },
             "ta": "DN42",
             "mnt-by": "NULLROUTE-MNT"
+        },
+        {
+            "asn": "AS4242421331",
+            "prefix": "172.20.158.128/26",
+            "maxLength": 28,
+            "url": {
+                "inetnum": "https://git.dn42.us/dn42/registry/src/master/data/inetnum/172.20.158.128_26",
+                "route": "https://git.dn42.us/dn42/registry/src/master/data/route/172.20.158.128_26"
+            },
+            "ta": "DN42",
+            "mnt-by": "NIA-MNT"
         },
         {
             "asn": "AS4242421629",
@@ -21352,12 +21396,12 @@
         }
     ],
     "metadata": {
-        "counts": 1940,
-        "generated": 1580840396,
-        "valid": 1581099596,
+        "counts": 1944,
+        "generated": 1580861986,
+        "valid": 1581121186,
         "human": {
-            "generated": "2020-02-04T18:19:56+00:00",
-            "valid": "2020-02-07T18:19:56+00:00"
+            "generated": "2020-02-05T00:19:46+00:00",
+            "valid": "2020-02-08T00:19:46+00:00"
         }
     }
 }

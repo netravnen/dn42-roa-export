@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 3146fb928fe94a2ac391590d46c12bb555a1a680
-Merge: 025d6976 28a5ddfc
-Author: burble
-Date:   2020-02-03 19:15:22 +0000
+commit 09a893b1112dce89a4387144f59174b48c5c72bf
+Merge: bf5fd92e 6e12fb72
+Author: jrb0001
+Date:   2020-02-04 19:33:16 +0000
 
-    Merge branch 'master' of packetframe/registry into master
+    Merge branch 'master' of AleMal/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1100
-- ROAs IPv6:  840
-- ROAs total: 1940
+- ROAs IPv4:  1102
+- ROAs IPv6:  842
+- ROAs total: 1944
 
-[0]: https://git.dn42.us/dn42/registry/commit/3146fb928fe94a2ac391590d46c12bb555a1a680
+[0]: https://git.dn42.us/dn42/registry/commit/09a893b1112dce89a4387144f59174b48c5c72bf
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
