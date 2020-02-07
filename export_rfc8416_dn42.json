@@ -2,12 +2,12 @@
     "slurmVersion": 1,
     "_comments": {
         "modified": {
-            "commit": "aefd681a87f10f12071a84a3ee61e0ee8a93b107",
-            "merge": "09a893b1 27f1f6b6",
+            "commit": "b44149eeec447065ac2855059cde718f8bb42146",
+            "merge": "c5991b83 baa0dbd1",
             "author": "burble",
-            "date": "Fri, 7 Feb 2020 12:05:28 +0000",
-            "subject": "Merge branch 'master' of waxman/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aefd681a87f10f12071a84a3ee61e0ee8a93b107"
+            "date": "Fri, 7 Feb 2020 12:32:59 +0000",
+            "subject": "Merge branch 'master' of yukari/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b44149eeec447065ac2855059cde718f8bb42146"
         }
     },
     "validationOutputFilters": {
@@ -8171,6 +8171,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NCN-MNT"
+            },
+            {
+                "asn": 4242421331,
+                "prefix": "172.20.168.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NIA-MNT"
             },
             {
                 "asn": 4242423335,
