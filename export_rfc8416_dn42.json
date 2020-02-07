@@ -1,20 +1,6 @@
 {
+    "0": [],
     "slurmVersion": 1,
-    "metadata": {
-        "human": {
-            "commit": "b44149eeec447065ac2855059cde718f8bb42146",
-            "merge": "c5991b83 baa0dbd1",
-            "author": "burble",
-            "date": "Fri, 7 Feb 2020 12:32:59 +0000",
-            "subject": "Merge branch 'master' of yukari/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b44149eeec447065ac2855059cde718f8bb42146",
-            "generated": "2020-02-07T18:19:52+00:00",
-            "valid": "2020-02-10T18:19:52+00:00"
-        },
-        "counts": 0,
-        "generated": 1581099592,
-        "valid": 1581358792
-    },
     "validationOutputFilters": {
         "prefixFilters": [],
         "bgpsecFilters": []
@@ -13638,5 +13624,19 @@
                 "mnt-by": "DN42-MNT"
             }
         ]
+    },
+    "metadata": {
+        "human": {
+            "merge": "c5991b83 baa0dbd1",
+            "author": "burble",
+            "date": "Fri, 7 Feb 2020 12:32:59 +0000",
+            "subject": "Merge branch 'master' of yukari/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/",
+            "generated": "2020-02-07T19:43:10+00:00",
+            "valid": "2020-02-10T19:43:10+00:00"
+        },
+        "counts": 0,
+        "generated": 1581104590,
+        "valid": 1581363790
     }
 }
