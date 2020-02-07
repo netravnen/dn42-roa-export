@@ -1,13 +1,18 @@
 {
-    "_comments": {
-        "modified": {
+    "metadata": {
+        "human": {
             "commit": "b44149eeec447065ac2855059cde718f8bb42146",
             "merge": "c5991b83 baa0dbd1",
             "author": "burble",
             "date": "Fri, 7 Feb 2020 12:32:59 +0000",
             "subject": "Merge branch 'master' of yukari/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b44149eeec447065ac2855059cde718f8bb42146"
-        }
+            "url": "https://git.dn42.us/dn42/registry/commit/b44149eeec447065ac2855059cde718f8bb42146",
+            "generated": "2020-02-07T18:19:52+00:00",
+            "valid": "2020-02-10T18:19:52+00:00"
+        },
+        "counts": 0,
+        "generated": 1581099592,
+        "valid": 1581358792
     },
     "roas": [
         {
@@ -13625,14 +13630,5 @@
             "ta": "DN42",
             "mnt-by": "DN42-MNT"
         }
-    ],
-    "metadata": {
-        "counts": 1945,
-        "generated": 1581083058,
-        "valid": 1581342258,
-        "human": {
-            "generated": "2020-02-07T13:44:18+00:00",
-            "valid": "2020-02-10T13:44:18+00:00"
-        }
-    }
+    ]
 }
