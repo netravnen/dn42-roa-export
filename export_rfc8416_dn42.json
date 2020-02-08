@@ -13626,17 +13626,17 @@
     },
     "metadata": {
         "human": {
-            "commit": "b44149eeec447065ac2855059cde718f8bb42146",
-            "merge": "c5991b83 baa0dbd1",
+            "commit": "3589663b205bd5c854c02f0e8cc0204130538a60",
+            "merge": "b44149ee f7f5132d",
             "author": "burble",
-            "date": "Fri, 7 Feb 2020 12:32:59 +0000",
-            "subject": "Merge branch 'master' of yukari/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b44149eeec447065ac2855059cde718f8bb42146",
-            "generated": "2020-02-07T19:53:56+00:00",
-            "valid": "2020-02-10T19:53:56+00:00"
+            "date": "Fri, 7 Feb 2020 20:24:42 +0000",
+            "subject": "Merge branch 'master' of santost12/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3589663b205bd5c854c02f0e8cc0204130538a60",
+            "generated": "2020-02-08T00:20:09+00:00",
+            "valid": "2020-02-11T00:20:09+00:00"
         },
         "counts": 1945,
-        "generated": 1581105236,
-        "valid": 1581364436
+        "generated": 1581121209,
+        "valid": 1581380409
     }
 }
