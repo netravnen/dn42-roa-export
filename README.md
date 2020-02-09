@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f1eacfe31e289aa8d586bc049a650a1d29993d0f
-Merge: e08046e8 82aca9f8
+commit 854703bbeea0623e446ce5a29e5c6868b918cca6
+Merge: f1eacfe3 b23e8753
 Author: burble
-Date:   2020-02-08 22:13:17 +0000
+Date:   2020-02-09 11:47:35 +0000
 
-    Merge branch 'nulll-new-as' of stv0g/registry into master
+    Merge branch 'master' of Tchekda/registry into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  845
 - ROAs total: 1950
 
-[0]: https://git.dn42.us/dn42/registry/commit/f1eacfe31e289aa8d586bc049a650a1d29993d0f
+[0]: https://git.dn42.us/dn42/registry/commit/854703bbeea0623e446ce5a29e5c6868b918cca6
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

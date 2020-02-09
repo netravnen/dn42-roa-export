@@ -13661,17 +13661,17 @@
     },
     "metadata": {
         "human": {
-            "commit": "f1eacfe31e289aa8d586bc049a650a1d29993d0f",
-            "merge": "e08046e8 82aca9f8",
+            "commit": "854703bbeea0623e446ce5a29e5c6868b918cca6",
+            "merge": "f1eacfe3 b23e8753",
             "author": "burble",
-            "date": "Sat, 8 Feb 2020 22:13:17 +0000",
-            "subject": "Merge branch 'nulll-new-as' of stv0g/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f1eacfe31e289aa8d586bc049a650a1d29993d0f",
-            "generated": "2020-02-09T06:19:38+00:00",
-            "valid": "2020-02-12T06:19:38+00:00"
+            "date": "Sun, 9 Feb 2020 11:47:35 +0000",
+            "subject": "Merge branch 'master' of Tchekda/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/854703bbeea0623e446ce5a29e5c6868b918cca6",
+            "generated": "2020-02-09T12:19:53+00:00",
+            "valid": "2020-02-12T12:19:53+00:00"
         },
         "counts": 1950,
-        "generated": 1581229178,
-        "valid": 1581488378
+        "generated": 1581250793,
+        "valid": 1581509993
     }
 }
