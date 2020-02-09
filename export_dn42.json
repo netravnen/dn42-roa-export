@@ -13659,11 +13659,11 @@
             "date": "Sat, 8 Feb 2020 22:13:17 +0000",
             "subject": "Merge branch 'nulll-new-as' of stv0g/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/f1eacfe31e289aa8d586bc049a650a1d29993d0f",
-            "generated": "2020-02-09T01:44:15+00:00",
-            "valid": "2020-02-12T01:44:15+00:00"
+            "generated": "2020-02-09T06:19:38+00:00",
+            "valid": "2020-02-12T06:19:38+00:00"
         },
         "counts": 1950,
-        "generated": 1581212655,
-        "valid": 1581471855
+        "generated": 1581229178,
+        "valid": 1581488378
     }
 }
