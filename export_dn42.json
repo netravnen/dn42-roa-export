@@ -3802,6 +3802,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423337",
+            "prefix": "fd8f:e080:bfad::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PERKSCO-MNT"
+        },
+        {
             "asn": "AS4242421656",
             "prefix": "fd8f:fcd6:b5b3::/48",
             "maxLength": 64,
@@ -11740,6 +11747,13 @@
             "mnt-by": "QINLONG-MNT"
         },
         {
+            "asn": "AS4242423337",
+            "prefix": "172.22.169.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PERKSCO-MNT"
+        },
+        {
             "asn": "AS4242420339",
             "prefix": "172.22.172.0/27",
             "maxLength": 28,
@@ -13378,6 +13392,13 @@
             "mnt-by": "4A6F-MNT"
         },
         {
+            "asn": "AS4242420803",
+            "prefix": "172.23.33.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BILL-MNT"
+        },
+        {
             "asn": "AS4242423993",
             "prefix": "172.23.35.0/26",
             "maxLength": 28,
@@ -13667,17 +13688,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "656fa3095fbba3979789d6bd66dad32443d341ef",
-            "merge": "854703bb 192ace1b",
+            "commit": "2f1ca18280f37f3758ae96c75bcf01aff0d14802",
+            "merge": "d90a0fda baaae6f2",
             "author": "burble",
-            "date": "Mon, 10 Feb 2020 07:49:38 +0000",
-            "subject": "Merge branch 'master' of peer/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/656fa3095fbba3979789d6bd66dad32443d341ef",
-            "generated": "2020-02-10T13:44:17+00:00",
-            "valid": "2020-02-13T13:44:17+00:00"
+            "date": "Mon, 10 Feb 2020 15:01:45 +0000",
+            "subject": "Merge branch 'master' of billchenchina/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2f1ca18280f37f3758ae96c75bcf01aff0d14802",
+            "generated": "2020-02-10T18:20:14+00:00",
+            "valid": "2020-02-13T18:20:14+00:00"
         },
-        "counts": 1952,
-        "generated": 1581342257,
-        "valid": 1581601457
+        "counts": 1955,
+        "generated": 1581358814,
+        "valid": 1581618014
     }
 }
