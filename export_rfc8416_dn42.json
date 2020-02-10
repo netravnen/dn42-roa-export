@@ -5440,6 +5440,13 @@
                 "mnt-by": "BENL-MNT"
             },
             {
+                "asn": 4242420343,
+                "prefix": "fdee:ac14:e700::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PEER-MNT"
+            },
+            {
                 "asn": 4242422502,
                 "prefix": "fdee:d21b:6b8b::/48",
                 "maxPrefixLength": 48,
@@ -9232,6 +9239,13 @@
                 "maxPrefixLength": 25,
                 "source": "DN42",
                 "mnt-by": "NETRAVNEN-MNT"
+            },
+            {
+                "asn": 4242420343,
+                "prefix": "172.20.231.0/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PEER-MNT"
             },
             {
                 "asn": 4242420488,
@@ -13661,17 +13675,17 @@
     },
     "metadata": {
         "human": {
-            "commit": "854703bbeea0623e446ce5a29e5c6868b918cca6",
-            "merge": "f1eacfe3 b23e8753",
+            "commit": "656fa3095fbba3979789d6bd66dad32443d341ef",
+            "merge": "854703bb 192ace1b",
             "author": "burble",
-            "date": "Sun, 9 Feb 2020 11:47:35 +0000",
-            "subject": "Merge branch 'master' of Tchekda/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/854703bbeea0623e446ce5a29e5c6868b918cca6",
-            "generated": "2020-02-10T06:19:42+00:00",
-            "valid": "2020-02-13T06:19:42+00:00"
+            "date": "Mon, 10 Feb 2020 07:49:38 +0000",
+            "subject": "Merge branch 'master' of peer/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/656fa3095fbba3979789d6bd66dad32443d341ef",
+            "generated": "2020-02-10T12:19:59+00:00",
+            "valid": "2020-02-13T12:19:59+00:00"
         },
-        "counts": 1950,
-        "generated": 1581315582,
-        "valid": 1581574782
+        "counts": 1952,
+        "generated": 1581337199,
+        "valid": 1581596399
     }
 }
