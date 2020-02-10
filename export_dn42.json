@@ -13673,11 +13673,11 @@
             "date": "Mon, 10 Feb 2020 07:49:38 +0000",
             "subject": "Merge branch 'master' of peer/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/656fa3095fbba3979789d6bd66dad32443d341ef",
-            "generated": "2020-02-10T12:19:59+00:00",
-            "valid": "2020-02-13T12:19:59+00:00"
+            "generated": "2020-02-10T13:44:17+00:00",
+            "valid": "2020-02-13T13:44:17+00:00"
         },
         "counts": 1952,
-        "generated": 1581337199,
-        "valid": 1581596399
+        "generated": 1581342257,
+        "valid": 1581601457
     }
 }
