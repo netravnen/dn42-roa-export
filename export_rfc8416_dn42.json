@@ -2640,6 +2640,13 @@
                 "mnt-by": "XUU-MNT"
             },
             {
+                "asn": 4242421070,
+                "prefix": "fd42:d447:775c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TRVR-MNT"
+            },
+            {
                 "asn": 4242421515,
                 "prefix": "fd42:d5d8:3c89::/48",
                 "maxPrefixLength": 64,
@@ -13696,17 +13703,17 @@
     },
     "metadata": {
         "human": {
-            "commit": "2f1ca18280f37f3758ae96c75bcf01aff0d14802",
-            "merge": "d90a0fda baaae6f2",
+            "commit": "66d61767ce977994b39db93ccb164f39d0933dae",
+            "merge": "2f1ca182 7bb832b7",
             "author": "burble",
-            "date": "Mon, 10 Feb 2020 15:01:45 +0000",
-            "subject": "Merge branch 'master' of billchenchina/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2f1ca18280f37f3758ae96c75bcf01aff0d14802",
-            "generated": "2020-02-12T18:19:52+00:00",
-            "valid": "2020-02-15T18:19:52+00:00"
+            "date": "Wed, 12 Feb 2020 20:28:48 +0000",
+            "subject": "Merge branch 'master' of trevor/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/66d61767ce977994b39db93ccb164f39d0933dae",
+            "generated": "2020-02-13T00:20:12+00:00",
+            "valid": "2020-02-16T00:20:12+00:00"
         },
-        "counts": 1955,
-        "generated": 1581531592,
-        "valid": 1581790792
+        "counts": 1956,
+        "generated": 1581553212,
+        "valid": 1581812412
     }
 }
