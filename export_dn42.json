@@ -13701,11 +13701,11 @@
             "date": "Wed, 12 Feb 2020 20:28:48 +0000",
             "subject": "Merge branch 'master' of trevor/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/66d61767ce977994b39db93ccb164f39d0933dae",
-            "generated": "2020-02-13T01:44:18+00:00",
-            "valid": "2020-02-16T01:44:18+00:00"
+            "generated": "2020-02-13T06:19:40+00:00",
+            "valid": "2020-02-16T06:19:40+00:00"
         },
         "counts": 1956,
-        "generated": 1581558258,
-        "valid": 1581817458
+        "generated": 1581574780,
+        "valid": 1581833980
     }
 }
