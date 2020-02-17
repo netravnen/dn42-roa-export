@@ -3606,6 +3606,13 @@
                 "mnt-by": "SCUTTLEBUG-MNT"
             },
             {
+                "asn": 4242420178,
+                "prefix": "fd79:4df1:37c6:157e::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LL-MNT"
+            },
+            {
                 "asn": 4242420017,
                 "prefix": "fd79:f856:16d9:8882::/64",
                 "maxPrefixLength": 64,
@@ -7272,6 +7279,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SPREITZER-MNT"
+            },
+            {
+                "asn": 4242420178,
+                "prefix": "172.20.12.128/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LL-MNT"
             },
             {
                 "asn": 4242421470,
@@ -11117,6 +11131,13 @@
                 "mnt-by": "TSHDW-MNT"
             },
             {
+                "asn": 4242420823,
+                "prefix": "172.22.111.120/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "N4N-MNT"
+            },
+            {
                 "asn": 4242421341,
                 "prefix": "172.22.111.128/28",
                 "maxPrefixLength": 28,
@@ -13745,17 +13766,17 @@
     },
     "metadata": {
         "human": {
-            "commit": "1baaf057512e83877dbc973fea4ea0102107698b",
-            "merge": "88a880e7 d86ae9f7",
+            "commit": "be06c52115d6858770c5ba3dca496b2d92e12ebb",
+            "merge": "b4c8c387 684d3e8f",
             "author": "burble",
-            "date": "Sun, 16 Feb 2020 21:24:27 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1baaf057512e83877dbc973fea4ea0102107698b",
-            "generated": "2020-02-17T13:44:17+00:00",
-            "valid": "2020-02-20T13:44:17+00:00"
+            "date": "Mon, 17 Feb 2020 16:14:24 +0000",
+            "subject": "Merge branch 'mqlocal' of metaqwe/registry2 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/be06c52115d6858770c5ba3dca496b2d92e12ebb",
+            "generated": "2020-02-17T18:20:09+00:00",
+            "valid": "2020-02-20T18:20:09+00:00"
         },
-        "counts": 1962,
-        "generated": 1581947057,
-        "valid": 1582206257
+        "counts": 1965,
+        "generated": 1581963609,
+        "valid": 1582222809
     }
 }
