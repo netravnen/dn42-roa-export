@@ -3396,6 +3396,13 @@
             "mnt-by": "NFEED-MNT"
         },
         {
+            "asn": "AS4242420182",
+            "prefix": "fd69:5611:6790::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "Q1X-MNT"
+        },
+        {
             "asn": "AS4242420213",
             "prefix": "fd6a:16b9:a0b2::/48",
             "maxLength": 48,
@@ -3746,6 +3753,13 @@
             "mnt-by": "KLARA-MNT"
         },
         {
+            "asn": "AS4242420823",
+            "prefix": "fd86:4169:1552::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "N4N-MNT"
+        },
+        {
             "asn": "AS65037",
             "prefix": "fd86:b4dc:4b1e::/48",
             "maxLength": 64,
@@ -3961,6 +3975,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242420181",
+            "prefix": "fd9a:5c:48::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MGL-MNT"
         },
         {
             "asn": "AS4242420248",
@@ -9920,6 +9941,13 @@
             "mnt-by": "CYBERTINUS-MNT"
         },
         {
+            "asn": "AS4242420181",
+            "prefix": "172.20.48.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MGL-MNT"
+        },
+        {
             "asn": "AS4242423774",
             "prefix": "172.20.48.192/27",
             "maxLength": 28,
@@ -13709,17 +13737,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "23382d7160fb8236849ad82db08f04b60e236fa4",
-            "merge": "5a3e361d 13d39841",
+            "commit": "1baaf057512e83877dbc973fea4ea0102107698b",
+            "merge": "88a880e7 d86ae9f7",
             "author": "burble",
-            "date": "Sat, 15 Feb 2020 10:26:45 +0000",
-            "subject": "Merge branch 'master' of Napsterbater/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/23382d7160fb8236849ad82db08f04b60e236fa4",
-            "generated": "2020-02-16T18:19:41+00:00",
-            "valid": "2020-02-19T18:19:41+00:00"
+            "date": "Sun, 16 Feb 2020 21:24:27 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1baaf057512e83877dbc973fea4ea0102107698b",
+            "generated": "2020-02-17T00:19:47+00:00",
+            "valid": "2020-02-20T00:19:47+00:00"
         },
-        "counts": 1958,
-        "generated": 1581877181,
-        "valid": 1582136381
+        "counts": 1962,
+        "generated": 1581898787,
+        "valid": 1582157987
     }
 }
