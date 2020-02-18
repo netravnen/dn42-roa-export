@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit be06c52115d6858770c5ba3dca496b2d92e12ebb
-Merge: b4c8c387 684d3e8f
+commit d9dc38747ef0de8d1665974d17128b32d53df4b4
+Merge: be06c521 bf0bc930
 Author: burble
-Date:   2020-02-17 16:14:24 +0000
+Date:   2020-02-17 20:51:06 +0000
 
-    Merge branch 'mqlocal' of metaqwe/registry2 into master
+    Merge branch 'master' of billchenchina/registry into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  853
 - ROAs total: 1965
 
-[0]: https://git.dn42.us/dn42/registry/commit/be06c52115d6858770c5ba3dca496b2d92e12ebb
+[0]: https://git.dn42.us/dn42/registry/commit/d9dc38747ef0de8d1665974d17128b32d53df4b4
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
