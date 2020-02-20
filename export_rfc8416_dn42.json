@@ -260,6 +260,13 @@
                 "mnt-by": "SNEK-MNT"
             },
             {
+                "asn": 4242420899,
+                "prefix": "fd00:bad:f00d::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LOSER-MNT"
+            },
+            {
                 "asn": 4242423420,
                 "prefix": "fd00:cafe:1337::/48",
                 "maxPrefixLength": 64,
@@ -2946,6 +2953,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420183,
+                "prefix": "fd50:7506::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GCT-MNT"
             },
             {
                 "asn": 64654,
@@ -10263,6 +10277,13 @@
                 "mnt-by": "TAILSNET-MNT"
             },
             {
+                "asn": 4242420182,
+                "prefix": "172.20.59.96/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "Q1X-MNT"
+            },
+            {
                 "asn": 4242421506,
                 "prefix": "172.20.6.0/28",
                 "maxPrefixLength": 28,
@@ -13794,17 +13815,17 @@
     },
     "metadata": {
         "human": {
-            "commit": "d8f99046c1281ac8825abbb141db0c6fe9cd2067",
-            "merge": "6015d4cf 2f4c1ab0",
+            "commit": "2fa0fc3cac26e48e2aa564ceac15653929429d13",
+            "merge": "60a8ec92 f148cb01",
             "author": "burble",
-            "date": "Wed, 19 Feb 2020 20:28:42 +0000",
-            "subject": "Merge branch 'master' of creatix/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d8f99046c1281ac8825abbb141db0c6fe9cd2067",
-            "generated": "2020-02-20T06:19:40+00:00",
-            "valid": "2020-02-23T06:19:40+00:00"
+            "date": "Thu, 20 Feb 2020 11:28:52 +0000",
+            "subject": "Merge branch 'master' of loser/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2fa0fc3cac26e48e2aa564ceac15653929429d13",
+            "generated": "2020-02-20T12:19:53+00:00",
+            "valid": "2020-02-23T12:19:53+00:00"
         },
-        "counts": 1969,
-        "generated": 1582179580,
-        "valid": 1582438780
+        "counts": 1972,
+        "generated": 1582201193,
+        "valid": 1582460393
     }
 }
