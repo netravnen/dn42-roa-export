@@ -4740,6 +4740,13 @@
             "mnt-by": "JOSENG-MNT"
         },
         {
+            "asn": "AS4242423375",
+            "prefix": "fdc3:64db:4689::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CREATIX-MNT"
+        },
+        {
             "asn": "AS64874",
             "prefix": "fdc4:d762:2143::/48",
             "maxLength": 64,
@@ -8149,6 +8156,13 @@
             "mnt-by": "TECH9-MNT"
         },
         {
+            "asn": "AS4242420254",
+            "prefix": "172.20.162.8/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "GTDB-MNT"
+        },
+        {
             "asn": "AS4242423645",
             "prefix": "172.20.163.112/28",
             "maxLength": 28,
@@ -8723,6 +8737,13 @@
             "mnt-by": "LANAO-MNT"
         },
         {
+            "asn": "AS4242423375",
+            "prefix": "172.20.19.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CREATIX-MNT"
+        },
+        {
             "asn": "AS4242420207",
             "prefix": "172.20.19.64/27",
             "maxLength": 28,
@@ -9141,6 +9162,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "X84-MNT"
+        },
+        {
+            "asn": "AS4242421070",
+            "prefix": "172.20.224.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TRVR-MNT"
         },
         {
             "asn": "AS4242423965",
@@ -13758,17 +13786,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d9dc38747ef0de8d1665974d17128b32d53df4b4",
-            "merge": "be06c521 bf0bc930",
+            "commit": "d8f99046c1281ac8825abbb141db0c6fe9cd2067",
+            "merge": "6015d4cf 2f4c1ab0",
             "author": "burble",
-            "date": "Mon, 17 Feb 2020 20:51:06 +0000",
-            "subject": "Merge branch 'master' of billchenchina/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d9dc38747ef0de8d1665974d17128b32d53df4b4",
-            "generated": "2020-02-19T18:19:44+00:00",
-            "valid": "2020-02-22T18:19:44+00:00"
+            "date": "Wed, 19 Feb 2020 20:28:42 +0000",
+            "subject": "Merge branch 'master' of creatix/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d8f99046c1281ac8825abbb141db0c6fe9cd2067",
+            "generated": "2020-02-20T00:19:52+00:00",
+            "valid": "2020-02-23T00:19:52+00:00"
         },
-        "counts": 1965,
-        "generated": 1582136384,
-        "valid": 1582395584
+        "counts": 1969,
+        "generated": 1582157992,
+        "valid": 1582417192
     }
 }
