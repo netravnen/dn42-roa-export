@@ -5825,6 +5825,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423112",
+            "prefix": "fdfc:bdcd:a880::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NIRN-MNT"
+        },
+        {
             "asn": "AS4242421239",
             "prefix": "fdfd:03ba:342d::/48",
             "maxLength": 48,
@@ -12650,6 +12657,13 @@
             "mnt-by": "NETCLIPSE-MNT"
         },
         {
+            "asn": "AS4242423112",
+            "prefix": "172.23.119.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NIRN-MNT"
+        },
+        {
             "asn": "AS4242422901",
             "prefix": "172.23.119.160/28",
             "maxLength": 28,
@@ -13807,17 +13821,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "2fa0fc3cac26e48e2aa564ceac15653929429d13",
-            "merge": "60a8ec92 f148cb01",
+            "commit": "ebe6fbaca13ece7db967e63fcc28b3ba47d36eb6",
+            "merge": "2fa0fc3c c6a467ef",
             "author": "burble",
-            "date": "Thu, 20 Feb 2020 11:28:52 +0000",
-            "subject": "Merge branch 'master' of loser/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2fa0fc3cac26e48e2aa564ceac15653929429d13",
-            "generated": "2020-02-20T13:44:17+00:00",
-            "valid": "2020-02-23T13:44:17+00:00"
+            "date": "Thu, 20 Feb 2020 14:01:15 +0000",
+            "subject": "Merge branch 'master' of nirn/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ebe6fbaca13ece7db967e63fcc28b3ba47d36eb6",
+            "generated": "2020-02-20T18:19:51+00:00",
+            "valid": "2020-02-23T18:19:51+00:00"
         },
-        "counts": 1972,
-        "generated": 1582206257,
-        "valid": 1582465457
+        "counts": 1974,
+        "generated": 1582222791,
+        "valid": 1582481991
     }
 }

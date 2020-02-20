@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 2fa0fc3cac26e48e2aa564ceac15653929429d13
-Merge: 60a8ec92 f148cb01
+commit ebe6fbaca13ece7db967e63fcc28b3ba47d36eb6
+Merge: 2fa0fc3c c6a467ef
 Author: burble
-Date:   2020-02-20 11:28:52 +0000
+Date:   2020-02-20 14:01:15 +0000
 
-    Merge branch 'master' of loser/registry into master
+    Merge branch 'master' of nirn/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1116
-- ROAs IPv6:  856
-- ROAs total: 1972
+- ROAs IPv4:  1117
+- ROAs IPv6:  857
+- ROAs total: 1974
 
-[0]: https://git.dn42.us/dn42/registry/commit/2fa0fc3cac26e48e2aa564ceac15653929429d13
+[0]: https://git.dn42.us/dn42/registry/commit/ebe6fbaca13ece7db967e63fcc28b3ba47d36eb6
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
