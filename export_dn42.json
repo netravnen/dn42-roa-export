@@ -13827,11 +13827,11 @@
             "date": "Thu, 20 Feb 2020 14:01:15 +0000",
             "subject": "Merge branch 'master' of nirn/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/ebe6fbaca13ece7db967e63fcc28b3ba47d36eb6",
-            "generated": "2020-02-22T13:44:17+00:00",
-            "valid": "2020-02-25T13:44:17+00:00"
+            "generated": "2020-02-22T18:19:42+00:00",
+            "valid": "2020-02-25T18:19:42+00:00"
         },
         "counts": 1974,
-        "generated": 1582379057,
-        "valid": 1582638257
+        "generated": 1582395582,
+        "valid": 1582654782
     }
 }
