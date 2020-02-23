@@ -5552,6 +5552,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420817",
+            "prefix": "fdef:1926:817::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "CIEL-MNT"
+        },
+        {
             "asn": "AS4242423980",
             "prefix": "fdef:27db:3be::/48",
             "maxLength": 64,
@@ -13525,6 +13532,13 @@
             "mnt-by": "4A6F-MNT"
         },
         {
+            "asn": "AS4242420817",
+            "prefix": "172.23.3.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CIEL-MNT"
+        },
+        {
             "asn": "AS4242420803",
             "prefix": "172.23.33.0/26",
             "maxLength": 28,
@@ -13821,17 +13835,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0b8c7625ab457a19d621b248a4beb4e98f6c1f4a",
-            "merge": "ebe6fbac 1c28294e",
+            "commit": "9c0bb186ea79263188c3bad0cff9193847d7afe7",
+            "merge": "806c633d a51ec0cf",
             "author": "burble",
-            "date": "Sat, 22 Feb 2020 21:19:15 +0000",
-            "subject": "Merge branch 'master' of waxman/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0b8c7625ab457a19d621b248a4beb4e98f6c1f4a",
-            "generated": "2020-02-23T13:44:33+00:00",
-            "valid": "2020-02-26T13:44:33+00:00"
+            "date": "Sun, 23 Feb 2020 17:36:34 +0000",
+            "subject": "Merge branch 'transit' of Tchekda/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9c0bb186ea79263188c3bad0cff9193847d7afe7",
+            "generated": "2020-02-23T18:20:54+00:00",
+            "valid": "2020-02-26T18:20:54+00:00"
         },
-        "counts": 1974,
-        "generated": 1582465473,
-        "valid": 1582724673
+        "counts": 1976,
+        "generated": 1582482054,
+        "valid": 1582741254
     }
 }
