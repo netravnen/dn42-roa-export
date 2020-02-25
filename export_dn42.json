@@ -13835,17 +13835,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9c0bb186ea79263188c3bad0cff9193847d7afe7",
-            "merge": "806c633d a51ec0cf",
+            "commit": "e853cbafa0d0822dab8828262db7e1249078bca2",
+            "merge": "9c0bb186 fdc47b78",
             "author": "burble",
-            "date": "Sun, 23 Feb 2020 17:36:34 +0000",
-            "subject": "Merge branch 'transit' of Tchekda/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9c0bb186ea79263188c3bad0cff9193847d7afe7",
-            "generated": "2020-02-24T18:21:12+00:00",
-            "valid": "2020-02-27T18:21:12+00:00"
+            "date": "Mon, 24 Feb 2020 21:37:54 +0000",
+            "subject": "Merge branch 'update-rpsl' of jrb0001/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e853cbafa0d0822dab8828262db7e1249078bca2",
+            "generated": "2020-02-25T00:20:12+00:00",
+            "valid": "2020-02-28T00:20:12+00:00"
         },
         "counts": 1976,
-        "generated": 1582568472,
-        "valid": 1582827672
+        "generated": 1582590012,
+        "valid": 1582849212
     }
 }

@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 9c0bb186ea79263188c3bad0cff9193847d7afe7
-Merge: 806c633d a51ec0cf
+commit e853cbafa0d0822dab8828262db7e1249078bca2
+Merge: 9c0bb186 fdc47b78
 Author: burble
-Date:   2020-02-23 17:36:34 +0000
+Date:   2020-02-24 21:37:54 +0000
 
-    Merge branch 'transit' of Tchekda/registry into master
+    Merge branch 'update-rpsl' of jrb0001/registry into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  858
 - ROAs total: 1976
 
-[0]: https://git.dn42.us/dn42/registry/commit/9c0bb186ea79263188c3bad0cff9193847d7afe7
+[0]: https://git.dn42.us/dn42/registry/commit/e853cbafa0d0822dab8828262db7e1249078bca2
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
