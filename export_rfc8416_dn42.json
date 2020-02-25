@@ -13849,11 +13849,11 @@
             "date": "Mon, 24 Feb 2020 21:37:54 +0000",
             "subject": "Merge branch 'update-rpsl' of jrb0001/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/e853cbafa0d0822dab8828262db7e1249078bca2",
-            "generated": "2020-02-25T00:20:13+00:00",
-            "valid": "2020-02-28T00:20:13+00:00"
+            "generated": "2020-02-25T01:46:04+00:00",
+            "valid": "2020-02-28T01:46:04+00:00"
         },
         "counts": 1976,
-        "generated": 1582590013,
-        "valid": 1582849213
+        "generated": 1582595164,
+        "valid": 1582854364
     }
 }
