@@ -484,6 +484,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS205532",
+            "prefix": "fd0b:4340:a0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DREAMRY-MNT"
+        },
+        {
             "asn": "AS4242421275",
             "prefix": "fd0c:70b0:1c7d::/48",
             "maxLength": 48,
@@ -13533,7 +13540,7 @@
         },
         {
             "asn": "AS4242420817",
-            "prefix": "172.23.3.0/26",
+            "prefix": "172.23.3.0/25",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "CIEL-MNT"
@@ -13835,17 +13842,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "e853cbafa0d0822dab8828262db7e1249078bca2",
-            "merge": "9c0bb186 fdc47b78",
+            "commit": "02fd82a8b70fe3f93680b889d2d62d72d6cbd534",
+            "merge": "f576f59e 1e69975f",
             "author": "burble",
-            "date": "Mon, 24 Feb 2020 21:37:54 +0000",
-            "subject": "Merge branch 'update-rpsl' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e853cbafa0d0822dab8828262db7e1249078bca2",
-            "generated": "2020-02-25T06:20:52+00:00",
-            "valid": "2020-02-28T06:20:52+00:00"
+            "date": "Tue, 25 Feb 2020 11:09:05 +0000",
+            "subject": "Merge branch 'master' of Wencey/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/02fd82a8b70fe3f93680b889d2d62d72d6cbd534",
+            "generated": "2020-02-25T12:21:13+00:00",
+            "valid": "2020-02-28T12:21:13+00:00"
         },
-        "counts": 1976,
-        "generated": 1582611652,
-        "valid": 1582870852
+        "counts": 1977,
+        "generated": 1582633273,
+        "valid": 1582892473
     }
 }

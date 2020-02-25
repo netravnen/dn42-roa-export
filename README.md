@@ -19,12 +19,12 @@ Note the gortr file is DateTime stamped only, it is not signed with any certific
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e853cbafa0d0822dab8828262db7e1249078bca2
-Merge: 9c0bb186 fdc47b78
+commit 02fd82a8b70fe3f93680b889d2d62d72d6cbd534
+Merge: f576f59e 1e69975f
 Author: burble
-Date:   2020-02-24 21:37:54 +0000
+Date:   2020-02-25 11:09:05 +0000
 
-    Merge branch 'update-rpsl' of jrb0001/registry into master
+    Merge branch 'master' of Wencey/registry into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1118
-- ROAs IPv6:  858
-- ROAs total: 1976
+- ROAs IPv6:  859
+- ROAs total: 1977
 
-[0]: https://git.dn42.us/dn42/registry/commit/e853cbafa0d0822dab8828262db7e1249078bca2
+[0]: https://git.dn42.us/dn42/registry/commit/02fd82a8b70fe3f93680b889d2d62d72d6cbd534
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
