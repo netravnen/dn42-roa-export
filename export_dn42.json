@@ -3795,6 +3795,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420674",
+            "prefix": "fd86:bc21:638a::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "VULKAN-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd88:2e46:4b1c:5988::/64",
             "maxLength": 64,
@@ -11376,6 +11383,13 @@
             "mnt-by": "GATUNO-MNT"
         },
         {
+            "asn": "AS4242420674",
+            "prefix": "172.22.122.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VULKAN-MNT"
+        },
+        {
             "asn": "AS4242422024",
             "prefix": "172.22.124.0/28",
             "maxLength": 28,
@@ -13842,17 +13856,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "02fd82a8b70fe3f93680b889d2d62d72d6cbd534",
-            "merge": "f576f59e 1e69975f",
+            "commit": "4a23cfa442317a50ff2d69427cb57ce5c5c0edb9",
+            "merge": "eecb7552 fc2be1f0",
             "author": "burble",
-            "date": "Tue, 25 Feb 2020 11:09:05 +0000",
-            "subject": "Merge branch 'master' of Wencey/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/02fd82a8b70fe3f93680b889d2d62d72d6cbd534",
-            "generated": "2020-02-26T18:19:51+00:00",
-            "valid": "2020-02-29T18:19:51+00:00"
+            "date": "Wed, 26 Feb 2020 19:10:20 +0000",
+            "subject": "Merge branch 'master' of grandejosh/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4a23cfa442317a50ff2d69427cb57ce5c5c0edb9",
+            "generated": "2020-02-27T00:19:50+00:00",
+            "valid": "2020-03-01T00:19:50+00:00"
         },
-        "counts": 1977,
-        "generated": 1582741191,
-        "valid": 1583000391
+        "counts": 1979,
+        "generated": 1582762790,
+        "valid": 1583021990
     }
 }
