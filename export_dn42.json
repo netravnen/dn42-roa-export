@@ -5042,7 +5042,7 @@
         },
         {
             "asn": "AS4242423914",
-            "prefix": "fdcf:8538:9ad5:3a5f::/64",
+            "prefix": "fdcf:8538:9ad5::/48",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "KIOUBIT-MNT"
@@ -5851,6 +5851,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "NIRN-MNT"
+        },
+        {
+            "asn": "AS0",
+            "prefix": "fdfc:e23f:fb45:3234::/64",
+            "maxLength": 128,
+            "ta": "DN42",
+            "mnt-by": "KIOUBIT-MNT"
         },
         {
             "asn": "AS4242421239",
@@ -13856,17 +13863,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "4a23cfa442317a50ff2d69427cb57ce5c5c0edb9",
-            "merge": "eecb7552 fc2be1f0",
+            "commit": "78ee728553eec4b8bc50d1ba19468b738aca760e",
+            "merge": "09606e25 ee8992cf",
             "author": "burble",
-            "date": "Wed, 26 Feb 2020 19:10:20 +0000",
-            "subject": "Merge branch 'master' of grandejosh/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4a23cfa442317a50ff2d69427cb57ce5c5c0edb9",
-            "generated": "2020-02-27T13:48:18+00:00",
-            "valid": "2020-03-01T13:48:18+00:00"
+            "date": "Thu, 27 Feb 2020 17:05:22 +0000",
+            "subject": "Merge branch 'master' of Kioubit/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/78ee728553eec4b8bc50d1ba19468b738aca760e",
+            "generated": "2020-02-27T20:21:34+00:00",
+            "valid": "2020-03-01T20:21:34+00:00"
         },
-        "counts": 1979,
-        "generated": 1582811298,
-        "valid": 1583070498
+        "counts": 1980,
+        "generated": 1582834894,
+        "valid": 1583094094
     }
 }

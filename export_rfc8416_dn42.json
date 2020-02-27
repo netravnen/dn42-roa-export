@@ -5049,7 +5049,7 @@
             },
             {
                 "asn": 4242423914,
-                "prefix": "fdcf:8538:9ad5:3a5f::/64",
+                "prefix": "fdcf:8538:9ad5::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "KIOUBIT-MNT"
@@ -5858,6 +5858,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "NIRN-MNT"
+            },
+            {
+                "asn": 0,
+                "prefix": "fdfc:e23f:fb45:3234::/64",
+                "maxPrefixLength": 128,
+                "source": "DN42",
+                "mnt-by": "KIOUBIT-MNT"
             },
             {
                 "asn": 4242421239,
