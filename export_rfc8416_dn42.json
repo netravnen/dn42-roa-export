@@ -3669,6 +3669,13 @@
                 "mnt-by": "CSG-MNT"
             },
             {
+                "asn": 4242421289,
+                "prefix": "fd7c:3727:9426::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HFULLER-MNT"
+            },
+            {
                 "asn": 4242421256,
                 "prefix": "fd7c:9293:9293::/48",
                 "maxPrefixLength": 48,

@@ -3662,6 +3662,13 @@
             "mnt-by": "CSG-MNT"
         },
         {
+            "asn": "AS4242421289",
+            "prefix": "fd7c:3727:9426::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HFULLER-MNT"
+        },
+        {
             "asn": "AS4242421256",
             "prefix": "fd7c:9293:9293::/48",
             "maxLength": 48,
@@ -13863,17 +13870,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "78ee728553eec4b8bc50d1ba19468b738aca760e",
-            "merge": "09606e25 ee8992cf",
+            "commit": "f267c2e840e63472c87fd8984237d0fff62f3706",
+            "merge": "03b86414 59e38748",
             "author": "burble",
-            "date": "Thu, 27 Feb 2020 17:05:22 +0000",
-            "subject": "Merge branch 'master' of Kioubit/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/78ee728553eec4b8bc50d1ba19468b738aca760e",
-            "generated": "2020-02-28T13:44:38+00:00",
-            "valid": "2020-03-02T13:44:38+00:00"
+            "date": "Fri, 28 Feb 2020 14:20:44 +0000",
+            "subject": "Merge branch 'hfuller' of hfuller/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f267c2e840e63472c87fd8984237d0fff62f3706",
+            "generated": "2020-02-28T20:20:44+00:00",
+            "valid": "2020-03-02T20:20:44+00:00"
         },
-        "counts": 1980,
-        "generated": 1582897478,
-        "valid": 1583156678
+        "counts": 1981,
+        "generated": 1582921244,
+        "valid": 1583180444
     }
 }
