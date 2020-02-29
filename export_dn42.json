@@ -13876,11 +13876,11 @@
             "date": "Fri, 28 Feb 2020 14:20:44 +0000",
             "subject": "Merge branch 'hfuller' of hfuller/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/f267c2e840e63472c87fd8984237d0fff62f3706",
-            "generated": "2020-02-29T00:19:42+00:00",
-            "valid": "2020-03-03T00:19:42+00:00"
+            "generated": "2020-02-29T01:44:15+00:00",
+            "valid": "2020-03-03T01:44:15+00:00"
         },
         "counts": 1981,
-        "generated": 1582935582,
-        "valid": 1583194782
+        "generated": 1582940655,
+        "valid": 1583199855
     }
 }
