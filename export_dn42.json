@@ -2857,6 +2857,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242422855",
+            "prefix": "fd44:ef30:015f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NICHI-MNT"
+        },
+        {
             "asn": "AS4242423620",
             "prefix": "fd46:972a:903b::/48",
             "maxLength": 64,
@@ -13870,17 +13877,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "f267c2e840e63472c87fd8984237d0fff62f3706",
-            "merge": "03b86414 59e38748",
+            "commit": "40d4a39a3c37550d8d940cb15d0c01ee68556574",
+            "merge": "9111be7b b2d03fea",
             "author": "burble",
-            "date": "Fri, 28 Feb 2020 14:20:44 +0000",
-            "subject": "Merge branch 'hfuller' of hfuller/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f267c2e840e63472c87fd8984237d0fff62f3706",
-            "generated": "2020-02-29T01:44:15+00:00",
-            "valid": "2020-03-03T01:44:15+00:00"
+            "date": "Sat, 29 Feb 2020 09:33:23 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/40d4a39a3c37550d8d940cb15d0c01ee68556574",
+            "generated": "2020-02-29T10:20:20+00:00",
+            "valid": "2020-03-03T10:20:20+00:00"
         },
-        "counts": 1981,
-        "generated": 1582940655,
-        "valid": 1583199855
+        "counts": 1982,
+        "generated": 1582971620,
+        "valid": 1583230820
     }
 }
