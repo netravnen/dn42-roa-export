@@ -3991,6 +3991,13 @@
                 "mnt-by": "AGH-MNT"
             },
             {
+                "asn": 4242421916,
+                "prefix": "fd95:bfa8:a5e2:2f28::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "CAXAP-MNT"
+            },
+            {
                 "asn": 4242422815,
                 "prefix": "fd96:1337:1337::/48",
                 "maxPrefixLength": 64,
@@ -7580,6 +7587,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FANTASQUEX-MNT"
+            },
+            {
+                "asn": 4242421916,
+                "prefix": "172.20.132.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CAXAP-MNT"
             },
             {
                 "asn": 4242423816,
