@@ -13897,11 +13897,11 @@
             "date": "Mon, 2 Mar 2020 19:59:39 +0000",
             "subject": "Merge branch 'master' of yukari/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/f36021373e837d4b1271b1838a7cc0eddd394cea",
-            "generated": "2020-03-02T20:19:52+00:00",
-            "valid": "2020-03-05T20:19:52+00:00"
+            "generated": "2020-03-03T00:19:40+00:00",
+            "valid": "2020-03-06T00:19:40+00:00"
         },
         "counts": 1984,
-        "generated": 1583180392,
-        "valid": 1583439592
+        "generated": 1583194780,
+        "valid": 1583453980
     }
 }
