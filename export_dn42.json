@@ -13891,17 +13891,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d92a31e69a40dadd6d36218f1aaed8f5f5bfeb5f",
-            "merge": "8e2c5ad6 ef371ab7",
+            "commit": "41b1816268f7f5c31653cf9a7a743b815d7f7da7",
+            "merge": "d92a31e6 4d9a7438",
             "author": "burble",
-            "date": "Wed, 4 Mar 2020 09:16:25 +0000",
-            "subject": "Merge branch 'master' of outloudvi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d92a31e69a40dadd6d36218f1aaed8f5f5bfeb5f",
-            "generated": "2020-03-06T10:20:09+00:00",
-            "valid": "2020-03-09T10:20:09+00:00"
+            "date": "Fri, 6 Mar 2020 17:01:27 +0000",
+            "subject": "Merge branch 'update_tech9_asn_remarks' of chrismoos/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/41b1816268f7f5c31653cf9a7a743b815d7f7da7",
+            "generated": "2020-03-06T20:19:52+00:00",
+            "valid": "2020-03-09T20:19:52+00:00"
         },
         "counts": 1984,
-        "generated": 1583490009,
-        "valid": 1583749209
+        "generated": 1583525992,
+        "valid": 1583785192
     }
 }
