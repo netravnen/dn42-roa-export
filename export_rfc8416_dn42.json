@@ -680,6 +680,13 @@
                 "mnt-by": "DELTAMAN-MNT"
             },
             {
+                "asn": 4242423884,
+                "prefix": "fd1b:7fcf:884f::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "AFX-MNT"
+            },
+            {
                 "asn": 4242423974,
                 "prefix": "fd1b:9b7e:7a18::/48",
                 "maxPrefixLength": 64,
@@ -7155,6 +7162,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 65043,
+                "prefix": "10.60.128.0/18",
+                "maxPrefixLength": 28,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 65041,
                 "prefix": "10.61.0.0/16",
                 "maxPrefixLength": 28,
@@ -7269,6 +7283,13 @@
             {
                 "asn": 65037,
                 "prefix": "10.86.0.0/15",
+                "maxPrefixLength": 28,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64902,
+                "prefix": "10.88.0.0/16",
                 "maxPrefixLength": 28,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
@@ -8784,6 +8805,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "SANTOST12-MNT"
+            },
+            {
+                "asn": 4242423884,
+                "prefix": "172.20.184.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "AFX-MNT"
             },
             {
                 "asn": 4242421588,

@@ -673,6 +673,13 @@
             "mnt-by": "DELTAMAN-MNT"
         },
         {
+            "asn": "AS4242423884",
+            "prefix": "fd1b:7fcf:884f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "AFX-MNT"
+        },
+        {
             "asn": "AS4242423974",
             "prefix": "fd1b:9b7e:7a18::/48",
             "maxLength": 64,
@@ -7148,6 +7155,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS65043",
+            "prefix": "10.60.128.0/18",
+            "maxLength": 28,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS65041",
             "prefix": "10.61.0.0/16",
             "maxLength": 28,
@@ -7262,6 +7276,13 @@
         {
             "asn": "AS65037",
             "prefix": "10.86.0.0/15",
+            "maxLength": 28,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS64902",
+            "prefix": "10.88.0.0/16",
             "maxLength": 28,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
@@ -8777,6 +8798,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "SANTOST12-MNT"
+        },
+        {
+            "asn": "AS4242423884",
+            "prefix": "172.20.184.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AFX-MNT"
         },
         {
             "asn": "AS4242421588",
@@ -13891,17 +13919,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "41b1816268f7f5c31653cf9a7a743b815d7f7da7",
-            "merge": "d92a31e6 4d9a7438",
+            "commit": "9f8d826c0b31150b0808902fe3d9e07ee57f73d3",
+            "merge": "834e7bcb d90786eb",
             "author": "burble",
-            "date": "Fri, 6 Mar 2020 17:01:27 +0000",
-            "subject": "Merge branch 'update_tech9_asn_remarks' of chrismoos/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/41b1816268f7f5c31653cf9a7a743b815d7f7da7",
-            "generated": "2020-03-07T00:19:57+00:00",
-            "valid": "2020-03-10T00:19:57+00:00"
+            "date": "Sat, 7 Mar 2020 09:50:32 +0000",
+            "subject": "Merge branch 'master' of afx/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9f8d826c0b31150b0808902fe3d9e07ee57f73d3",
+            "generated": "2020-03-07T10:20:34+00:00",
+            "valid": "2020-03-10T10:20:34+00:00"
         },
-        "counts": 1984,
-        "generated": 1583540397,
-        "valid": 1583799597
+        "counts": 1988,
+        "generated": 1583576434,
+        "valid": 1583835634
     }
 }
