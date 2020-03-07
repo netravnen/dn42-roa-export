@@ -13925,11 +13925,11 @@
             "date": "Sat, 7 Mar 2020 09:50:32 +0000",
             "subject": "Merge branch 'master' of afx/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/9f8d826c0b31150b0808902fe3d9e07ee57f73d3",
-            "generated": "2020-03-07T10:20:34+00:00",
-            "valid": "2020-03-10T10:20:34+00:00"
+            "generated": "2020-03-07T20:20:00+00:00",
+            "valid": "2020-03-10T20:20:00+00:00"
         },
         "counts": 1988,
-        "generated": 1583576434,
-        "valid": 1583835634
+        "generated": 1583612400,
+        "valid": 1583871600
     }
 }
