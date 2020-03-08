@@ -38,9 +38,9 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1122
+- ROAs IPv4:  1123
 - ROAs IPv6:  865
-- ROAs total: 1987
+- ROAs total: 1988
 
 [0]: https://git.dn42.us/dn42/registry/commit/0ecf7432309f1988dec2459449ee29af8fe51e7a
 [1]: https://git.dn42.us/dn42/registry

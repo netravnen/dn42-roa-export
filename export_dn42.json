@@ -6644,6 +6644,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS65051",
+            "prefix": "10.203.0.0/16",
+            "maxLength": 28,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64857",
             "prefix": "10.204.0.0/16",
             "maxLength": 28,
@@ -13918,11 +13925,11 @@
             "date": "Sun, 8 Mar 2020 09:28:28 +0000",
             "subject": "Merge branch 'master' of irl/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/0ecf7432309f1988dec2459449ee29af8fe51e7a",
-            "generated": "2020-03-08T10:20:46+00:00",
-            "valid": "2020-03-11T10:20:46+00:00"
+            "generated": "2020-03-08T20:20:15+00:00",
+            "valid": "2020-03-11T20:20:15+00:00"
         },
-        "counts": 1987,
-        "generated": 1583662846,
-        "valid": 1583922046
+        "counts": 1988,
+        "generated": 1583698815,
+        "valid": 1583958015
     }
 }
