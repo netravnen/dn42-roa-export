@@ -8044,11 +8044,11 @@
                 "mnt-by": "TORFISH-MNT"
             },
             {
-                "asn": 4242421092,
+                "asn": 4242421096,
                 "prefix": "172.20.152.0/23",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "ERG-MNT"
+                "mnt-by": "ANA-MNT"
             },
             {
                 "asn": 4242420418,
@@ -9162,13 +9162,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ANA-MNT"
-            },
-            {
-                "asn": 4242421096,
-                "prefix": "172.20.204.0/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "IRL-MNT"
             },
             {
                 "asn": 4242421049,

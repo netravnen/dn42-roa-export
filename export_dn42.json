@@ -8037,11 +8037,11 @@
             "mnt-by": "TORFISH-MNT"
         },
         {
-            "asn": "AS4242421092",
+            "asn": "AS4242421096",
             "prefix": "172.20.152.0/23",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "ERG-MNT"
+            "mnt-by": "ANA-MNT"
         },
         {
             "asn": "AS4242420418",
@@ -9155,13 +9155,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ANA-MNT"
-        },
-        {
-            "asn": "AS4242421096",
-            "prefix": "172.20.204.0/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "IRL-MNT"
         },
         {
             "asn": "AS4242421049",
@@ -13919,17 +13912,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9f8d826c0b31150b0808902fe3d9e07ee57f73d3",
-            "merge": "834e7bcb d90786eb",
+            "commit": "0ecf7432309f1988dec2459449ee29af8fe51e7a",
+            "merge": "9f8d826c cf5982dd",
             "author": "burble",
-            "date": "Sat, 7 Mar 2020 09:50:32 +0000",
-            "subject": "Merge branch 'master' of afx/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9f8d826c0b31150b0808902fe3d9e07ee57f73d3",
-            "generated": "2020-03-08T00:19:48+00:00",
-            "valid": "2020-03-11T00:19:48+00:00"
+            "date": "Sun, 8 Mar 2020 09:28:28 +0000",
+            "subject": "Merge branch 'master' of irl/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0ecf7432309f1988dec2459449ee29af8fe51e7a",
+            "generated": "2020-03-08T10:20:46+00:00",
+            "valid": "2020-03-11T10:20:46+00:00"
         },
-        "counts": 1988,
-        "generated": 1583626788,
-        "valid": 1583885988
+        "counts": 1987,
+        "generated": 1583662846,
+        "valid": 1583922046
     }
 }
