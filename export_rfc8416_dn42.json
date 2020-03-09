@@ -2942,6 +2942,41 @@
             },
             {
                 "asn": 64899,
+                "prefix": "fd4e:f2d7:88d2:fff8::/64",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64899,
+                "prefix": "fd4e:f2d7:88d2:fff9::/64",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64899,
+                "prefix": "fd4e:f2d7:88d2:fffa::/64",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64899,
+                "prefix": "fd4e:f2d7:88d2:fffb::/64",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64899,
+                "prefix": "fd4e:f2d7:88d2:fffc::/64",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64899,
                 "prefix": "fd4e:f2d7:88d2:fffd::/64",
                 "maxPrefixLength": 64,
                 "source": "ICVPN",

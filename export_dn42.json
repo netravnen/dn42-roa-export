@@ -2935,6 +2935,41 @@
         },
         {
             "asn": "AS64899",
+            "prefix": "fd4e:f2d7:88d2:fff8::/64",
+            "maxLength": 64,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS64899",
+            "prefix": "fd4e:f2d7:88d2:fff9::/64",
+            "maxLength": 64,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS64899",
+            "prefix": "fd4e:f2d7:88d2:fffa::/64",
+            "maxLength": 64,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS64899",
+            "prefix": "fd4e:f2d7:88d2:fffb::/64",
+            "maxLength": 64,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS64899",
+            "prefix": "fd4e:f2d7:88d2:fffc::/64",
+            "maxLength": 64,
+            "ta": "ICVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS64899",
             "prefix": "fd4e:f2d7:88d2:fffd::/64",
             "maxLength": 64,
             "ta": "ICVPN",
@@ -13925,11 +13960,11 @@
             "date": "Mon, 9 Mar 2020 09:44:36 +0000",
             "subject": "Merge branch 'master' of tris/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/9929438f9d6fbc0e44eadf4103a1e93dbcd01908",
-            "generated": "2020-03-09T10:25:25+00:00",
-            "valid": "2020-03-12T10:25:25+00:00"
+            "generated": "2020-03-09T20:23:08+00:00",
+            "valid": "2020-03-12T20:23:08+00:00"
         },
-        "counts": 1988,
-        "generated": 1583749525,
-        "valid": 1584008725
+        "counts": 1993,
+        "generated": 1583785388,
+        "valid": 1584044588
     }
 }
