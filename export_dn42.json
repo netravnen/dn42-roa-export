@@ -13919,17 +13919,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "395dbcc76b67d47fb66badd2d62867a0bdecb175",
-            "merge": "53bfcab4 486f4420",
+            "commit": "9929438f9d6fbc0e44eadf4103a1e93dbcd01908",
+            "merge": "395dbcc7 c22dadd0",
             "author": "burble",
-            "date": "Sun, 8 Mar 2020 21:24:57 +0000",
-            "subject": "Merge branch 'AS4242422237' of munsternet/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/395dbcc76b67d47fb66badd2d62867a0bdecb175",
-            "generated": "2020-03-09T00:20:33+00:00",
-            "valid": "2020-03-12T00:20:33+00:00"
+            "date": "Mon, 9 Mar 2020 09:44:36 +0000",
+            "subject": "Merge branch 'master' of tris/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9929438f9d6fbc0e44eadf4103a1e93dbcd01908",
+            "generated": "2020-03-09T10:25:25+00:00",
+            "valid": "2020-03-12T10:25:25+00:00"
         },
         "counts": 1988,
-        "generated": 1583713233,
-        "valid": 1583972433
+        "generated": 1583749525,
+        "valid": 1584008725
     }
 }
