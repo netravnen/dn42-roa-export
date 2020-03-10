@@ -13960,11 +13960,11 @@
             "date": "Mon, 9 Mar 2020 09:44:36 +0000",
             "subject": "Merge branch 'master' of tris/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/9929438f9d6fbc0e44eadf4103a1e93dbcd01908",
-            "generated": "2020-03-09T20:23:08+00:00",
-            "valid": "2020-03-12T20:23:08+00:00"
+            "generated": "2020-03-10T00:19:49+00:00",
+            "valid": "2020-03-13T00:19:49+00:00"
         },
         "counts": 1993,
-        "generated": 1583785388,
-        "valid": 1584044588
+        "generated": 1583799589,
+        "valid": 1584058789
     }
 }
