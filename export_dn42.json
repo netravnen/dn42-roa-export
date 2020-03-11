@@ -3158,6 +3158,13 @@
             "mnt-by": "CHENYAO2333-MNT"
         },
         {
+            "asn": "AS4242420828",
+            "prefix": "fd57:76a3:2ef4::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "R8-MNT"
+        },
+        {
             "asn": "AS4242420428",
             "prefix": "fd58:eb75:347d::/48",
             "maxLength": 64,
@@ -5389,6 +5396,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "GIN42-MNT"
+        },
+        {
+            "asn": "AS4242420185",
+            "prefix": "fde4:2355:54fe::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PESCO-MNT"
         },
         {
             "asn": "AS65527",
@@ -11026,6 +11040,13 @@
             "mnt-by": "RLKT-MNT"
         },
         {
+            "asn": "AS4242420828",
+            "prefix": "172.21.89.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "R8-MNT"
+        },
+        {
             "asn": "AS4242420723",
             "prefix": "172.21.89.96/27",
             "maxLength": 28,
@@ -11530,6 +11551,13 @@
             "mnt-by": "IUT-BEZIERS-MNT"
         },
         {
+            "asn": "AS4242420185",
+            "prefix": "172.22.128.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PESCO-MNT"
+        },
+        {
             "asn": "AS4242420553",
             "prefix": "172.22.128.64/28",
             "maxLength": 28,
@@ -11899,6 +11927,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "JACOBTHEELDEST-MNT"
+        },
+        {
+            "asn": "AS4242422904",
+            "prefix": "172.22.159.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DOXZ-MNT"
         },
         {
             "asn": "AS64616",
@@ -13954,17 +13989,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9929438f9d6fbc0e44eadf4103a1e93dbcd01908",
-            "merge": "395dbcc7 c22dadd0",
+            "commit": "b93cca18f34118c12732bbcdc975fe076f572c78",
+            "merge": "46bd7db3 8f04cd53",
             "author": "burble",
-            "date": "Mon, 9 Mar 2020 09:44:36 +0000",
-            "subject": "Merge branch 'master' of tris/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9929438f9d6fbc0e44eadf4103a1e93dbcd01908",
-            "generated": "2020-03-11T10:20:27+00:00",
-            "valid": "2020-03-14T10:20:27+00:00"
+            "date": "Wed, 11 Mar 2020 18:30:54 +0000",
+            "subject": "Merge branch 'master' of pesco/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b93cca18f34118c12732bbcdc975fe076f572c78",
+            "generated": "2020-03-11T20:20:36+00:00",
+            "valid": "2020-03-14T20:20:36+00:00"
         },
-        "counts": 1993,
-        "generated": 1583922027,
-        "valid": 1584181227
+        "counts": 1998,
+        "generated": 1583958036,
+        "valid": 1584217236
     }
 }

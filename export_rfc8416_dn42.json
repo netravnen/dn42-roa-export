@@ -3165,6 +3165,13 @@
                 "mnt-by": "CHENYAO2333-MNT"
             },
             {
+                "asn": 4242420828,
+                "prefix": "fd57:76a3:2ef4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "R8-MNT"
+            },
+            {
                 "asn": 4242420428,
                 "prefix": "fd58:eb75:347d::/48",
                 "maxPrefixLength": 64,
@@ -5396,6 +5403,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "GIN42-MNT"
+            },
+            {
+                "asn": 4242420185,
+                "prefix": "fde4:2355:54fe::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PESCO-MNT"
             },
             {
                 "asn": 65527,
@@ -11033,6 +11047,13 @@
                 "mnt-by": "RLKT-MNT"
             },
             {
+                "asn": 4242420828,
+                "prefix": "172.21.89.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "R8-MNT"
+            },
+            {
                 "asn": 4242420723,
                 "prefix": "172.21.89.96/27",
                 "maxPrefixLength": 28,
@@ -11537,6 +11558,13 @@
                 "mnt-by": "IUT-BEZIERS-MNT"
             },
             {
+                "asn": 4242420185,
+                "prefix": "172.22.128.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PESCO-MNT"
+            },
+            {
                 "asn": 4242420553,
                 "prefix": "172.22.128.64/28",
                 "maxPrefixLength": 28,
@@ -11906,6 +11934,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JACOBTHEELDEST-MNT"
+            },
+            {
+                "asn": 4242422904,
+                "prefix": "172.22.159.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DOXZ-MNT"
             },
             {
                 "asn": 64616,
