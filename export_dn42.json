@@ -13995,11 +13995,11 @@
             "date": "Wed, 11 Mar 2020 18:30:54 +0000",
             "subject": "Merge branch 'master' of pesco/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/b93cca18f34118c12732bbcdc975fe076f572c78",
-            "generated": "2020-03-11T20:20:36+00:00",
-            "valid": "2020-03-14T20:20:36+00:00"
+            "generated": "2020-03-12T00:19:48+00:00",
+            "valid": "2020-03-15T00:19:48+00:00"
         },
         "counts": 1998,
-        "generated": 1583958036,
-        "valid": 1584217236
+        "generated": 1583972388,
+        "valid": 1584231588
     }
 }
