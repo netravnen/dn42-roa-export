@@ -20,12 +20,12 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit b93cca18f34118c12732bbcdc975fe076f572c78
-Merge: 46bd7db3 8f04cd53
+commit 79caad779f02de1a62411a244427cc4d2f2d7694
+Merge: b2598056 21f968e4
 Author: burble
-Date:   2020-03-11 18:30:54 +0000
+Date:   2020-03-13 19:47:18 +0000
 
-    Merge branch 'master' of pesco/registry into master
+    Merge branch 'atr-reorg-2003' of AstroProfundis/registry into master
 ```
 
 ## crontab
@@ -38,11 +38,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1126
-- ROAs IPv6:  872
-- ROAs total: 1998
+- ROAs IPv4:  1124
+- ROAs IPv6:  879
+- ROAs total: 2003
 
-[0]: https://git.dn42.us/dn42/registry/commit/b93cca18f34118c12732bbcdc975fe076f572c78
+[0]: https://git.dn42.us/dn42/registry/commit/79caad779f02de1a62411a244427cc4d2f2d7694
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -183,6 +183,13 @@
                 "mnt-by": "BILL-MNT"
             },
             {
+                "asn": 4242422462,
+                "prefix": "fd00:67a2:7d02::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "FREACH-MNT"
+            },
+            {
                 "asn": 4242420211,
                 "prefix": "fd00:7882:4abb::/48",
                 "maxPrefixLength": 64,
@@ -477,8 +484,8 @@
                 "mnt-by": "ATR-MNT"
             },
             {
-                "asn": 4242421237,
-                "prefix": "fd0a:3599:3930::/48",
+                "asn": 4242421233,
+                "prefix": "fd0a:3599:3930::/58",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ATR-MNT"
@@ -657,6 +664,34 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TECHNOPOINT-MNT"
+            },
+            {
+                "asn": 4242421233,
+                "prefix": "fd18:18d9:adde:40::/58",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 4242421233,
+                "prefix": "fd18:18d9:adde::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 4242421233,
+                "prefix": "fd18:18d9:adde::/58",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 4242421233,
+                "prefix": "fd18:18d9:adde:f000::/52",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
             },
             {
                 "asn": 4242420321,
@@ -5139,6 +5174,20 @@
                 "mnt-by": "MCBONE-MNT"
             },
             {
+                "asn": 4242421233,
+                "prefix": "fdd1:1c64:66fd::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 4242421233,
+                "prefix": "fdd1:1c64:66fd::/58",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
+            },
+            {
                 "asn": 4242422053,
                 "prefix": "fdd1:957f:6ea9::/48",
                 "maxPrefixLength": 64,
@@ -7561,7 +7610,7 @@
                 "mnt-by": "YUXANS-MNT"
             },
             {
-                "asn": 4242421237,
+                "asn": 4242421233,
                 "prefix": "172.20.129.64/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
@@ -9024,13 +9073,6 @@
                 "mnt-by": "NGW-MNT"
             },
             {
-                "asn": 4242421237,
-                "prefix": "172.20.197.184/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "ATR-MNT"
-            },
-            {
                 "asn": 4242421233,
                 "prefix": "172.20.197.184/29",
                 "maxPrefixLength": 29,
@@ -9402,13 +9444,6 @@
                 "mnt-by": "GRMML-MNT"
             },
             {
-                "asn": 4242421233,
-                "prefix": "172.20.228.112/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "ATR-MNT"
-            },
-            {
                 "asn": 4242423967,
                 "prefix": "172.20.228.128/26",
                 "maxPrefixLength": 28,
@@ -9438,7 +9473,7 @@
             },
             {
                 "asn": 4242421233,
-                "prefix": "172.20.228.96/28",
+                "prefix": "172.20.228.96/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ATR-MNT"
@@ -10331,13 +10366,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LIBKAO-MNT"
-            },
-            {
-                "asn": 4242421233,
-                "prefix": "172.20.56.0/25",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "ATR-MNT"
             },
             {
                 "asn": 64686,
@@ -11528,6 +11556,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GIGGA-MNT"
+            },
+            {
+                "asn": 4242422462,
+                "prefix": "172.22.126.0/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FREACH-MNT"
             },
             {
                 "asn": 4242420140,

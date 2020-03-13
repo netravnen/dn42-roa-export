@@ -176,6 +176,13 @@
             "mnt-by": "BILL-MNT"
         },
         {
+            "asn": "AS4242422462",
+            "prefix": "fd00:67a2:7d02::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "FREACH-MNT"
+        },
+        {
             "asn": "AS4242420211",
             "prefix": "fd00:7882:4abb::/48",
             "maxLength": 64,
@@ -470,8 +477,8 @@
             "mnt-by": "ATR-MNT"
         },
         {
-            "asn": "AS4242421237",
-            "prefix": "fd0a:3599:3930::/48",
+            "asn": "AS4242421233",
+            "prefix": "fd0a:3599:3930::/58",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "ATR-MNT"
@@ -650,6 +657,34 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "TECHNOPOINT-MNT"
+        },
+        {
+            "asn": "AS4242421233",
+            "prefix": "fd18:18d9:adde:40::/58",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
+        },
+        {
+            "asn": "AS4242421233",
+            "prefix": "fd18:18d9:adde::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
+        },
+        {
+            "asn": "AS4242421233",
+            "prefix": "fd18:18d9:adde::/58",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
+        },
+        {
+            "asn": "AS4242421233",
+            "prefix": "fd18:18d9:adde:f000::/52",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
         },
         {
             "asn": "AS4242420321",
@@ -5132,6 +5167,20 @@
             "mnt-by": "MCBONE-MNT"
         },
         {
+            "asn": "AS4242421233",
+            "prefix": "fdd1:1c64:66fd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
+        },
+        {
+            "asn": "AS4242421233",
+            "prefix": "fdd1:1c64:66fd::/58",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
+        },
+        {
             "asn": "AS4242422053",
             "prefix": "fdd1:957f:6ea9::/48",
             "maxLength": 64,
@@ -7554,7 +7603,7 @@
             "mnt-by": "YUXANS-MNT"
         },
         {
-            "asn": "AS4242421237",
+            "asn": "AS4242421233",
             "prefix": "172.20.129.64/26",
             "maxLength": 28,
             "ta": "DN42",
@@ -9017,13 +9066,6 @@
             "mnt-by": "NGW-MNT"
         },
         {
-            "asn": "AS4242421237",
-            "prefix": "172.20.197.184/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "ATR-MNT"
-        },
-        {
             "asn": "AS4242421233",
             "prefix": "172.20.197.184/29",
             "maxLength": 29,
@@ -9395,13 +9437,6 @@
             "mnt-by": "GRMML-MNT"
         },
         {
-            "asn": "AS4242421233",
-            "prefix": "172.20.228.112/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "ATR-MNT"
-        },
-        {
             "asn": "AS4242423967",
             "prefix": "172.20.228.128/26",
             "maxLength": 28,
@@ -9431,7 +9466,7 @@
         },
         {
             "asn": "AS4242421233",
-            "prefix": "172.20.228.96/28",
+            "prefix": "172.20.228.96/27",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ATR-MNT"
@@ -10324,13 +10359,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "LIBKAO-MNT"
-        },
-        {
-            "asn": "AS4242421233",
-            "prefix": "172.20.56.0/25",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "ATR-MNT"
         },
         {
             "asn": "AS64686",
@@ -11521,6 +11549,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "GIGGA-MNT"
+        },
+        {
+            "asn": "AS4242422462",
+            "prefix": "172.22.126.0/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FREACH-MNT"
         },
         {
             "asn": "AS4242420140",
@@ -13989,17 +14024,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "b93cca18f34118c12732bbcdc975fe076f572c78",
-            "merge": "46bd7db3 8f04cd53",
+            "commit": "79caad779f02de1a62411a244427cc4d2f2d7694",
+            "merge": "b2598056 21f968e4",
             "author": "burble",
-            "date": "Wed, 11 Mar 2020 18:30:54 +0000",
-            "subject": "Merge branch 'master' of pesco/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b93cca18f34118c12732bbcdc975fe076f572c78",
-            "generated": "2020-03-13T10:20:25+00:00",
-            "valid": "2020-03-16T10:20:25+00:00"
+            "date": "Fri, 13 Mar 2020 19:47:18 +0000",
+            "subject": "Merge branch 'atr-reorg-2003' of AstroProfundis/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/79caad779f02de1a62411a244427cc4d2f2d7694",
+            "generated": "2020-03-13T20:20:39+00:00",
+            "valid": "2020-03-16T20:20:39+00:00"
         },
-        "counts": 1998,
-        "generated": 1584094825,
-        "valid": 1584354025
+        "counts": 2003,
+        "generated": 1584130839,
+        "valid": 1584390039
     }
 }
