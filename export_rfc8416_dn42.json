@@ -5972,6 +5972,13 @@
                 "mnt-by": "HATO-MNT"
             },
             {
+                "asn": 4242422904,
+                "prefix": "fdfc:694e:234f::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DOXZ-MNT"
+            },
+            {
                 "asn": 64871,
                 "prefix": "fdfc:ba7c:0ca1::/48",
                 "maxPrefixLength": 64,

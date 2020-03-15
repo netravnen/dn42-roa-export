@@ -5965,6 +5965,13 @@
             "mnt-by": "HATO-MNT"
         },
         {
+            "asn": "AS4242422904",
+            "prefix": "fdfc:694e:234f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DOXZ-MNT"
+        },
+        {
             "asn": "AS64871",
             "prefix": "fdfc:ba7c:0ca1::/48",
             "maxLength": 64,
@@ -14024,17 +14031,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "29f10a7a78c272383e9195b3d0ca0643ee64db18",
-            "merge": "79caad77 5709a543",
+            "commit": "04d01a150aacbc47057df6f31a0baa3a848e6c67",
+            "merge": "29f10a7a 6dba1881",
             "author": "burble",
-            "date": "Sat, 14 Mar 2020 18:30:47 +0000",
-            "subject": "Merge branch 'master' of Napsterbater/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/29f10a7a78c272383e9195b3d0ca0643ee64db18",
-            "generated": "2020-03-14T20:20:00+00:00",
-            "valid": "2020-03-17T20:20:00+00:00"
+            "date": "Sat, 14 Mar 2020 22:08:40 +0000",
+            "subject": "Merge branch 'master' of doxz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/04d01a150aacbc47057df6f31a0baa3a848e6c67",
+            "generated": "2020-03-15T00:19:57+00:00",
+            "valid": "2020-03-18T00:19:57+00:00"
         },
-        "counts": 2003,
-        "generated": 1584217200,
-        "valid": 1584476400
+        "counts": 2004,
+        "generated": 1584231597,
+        "valid": 1584490797
     }
 }
