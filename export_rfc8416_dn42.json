@@ -8912,13 +8912,6 @@
                 "mnt-by": "JOSEPHB-MNT"
             },
             {
-                "asn": 4242420661,
-                "prefix": "172.20.184.240/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "SANTOST12-MNT"
-            },
-            {
                 "asn": 4242423884,
                 "prefix": "172.20.184.32/27",
                 "maxPrefixLength": 28,

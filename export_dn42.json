@@ -8905,13 +8905,6 @@
             "mnt-by": "JOSEPHB-MNT"
         },
         {
-            "asn": "AS4242420661",
-            "prefix": "172.20.184.240/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "SANTOST12-MNT"
-        },
-        {
             "asn": "AS4242423884",
             "prefix": "172.20.184.32/27",
             "maxLength": 28,
@@ -14031,17 +14024,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "04d01a150aacbc47057df6f31a0baa3a848e6c67",
-            "merge": "29f10a7a 6dba1881",
+            "commit": "143598edce1a528b65e2b786a49618c673705e94",
+            "merge": "288b3b7d 7bceaf6e",
             "author": "burble",
-            "date": "Sat, 14 Mar 2020 22:08:40 +0000",
-            "subject": "Merge branch 'master' of doxz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/04d01a150aacbc47057df6f31a0baa3a848e6c67",
-            "generated": "2020-03-15T10:20:07+00:00",
-            "valid": "2020-03-18T10:20:07+00:00"
+            "date": "Sun, 15 Mar 2020 18:21:20 +0000",
+            "subject": "Merge branch 'master' of santost12/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/143598edce1a528b65e2b786a49618c673705e94",
+            "generated": "2020-03-15T20:20:15+00:00",
+            "valid": "2020-03-18T20:20:15+00:00"
         },
-        "counts": 2004,
-        "generated": 1584267607,
-        "valid": 1584526807
+        "counts": 2003,
+        "generated": 1584303615,
+        "valid": 1584562815
     }
 }
