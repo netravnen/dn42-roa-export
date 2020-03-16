@@ -4119,7 +4119,7 @@
         {
             "asn": "AS4242420181",
             "prefix": "fd9a:5c:48::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "MGL-MNT"
         },
@@ -9752,6 +9752,13 @@
             "mnt-by": "TIMANDO-MNT"
         },
         {
+            "asn": "AS4242420181",
+            "prefix": "172.20.29.0/26",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "MGL-MNT"
+        },
+        {
             "asn": "AS4242420467",
             "prefix": "172.20.3.0/24",
             "maxLength": 28,
@@ -10174,7 +10181,7 @@
         {
             "asn": "AS4242420181",
             "prefix": "172.20.48.128/27",
-            "maxLength": 28,
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "MGL-MNT"
         },
@@ -14024,17 +14031,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "143598edce1a528b65e2b786a49618c673705e94",
-            "merge": "288b3b7d 7bceaf6e",
+            "commit": "ac2e9897b180d1bc26a19117394c32cbb11457fe",
+            "merge": "143598ed 2a000ec2",
             "author": "burble",
-            "date": "Sun, 15 Mar 2020 18:21:20 +0000",
-            "subject": "Merge branch 'master' of santost12/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/143598edce1a528b65e2b786a49618c673705e94",
-            "generated": "2020-03-15T20:20:15+00:00",
-            "valid": "2020-03-18T20:20:15+00:00"
+            "date": "Sun, 15 Mar 2020 21:38:20 +0000",
+            "subject": "Merge branch 'master' of miegl/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ac2e9897b180d1bc26a19117394c32cbb11457fe",
+            "generated": "2020-03-16T00:20:07+00:00",
+            "valid": "2020-03-19T00:20:07+00:00"
         },
-        "counts": 2003,
-        "generated": 1584303615,
-        "valid": 1584562815
+        "counts": 2004,
+        "generated": 1584318007,
+        "valid": 1584577207
     }
 }

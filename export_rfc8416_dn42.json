@@ -4126,7 +4126,7 @@
             {
                 "asn": 4242420181,
                 "prefix": "fd9a:5c:48::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MGL-MNT"
             },
@@ -9759,6 +9759,13 @@
                 "mnt-by": "TIMANDO-MNT"
             },
             {
+                "asn": 4242420181,
+                "prefix": "172.20.29.0/26",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "MGL-MNT"
+            },
+            {
                 "asn": 4242420467,
                 "prefix": "172.20.3.0/24",
                 "maxPrefixLength": 28,
@@ -10181,7 +10188,7 @@
             {
                 "asn": 4242420181,
                 "prefix": "172.20.48.128/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "MGL-MNT"
             },
