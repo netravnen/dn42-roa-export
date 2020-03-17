@@ -5888,6 +5888,13 @@
             "mnt-by": "DACR-MNT"
         },
         {
+            "asn": "AS4242421115",
+            "prefix": "fdf7:facd:9346::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ANDYNET-MNT"
+        },
+        {
             "asn": "AS4242420278",
             "prefix": "fdf8:34f6:4f6f::/48",
             "maxLength": 64,
@@ -7491,13 +7498,6 @@
             "mnt-by": "TWINK0R-MNT"
         },
         {
-            "asn": "AS4242420095",
-            "prefix": "172.20.12.128/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "SPREITZER-MNT"
-        },
-        {
             "asn": "AS4242420178",
             "prefix": "172.20.12.128/28",
             "maxLength": 28,
@@ -7904,13 +7904,6 @@
             "mnt-by": "REWBYSOFT-MNT"
         },
         {
-            "asn": "AS4242421948",
-            "prefix": "172.20.142.0/25",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "JANSSEN-MNT"
-        },
-        {
             "asn": "AS4242420886",
             "prefix": "172.20.142.0/27",
             "maxLength": 28,
@@ -8009,13 +8002,6 @@
             "mnt-by": "KAI-MNT"
         },
         {
-            "asn": "AS4242422307",
-            "prefix": "172.20.149.0/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "OTTOLAB-MNT"
-        },
-        {
             "asn": "AS4242422550",
             "prefix": "172.20.149.0/28",
             "maxLength": 28,
@@ -8056,13 +8042,6 @@
             "maxLength": 32,
             "ta": "DN42",
             "mnt-by": "PRAUSCHER-MNT"
-        },
-        {
-            "asn": "AS4242423699",
-            "prefix": "172.20.149.64/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "PETRI13-MNT"
         },
         {
             "asn": "AS4242423124",
@@ -8280,6 +8259,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "FML-MNT"
+        },
+        {
+            "asn": "AS4242421115",
+            "prefix": "172.20.159.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ANDYNET-MNT"
         },
         {
             "asn": "AS4242420041",
@@ -8674,13 +8660,6 @@
             "mnt-by": "SLNX-MNT"
         },
         {
-            "asn": "AS4242420789",
-            "prefix": "172.20.175.32/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "JOSENG-MNT"
-        },
-        {
             "asn": "AS4242427761",
             "prefix": "172.20.175.64/27",
             "maxLength": 28,
@@ -8805,13 +8784,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "MOHO-MNT"
-        },
-        {
-            "asn": "AS4242422788",
-            "prefix": "172.20.18.96/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "RADICAL140-MNT"
         },
         {
             "asn": "AS4242423237",
@@ -9305,13 +9277,6 @@
         },
         {
             "asn": "AS4242421113",
-            "prefix": "172.20.207.64/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "LAMENET-MNT"
-        },
-        {
-            "asn": "AS4242421113",
             "prefix": "172.20.207.64/27",
             "maxLength": 28,
             "ta": "DN42",
@@ -9549,13 +9514,6 @@
             "mnt-by": "R33INT-MNT"
         },
         {
-            "asn": "AS4242423887",
-            "prefix": "172.20.232.0/24",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "JAJO-MNT"
-        },
-        {
             "asn": "AS4242429969",
             "prefix": "172.20.232.0/27",
             "maxLength": 28,
@@ -9729,6 +9687,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ANDI--MNT"
+        },
+        {
+            "asn": "AS4242423887",
+            "prefix": "172.20.252.0/24",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JAJO-MNT"
         },
         {
             "asn": "AS4242422100",
@@ -10130,13 +10095,6 @@
             "mnt-by": "NEO-MNT"
         },
         {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.0/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
-        },
-        {
             "asn": "AS4242420210",
             "prefix": "172.20.47.128/28",
             "maxLength": 28,
@@ -10149,48 +10107,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "CHUCKOGGY-MNT"
-        },
-        {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.16/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
-        },
-        {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.24/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
-        },
-        {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.32/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
-        },
-        {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.40/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
-        },
-        {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.48/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
-        },
-        {
-            "asn": "AS4242423173",
-            "prefix": "172.20.47.56/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "COLOCATIOUS-MNT"
         },
         {
             "asn": "AS4242420789",
@@ -10548,13 +10464,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "0RIGO-MNT"
-        },
-        {
-            "asn": "AS4242420225",
-            "prefix": "172.20.6.80/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "MRCHLMS-MNT"
         },
         {
             "asn": "AS4242420981",
@@ -11733,13 +11642,6 @@
             "mnt-by": "JPT-MNT"
         },
         {
-            "asn": "AS4242423939",
-            "prefix": "172.22.134.0/24",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GIANG-MNT"
-        },
-        {
             "asn": "AS4242423942",
             "prefix": "172.22.134.0/27",
             "maxLength": 28,
@@ -11933,7 +11835,7 @@
             "prefix": "172.22.152.0/25",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DUMMY-MNT"
+            "mnt-by": "ALLO-MNT"
         },
         {
             "asn": "AS4242421093",
@@ -12066,7 +11968,7 @@
             "prefix": "172.22.164.0/23",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DUMMY-MNT"
+            "mnt-by": "DRIXTER-MNT"
         },
         {
             "asn": "AS64768",
@@ -12080,7 +11982,7 @@
             "prefix": "172.22.168.128/25",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DUMMY-MNT"
+            "mnt-by": "ALLO-MNT"
         },
         {
             "asn": "AS4242420131",
@@ -12374,7 +12276,7 @@
             "prefix": "172.22.38.0/24",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DUMMY-MNT"
+            "mnt-by": "STREHI-DN42-MNT"
         },
         {
             "asn": "AS64712",
@@ -12514,7 +12416,7 @@
             "prefix": "172.22.74.0/24",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DUMMY-MNT"
+            "mnt-by": "STEPHANJ-DN42-MNT"
         },
         {
             "asn": "AS64674",
@@ -12634,41 +12536,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "TOMBII-DN42-MNT"
-        },
-        {
-            "asn": "AS4242420022",
-            "prefix": "172.23.0.48/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
-        },
-        {
-            "asn": "AS64737",
-            "prefix": "172.23.0.48/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
-        },
-        {
-            "asn": "AS4242420123",
-            "prefix": "172.23.0.48/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
-        },
-        {
-            "asn": "AS76198",
-            "prefix": "172.23.0.48/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
-        },
-        {
-            "asn": "AS4242423723",
-            "prefix": "172.23.0.48/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
         },
         {
             "asn": "AS4242420022",
@@ -13018,7 +12885,7 @@
             "prefix": "172.23.138.0/23",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DUMMY-MNT"
+            "mnt-by": "NAZCO-MNT"
         },
         {
             "asn": "AS4242422878",
@@ -14066,17 +13933,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "2ce75a30d155671b019582f6fa944d6675862a97",
-            "merge": "caea68d0 5467f4b3",
-            "author": "burble",
-            "date": "Tue, 17 Mar 2020 09:10:43 +0000",
-            "subject": "Merge branch 'ORG' of nchevrier/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2ce75a30d155671b019582f6fa944d6675862a97",
-            "generated": "2020-03-17T10:20:37+00:00",
-            "valid": "2020-03-20T10:20:37+00:00"
+            "commit": "3a15515dc3487a9412b4c80ee2889fee5970b6a5",
+            "merge": "3bbcab78 9a57e8c8",
+            "author": "jrb0001",
+            "date": "Tue, 17 Mar 2020 19:50:43 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3a15515dc3487a9412b4c80ee2889fee5970b6a5",
+            "generated": "2020-03-17T20:20:07+00:00",
+            "valid": "2020-03-20T20:20:07+00:00"
         },
-        "counts": 2009,
-        "generated": 1584440437,
-        "valid": 1584699637
+        "counts": 1990,
+        "generated": 1584476407,
+        "valid": 1584735607
     }
 }
