@@ -1884,6 +1884,20 @@
             "mnt-by": "DIZZY-MNT"
         },
         {
+            "asn": "AS4242422405",
+            "prefix": "fd42:4242:2405::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NICOLAS-MNT"
+        },
+        {
+            "asn": "AS4242422408",
+            "prefix": "fd42:4242:2408::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NICOLAS-MNT"
+        },
+        {
             "asn": "AS4242422468",
             "prefix": "fd42:4242:2468::/48",
             "maxLength": 64,
@@ -9759,6 +9773,20 @@
             "mnt-by": "MGL-MNT"
         },
         {
+            "asn": "AS4242422405",
+            "prefix": "172.20.29.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NICOLAS-MNT"
+        },
+        {
+            "asn": "AS4242422408",
+            "prefix": "172.20.29.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NICOLAS-MNT"
+        },
+        {
             "asn": "AS4242420467",
             "prefix": "172.20.3.0/24",
             "maxLength": 28,
@@ -14008,6 +14036,13 @@
             "mnt-by": "NICOLAS-MNT"
         },
         {
+            "asn": "AS4242420731",
+            "prefix": "172.23.99.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BECKFAN-MNT"
+        },
+        {
             "asn": "AS64654",
             "prefix": "172.31.0.0/16",
             "maxLength": 32,
@@ -14031,17 +14066,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "ac2e9897b180d1bc26a19117394c32cbb11457fe",
-            "merge": "143598ed 2a000ec2",
+            "commit": "2ce75a30d155671b019582f6fa944d6675862a97",
+            "merge": "caea68d0 5467f4b3",
             "author": "burble",
-            "date": "Sun, 15 Mar 2020 21:38:20 +0000",
-            "subject": "Merge branch 'master' of miegl/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ac2e9897b180d1bc26a19117394c32cbb11457fe",
-            "generated": "2020-03-17T00:19:55+00:00",
-            "valid": "2020-03-20T00:19:55+00:00"
+            "date": "Tue, 17 Mar 2020 09:10:43 +0000",
+            "subject": "Merge branch 'ORG' of nchevrier/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2ce75a30d155671b019582f6fa944d6675862a97",
+            "generated": "2020-03-17T10:20:37+00:00",
+            "valid": "2020-03-20T10:20:37+00:00"
         },
-        "counts": 2004,
-        "generated": 1584404395,
-        "valid": 1584663595
+        "counts": 2009,
+        "generated": 1584440437,
+        "valid": 1584699637
     }
 }
