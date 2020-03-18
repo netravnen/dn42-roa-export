@@ -337,6 +337,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421332",
+            "prefix": "fd01:1926:817::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NIA-MNT"
+        },
+        {
             "asn": "AS4242421201",
             "prefix": "fd01:2f40:3d1d::/48",
             "maxLength": 64,
@@ -2372,6 +2379,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "FFRGB-MNT"
+        },
+        {
+            "asn": "AS4242422292",
+            "prefix": "fd42:b641:0760::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YUYAN-MNT"
         },
         {
             "asn": "AS4242420124",
@@ -4787,6 +4801,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JOMAT-MNT"
+        },
+        {
+            "asn": "AS4242422137",
+            "prefix": "fdbe:aea3:9424::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DOT-MNT"
         },
         {
             "asn": "AS4242421525",
@@ -8464,7 +8485,7 @@
             "mnt-by": "NCN-MNT"
         },
         {
-            "asn": "AS4242421331",
+            "asn": "AS4242421332",
             "prefix": "172.20.168.128/25",
             "maxLength": 28,
             "ta": "DN42",
@@ -11677,6 +11698,13 @@
             "mnt-by": "JUMBLE-MNT"
         },
         {
+            "asn": "AS4242422137",
+            "prefix": "172.22.137.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DOT-MNT"
+        },
+        {
             "asn": "AS4242422233",
             "prefix": "172.22.140.0/25",
             "maxLength": 28,
@@ -12067,6 +12095,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ITUNALI-MNT"
+        },
+        {
+            "asn": "AS4242422292",
+            "prefix": "172.22.180.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YUYAN-MNT"
         },
         {
             "asn": "AS4242421873",
@@ -13933,17 +13968,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "3a15515dc3487a9412b4c80ee2889fee5970b6a5",
-            "merge": "3bbcab78 9a57e8c8",
-            "author": "jrb0001",
-            "date": "Tue, 17 Mar 2020 19:50:43 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3a15515dc3487a9412b4c80ee2889fee5970b6a5",
-            "generated": "2020-03-18T10:20:33+00:00",
-            "valid": "2020-03-21T10:20:33+00:00"
+            "commit": "19b7845ba354a99a02cd93481ca3898975f6de74",
+            "merge": "8c9e45be 5f1912fd",
+            "author": "burble",
+            "date": "Wed, 18 Mar 2020 15:43:44 +0000",
+            "subject": "Merge branch 'master' of dot/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/19b7845ba354a99a02cd93481ca3898975f6de74",
+            "generated": "2020-03-18T20:20:34+00:00",
+            "valid": "2020-03-21T20:20:34+00:00"
         },
-        "counts": 1990,
-        "generated": 1584526833,
-        "valid": 1584786033
+        "counts": 1995,
+        "generated": 1584562834,
+        "valid": 1584822034
     }
 }

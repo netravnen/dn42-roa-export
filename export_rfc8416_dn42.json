@@ -344,6 +344,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421332,
+                "prefix": "fd01:1926:817::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NIA-MNT"
+            },
+            {
                 "asn": 4242421201,
                 "prefix": "fd01:2f40:3d1d::/48",
                 "maxPrefixLength": 64,
@@ -2379,6 +2386,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "FFRGB-MNT"
+            },
+            {
+                "asn": 4242422292,
+                "prefix": "fd42:b641:0760::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YUYAN-MNT"
             },
             {
                 "asn": 4242420124,
@@ -4794,6 +4808,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JOMAT-MNT"
+            },
+            {
+                "asn": 4242422137,
+                "prefix": "fdbe:aea3:9424::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DOT-MNT"
             },
             {
                 "asn": 4242421525,
@@ -8471,7 +8492,7 @@
                 "mnt-by": "NCN-MNT"
             },
             {
-                "asn": 4242421331,
+                "asn": 4242421332,
                 "prefix": "172.20.168.128/25",
                 "maxPrefixLength": 28,
                 "source": "DN42",
@@ -11684,6 +11705,13 @@
                 "mnt-by": "JUMBLE-MNT"
             },
             {
+                "asn": 4242422137,
+                "prefix": "172.22.137.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DOT-MNT"
+            },
+            {
                 "asn": 4242422233,
                 "prefix": "172.22.140.0/25",
                 "maxPrefixLength": 28,
@@ -12074,6 +12102,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ITUNALI-MNT"
+            },
+            {
+                "asn": 4242422292,
+                "prefix": "172.22.180.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YUYAN-MNT"
             },
             {
                 "asn": 4242421873,
