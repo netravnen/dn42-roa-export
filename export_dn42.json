@@ -13988,11 +13988,11 @@
             "date": "Wed, 18 Mar 2020 20:38:03 +0000",
             "subject": "Merge branch 'master' of moxi/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/a67d7f1ec82878a7f997ea332ac79dd0036f3354",
-            "generated": "2020-03-19T00:20:11+00:00",
-            "valid": "2020-03-22T00:20:11+00:00"
+            "generated": "2020-03-19T10:20:24+00:00",
+            "valid": "2020-03-22T10:20:24+00:00"
         },
         "counts": 1997,
-        "generated": 1584577211,
-        "valid": 1584836411
+        "generated": 1584613224,
+        "valid": 1584872424
     }
 }
