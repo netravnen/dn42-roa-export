@@ -162,6 +162,13 @@
             "mnt-by": "FXKR-MNT"
         },
         {
+            "asn": "AS4242422214",
+            "prefix": "fd00:58a8:7fb2::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOXI-MNT"
+        },
+        {
             "asn": "AS65142",
             "prefix": "fd00:65a8:93a4::/48",
             "maxLength": 64,
@@ -9346,6 +9353,13 @@
             "mnt-by": "BLING-MNT"
         },
         {
+            "asn": "AS4242422214",
+            "prefix": "172.20.214.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOXI-MNT"
+        },
+        {
             "asn": "AS4242421410",
             "prefix": "172.20.22.0/23",
             "maxLength": 28,
@@ -13968,17 +13982,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "19b7845ba354a99a02cd93481ca3898975f6de74",
-            "merge": "8c9e45be 5f1912fd",
+            "commit": "a67d7f1ec82878a7f997ea332ac79dd0036f3354",
+            "merge": "19b7845b 8e116d52",
             "author": "burble",
-            "date": "Wed, 18 Mar 2020 15:43:44 +0000",
-            "subject": "Merge branch 'master' of dot/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/19b7845ba354a99a02cd93481ca3898975f6de74",
-            "generated": "2020-03-18T20:20:34+00:00",
-            "valid": "2020-03-21T20:20:34+00:00"
+            "date": "Wed, 18 Mar 2020 20:38:03 +0000",
+            "subject": "Merge branch 'master' of moxi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a67d7f1ec82878a7f997ea332ac79dd0036f3354",
+            "generated": "2020-03-19T00:20:11+00:00",
+            "valid": "2020-03-22T00:20:11+00:00"
         },
-        "counts": 1995,
-        "generated": 1584562834,
-        "valid": 1584822034
+        "counts": 1997,
+        "generated": 1584577211,
+        "valid": 1584836411
     }
 }

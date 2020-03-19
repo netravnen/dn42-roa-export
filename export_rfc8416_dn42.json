@@ -169,6 +169,13 @@
                 "mnt-by": "FXKR-MNT"
             },
             {
+                "asn": 4242422214,
+                "prefix": "fd00:58a8:7fb2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOXI-MNT"
+            },
+            {
                 "asn": 65142,
                 "prefix": "fd00:65a8:93a4::/48",
                 "maxPrefixLength": 64,
@@ -9351,6 +9358,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BLING-MNT"
+            },
+            {
+                "asn": 4242422214,
+                "prefix": "172.20.214.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOXI-MNT"
             },
             {
                 "asn": 4242421410,
