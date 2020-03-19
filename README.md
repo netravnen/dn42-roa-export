@@ -20,12 +20,12 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit a67d7f1ec82878a7f997ea332ac79dd0036f3354
-Merge: 19b7845b 8e116d52
+commit ab4ce0425a28b2745e567772ff068db06a301387
+Merge: a67d7f1e 07f50459
 Author: burble
-Date:   2020-03-18 20:38:03 +0000
+Date:   2020-03-19 13:57:59 +0000
 
-    Merge branch 'master' of moxi/registry into master
+    Merge branch 'master' of dn42fnk/registry into master
 ```
 
 ## crontab
@@ -38,11 +38,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1110
-- ROAs IPv6:  887
-- ROAs total: 1997
+- ROAs IPv4:  1111
+- ROAs IPv6:  888
+- ROAs total: 1999
 
-[0]: https://git.dn42.us/dn42/registry/commit/a67d7f1ec82878a7f997ea332ac79dd0036f3354
+[0]: https://git.dn42.us/dn42/registry/commit/ab4ce0425a28b2745e567772ff068db06a301387
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

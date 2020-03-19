@@ -4012,6 +4012,13 @@
                 "mnt-by": "PHIIVO-MNT"
             },
             {
+                "asn": 4242420524,
+                "prefix": "fd91:7b3d:8d19::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FNK-MNT"
+            },
+            {
                 "asn": 4242423298,
                 "prefix": "fd91:8ef5:a5db::/48",
                 "maxPrefixLength": 64,
@@ -10387,6 +10394,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NEXUS-MNT"
+            },
+            {
+                "asn": 4242420524,
+                "prefix": "172.20.58.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FNK-MNT"
             },
             {
                 "asn": 4242423904,
