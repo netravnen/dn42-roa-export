@@ -820,6 +820,13 @@
                 "mnt-by": "ANDI--MNT"
             },
             {
+                "asn": 4242422798,
+                "prefix": "fd21:b0e7:6c39:c241::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DK6H05T-MNT"
+            },
+            {
                 "asn": 65019,
                 "prefix": "fd21:b4dc:4b00::/40",
                 "maxPrefixLength": 64,
@@ -4486,6 +4493,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "HEXANET-MNT"
+            },
+            {
+                "asn": 4242422541,
+                "prefix": "fda6:9506:01d5::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "OXYGEN233-MNT"
             },
             {
                 "asn": 4242420469,
@@ -8268,6 +8282,13 @@
                 "mnt-by": "ZERUKS-MNT"
             },
             {
+                "asn": 4242422541,
+                "prefix": "172.20.158.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "OXYGEN233-MNT"
+            },
+            {
                 "asn": 4242422878,
                 "prefix": "172.20.159.0/29",
                 "maxPrefixLength": 29,
@@ -10436,6 +10457,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SFN-MNT"
+            },
+            {
+                "asn": 4242422798,
+                "prefix": "172.20.59.144/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DK6H05T-MNT"
             },
             {
                 "asn": 4242423621,
