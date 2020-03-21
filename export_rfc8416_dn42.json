@@ -4611,7 +4611,7 @@
                 "prefix": "fdac:f820:373a::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
-                "mnt-by": "DEKINW-MNT"
+                "mnt-by": "AMNET-MNT"
             },
             {
                 "asn": 4242420190,
@@ -11702,7 +11702,7 @@
                 "prefix": "172.22.132.64/28",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "DEKINW-MNT"
+                "mnt-by": "AMNET-MNT"
             },
             {
                 "asn": 4242420239,
@@ -13662,7 +13662,7 @@
                 "prefix": "172.23.239.0/25",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "DEKINW-MNT"
+                "mnt-by": "AMNET-MNT"
             },
             {
                 "asn": 4242422877,

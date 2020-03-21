@@ -4604,7 +4604,7 @@
             "prefix": "fdac:f820:373a::/48",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "DEKINW-MNT"
+            "mnt-by": "AMNET-MNT"
         },
         {
             "asn": "AS4242420190",
@@ -11695,7 +11695,7 @@
             "prefix": "172.22.132.64/28",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DEKINW-MNT"
+            "mnt-by": "AMNET-MNT"
         },
         {
             "asn": "AS4242420239",
@@ -13655,7 +13655,7 @@
             "prefix": "172.23.239.0/25",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "DEKINW-MNT"
+            "mnt-by": "AMNET-MNT"
         },
         {
             "asn": "AS4242422877",
@@ -14024,17 +14024,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "e8de770f1b3ee2062a2eaa812bb1020fc76592b3",
-            "merge": "216266e4 d4284611",
+            "commit": "0ad473f32f4e64daf324f14f15ac5302b6ff3714",
+            "merge": "67799fa8 f636653b",
             "author": "jrb0001",
-            "date": "Fri, 20 Mar 2020 11:59:59 +0000",
-            "subject": "Merge branch 'master' of oxygen233/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e8de770f1b3ee2062a2eaa812bb1020fc76592b3",
-            "generated": "2020-03-20T20:20:31+00:00",
-            "valid": "2020-03-23T20:20:31+00:00"
+            "date": "Fri, 20 Mar 2020 21:04:22 +0000",
+            "subject": "Merge branch 'master' of Cybermanager/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0ad473f32f4e64daf324f14f15ac5302b6ff3714",
+            "generated": "2020-03-21T00:20:26+00:00",
+            "valid": "2020-03-24T00:20:26+00:00"
         },
         "counts": 2003,
-        "generated": 1584735631,
-        "valid": 1584994831
+        "generated": 1584750026,
+        "valid": 1585009226
     }
 }
