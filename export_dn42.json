@@ -5258,6 +5258,13 @@
             "mnt-by": "MODER-MNT"
         },
         {
+            "asn": "AS4242421019",
+            "prefix": "fdd1:b48:88fb:fac5::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242423322",
             "prefix": "fdd2:c9d1:ecb7::/48",
             "maxLength": 64,
@@ -5874,6 +5881,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420799",
+            "prefix": "fdf3:ff62:1c72::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ALWAYSLIVID-MNT"
+        },
+        {
             "asn": "AS4242420515",
             "prefix": "fdf4:83f1:6f4f::/48",
             "maxLength": 48,
@@ -6229,6 +6243,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "BUKN-MNT"
+        },
+        {
+            "asn": "AS4242420252",
+            "prefix": "fdff:feed:4242::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HEY-MNT"
         },
         {
             "asn": "AS4242420138",
@@ -9941,6 +9962,13 @@
             "mnt-by": "ESCAMBEAU-MNT"
         },
         {
+            "asn": "AS4242420799",
+            "prefix": "172.20.34.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ALWAYSLIVID-MNT"
+        },
+        {
             "asn": "AS4242420905",
             "prefix": "172.20.34.192/26",
             "maxLength": 28,
@@ -10072,6 +10100,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HASHQ-MNT"
+        },
+        {
+            "asn": "AS4242421019",
+            "prefix": "172.20.41.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242422100",
@@ -12272,13 +12307,6 @@
             "mnt-by": "JPLITZA-MNT"
         },
         {
-            "asn": "AS64794",
-            "prefix": "172.22.193.0/25",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "MORTZU-MNT"
-        },
-        {
             "asn": "AS4242421434",
             "prefix": "172.22.2.0/23",
             "maxLength": 28,
@@ -13686,6 +13714,13 @@
             "mnt-by": "MARIOS-MNT"
         },
         {
+            "asn": "AS4242420252",
+            "prefix": "172.23.241.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HEY-MNT"
+        },
+        {
             "asn": "AS76175",
             "prefix": "172.23.245.0/24",
             "maxLength": 28,
@@ -14038,17 +14073,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "6c192426e8383d6e8dc837ebcf134ebafba8ba38",
-            "merge": "0ad473f3 118feeef",
-            "author": "jrb0001",
-            "date": "Sat, 21 Mar 2020 09:03:56 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6c192426e8383d6e8dc837ebcf134ebafba8ba38",
-            "generated": "2020-03-21T10:20:18+00:00",
-            "valid": "2020-03-24T10:20:18+00:00"
+            "commit": "9c241c46a58e34b6a0b91758ba78a561f73beec7",
+            "merge": "e0c32fef ed01c17c",
+            "author": "burble",
+            "date": "Sat, 21 Mar 2020 16:01:17 +0000",
+            "subject": "Merge branch 'master' of dearroy/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9c241c46a58e34b6a0b91758ba78a561f73beec7",
+            "generated": "2020-03-21T20:20:15+00:00",
+            "valid": "2020-03-24T20:20:15+00:00"
         },
-        "counts": 2005,
-        "generated": 1584786018,
-        "valid": 1585045218
+        "counts": 2010,
+        "generated": 1584822015,
+        "valid": 1585081215
     }
 }

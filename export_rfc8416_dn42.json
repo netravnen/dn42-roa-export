@@ -5265,6 +5265,13 @@
                 "mnt-by": "MODER-MNT"
             },
             {
+                "asn": 4242421019,
+                "prefix": "fdd1:b48:88fb:fac5::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242423322,
                 "prefix": "fdd2:c9d1:ecb7::/48",
                 "maxPrefixLength": 64,
@@ -5881,6 +5888,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420799,
+                "prefix": "fdf3:ff62:1c72::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ALWAYSLIVID-MNT"
+            },
+            {
                 "asn": 4242420515,
                 "prefix": "fdf4:83f1:6f4f::/48",
                 "maxPrefixLength": 48,
@@ -6236,6 +6250,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "BUKN-MNT"
+            },
+            {
+                "asn": 4242420252,
+                "prefix": "fdff:feed:4242::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HEY-MNT"
             },
             {
                 "asn": 4242420138,
@@ -9948,6 +9969,13 @@
                 "mnt-by": "ESCAMBEAU-MNT"
             },
             {
+                "asn": 4242420799,
+                "prefix": "172.20.34.160/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ALWAYSLIVID-MNT"
+            },
+            {
                 "asn": 4242420905,
                 "prefix": "172.20.34.192/26",
                 "maxPrefixLength": 28,
@@ -10079,6 +10107,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HASHQ-MNT"
+            },
+            {
+                "asn": 4242421019,
+                "prefix": "172.20.41.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422100,
@@ -12279,13 +12314,6 @@
                 "mnt-by": "JPLITZA-MNT"
             },
             {
-                "asn": 64794,
-                "prefix": "172.22.193.0/25",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "MORTZU-MNT"
-            },
-            {
                 "asn": 4242421434,
                 "prefix": "172.22.2.0/23",
                 "maxPrefixLength": 28,
@@ -13691,6 +13719,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MARIOS-MNT"
+            },
+            {
+                "asn": 4242420252,
+                "prefix": "172.23.241.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HEY-MNT"
             },
             {
                 "asn": 76175,
