@@ -1247,6 +1247,13 @@
                 "mnt-by": "PACKETFRAME-MNT"
             },
             {
+                "asn": 4242422390,
+                "prefix": "fd3d:fec4:1a02:be51::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242428989,
                 "prefix": "fd3f:e6b2:8a3e::/48",
                 "maxPrefixLength": 64,
@@ -10723,6 +10730,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SEEK42-MNT"
+            },
+            {
+                "asn": 4242422390,
+                "prefix": "172.21.112.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422911,

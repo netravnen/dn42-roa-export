@@ -1240,6 +1240,13 @@
             "mnt-by": "PACKETFRAME-MNT"
         },
         {
+            "asn": "AS4242422390",
+            "prefix": "fd3d:fec4:1a02:be51::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242428989",
             "prefix": "fd3f:e6b2:8a3e::/48",
             "maxLength": 64,
@@ -10718,6 +10725,13 @@
             "mnt-by": "SEEK42-MNT"
         },
         {
+            "asn": "AS4242422390",
+            "prefix": "172.21.112.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242422911",
             "prefix": "172.21.113.192/27",
             "maxLength": 28,
@@ -14024,17 +14038,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0ad473f32f4e64daf324f14f15ac5302b6ff3714",
-            "merge": "67799fa8 f636653b",
+            "commit": "6c192426e8383d6e8dc837ebcf134ebafba8ba38",
+            "merge": "0ad473f3 118feeef",
             "author": "jrb0001",
-            "date": "Fri, 20 Mar 2020 21:04:22 +0000",
-            "subject": "Merge branch 'master' of Cybermanager/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0ad473f32f4e64daf324f14f15ac5302b6ff3714",
-            "generated": "2020-03-21T00:20:26+00:00",
-            "valid": "2020-03-24T00:20:26+00:00"
+            "date": "Sat, 21 Mar 2020 09:03:56 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6c192426e8383d6e8dc837ebcf134ebafba8ba38",
+            "generated": "2020-03-21T10:20:18+00:00",
+            "valid": "2020-03-24T10:20:18+00:00"
         },
-        "counts": 2003,
-        "generated": 1584750026,
-        "valid": 1585009226
+        "counts": 2005,
+        "generated": 1584786018,
+        "valid": 1585045218
     }
 }
