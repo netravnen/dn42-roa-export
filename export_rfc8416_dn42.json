@@ -13035,6 +13035,13 @@
                 "mnt-by": "SODRE-MNT"
             },
             {
+                "asn": 4242423654,
+                "prefix": "172.23.145.0/24",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LZ-MNT"
+            },
+            {
                 "asn": 76124,
                 "prefix": "172.23.146.0/24",
                 "maxPrefixLength": 28,

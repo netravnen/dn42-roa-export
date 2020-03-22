@@ -13028,6 +13028,13 @@
             "mnt-by": "SODRE-MNT"
         },
         {
+            "asn": "AS4242423654",
+            "prefix": "172.23.145.0/24",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LZ-MNT"
+        },
+        {
             "asn": "AS76124",
             "prefix": "172.23.146.0/24",
             "maxLength": 28,
@@ -14073,17 +14080,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9c241c46a58e34b6a0b91758ba78a561f73beec7",
-            "merge": "e0c32fef ed01c17c",
+            "commit": "aa827c8dcf386d210b5dea79eaf0e623ebd9b43f",
+            "merge": "47407ce6 f413de55",
             "author": "burble",
-            "date": "Sat, 21 Mar 2020 16:01:17 +0000",
-            "subject": "Merge branch 'master' of dearroy/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9c241c46a58e34b6a0b91758ba78a561f73beec7",
-            "generated": "2020-03-21T20:20:15+00:00",
-            "valid": "2020-03-24T20:20:15+00:00"
+            "date": "Sat, 21 Mar 2020 21:01:18 +0000",
+            "subject": "Merge branch 'master' of Hexanet/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/aa827c8dcf386d210b5dea79eaf0e623ebd9b43f",
+            "generated": "2020-03-22T00:20:16+00:00",
+            "valid": "2020-03-25T00:20:16+00:00"
         },
-        "counts": 2010,
-        "generated": 1584822015,
-        "valid": 1585081215
+        "counts": 2011,
+        "generated": 1584836416,
+        "valid": 1585095616
     }
 }
