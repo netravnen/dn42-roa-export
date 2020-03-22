@@ -14080,17 +14080,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "aa827c8dcf386d210b5dea79eaf0e623ebd9b43f",
-            "merge": "47407ce6 f413de55",
+            "commit": "053d980ee1bebda88613ae1d46c5c7311c8f7c1b",
+            "merge": "2132e8f8 381a5f22",
             "author": "burble",
-            "date": "Sat, 21 Mar 2020 21:01:18 +0000",
-            "subject": "Merge branch 'master' of Hexanet/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/aa827c8dcf386d210b5dea79eaf0e623ebd9b43f",
-            "generated": "2020-03-22T10:19:48+00:00",
-            "valid": "2020-03-25T10:19:48+00:00"
+            "date": "Sun, 22 Mar 2020 15:45:41 +0000",
+            "subject": "Merge branch 'prauscher-nserver-20200322' of prauscher/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/053d980ee1bebda88613ae1d46c5c7311c8f7c1b",
+            "generated": "2020-03-22T20:20:04+00:00",
+            "valid": "2020-03-25T20:20:04+00:00"
         },
         "counts": 2011,
-        "generated": 1584872388,
-        "valid": 1585131588
+        "generated": 1584908404,
+        "valid": 1585167604
     }
 }
