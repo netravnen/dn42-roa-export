@@ -5069,6 +5069,13 @@
             "mnt-by": "SUNNET-MNT"
         },
         {
+            "asn": "AS4242423036",
+            "prefix": "fdc8:f5a0:6499::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ACCELERATOR-MNT"
+        },
+        {
             "asn": "AS4242421835",
             "prefix": "fdc9:4a6d:2cdf::/48",
             "maxLength": 64,
@@ -8266,6 +8273,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "MOMIJI-MNT"
+        },
+        {
+            "asn": "AS4242423036",
+            "prefix": "172.20.155.88/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "ACCELERATOR-MNT"
         },
         {
             "asn": "AS4242423906",
@@ -12251,6 +12265,13 @@
             "mnt-by": "DW-MNT"
         },
         {
+            "asn": "AS4242422855",
+            "prefix": "172.22.186.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NICHI-MNT"
+        },
+        {
             "asn": "AS4242422502",
             "prefix": "172.22.186.64/28",
             "maxLength": 28,
@@ -14080,17 +14101,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "053d980ee1bebda88613ae1d46c5c7311c8f7c1b",
-            "merge": "2132e8f8 381a5f22",
+            "commit": "8c602706f646c6120951063f8575849e75b7ca9f",
+            "merge": "d310cb34 42aaa42e",
             "author": "burble",
-            "date": "Sun, 22 Mar 2020 15:45:41 +0000",
-            "subject": "Merge branch 'prauscher-nserver-20200322' of prauscher/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/053d980ee1bebda88613ae1d46c5c7311c8f7c1b",
-            "generated": "2020-03-23T10:20:07+00:00",
-            "valid": "2020-03-26T10:20:07+00:00"
+            "date": "Mon, 23 Mar 2020 16:02:11 +0000",
+            "subject": "Merge branch 'master' of alwayslivid/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8c602706f646c6120951063f8575849e75b7ca9f",
+            "generated": "2020-03-23T20:20:13+00:00",
+            "valid": "2020-03-26T20:20:13+00:00"
         },
-        "counts": 2011,
-        "generated": 1584958807,
-        "valid": 1585218007
+        "counts": 2014,
+        "generated": 1584994813,
+        "valid": 1585254013
     }
 }

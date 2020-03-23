@@ -5076,6 +5076,13 @@
                 "mnt-by": "SUNNET-MNT"
             },
             {
+                "asn": 4242423036,
+                "prefix": "fdc8:f5a0:6499::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ACCELERATOR-MNT"
+            },
+            {
                 "asn": 4242421835,
                 "prefix": "fdc9:4a6d:2cdf::/48",
                 "maxPrefixLength": 64,
@@ -8273,6 +8280,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MOMIJI-MNT"
+            },
+            {
+                "asn": 4242423036,
+                "prefix": "172.20.155.88/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "ACCELERATOR-MNT"
             },
             {
                 "asn": 4242423906,
@@ -12256,6 +12270,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DW-MNT"
+            },
+            {
+                "asn": 4242422855,
+                "prefix": "172.22.186.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NICHI-MNT"
             },
             {
                 "asn": 4242422502,
