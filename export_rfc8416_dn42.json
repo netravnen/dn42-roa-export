@@ -596,6 +596,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421937,
+                "prefix": "fd11:4514:1937::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CAXAP-MNT"
+            },
+            {
                 "asn": 4242420160,
                 "prefix": "fd11:ee7a:93aa::/48",
                 "maxPrefixLength": 64,
@@ -3998,6 +4005,13 @@
                 "mnt-by": "SANSOM-MNT"
             },
             {
+                "asn": 4242423926,
+                "prefix": "fd8a:b0f1:babe::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "PSM-MNT"
+            },
+            {
                 "asn": 4242422044,
                 "prefix": "fd8e:898d:caa3::/48",
                 "maxPrefixLength": 64,
@@ -4132,8 +4146,8 @@
             },
             {
                 "asn": 4242421916,
-                "prefix": "fd95:bfa8:a5e2:2f28::/64",
-                "maxPrefixLength": 64,
+                "prefix": "fd95:bfa8:a5e2::/48",
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "CAXAP-MNT"
             },
@@ -8695,6 +8709,13 @@
                 "mnt-by": "ARCHON-MNT"
             },
             {
+                "asn": 4242422991,
+                "prefix": "172.20.172.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VITALE-MNT"
+            },
+            {
                 "asn": 4242421703,
                 "prefix": "172.20.172.96/28",
                 "maxPrefixLength": 28,
@@ -10856,6 +10877,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MODER-MNT"
+            },
+            {
+                "asn": 4242422991,
+                "prefix": "172.21.125.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VITALE-MNT"
             },
             {
                 "asn": 4242423560,

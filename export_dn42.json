@@ -589,6 +589,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421937",
+            "prefix": "fd11:4514:1937::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CAXAP-MNT"
+        },
+        {
             "asn": "AS4242420160",
             "prefix": "fd11:ee7a:93aa::/48",
             "maxLength": 64,
@@ -3991,6 +3998,13 @@
             "mnt-by": "SANSOM-MNT"
         },
         {
+            "asn": "AS4242423926",
+            "prefix": "fd8a:b0f1:babe::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "PSM-MNT"
+        },
+        {
             "asn": "AS4242422044",
             "prefix": "fd8e:898d:caa3::/48",
             "maxLength": 64,
@@ -4125,8 +4139,8 @@
         },
         {
             "asn": "AS4242421916",
-            "prefix": "fd95:bfa8:a5e2:2f28::/64",
-            "maxLength": 64,
+            "prefix": "fd95:bfa8:a5e2::/48",
+            "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "CAXAP-MNT"
         },
@@ -8688,6 +8702,13 @@
             "mnt-by": "ARCHON-MNT"
         },
         {
+            "asn": "AS4242422991",
+            "prefix": "172.20.172.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VITALE-MNT"
+        },
+        {
             "asn": "AS4242421703",
             "prefix": "172.20.172.96/28",
             "maxLength": 28,
@@ -10849,6 +10870,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "MODER-MNT"
+        },
+        {
+            "asn": "AS4242422991",
+            "prefix": "172.21.125.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VITALE-MNT"
         },
         {
             "asn": "AS4242423560",
@@ -14101,17 +14129,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "8c602706f646c6120951063f8575849e75b7ca9f",
-            "merge": "d310cb34 42aaa42e",
-            "author": "burble",
-            "date": "Mon, 23 Mar 2020 16:02:11 +0000",
-            "subject": "Merge branch 'master' of alwayslivid/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8c602706f646c6120951063f8575849e75b7ca9f",
-            "generated": "2020-03-24T10:19:40+00:00",
-            "valid": "2020-03-27T10:19:40+00:00"
+            "commit": "93d1ab6f2cc80849633a3927073f9c1d31f8dd8e",
+            "merge": "6378497a e35ae263",
+            "author": "jrb0001",
+            "date": "Tue, 24 Mar 2020 20:10:37 +0000",
+            "subject": "Merge branch 'as-set-200304' of burble/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/93d1ab6f2cc80849633a3927073f9c1d31f8dd8e",
+            "generated": "2020-03-24T20:20:29+00:00",
+            "valid": "2020-03-27T20:20:29+00:00"
         },
-        "counts": 2014,
-        "generated": 1585045180,
-        "valid": 1585304380
+        "counts": 2018,
+        "generated": 1585081229,
+        "valid": 1585340429
     }
 }
