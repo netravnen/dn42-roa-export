@@ -463,6 +463,13 @@
             "mnt-by": "REWBYSOFT-MNT"
         },
         {
+            "asn": "AS4242423618",
+            "prefix": "fd07:0d34:7969::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JERRY-MNT"
+        },
+        {
             "asn": "AS64901",
             "prefix": "fd07:96ae:572e::/48",
             "maxLength": 64,
@@ -10382,6 +10389,13 @@
             "mnt-by": "CITADEL-MNT"
         },
         {
+            "asn": "AS4242423618",
+            "prefix": "172.20.51.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JERRY-MNT"
+        },
+        {
             "asn": "AS4242423723",
             "prefix": "172.20.52.0/24",
             "maxLength": 28,
@@ -14136,17 +14150,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0ffe1682463b3e8c5ea955f9859d57cc0239d7e2",
-            "merge": "e48af5f4 29041754",
+            "commit": "59efa0142619805674665588c7f9439906b2be16",
+            "merge": "082c1e55 e02e6077",
             "author": "burble",
-            "date": "Tue, 24 Mar 2020 20:53:58 +0000",
-            "subject": "Merge branch 'master' of SCARLET/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0ffe1682463b3e8c5ea955f9859d57cc0239d7e2",
-            "generated": "2020-03-25T10:20:13+00:00",
-            "valid": "2020-03-28T10:20:13+00:00"
+            "date": "Wed, 25 Mar 2020 20:04:56 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/59efa0142619805674665588c7f9439906b2be16",
+            "generated": "2020-03-25T20:20:33+00:00",
+            "valid": "2020-03-28T20:20:33+00:00"
         },
-        "counts": 2019,
-        "generated": 1585131613,
-        "valid": 1585390813
+        "counts": 2021,
+        "generated": 1585167633,
+        "valid": 1585426833
     }
 }

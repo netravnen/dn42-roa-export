@@ -470,6 +470,13 @@
                 "mnt-by": "REWBYSOFT-MNT"
             },
             {
+                "asn": 4242423618,
+                "prefix": "fd07:0d34:7969::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JERRY-MNT"
+            },
+            {
                 "asn": 64901,
                 "prefix": "fd07:96ae:572e::/48",
                 "maxPrefixLength": 64,
@@ -10387,6 +10394,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CITADEL-MNT"
+            },
+            {
+                "asn": 4242423618,
+                "prefix": "172.20.51.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JERRY-MNT"
             },
             {
                 "asn": 4242423723,
