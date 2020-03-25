@@ -9472,6 +9472,13 @@
             "mnt-by": "TRVR-MNT"
         },
         {
+            "asn": "AS4242421987",
+            "prefix": "172.20.224.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LINSERVERS-MNT"
+        },
+        {
             "asn": "AS4242423965",
             "prefix": "172.20.227.0/27",
             "maxLength": 28,
@@ -14129,17 +14136,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "93d1ab6f2cc80849633a3927073f9c1d31f8dd8e",
-            "merge": "6378497a e35ae263",
-            "author": "jrb0001",
-            "date": "Tue, 24 Mar 2020 20:10:37 +0000",
-            "subject": "Merge branch 'as-set-200304' of burble/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/93d1ab6f2cc80849633a3927073f9c1d31f8dd8e",
-            "generated": "2020-03-24T20:20:29+00:00",
-            "valid": "2020-03-27T20:20:29+00:00"
+            "commit": "0ffe1682463b3e8c5ea955f9859d57cc0239d7e2",
+            "merge": "e48af5f4 29041754",
+            "author": "burble",
+            "date": "Tue, 24 Mar 2020 20:53:58 +0000",
+            "subject": "Merge branch 'master' of SCARLET/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0ffe1682463b3e8c5ea955f9859d57cc0239d7e2",
+            "generated": "2020-03-25T00:20:29+00:00",
+            "valid": "2020-03-28T00:20:29+00:00"
         },
-        "counts": 2018,
-        "generated": 1585081229,
-        "valid": 1585340429
+        "counts": 2019,
+        "generated": 1585095629,
+        "valid": 1585354829
     }
 }

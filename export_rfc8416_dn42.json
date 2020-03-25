@@ -9479,6 +9479,13 @@
                 "mnt-by": "TRVR-MNT"
             },
             {
+                "asn": 4242421987,
+                "prefix": "172.20.224.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LINSERVERS-MNT"
+            },
+            {
                 "asn": 4242423965,
                 "prefix": "172.20.227.0/27",
                 "maxPrefixLength": 28,
