@@ -14142,11 +14142,11 @@
             "date": "Tue, 24 Mar 2020 20:53:58 +0000",
             "subject": "Merge branch 'master' of SCARLET/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/0ffe1682463b3e8c5ea955f9859d57cc0239d7e2",
-            "generated": "2020-03-25T00:20:29+00:00",
-            "valid": "2020-03-28T00:20:29+00:00"
+            "generated": "2020-03-25T10:20:13+00:00",
+            "valid": "2020-03-28T10:20:13+00:00"
         },
         "counts": 2019,
-        "generated": 1585095629,
-        "valid": 1585354829
+        "generated": 1585131613,
+        "valid": 1585390813
     }
 }
