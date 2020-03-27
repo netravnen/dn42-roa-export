@@ -1142,6 +1142,13 @@
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
+                "asn": 4242422115,
+                "prefix": "fd32:b22c:b2ea::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ALPACA-MNT"
+            },
+            {
                 "asn": 4242420148,
                 "prefix": "fd32:c1ee:db11::/48",
                 "maxPrefixLength": 64,
@@ -6147,6 +6154,13 @@
                 "mnt-by": "RLKT-MNT"
             },
             {
+                "asn": 4242420186,
+                "prefix": "fdfd:a97f:d939:689f::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "CHENG-MNT"
+            },
+            {
                 "asn": 4242421501,
                 "prefix": "fdfd:adad:adad::/48",
                 "maxPrefixLength": 64,
@@ -9122,6 +9136,13 @@
                 "mnt-by": "NOB-MNT"
             },
             {
+                "asn": 4242423926,
+                "prefix": "172.20.190.80/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "PSM-MNT"
+            },
+            {
                 "asn": 4242420191,
                 "prefix": "172.20.191.64/27",
                 "maxPrefixLength": 28,
@@ -11117,6 +11138,13 @@
                 "mnt-by": "RMNTN-MNT"
             },
             {
+                "asn": 4242420186,
+                "prefix": "172.21.79.80/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHENG-MNT"
+            },
+            {
                 "asn": 4242422773,
                 "prefix": "172.21.79.96/27",
                 "maxPrefixLength": 28,
@@ -11451,6 +11479,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JULEZ-MNT"
+            },
+            {
+                "asn": 4242422115,
+                "prefix": "172.22.110.200/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "ALPACA-MNT"
             },
             {
                 "asn": 4242420808,

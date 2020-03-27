@@ -1135,6 +1135,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242422115",
+            "prefix": "fd32:b22c:b2ea::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ALPACA-MNT"
+        },
+        {
             "asn": "AS4242420148",
             "prefix": "fd32:c1ee:db11::/48",
             "maxLength": 64,
@@ -6140,6 +6147,13 @@
             "mnt-by": "RLKT-MNT"
         },
         {
+            "asn": "AS4242420186",
+            "prefix": "fdfd:a97f:d939:689f::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "CHENG-MNT"
+        },
+        {
             "asn": "AS4242421501",
             "prefix": "fdfd:adad:adad::/48",
             "maxLength": 64,
@@ -9115,6 +9129,13 @@
             "mnt-by": "NOB-MNT"
         },
         {
+            "asn": "AS4242423926",
+            "prefix": "172.20.190.80/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "PSM-MNT"
+        },
+        {
             "asn": "AS4242420191",
             "prefix": "172.20.191.64/27",
             "maxLength": 28,
@@ -11110,6 +11131,13 @@
             "mnt-by": "RMNTN-MNT"
         },
         {
+            "asn": "AS4242420186",
+            "prefix": "172.21.79.80/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CHENG-MNT"
+        },
+        {
             "asn": "AS4242422773",
             "prefix": "172.21.79.96/27",
             "maxLength": 28,
@@ -11444,6 +11472,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "JULEZ-MNT"
+        },
+        {
+            "asn": "AS4242422115",
+            "prefix": "172.22.110.200/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "ALPACA-MNT"
         },
         {
             "asn": "AS4242420808",
@@ -14150,17 +14185,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "29f89f602084774299f3503940dee1d6c439d792",
-            "merge": "59efa014 946ce07b",
+            "commit": "92896a6e865be1d504a8403eaf1b5d9acb647ba6",
+            "merge": "c24a78a0 89a970e5",
             "author": "burble",
-            "date": "Wed, 25 Mar 2020 20:31:09 +0000",
-            "subject": "Merge branch 'lfnet-updates' of littlefox/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/29f89f602084774299f3503940dee1d6c439d792",
-            "generated": "2020-03-26T20:20:04+00:00",
-            "valid": "2020-03-29T20:20:04+00:00"
+            "date": "Thu, 26 Mar 2020 22:54:54 +0000",
+            "subject": "Merge branch 'master' of psm/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/92896a6e865be1d504a8403eaf1b5d9acb647ba6",
+            "generated": "2020-03-27T00:20:25+00:00",
+            "valid": "2020-03-30T00:20:25+00:00"
         },
-        "counts": 2021,
-        "generated": 1585254004,
-        "valid": 1585513204
+        "counts": 2026,
+        "generated": 1585268425,
+        "valid": 1585527625
     }
 }
