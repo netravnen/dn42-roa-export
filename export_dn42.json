@@ -14191,11 +14191,11 @@
             "date": "Thu, 26 Mar 2020 22:54:54 +0000",
             "subject": "Merge branch 'master' of psm/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/92896a6e865be1d504a8403eaf1b5d9acb647ba6",
-            "generated": "2020-03-27T00:20:25+00:00",
-            "valid": "2020-03-30T00:20:25+00:00"
+            "generated": "2020-03-27T10:19:48+00:00",
+            "valid": "2020-03-30T10:19:48+00:00"
         },
         "counts": 2026,
-        "generated": 1585268425,
-        "valid": 1585527625
+        "generated": 1585304388,
+        "valid": 1585563588
     }
 }
