@@ -14226,11 +14226,11 @@
             "date": "Fri, 27 Mar 2020 23:41:25 +0000",
             "subject": "Merge branch 'master' of haha662/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/83cf7b7239bbc7a418c5833961d1682164b495b6",
-            "generated": "2020-03-28T00:20:20+00:00",
-            "valid": "2020-03-31T00:20:20+00:00"
+            "generated": "2020-03-28T10:19:45+00:00",
+            "valid": "2020-03-31T10:19:45+00:00"
         },
         "counts": 2031,
-        "generated": 1585354820,
-        "valid": 1585614020
+        "generated": 1585390785,
+        "valid": 1585649985
     }
 }
