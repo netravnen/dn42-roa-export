@@ -14248,17 +14248,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "bce5dbea5921f70cdce6e81005cef981ca80d32e",
-            "merge": "4ecb64a7 40730156",
+            "commit": "5078cd065f93d77c21b633730e9b5c5eeb459970",
+            "merge": "bce5dbea 90536a3d",
             "author": "burble",
-            "date": "Sat, 28 Mar 2020 20:30:22 +0000",
-            "subject": "Merge branch 'master' of c0g1tat10_tenebr1s/c0g_t3n into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/bce5dbea5921f70cdce6e81005cef981ca80d32e",
-            "generated": "2020-03-29T00:20:28+00:00",
-            "valid": "2020-04-01T00:20:28+00:00"
+            "date": "Sun, 29 Mar 2020 09:44:26 +0000",
+            "subject": "Merge branch 'master' of dn42fnk/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5078cd065f93d77c21b633730e9b5c5eeb459970",
+            "generated": "2020-03-29T10:20:39+00:00",
+            "valid": "2020-04-01T10:20:39+00:00"
         },
         "counts": 2035,
-        "generated": 1585441228,
-        "valid": 1585700428
+        "generated": 1585477239,
+        "valid": 1585736439
     }
 }
