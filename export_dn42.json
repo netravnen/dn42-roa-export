@@ -463,6 +463,13 @@
             "mnt-by": "REWBYSOFT-MNT"
         },
         {
+            "asn": "AS4242423468",
+            "prefix": "fd07:0369:6502::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "C0GT3N-MNT"
+        },
+        {
             "asn": "AS4242423618",
             "prefix": "fd07:0d34:7969::/48",
             "maxLength": 48,
@@ -4234,6 +4241,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NARNIA-MNT"
+        },
+        {
+            "asn": "AS4242420225",
+            "prefix": "fd9c:bee3:3694::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "WJZ-MNT"
         },
         {
             "asn": "AS4242421775",
@@ -8371,6 +8385,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "OXYGEN233-MNT"
+        },
+        {
+            "asn": "AS4242423468",
+            "prefix": "172.20.158.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "C0GT3N-MNT"
         },
         {
             "asn": "AS4242422878",
@@ -13875,6 +13896,13 @@
             "mnt-by": "DARKIT-MNT"
         },
         {
+            "asn": "AS4242420225",
+            "prefix": "172.23.248.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WJZ-MNT"
+        },
+        {
             "asn": "AS4242422480",
             "prefix": "172.23.248.192/28",
             "maxLength": 28,
@@ -14220,17 +14248,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "83cf7b7239bbc7a418c5833961d1682164b495b6",
-            "merge": "66cb464b 51658e99",
+            "commit": "bce5dbea5921f70cdce6e81005cef981ca80d32e",
+            "merge": "4ecb64a7 40730156",
             "author": "burble",
-            "date": "Fri, 27 Mar 2020 23:41:25 +0000",
-            "subject": "Merge branch 'master' of haha662/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/83cf7b7239bbc7a418c5833961d1682164b495b6",
-            "generated": "2020-03-28T20:20:09+00:00",
-            "valid": "2020-03-31T20:20:09+00:00"
+            "date": "Sat, 28 Mar 2020 20:30:22 +0000",
+            "subject": "Merge branch 'master' of c0g1tat10_tenebr1s/c0g_t3n into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/bce5dbea5921f70cdce6e81005cef981ca80d32e",
+            "generated": "2020-03-29T00:20:28+00:00",
+            "valid": "2020-04-01T00:20:28+00:00"
         },
-        "counts": 2031,
-        "generated": 1585426809,
-        "valid": 1585686009
+        "counts": 2035,
+        "generated": 1585441228,
+        "valid": 1585700428
     }
 }

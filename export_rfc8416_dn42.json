@@ -470,6 +470,13 @@
                 "mnt-by": "REWBYSOFT-MNT"
             },
             {
+                "asn": 4242423468,
+                "prefix": "fd07:0369:6502::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "C0GT3N-MNT"
+            },
+            {
                 "asn": 4242423618,
                 "prefix": "fd07:0d34:7969::/48",
                 "maxPrefixLength": 48,
@@ -4241,6 +4248,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NARNIA-MNT"
+            },
+            {
+                "asn": 4242420225,
+                "prefix": "fd9c:bee3:3694::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "WJZ-MNT"
             },
             {
                 "asn": 4242421775,
@@ -8378,6 +8392,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "OXYGEN233-MNT"
+            },
+            {
+                "asn": 4242423468,
+                "prefix": "172.20.158.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "C0GT3N-MNT"
             },
             {
                 "asn": 4242422878,
@@ -13880,6 +13901,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DARKIT-MNT"
+            },
+            {
+                "asn": 4242420225,
+                "prefix": "172.23.248.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WJZ-MNT"
             },
             {
                 "asn": 4242422480,
