@@ -4544,6 +4544,13 @@
             "mnt-by": "OXYGEN233-MNT"
         },
         {
+            "asn": "AS4242422545",
+            "prefix": "fda6:9506:01d5::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "OXYGEN233-MNT"
+        },
+        {
             "asn": "AS4242420469",
             "prefix": "fda7:a975:bfc2::/48",
             "maxLength": 64,
@@ -8381,6 +8388,13 @@
         },
         {
             "asn": "AS4242422541",
+            "prefix": "172.20.158.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "OXYGEN233-MNT"
+        },
+        {
+            "asn": "AS4242422545",
             "prefix": "172.20.158.64/27",
             "maxLength": 28,
             "ta": "DN42",
@@ -14248,17 +14262,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "5078cd065f93d77c21b633730e9b5c5eeb459970",
-            "merge": "bce5dbea 90536a3d",
+            "commit": "89610156be4dd015096fd4100e666cd29bd66af8",
+            "merge": "57b6e2de ffb31d57",
             "author": "burble",
-            "date": "Sun, 29 Mar 2020 09:44:26 +0000",
-            "subject": "Merge branch 'master' of dn42fnk/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5078cd065f93d77c21b633730e9b5c5eeb459970",
-            "generated": "2020-03-29T10:20:39+00:00",
-            "valid": "2020-04-01T10:20:39+00:00"
+            "date": "Sun, 29 Mar 2020 20:03:44 +0000",
+            "subject": "Merge branch 'master' of doxz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/89610156be4dd015096fd4100e666cd29bd66af8",
+            "generated": "2020-03-29T20:20:01+00:00",
+            "valid": "2020-04-01T20:20:01+00:00"
         },
-        "counts": 2035,
-        "generated": 1585477239,
-        "valid": 1585736439
+        "counts": 2037,
+        "generated": 1585513201,
+        "valid": 1585772401
     }
 }

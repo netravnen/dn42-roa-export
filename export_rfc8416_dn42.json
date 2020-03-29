@@ -4551,6 +4551,13 @@
                 "mnt-by": "OXYGEN233-MNT"
             },
             {
+                "asn": 4242422545,
+                "prefix": "fda6:9506:01d5::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "OXYGEN233-MNT"
+            },
+            {
                 "asn": 4242420469,
                 "prefix": "fda7:a975:bfc2::/48",
                 "maxPrefixLength": 64,
@@ -8388,6 +8395,13 @@
             },
             {
                 "asn": 4242422541,
+                "prefix": "172.20.158.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "OXYGEN233-MNT"
+            },
+            {
+                "asn": 4242422545,
                 "prefix": "172.20.158.64/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
