@@ -260,6 +260,13 @@
                 "mnt-by": "BT709-MNT"
             },
             {
+                "asn": 31867,
+                "prefix": "fd00:bad:a55::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SNT-MNT"
+            },
+            {
                 "asn": 4242420467,
                 "prefix": "fd00:bad:b00b::/64",
                 "maxPrefixLength": 64,
@@ -11829,6 +11836,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "IUT-BEZIERS-MNT"
+            },
+            {
+                "asn": 31867,
+                "prefix": "172.22.128.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SNT-MNT"
             },
             {
                 "asn": 4242420185,

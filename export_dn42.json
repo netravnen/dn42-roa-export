@@ -253,6 +253,13 @@
             "mnt-by": "BT709-MNT"
         },
         {
+            "asn": "AS31867",
+            "prefix": "fd00:bad:a55::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SNT-MNT"
+        },
+        {
             "asn": "AS4242420467",
             "prefix": "fd00:bad:b00b::/64",
             "maxLength": 64,
@@ -11824,6 +11831,13 @@
             "mnt-by": "IUT-BEZIERS-MNT"
         },
         {
+            "asn": "AS31867",
+            "prefix": "172.22.128.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SNT-MNT"
+        },
+        {
             "asn": "AS4242420185",
             "prefix": "172.22.128.128/27",
             "maxLength": 28,
@@ -14262,17 +14276,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "89610156be4dd015096fd4100e666cd29bd66af8",
-            "merge": "57b6e2de ffb31d57",
+            "commit": "9f0c1f289059b52535fc13f84c754ea1d0374b52",
+            "merge": "38c9eff2 225de6b6",
             "author": "burble",
-            "date": "Sun, 29 Mar 2020 20:03:44 +0000",
-            "subject": "Merge branch 'master' of doxz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/89610156be4dd015096fd4100e666cd29bd66af8",
-            "generated": "2020-03-30T10:20:06+00:00",
-            "valid": "2020-04-02T10:20:06+00:00"
+            "date": "Mon, 30 Mar 2020 18:21:00 +0000",
+            "subject": "Merge branch 'master' of snet2/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9f0c1f289059b52535fc13f84c754ea1d0374b52",
+            "generated": "2020-03-30T20:20:52+00:00",
+            "valid": "2020-04-02T20:20:52+00:00"
         },
-        "counts": 2037,
-        "generated": 1585563606,
-        "valid": 1585822806
+        "counts": 2039,
+        "generated": 1585599652,
+        "valid": 1585858852
     }
 }
