@@ -14297,17 +14297,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "ab6b47e18fe0649e6cebf131233c70e7dc3c9faf",
-            "merge": "6d5381aa 86420b3b",
+            "commit": "fbf98ae0d34ff46f4cfc3ee4ecaac3379da1f9b8",
+            "merge": "ab6b47e1 76481d3e",
             "author": "burble",
-            "date": "Tue, 31 Mar 2020 08:01:40 +0000",
-            "subject": "Merge branch 'master' of santost12/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ab6b47e18fe0649e6cebf131233c70e7dc3c9faf",
-            "generated": "2020-03-31T10:20:53+00:00",
-            "valid": "2020-04-03T10:20:53+00:00"
+            "date": "Tue, 31 Mar 2020 19:02:35 +0000",
+            "subject": "Merge branch 'master' of zotan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/fbf98ae0d34ff46f4cfc3ee4ecaac3379da1f9b8",
+            "generated": "2020-03-31T20:20:28+00:00",
+            "valid": "2020-04-03T20:20:28+00:00"
         },
         "counts": 2042,
-        "generated": 1585650053,
-        "valid": 1585909253
+        "generated": 1585686028,
+        "valid": 1585945228
     }
 }
