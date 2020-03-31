@@ -2710,6 +2710,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423914",
+            "prefix": "fd42:d42:d42:54::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64600",
             "prefix": "fd42:d42:d42:6667::/64",
             "maxLength": 64,
@@ -7611,6 +7618,13 @@
         },
         {
             "asn": "AS4242422601",
+            "prefix": "172.20.0.53/32",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242423914",
             "prefix": "172.20.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
@@ -14276,17 +14290,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9f0c1f289059b52535fc13f84c754ea1d0374b52",
-            "merge": "38c9eff2 225de6b6",
+            "commit": "d6a0c8951488042d6060b2b06f3e3e7447b9d706",
+            "merge": "569708a2 40ae6e43",
             "author": "burble",
-            "date": "Mon, 30 Mar 2020 18:21:00 +0000",
-            "subject": "Merge branch 'master' of snet2/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9f0c1f289059b52535fc13f84c754ea1d0374b52",
-            "generated": "2020-03-30T20:20:52+00:00",
-            "valid": "2020-04-02T20:20:52+00:00"
+            "date": "Mon, 30 Mar 2020 20:59:39 +0000",
+            "subject": "Merge branch 'master' of Kioubit/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d6a0c8951488042d6060b2b06f3e3e7447b9d706",
+            "generated": "2020-03-31T00:20:09+00:00",
+            "valid": "2020-04-03T00:20:09+00:00"
         },
-        "counts": 2039,
-        "generated": 1585599652,
-        "valid": 1585858852
+        "counts": 2041,
+        "generated": 1585614009,
+        "valid": 1585873209
     }
 }

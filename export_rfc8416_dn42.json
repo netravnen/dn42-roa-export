@@ -2717,6 +2717,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423914,
+                "prefix": "fd42:d42:d42:54::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64600,
                 "prefix": "fd42:d42:d42:6667::/64",
                 "maxPrefixLength": 64,
@@ -7618,6 +7625,13 @@
             },
             {
                 "asn": 4242422601,
+                "prefix": "172.20.0.53/32",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242423914,
                 "prefix": "172.20.0.53/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
