@@ -9108,6 +9108,13 @@
             "mnt-by": "JOSEPHB-MNT"
         },
         {
+            "asn": "AS4242420661",
+            "prefix": "172.20.184.240/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SANTOST12-MNT"
+        },
+        {
             "asn": "AS4242423884",
             "prefix": "172.20.184.32/27",
             "maxLength": 28,
@@ -14290,17 +14297,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d6a0c8951488042d6060b2b06f3e3e7447b9d706",
-            "merge": "569708a2 40ae6e43",
+            "commit": "ab6b47e18fe0649e6cebf131233c70e7dc3c9faf",
+            "merge": "6d5381aa 86420b3b",
             "author": "burble",
-            "date": "Mon, 30 Mar 2020 20:59:39 +0000",
-            "subject": "Merge branch 'master' of Kioubit/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d6a0c8951488042d6060b2b06f3e3e7447b9d706",
-            "generated": "2020-03-31T00:20:09+00:00",
-            "valid": "2020-04-03T00:20:09+00:00"
+            "date": "Tue, 31 Mar 2020 08:01:40 +0000",
+            "subject": "Merge branch 'master' of santost12/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ab6b47e18fe0649e6cebf131233c70e7dc3c9faf",
+            "generated": "2020-03-31T10:20:53+00:00",
+            "valid": "2020-04-03T10:20:53+00:00"
         },
-        "counts": 2041,
-        "generated": 1585614009,
-        "valid": 1585873209
+        "counts": 2042,
+        "generated": 1585650053,
+        "valid": 1585909253
     }
 }
