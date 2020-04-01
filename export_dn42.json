@@ -4306,6 +4306,13 @@
             "mnt-by": "FLORIANB-MNT"
         },
         {
+            "asn": "AS4242423565",
+            "prefix": "fd9e:b565:def3::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BAUDLORD-MNT"
+        },
+        {
             "asn": "AS4242422251",
             "prefix": "fd9e:e609:dde2::/48",
             "maxLength": 48,
@@ -14297,17 +14304,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "fbf98ae0d34ff46f4cfc3ee4ecaac3379da1f9b8",
-            "merge": "ab6b47e1 76481d3e",
+            "commit": "7127b2654659167c75104cee865cc98f45819299",
+            "merge": "85d6dd26 45ae6850",
             "author": "burble",
-            "date": "Tue, 31 Mar 2020 19:02:35 +0000",
-            "subject": "Merge branch 'master' of zotan/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/fbf98ae0d34ff46f4cfc3ee4ecaac3379da1f9b8",
-            "generated": "2020-03-31T20:20:28+00:00",
-            "valid": "2020-04-03T20:20:28+00:00"
+            "date": "Tue, 31 Mar 2020 21:12:41 +0000",
+            "subject": "Merge branch 'hotfix/fix_reame_ulagen_link' of netravnen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7127b2654659167c75104cee865cc98f45819299",
+            "generated": "2020-04-01T00:20:25+00:00",
+            "valid": "2020-04-04T00:20:25+00:00"
         },
-        "counts": 2042,
-        "generated": 1585686028,
-        "valid": 1585945228
+        "counts": 2043,
+        "generated": 1585700425,
+        "valid": 1585959625
     }
 }

@@ -4313,6 +4313,13 @@
                 "mnt-by": "FLORIANB-MNT"
             },
             {
+                "asn": 4242423565,
+                "prefix": "fd9e:b565:def3::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BAUDLORD-MNT"
+            },
+            {
                 "asn": 4242422251,
                 "prefix": "fd9e:e609:dde2::/48",
                 "maxPrefixLength": 48,

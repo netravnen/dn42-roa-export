@@ -20,12 +20,12 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit fbf98ae0d34ff46f4cfc3ee4ecaac3379da1f9b8
-Merge: ab6b47e1 76481d3e
+commit 7127b2654659167c75104cee865cc98f45819299
+Merge: 85d6dd26 45ae6850
 Author: burble
-Date:   2020-03-31 19:02:35 +0000
+Date:   2020-03-31 21:12:41 +0000
 
-    Merge branch 'master' of zotan/registry into master
+    Merge branch 'hotfix/fix_reame_ulagen_link' of netravnen/dn42-registry into master
 ```
 
 ## crontab
@@ -39,10 +39,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1135
-- ROAs IPv6:  907
-- ROAs total: 2042
+- ROAs IPv6:  908
+- ROAs total: 2043
 
-[0]: https://git.dn42.us/dn42/registry/commit/fbf98ae0d34ff46f4cfc3ee4ecaac3379da1f9b8
+[0]: https://git.dn42.us/dn42/registry/commit/7127b2654659167c75104cee865cc98f45819299
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
