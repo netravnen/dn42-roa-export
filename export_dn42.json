@@ -2672,35 +2672,42 @@
             "prefix": "fd42:d42:d42:53::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "KRSTN-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242420022",
             "prefix": "fd42:d42:d42:53::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "KRSTN-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242423955",
             "prefix": "fd42:d42:d42:53::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "KRSTN-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242420123",
             "prefix": "fd42:d42:d42:53::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "KRSTN-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242423723",
             "prefix": "fd42:d42:d42:53::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "KRSTN-MNT"
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242422601",
+            "prefix": "fd42:d42:d42:53::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242420119",
@@ -12899,42 +12906,49 @@
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS64737",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242420123",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242420122",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS76198",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242423723",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "GRMML-MNT"
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242422601",
+            "prefix": "172.23.0.53/32",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242420123",
@@ -14318,17 +14332,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "df2a3bb9ec0550c5eb82d2b4220c7ee5038bb707",
-            "merge": "afc50901 95a0ecdf",
+            "commit": "770182f54254a89935c6e846ebaacb5b90db0a7c",
+            "merge": "df2a3bb9 c4322c65",
             "author": "burble",
-            "date": "Wed, 1 Apr 2020 07:37:28 +0000",
-            "subject": "Merge branch 'master' of Napsterbater/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/df2a3bb9ec0550c5eb82d2b4220c7ee5038bb707",
-            "generated": "2020-04-01T10:20:17+00:00",
-            "valid": "2020-04-04T10:20:17+00:00"
+            "date": "Wed, 1 Apr 2020 10:40:37 +0000",
+            "subject": "Merge branch 'master' of iedon/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/770182f54254a89935c6e846ebaacb5b90db0a7c",
+            "generated": "2020-04-01T20:20:31+00:00",
+            "valid": "2020-04-04T20:20:31+00:00"
         },
-        "counts": 2045,
-        "generated": 1585736417,
-        "valid": 1585995617
+        "counts": 2047,
+        "generated": 1585772431,
+        "valid": 1586031631
     }
 }
