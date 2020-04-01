@@ -2122,6 +2122,13 @@
             "mnt-by": "NULLL-MNT"
         },
         {
+            "asn": "AS4242421824",
+            "prefix": "fd42:4f81:ecf4::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NETSPEEDY-MNT"
+        },
+        {
             "asn": "AS4242421408",
             "prefix": "fd42:53fb:543a::/48",
             "maxLength": 64,
@@ -13819,6 +13826,13 @@
             "mnt-by": "KUS-MNT"
         },
         {
+            "asn": "AS4242421824",
+            "prefix": "172.23.230.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NETSPEEDY-MNT"
+        },
+        {
             "asn": "AS4242422037",
             "prefix": "172.23.231.0/26",
             "maxLength": 28,
@@ -14304,17 +14318,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "7127b2654659167c75104cee865cc98f45819299",
-            "merge": "85d6dd26 45ae6850",
+            "commit": "df2a3bb9ec0550c5eb82d2b4220c7ee5038bb707",
+            "merge": "afc50901 95a0ecdf",
             "author": "burble",
-            "date": "Tue, 31 Mar 2020 21:12:41 +0000",
-            "subject": "Merge branch 'hotfix/fix_reame_ulagen_link' of netravnen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7127b2654659167c75104cee865cc98f45819299",
-            "generated": "2020-04-01T00:20:25+00:00",
-            "valid": "2020-04-04T00:20:25+00:00"
+            "date": "Wed, 1 Apr 2020 07:37:28 +0000",
+            "subject": "Merge branch 'master' of Napsterbater/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/df2a3bb9ec0550c5eb82d2b4220c7ee5038bb707",
+            "generated": "2020-04-01T10:20:17+00:00",
+            "valid": "2020-04-04T10:20:17+00:00"
         },
-        "counts": 2043,
-        "generated": 1585700425,
-        "valid": 1585959625
+        "counts": 2045,
+        "generated": 1585736417,
+        "valid": 1585995617
     }
 }

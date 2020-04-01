@@ -2129,6 +2129,13 @@
                 "mnt-by": "NULLL-MNT"
             },
             {
+                "asn": 4242421824,
+                "prefix": "fd42:4f81:ecf4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NETSPEEDY-MNT"
+            },
+            {
                 "asn": 4242421408,
                 "prefix": "fd42:53fb:543a::/48",
                 "maxPrefixLength": 64,
@@ -13824,6 +13831,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "KUS-MNT"
+            },
+            {
+                "asn": 4242421824,
+                "prefix": "172.23.230.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NETSPEEDY-MNT"
             },
             {
                 "asn": 4242422037,
