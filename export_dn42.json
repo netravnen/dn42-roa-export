@@ -14332,17 +14332,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "770182f54254a89935c6e846ebaacb5b90db0a7c",
-            "merge": "df2a3bb9 c4322c65",
+            "commit": "90ce85377317d2486f5f45b29b12422e487e4795",
+            "merge": "1c0453b7 81434b2a",
             "author": "burble",
-            "date": "Wed, 1 Apr 2020 10:40:37 +0000",
-            "subject": "Merge branch 'master' of iedon/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/770182f54254a89935c6e846ebaacb5b90db0a7c",
-            "generated": "2020-04-02T10:19:48+00:00",
-            "valid": "2020-04-05T10:19:48+00:00"
+            "date": "Thu, 2 Apr 2020 19:30:13 +0000",
+            "subject": "Merge branch 'master' of doxz/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/90ce85377317d2486f5f45b29b12422e487e4795",
+            "generated": "2020-04-02T20:20:59+00:00",
+            "valid": "2020-04-05T20:20:59+00:00"
         },
         "counts": 2047,
-        "generated": 1585822788,
-        "valid": 1586081988
+        "generated": 1585858859,
+        "valid": 1586118059
     }
 }
