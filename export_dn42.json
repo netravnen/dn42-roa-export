@@ -14338,11 +14338,11 @@
             "date": "Wed, 1 Apr 2020 10:40:37 +0000",
             "subject": "Merge branch 'master' of iedon/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/770182f54254a89935c6e846ebaacb5b90db0a7c",
-            "generated": "2020-04-01T20:20:31+00:00",
-            "valid": "2020-04-04T20:20:31+00:00"
+            "generated": "2020-04-02T00:20:03+00:00",
+            "valid": "2020-04-05T00:20:03+00:00"
         },
         "counts": 2047,
-        "generated": 1585772431,
-        "valid": 1586031631
+        "generated": 1585786803,
+        "valid": 1586046003
     }
 }
