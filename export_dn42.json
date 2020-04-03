@@ -14338,11 +14338,11 @@
             "date": "Thu, 2 Apr 2020 19:30:13 +0000",
             "subject": "Merge branch 'master' of doxz/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/90ce85377317d2486f5f45b29b12422e487e4795",
-            "generated": "2020-04-03T10:20:24+00:00",
-            "valid": "2020-04-06T10:20:24+00:00"
+            "generated": "2020-04-03T20:19:57+00:00",
+            "valid": "2020-04-06T20:19:57+00:00"
         },
         "counts": 2047,
-        "generated": 1585909224,
-        "valid": 1586168424
+        "generated": 1585945197,
+        "valid": 1586204397
     }
 }
