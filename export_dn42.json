@@ -14332,17 +14332,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "90ce85377317d2486f5f45b29b12422e487e4795",
-            "merge": "1c0453b7 81434b2a",
+            "commit": "459fe6c3dcc6ced5f2f4a8fe21c4756f43930623",
+            "merge": "90ce8537 73315d91",
             "author": "burble",
-            "date": "Thu, 2 Apr 2020 19:30:13 +0000",
-            "subject": "Merge branch 'master' of doxz/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/90ce85377317d2486f5f45b29b12422e487e4795",
-            "generated": "2020-04-03T20:19:57+00:00",
-            "valid": "2020-04-06T20:19:57+00:00"
+            "date": "Fri, 3 Apr 2020 21:28:48 +0000",
+            "subject": "Merge branch 'dn42-zotan' of zotan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/459fe6c3dcc6ced5f2f4a8fe21c4756f43930623",
+            "generated": "2020-04-04T00:20:09+00:00",
+            "valid": "2020-04-07T00:20:09+00:00"
         },
         "counts": 2047,
-        "generated": 1585945197,
-        "valid": 1586204397
+        "generated": 1585959609,
+        "valid": 1586218809
     }
 }
