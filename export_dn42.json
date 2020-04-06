@@ -14332,17 +14332,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "f85a6dae6714a009a30b2b8f04d889d990ba2b81",
-            "merge": "459fe6c3 b7cec18c",
+            "commit": "37884d6ba18378e89bece41f0631b268be157fbf",
+            "merge": "2aee1e6c 896e07d6",
             "author": "burble",
-            "date": "Sun, 5 Apr 2020 17:17:56 +0000",
-            "subject": "Merge branch 'master' of waxman/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f85a6dae6714a009a30b2b8f04d889d990ba2b81",
-            "generated": "2020-04-05T20:20:08+00:00",
-            "valid": "2020-04-08T20:20:08+00:00"
+            "date": "Sun, 5 Apr 2020 20:46:03 +0000",
+            "subject": "Merge branch 'dn42-zotan' of zotan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/37884d6ba18378e89bece41f0631b268be157fbf",
+            "generated": "2020-04-06T00:20:21+00:00",
+            "valid": "2020-04-09T00:20:21+00:00"
         },
         "counts": 2047,
-        "generated": 1586118008,
-        "valid": 1586377208
+        "generated": 1586132421,
+        "valid": 1586391621
     }
 }
