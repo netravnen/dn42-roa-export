@@ -20,12 +20,12 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 5be2f2842d88c9c92d5a8e1654ed76a5641cd92d
-Merge: a0e69b96 0fc3d9ec
+commit 5965a6d6e4d046d841365ceefca96e986ac413c7
+Merge: a4b56c6d f442d681
 Author: burble
-Date:   2020-04-06 09:23:04 +0000
+Date:   2020-04-06 19:04:23 +0000
 
-    Merge branch 'master' of yangfl/registry into master
+    Merge branch 'master' of firehazard/registry into master
 ```
 
 ## crontab
@@ -38,11 +38,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1140
-- ROAs IPv6:  912
-- ROAs total: 2052
+- ROAs IPv4:  1134
+- ROAs IPv6:  909
+- ROAs total: 2043
 
-[0]: https://git.dn42.us/dn42/registry/commit/5be2f2842d88c9c92d5a8e1654ed76a5641cd92d
+[0]: https://git.dn42.us/dn42/registry/commit/5965a6d6e4d046d841365ceefca96e986ac413c7
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

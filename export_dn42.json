@@ -2679,52 +2679,17 @@
             "prefix": "fd42:d42:d42:53::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242420022",
-            "prefix": "fd42:d42:d42:53::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242423955",
-            "prefix": "fd42:d42:d42:53::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242420123",
-            "prefix": "fd42:d42:d42:53::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242423723",
-            "prefix": "fd42:d42:d42:53::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "DN42-MNT"
         },
         {
             "asn": "AS4242422601",
             "prefix": "fd42:d42:d42:53::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242420119",
-            "prefix": "fd42:d42:d42:54::/64",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242422601",
+            "asn": "AS4242420119",
             "prefix": "fd42:d42:d42:54::/64",
             "maxLength": 64,
             "ta": "DN42",
@@ -5342,6 +5307,13 @@
             "mnt-by": "SKID-MNT"
         },
         {
+            "asn": "AS4242422077",
+            "prefix": "fdd0:77f2:44de::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FEU-MNT"
+        },
+        {
             "asn": "AS4242423843",
             "prefix": "fdd0:c468:8eb1::/48",
             "maxLength": 64,
@@ -5655,6 +5627,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JFRED-MNT"
+        },
+        {
+            "asn": "AS4242422103",
+            "prefix": "fde6:dee3:615d::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242422777",
@@ -7652,13 +7631,6 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242422601",
-            "prefix": "172.20.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS4242423914",
             "prefix": "172.20.0.53/32",
             "maxLength": 32,
@@ -8763,6 +8735,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "COSMIC-MNT"
+        },
+        {
+            "asn": "AS4242422103",
+            "prefix": "172.20.171.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242421564",
@@ -10858,6 +10837,13 @@
             "mnt-by": "DDPO-MNT"
         },
         {
+            "asn": "AS0",
+            "prefix": "172.21.0.53/32",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242423737",
             "prefix": "172.21.100.0/28",
             "maxLength": 28,
@@ -11278,6 +11264,13 @@
             "mnt-by": "FICO-MNT"
         },
         {
+            "asn": "AS4242422077",
+            "prefix": "172.21.80.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FEU-MNT"
+        },
+        {
             "asn": "AS4242422381",
             "prefix": "172.21.84.0/27",
             "maxLength": 28,
@@ -11453,32 +11446,11 @@
             "mnt-by": "KRSTN-MNT"
         },
         {
-            "asn": "AS64737",
+            "asn": "AS0",
             "prefix": "172.22.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "BLAZING-MNT"
-        },
-        {
-            "asn": "AS4242420123",
-            "prefix": "172.22.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BLAZING-MNT"
-        },
-        {
-            "asn": "AS4242420321",
-            "prefix": "172.22.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BLAZING-MNT"
-        },
-        {
-            "asn": "AS4242420022",
-            "prefix": "172.22.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BLAZING-MNT"
+            "mnt-by": "DN42-MNT"
         },
         {
             "asn": "AS56662",
@@ -12923,53 +12895,18 @@
             "mnt-by": "TOMBII-DN42-MNT"
         },
         {
-            "asn": "AS4242420022",
-            "prefix": "172.23.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
             "asn": "AS64737",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242420123",
-            "prefix": "172.23.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242420122",
-            "prefix": "172.23.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS76198",
-            "prefix": "172.23.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
-        },
-        {
-            "asn": "AS4242423723",
-            "prefix": "172.23.0.53/32",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "DN42-MNT"
         },
         {
             "asn": "AS4242422601",
             "prefix": "172.23.0.53/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "DN42-MNT"
         },
         {
             "asn": "AS4242420123",
@@ -14367,17 +14304,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "5be2f2842d88c9c92d5a8e1654ed76a5641cd92d",
-            "merge": "a0e69b96 0fc3d9ec",
+            "commit": "5965a6d6e4d046d841365ceefca96e986ac413c7",
+            "merge": "a4b56c6d f442d681",
             "author": "burble",
-            "date": "Mon, 6 Apr 2020 09:23:04 +0000",
-            "subject": "Merge branch 'master' of yangfl/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5be2f2842d88c9c92d5a8e1654ed76a5641cd92d",
-            "generated": "2020-04-06T10:20:27+00:00",
-            "valid": "2020-04-09T10:20:27+00:00"
+            "date": "Mon, 6 Apr 2020 19:04:23 +0000",
+            "subject": "Merge branch 'master' of firehazard/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5965a6d6e4d046d841365ceefca96e986ac413c7",
+            "generated": "2020-04-06T20:20:39+00:00",
+            "valid": "2020-04-09T20:20:39+00:00"
         },
-        "counts": 2052,
-        "generated": 1586168427,
-        "valid": 1586427627
+        "counts": 2043,
+        "generated": 1586204439,
+        "valid": 1586463639
     }
 }

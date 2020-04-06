@@ -2686,52 +2686,17 @@
                 "prefix": "fd42:d42:d42:53::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242420022,
-                "prefix": "fd42:d42:d42:53::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242423955,
-                "prefix": "fd42:d42:d42:53::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242420123,
-                "prefix": "fd42:d42:d42:53::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242423723,
-                "prefix": "fd42:d42:d42:53::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
+                "mnt-by": "DN42-MNT"
             },
             {
                 "asn": 4242422601,
                 "prefix": "fd42:d42:d42:53::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242420119,
-                "prefix": "fd42:d42:d42:54::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242422601,
+                "asn": 4242420119,
                 "prefix": "fd42:d42:d42:54::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
@@ -5349,6 +5314,13 @@
                 "mnt-by": "SKID-MNT"
             },
             {
+                "asn": 4242422077,
+                "prefix": "fdd0:77f2:44de::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FEU-MNT"
+            },
+            {
                 "asn": 4242423843,
                 "prefix": "fdd0:c468:8eb1::/48",
                 "maxPrefixLength": 64,
@@ -5662,6 +5634,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JFRED-MNT"
+            },
+            {
+                "asn": 4242422103,
+                "prefix": "fde6:dee3:615d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422777,
@@ -7659,13 +7638,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242422601,
-                "prefix": "172.20.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 4242423914,
                 "prefix": "172.20.0.53/32",
                 "maxPrefixLength": 32,
@@ -8770,6 +8742,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "COSMIC-MNT"
+            },
+            {
+                "asn": 4242422103,
+                "prefix": "172.20.171.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242421564,
@@ -10865,6 +10844,13 @@
                 "mnt-by": "DDPO-MNT"
             },
             {
+                "asn": 0,
+                "prefix": "172.21.0.53/32",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242423737,
                 "prefix": "172.21.100.0/28",
                 "maxPrefixLength": 28,
@@ -11285,6 +11271,13 @@
                 "mnt-by": "FICO-MNT"
             },
             {
+                "asn": 4242422077,
+                "prefix": "172.21.80.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FEU-MNT"
+            },
+            {
                 "asn": 4242422381,
                 "prefix": "172.21.84.0/27",
                 "maxPrefixLength": 28,
@@ -11460,32 +11453,11 @@
                 "mnt-by": "KRSTN-MNT"
             },
             {
-                "asn": 64737,
+                "asn": 0,
                 "prefix": "172.22.0.53/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "BLAZING-MNT"
-            },
-            {
-                "asn": 4242420123,
-                "prefix": "172.22.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BLAZING-MNT"
-            },
-            {
-                "asn": 4242420321,
-                "prefix": "172.22.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BLAZING-MNT"
-            },
-            {
-                "asn": 4242420022,
-                "prefix": "172.22.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BLAZING-MNT"
+                "mnt-by": "DN42-MNT"
             },
             {
                 "asn": 56662,
@@ -12930,53 +12902,18 @@
                 "mnt-by": "TOMBII-DN42-MNT"
             },
             {
-                "asn": 4242420022,
-                "prefix": "172.23.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
                 "asn": 64737,
                 "prefix": "172.23.0.53/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242420123,
-                "prefix": "172.23.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242420122,
-                "prefix": "172.23.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 76198,
-                "prefix": "172.23.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
-            },
-            {
-                "asn": 4242423723,
-                "prefix": "172.23.0.53/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
+                "mnt-by": "DN42-MNT"
             },
             {
                 "asn": 4242422601,
                 "prefix": "172.23.0.53/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "BURBLE-MNT"
+                "mnt-by": "DN42-MNT"
             },
             {
                 "asn": 4242420123,
