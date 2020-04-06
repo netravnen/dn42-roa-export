@@ -1891,6 +1891,13 @@
             "mnt-by": "PANKY-MNT"
         },
         {
+            "asn": "AS4242421375",
+            "prefix": "fd42:4242:1375::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ERI-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd42:4242:17::/48",
             "maxLength": 64,
@@ -2771,6 +2778,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242421050",
+            "prefix": "fd42:d42:d42:9001::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NAPSTERBATER-MNT"
         },
         {
             "asn": "AS4242420022",
@@ -11471,21 +11485,28 @@
             "prefix": "172.22.0.94/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "DRIXTER-MNT"
+            "mnt-by": "NAPSTERBATER-MNT"
         },
         {
             "asn": "AS4242420077",
             "prefix": "172.22.0.94/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "DRIXTER-MNT"
+            "mnt-by": "NAPSTERBATER-MNT"
         },
         {
             "asn": "AS4242420022",
             "prefix": "172.22.0.94/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "DRIXTER-MNT"
+            "mnt-by": "NAPSTERBATER-MNT"
+        },
+        {
+            "asn": "AS4242421050",
+            "prefix": "172.22.0.94/32",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "NAPSTERBATER-MNT"
         },
         {
             "asn": "AS76198",
@@ -14183,6 +14204,20 @@
             "mnt-by": "STLNET-MNT"
         },
         {
+            "asn": "AS4242421375",
+            "prefix": "172.23.64.0/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ERI-MNT"
+        },
+        {
+            "asn": "AS4242421374",
+            "prefix": "172.23.64.128/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ERI-MNT"
+        },
+        {
             "asn": "AS4242420022",
             "prefix": "172.23.67.0/25",
             "maxLength": 28,
@@ -14332,17 +14367,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "37884d6ba18378e89bece41f0631b268be157fbf",
-            "merge": "2aee1e6c 896e07d6",
+            "commit": "5be2f2842d88c9c92d5a8e1654ed76a5641cd92d",
+            "merge": "a0e69b96 0fc3d9ec",
             "author": "burble",
-            "date": "Sun, 5 Apr 2020 20:46:03 +0000",
-            "subject": "Merge branch 'dn42-zotan' of zotan/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/37884d6ba18378e89bece41f0631b268be157fbf",
-            "generated": "2020-04-06T00:20:21+00:00",
-            "valid": "2020-04-09T00:20:21+00:00"
+            "date": "Mon, 6 Apr 2020 09:23:04 +0000",
+            "subject": "Merge branch 'master' of yangfl/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5be2f2842d88c9c92d5a8e1654ed76a5641cd92d",
+            "generated": "2020-04-06T10:20:27+00:00",
+            "valid": "2020-04-09T10:20:27+00:00"
         },
-        "counts": 2047,
-        "generated": 1586132421,
-        "valid": 1586391621
+        "counts": 2052,
+        "generated": 1586168427,
+        "valid": 1586427627
     }
 }

@@ -1898,6 +1898,13 @@
                 "mnt-by": "PANKY-MNT"
             },
             {
+                "asn": 4242421375,
+                "prefix": "fd42:4242:1375::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ERI-MNT"
+            },
+            {
                 "asn": 4242420017,
                 "prefix": "fd42:4242:17::/48",
                 "maxPrefixLength": 64,
@@ -2778,6 +2785,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242421050,
+                "prefix": "fd42:d42:d42:9001::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NAPSTERBATER-MNT"
             },
             {
                 "asn": 4242420022,
@@ -11478,21 +11492,28 @@
                 "prefix": "172.22.0.94/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "DRIXTER-MNT"
+                "mnt-by": "NAPSTERBATER-MNT"
             },
             {
                 "asn": 4242420077,
                 "prefix": "172.22.0.94/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "DRIXTER-MNT"
+                "mnt-by": "NAPSTERBATER-MNT"
             },
             {
                 "asn": 4242420022,
                 "prefix": "172.22.0.94/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "DRIXTER-MNT"
+                "mnt-by": "NAPSTERBATER-MNT"
+            },
+            {
+                "asn": 4242421050,
+                "prefix": "172.22.0.94/32",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "NAPSTERBATER-MNT"
             },
             {
                 "asn": 76198,
@@ -14188,6 +14209,20 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "STLNET-MNT"
+            },
+            {
+                "asn": 4242421375,
+                "prefix": "172.23.64.0/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ERI-MNT"
+            },
+            {
+                "asn": 4242421374,
+                "prefix": "172.23.64.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ERI-MNT"
             },
             {
                 "asn": 4242420022,
