@@ -14310,11 +14310,11 @@
             "date": "Mon, 6 Apr 2020 19:04:23 +0000",
             "subject": "Merge branch 'master' of firehazard/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/5965a6d6e4d046d841365ceefca96e986ac413c7",
-            "generated": "2020-04-07T10:19:46+00:00",
-            "valid": "2020-04-10T10:19:46+00:00"
+            "generated": "2020-04-07T20:19:50+00:00",
+            "valid": "2020-04-10T20:19:50+00:00"
         },
         "counts": 2043,
-        "generated": 1586254786,
-        "valid": 1586513986
+        "generated": 1586290790,
+        "valid": 1586549990
     }
 }
