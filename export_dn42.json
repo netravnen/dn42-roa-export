@@ -407,6 +407,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420309",
+            "prefix": "fd03:4de4:6baa::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HIGHER-MNT"
+        },
+        {
             "asn": "AS4242421928",
             "prefix": "fd03:7e46:2707::/48",
             "maxLength": 64,
@@ -3466,27 +3473,6 @@
             "mnt-by": "DONUTS-MNT"
         },
         {
-            "asn": "AS64654",
-            "prefix": "fd63:1e39:6f73:2929::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "fd63:1e39:6f73:2929::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
-            "prefix": "fd63:1e39:6f73:2929::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS64697",
             "prefix": "fd63:1e39:6f73::/48",
             "maxLength": 64,
@@ -4962,6 +4948,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "TSYS-MNT"
+        },
+        {
+            "asn": "AS4242423636",
+            "prefix": "fdc2:752c:29d1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SHIKI-MNT"
         },
         {
             "asn": "AS4242420789",
@@ -9610,6 +9603,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "AX206G-MNT"
+        },
+        {
+            "asn": "AS4242423636",
+            "prefix": "172.20.227.112/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SHIKI-MNT"
         },
         {
             "asn": "AS4242422543",
@@ -14304,17 +14304,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "5965a6d6e4d046d841365ceefca96e986ac413c7",
-            "merge": "a4b56c6d f442d681",
+            "commit": "80de426e7bb139861303de673ceec93d64c8da7b",
+            "merge": "aa5112a7 f741ba3f",
             "author": "burble",
-            "date": "Mon, 6 Apr 2020 19:04:23 +0000",
-            "subject": "Merge branch 'master' of firehazard/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5965a6d6e4d046d841365ceefca96e986ac413c7",
-            "generated": "2020-04-08T00:19:45+00:00",
-            "valid": "2020-04-11T00:19:45+00:00"
+            "date": "Wed, 8 Apr 2020 07:56:08 +0000",
+            "subject": "Merge branch 'master' of shiki7/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/80de426e7bb139861303de673ceec93d64c8da7b",
+            "generated": "2020-04-08T10:20:15+00:00",
+            "valid": "2020-04-11T10:20:15+00:00"
         },
         "counts": 2043,
-        "generated": 1586305185,
-        "valid": 1586564385
+        "generated": 1586341215,
+        "valid": 1586600415
     }
 }

@@ -414,6 +414,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420309,
+                "prefix": "fd03:4de4:6baa::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HIGHER-MNT"
+            },
+            {
                 "asn": 4242421928,
                 "prefix": "fd03:7e46:2707::/48",
                 "maxPrefixLength": 64,
@@ -3473,27 +3480,6 @@
                 "mnt-by": "DONUTS-MNT"
             },
             {
-                "asn": 64654,
-                "prefix": "fd63:1e39:6f73:2929::/64",
-                "maxPrefixLength": 64,
-                "source": "CHAOSVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4242422718,
-                "prefix": "fd63:1e39:6f73:2929::/64",
-                "maxPrefixLength": 64,
-                "source": "CHAOSVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4242422480,
-                "prefix": "fd63:1e39:6f73:2929::/64",
-                "maxPrefixLength": 64,
-                "source": "CHAOSVPN",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 64697,
                 "prefix": "fd63:1e39:6f73::/48",
                 "maxPrefixLength": 64,
@@ -4969,6 +4955,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TSYS-MNT"
+            },
+            {
+                "asn": 4242423636,
+                "prefix": "fdc2:752c:29d1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SHIKI-MNT"
             },
             {
                 "asn": 4242420789,
@@ -9617,6 +9610,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "AX206G-MNT"
+            },
+            {
+                "asn": 4242423636,
+                "prefix": "172.20.227.112/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SHIKI-MNT"
             },
             {
                 "asn": 4242422543,
