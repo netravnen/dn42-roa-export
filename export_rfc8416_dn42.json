@@ -3956,6 +3956,13 @@
                 "mnt-by": "KLARA-MNT"
             },
             {
+                "asn": 4242421690,
+                "prefix": "fd85:7370:a8a1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "WILL-MNT"
+            },
+            {
                 "asn": 4242420823,
                 "prefix": "fd86:4169:1552::/48",
                 "maxPrefixLength": 48,
@@ -4682,6 +4689,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "LEMELISK-MNT"
+            },
+            {
+                "asn": 4242420807,
+                "prefix": "fdae:e3cd:11d9::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RHM-MNT"
             },
             {
                 "asn": 4242420207,
@@ -11138,6 +11152,13 @@
                 "mnt-by": "ADRA-MNT"
             },
             {
+                "asn": 4242421690,
+                "prefix": "172.21.65.48/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WILL-MNT"
+            },
+            {
                 "asn": 4242423999,
                 "prefix": "172.21.65.64/29",
                 "maxPrefixLength": 29,
@@ -11185,6 +11206,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PDOSTAL-MNT"
+            },
+            {
+                "asn": 4242420807,
+                "prefix": "172.21.67.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RHM-MNT"
             },
             {
                 "asn": 4242423931,

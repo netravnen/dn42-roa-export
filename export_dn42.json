@@ -3949,6 +3949,13 @@
             "mnt-by": "KLARA-MNT"
         },
         {
+            "asn": "AS4242421690",
+            "prefix": "fd85:7370:a8a1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WILL-MNT"
+        },
+        {
             "asn": "AS4242420823",
             "prefix": "fd86:4169:1552::/48",
             "maxLength": 48,
@@ -4675,6 +4682,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "LEMELISK-MNT"
+        },
+        {
+            "asn": "AS4242420807",
+            "prefix": "fdae:e3cd:11d9::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RHM-MNT"
         },
         {
             "asn": "AS4242420207",
@@ -11131,6 +11145,13 @@
             "mnt-by": "ADRA-MNT"
         },
         {
+            "asn": "AS4242421690",
+            "prefix": "172.21.65.48/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WILL-MNT"
+        },
+        {
             "asn": "AS4242423999",
             "prefix": "172.21.65.64/29",
             "maxLength": 29,
@@ -11178,6 +11199,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "PDOSTAL-MNT"
+        },
+        {
+            "asn": "AS4242420807",
+            "prefix": "172.21.67.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RHM-MNT"
         },
         {
             "asn": "AS4242423931",
@@ -14304,17 +14332,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "80de426e7bb139861303de673ceec93d64c8da7b",
-            "merge": "aa5112a7 f741ba3f",
+            "commit": "ec28245cf2f822079b72e5a80aa9e3c37ff0bd93",
+            "merge": "6c2bfd67 882d7df1",
             "author": "burble",
-            "date": "Wed, 8 Apr 2020 07:56:08 +0000",
-            "subject": "Merge branch 'master' of shiki7/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/80de426e7bb139861303de673ceec93d64c8da7b",
-            "generated": "2020-04-08T10:20:15+00:00",
-            "valid": "2020-04-11T10:20:15+00:00"
+            "date": "Wed, 8 Apr 2020 19:25:14 +0000",
+            "subject": "Merge branch 'master' of rhm/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ec28245cf2f822079b72e5a80aa9e3c37ff0bd93",
+            "generated": "2020-04-08T20:20:24+00:00",
+            "valid": "2020-04-11T20:20:24+00:00"
         },
-        "counts": 2043,
-        "generated": 1586341215,
-        "valid": 1586600415
+        "counts": 2047,
+        "generated": 1586377224,
+        "valid": 1586636424
     }
 }
