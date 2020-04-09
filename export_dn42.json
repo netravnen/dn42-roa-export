@@ -14367,17 +14367,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "04aa414e4048373bcc3ccd90294ae1fc78812656",
-            "merge": "3417f581 d5b96134",
-            "author": "burble",
-            "date": "Thu, 9 Apr 2020 07:11:40 +0000",
-            "subject": "Merge branch 'master' of syllabear/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/04aa414e4048373bcc3ccd90294ae1fc78812656",
-            "generated": "2020-04-09T10:20:31+00:00",
-            "valid": "2020-04-12T10:20:31+00:00"
+            "commit": "87a44b3394f8a72fcfa08c28945f95aeff922126",
+            "merge": "04aa414e 75108de6",
+            "author": "jrb0001",
+            "date": "Thu, 9 Apr 2020 15:31:11 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/87a44b3394f8a72fcfa08c28945f95aeff922126",
+            "generated": "2020-04-09T20:20:34+00:00",
+            "valid": "2020-04-12T20:20:34+00:00"
         },
         "counts": 2052,
-        "generated": 1586427631,
-        "valid": 1586686831
+        "generated": 1586463634,
+        "valid": 1586722834
     }
 }
