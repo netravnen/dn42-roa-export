@@ -14338,11 +14338,11 @@
             "date": "Wed, 8 Apr 2020 19:25:14 +0000",
             "subject": "Merge branch 'master' of rhm/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/ec28245cf2f822079b72e5a80aa9e3c37ff0bd93",
-            "generated": "2020-04-08T20:20:24+00:00",
-            "valid": "2020-04-11T20:20:24+00:00"
+            "generated": "2020-04-09T00:20:16+00:00",
+            "valid": "2020-04-12T00:20:16+00:00"
         },
         "counts": 2047,
-        "generated": 1586377224,
-        "valid": 1586636424
+        "generated": 1586391616,
+        "valid": 1586650816
     }
 }
