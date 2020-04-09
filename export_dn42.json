@@ -2857,6 +2857,13 @@
             "mnt-by": "WHOABRAH-MNT"
         },
         {
+            "asn": "AS4242421488",
+            "prefix": "fd42:ec20:4ef1::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "KOALA-MNT"
+        },
+        {
             "asn": "AS4242420239",
             "prefix": "fd42:eef1:47b5::/48",
             "maxLength": 64,
@@ -3975,6 +3982,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "VULKAN-MNT"
+        },
+        {
+            "asn": "AS4242420251",
+            "prefix": "fd88:1926:817::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HANLIN-MNT"
         },
         {
             "asn": "AS4242420017",
@@ -5312,6 +5326,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "SKID-MNT"
+        },
+        {
+            "asn": "AS4242420194",
+            "prefix": "fdd0:17ea:3a52::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LEOMUND-MNT"
         },
         {
             "asn": "AS4242422077",
@@ -10221,6 +10242,13 @@
             "mnt-by": "TOMKEP-MNT"
         },
         {
+            "asn": "AS4242420194",
+            "prefix": "172.20.4.112/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LEOMUND-MNT"
+        },
+        {
             "asn": "AS4242420049",
             "prefix": "172.20.4.128/26",
             "maxLength": 28,
@@ -13413,6 +13441,13 @@
             "mnt-by": "MARLINC-MNT"
         },
         {
+            "asn": "AS4242420251",
+            "prefix": "172.23.163.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HANLIN-MNT"
+        },
+        {
             "asn": "AS76160",
             "prefix": "172.23.164.0/23",
             "maxLength": 28,
@@ -14332,17 +14367,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "ec28245cf2f822079b72e5a80aa9e3c37ff0bd93",
-            "merge": "6c2bfd67 882d7df1",
+            "commit": "04aa414e4048373bcc3ccd90294ae1fc78812656",
+            "merge": "3417f581 d5b96134",
             "author": "burble",
-            "date": "Wed, 8 Apr 2020 19:25:14 +0000",
-            "subject": "Merge branch 'master' of rhm/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ec28245cf2f822079b72e5a80aa9e3c37ff0bd93",
-            "generated": "2020-04-09T00:20:16+00:00",
-            "valid": "2020-04-12T00:20:16+00:00"
+            "date": "Thu, 9 Apr 2020 07:11:40 +0000",
+            "subject": "Merge branch 'master' of syllabear/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/04aa414e4048373bcc3ccd90294ae1fc78812656",
+            "generated": "2020-04-09T10:20:31+00:00",
+            "valid": "2020-04-12T10:20:31+00:00"
         },
-        "counts": 2047,
-        "generated": 1586391616,
-        "valid": 1586650816
+        "counts": 2052,
+        "generated": 1586427631,
+        "valid": 1586686831
     }
 }

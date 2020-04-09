@@ -2864,6 +2864,13 @@
                 "mnt-by": "WHOABRAH-MNT"
             },
             {
+                "asn": 4242421488,
+                "prefix": "fd42:ec20:4ef1::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "KOALA-MNT"
+            },
+            {
                 "asn": 4242420239,
                 "prefix": "fd42:eef1:47b5::/48",
                 "maxPrefixLength": 64,
@@ -3982,6 +3989,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "VULKAN-MNT"
+            },
+            {
+                "asn": 4242420251,
+                "prefix": "fd88:1926:817::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HANLIN-MNT"
             },
             {
                 "asn": 4242420017,
@@ -5319,6 +5333,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SKID-MNT"
+            },
+            {
+                "asn": 4242420194,
+                "prefix": "fdd0:17ea:3a52::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LEOMUND-MNT"
             },
             {
                 "asn": 4242422077,
@@ -10228,6 +10249,13 @@
                 "mnt-by": "TOMKEP-MNT"
             },
             {
+                "asn": 4242420194,
+                "prefix": "172.20.4.112/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LEOMUND-MNT"
+            },
+            {
                 "asn": 4242420049,
                 "prefix": "172.20.4.128/26",
                 "maxPrefixLength": 28,
@@ -13418,6 +13446,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MARLINC-MNT"
+            },
+            {
+                "asn": 4242420251,
+                "prefix": "172.23.163.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HANLIN-MNT"
             },
             {
                 "asn": 76160,
