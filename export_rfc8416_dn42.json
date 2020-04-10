@@ -5636,6 +5636,13 @@
                 "mnt-by": "1ELF-MNT"
             },
             {
+                "asn": 4242420195,
+                "prefix": "fde2:7085:c6f3::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TSYMQ00-MNT"
+            },
+            {
                 "asn": 4242423004,
                 "prefix": "fde3:a7e3:7957::/48",
                 "maxPrefixLength": 64,
@@ -8651,6 +8658,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CLEMENTPRIMOT-MNT"
+            },
+            {
+                "asn": 4242420195,
+                "prefix": "172.20.164.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TSYMQ00-MNT"
             },
             {
                 "asn": 4242420256,

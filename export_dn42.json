@@ -5629,6 +5629,13 @@
             "mnt-by": "1ELF-MNT"
         },
         {
+            "asn": "AS4242420195",
+            "prefix": "fde2:7085:c6f3::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TSYMQ00-MNT"
+        },
+        {
             "asn": "AS4242423004",
             "prefix": "fde3:a7e3:7957::/48",
             "maxLength": 64,
@@ -8644,6 +8651,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "CLEMENTPRIMOT-MNT"
+        },
+        {
+            "asn": "AS4242420195",
+            "prefix": "172.20.164.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TSYMQ00-MNT"
         },
         {
             "asn": "AS4242420256",
@@ -14367,17 +14381,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "87a44b3394f8a72fcfa08c28945f95aeff922126",
-            "merge": "04aa414e 75108de6",
-            "author": "jrb0001",
-            "date": "Thu, 9 Apr 2020 15:31:11 +0000",
-            "subject": "Merge branch 'master' of sunaihui/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/87a44b3394f8a72fcfa08c28945f95aeff922126",
-            "generated": "2020-04-09T20:20:34+00:00",
-            "valid": "2020-04-12T20:20:34+00:00"
+            "commit": "a080c2c2c29e71adcd4008863283c58d9681f18d",
+            "merge": "5de1d198 a5e6bb74",
+            "author": "burble",
+            "date": "Thu, 9 Apr 2020 20:43:50 +0000",
+            "subject": "Merge branch 'master' of tsymq00/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a080c2c2c29e71adcd4008863283c58d9681f18d",
+            "generated": "2020-04-10T00:20:04+00:00",
+            "valid": "2020-04-13T00:20:04+00:00"
         },
-        "counts": 2052,
-        "generated": 1586463634,
-        "valid": 1586722834
+        "counts": 2054,
+        "generated": 1586478004,
+        "valid": 1586737204
     }
 }
