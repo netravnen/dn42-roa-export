@@ -3837,6 +3837,13 @@
             "mnt-by": "HFULLER-MNT"
         },
         {
+            "asn": "AS4242422520",
+            "prefix": "fd7c:55ea:fd3b::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YF-MNT"
+        },
+        {
             "asn": "AS4242421256",
             "prefix": "fd7c:9293:9293::/48",
             "maxLength": 48,
@@ -11887,6 +11894,13 @@
             "mnt-by": "VULKAN-MNT"
         },
         {
+            "asn": "AS4242420180",
+            "prefix": "172.22.122.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242422024",
             "prefix": "172.22.124.0/28",
             "maxLength": 28,
@@ -13854,6 +13868,13 @@
             "mnt-by": "RDBCN-MNT"
         },
         {
+            "asn": "AS4242422520",
+            "prefix": "172.23.222.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YF-MNT"
+        },
+        {
             "asn": "AS4242422028",
             "prefix": "172.23.223.0/27",
             "maxLength": 28,
@@ -14381,17 +14402,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a080c2c2c29e71adcd4008863283c58d9681f18d",
-            "merge": "5de1d198 a5e6bb74",
+            "commit": "3aa8c55645c6dfe1db030294d9b37ad4b4f20cf7",
+            "merge": "acb456b1 6275ba1f",
             "author": "burble",
-            "date": "Thu, 9 Apr 2020 20:43:50 +0000",
-            "subject": "Merge branch 'master' of tsymq00/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a080c2c2c29e71adcd4008863283c58d9681f18d",
-            "generated": "2020-04-10T10:19:49+00:00",
-            "valid": "2020-04-13T10:19:49+00:00"
+            "date": "Fri, 10 Apr 2020 10:33:56 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3aa8c55645c6dfe1db030294d9b37ad4b4f20cf7",
+            "generated": "2020-04-10T20:20:23+00:00",
+            "valid": "2020-04-13T20:20:23+00:00"
         },
-        "counts": 2054,
-        "generated": 1586513989,
-        "valid": 1586773189
+        "counts": 2057,
+        "generated": 1586550023,
+        "valid": 1586809223
     }
 }

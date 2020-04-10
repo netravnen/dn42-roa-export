@@ -3844,6 +3844,13 @@
                 "mnt-by": "HFULLER-MNT"
             },
             {
+                "asn": 4242422520,
+                "prefix": "fd7c:55ea:fd3b::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YF-MNT"
+            },
+            {
                 "asn": 4242421256,
                 "prefix": "fd7c:9293:9293::/48",
                 "maxPrefixLength": 48,
@@ -11894,6 +11901,13 @@
                 "mnt-by": "VULKAN-MNT"
             },
             {
+                "asn": 4242420180,
+                "prefix": "172.22.122.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242422024,
                 "prefix": "172.22.124.0/28",
                 "maxPrefixLength": 28,
@@ -13859,6 +13873,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RDBCN-MNT"
+            },
+            {
+                "asn": 4242422520,
+                "prefix": "172.23.222.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YF-MNT"
             },
             {
                 "asn": 4242422028,
