@@ -3494,6 +3494,13 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
+            "asn": "AS4242420316",
+            "prefix": "fd63:b0d8:696e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CYPHERPUNK-MNT"
+        },
+        {
             "asn": "AS4242423400",
             "prefix": "fd64:cafe:cafe::/48",
             "maxLength": 64,
@@ -8217,6 +8224,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "TUX333-MNT"
+        },
+        {
+            "asn": "AS4242420316",
+            "prefix": "172.20.148.80/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CYPHERPUNK-MNT"
         },
         {
             "asn": "AS4242422506",
@@ -14402,17 +14416,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "3aa8c55645c6dfe1db030294d9b37ad4b4f20cf7",
-            "merge": "acb456b1 6275ba1f",
-            "author": "burble",
-            "date": "Fri, 10 Apr 2020 10:33:56 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3aa8c55645c6dfe1db030294d9b37ad4b4f20cf7",
-            "generated": "2020-04-11T00:19:56+00:00",
-            "valid": "2020-04-14T00:19:56+00:00"
+            "commit": "ec66cd6a5404126d019f8073b1132f5dc257be71",
+            "merge": "3aa8c556 5246fb11",
+            "author": "jrb0001",
+            "date": "Sat, 11 Apr 2020 08:51:57 +0000",
+            "subject": "Merge branch 'master' of cypherpunk/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ec66cd6a5404126d019f8073b1132f5dc257be71",
+            "generated": "2020-04-11T10:20:24+00:00",
+            "valid": "2020-04-14T10:20:24+00:00"
         },
-        "counts": 2057,
-        "generated": 1586564396,
-        "valid": 1586823596
+        "counts": 2059,
+        "generated": 1586600424,
+        "valid": 1586859624
     }
 }

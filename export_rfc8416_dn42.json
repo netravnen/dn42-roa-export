@@ -3501,6 +3501,13 @@
                 "mnt-by": "DUMMY-MNT"
             },
             {
+                "asn": 4242420316,
+                "prefix": "fd63:b0d8:696e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CYPHERPUNK-MNT"
+            },
+            {
                 "asn": 4242423400,
                 "prefix": "fd64:cafe:cafe::/48",
                 "maxPrefixLength": 64,
@@ -8224,6 +8231,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "TUX333-MNT"
+            },
+            {
+                "asn": 4242420316,
+                "prefix": "172.20.148.80/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CYPHERPUNK-MNT"
             },
             {
                 "asn": 4242422506,
