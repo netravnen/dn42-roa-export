@@ -974,6 +974,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423255,
+                "prefix": "fd23:ff11:11ff::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DAYI-MNT"
+            },
+            {
                 "asn": 64876,
                 "prefix": "fd25:1952:c72e::/48",
                 "maxPrefixLength": 64,
@@ -9876,6 +9883,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BRUEGGUS-MNT"
+            },
+            {
+                "asn": 4242423255,
+                "prefix": "172.20.233.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DAYI-MNT"
             },
             {
                 "asn": 4242420205,

@@ -967,6 +967,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423255",
+            "prefix": "fd23:ff11:11ff::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DAYI-MNT"
+        },
+        {
             "asn": "AS64876",
             "prefix": "fd25:1952:c72e::/48",
             "maxLength": 64,
@@ -9871,6 +9878,13 @@
             "mnt-by": "BRUEGGUS-MNT"
         },
         {
+            "asn": "AS4242423255",
+            "prefix": "172.20.233.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DAYI-MNT"
+        },
+        {
             "asn": "AS4242420205",
             "prefix": "172.20.234.0/26",
             "maxLength": 28,
@@ -14416,17 +14430,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "ec66cd6a5404126d019f8073b1132f5dc257be71",
-            "merge": "3aa8c556 5246fb11",
-            "author": "jrb0001",
-            "date": "Sat, 11 Apr 2020 08:51:57 +0000",
-            "subject": "Merge branch 'master' of cypherpunk/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ec66cd6a5404126d019f8073b1132f5dc257be71",
-            "generated": "2020-04-11T10:20:24+00:00",
-            "valid": "2020-04-14T10:20:24+00:00"
+            "commit": "07c78953d9e04b7e112ee08946e8250300072f61",
+            "merge": "ec66cd6a 1402c4cb",
+            "author": "burble",
+            "date": "Sat, 11 Apr 2020 18:27:39 +0000",
+            "subject": "Merge branch 'master' of yumibiao/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/07c78953d9e04b7e112ee08946e8250300072f61",
+            "generated": "2020-04-11T20:20:00+00:00",
+            "valid": "2020-04-14T20:20:00+00:00"
         },
-        "counts": 2059,
-        "generated": 1586600424,
-        "valid": 1586859624
+        "counts": 2061,
+        "generated": 1586636400,
+        "valid": 1586895600
     }
 }
