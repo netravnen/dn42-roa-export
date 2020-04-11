@@ -14408,11 +14408,11 @@
             "date": "Fri, 10 Apr 2020 10:33:56 +0000",
             "subject": "Merge branch 'master' of gatuno/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/3aa8c55645c6dfe1db030294d9b37ad4b4f20cf7",
-            "generated": "2020-04-10T20:20:23+00:00",
-            "valid": "2020-04-13T20:20:23+00:00"
+            "generated": "2020-04-11T00:19:56+00:00",
+            "valid": "2020-04-14T00:19:56+00:00"
         },
         "counts": 2057,
-        "generated": 1586550023,
-        "valid": 1586809223
+        "generated": 1586564396,
+        "valid": 1586823596
     }
 }
