@@ -127,6 +127,13 @@
                 "mnt-by": "AIRGAPPED-MNT"
             },
             {
+                "asn": 4242420916,
+                "prefix": "fd00:114:514::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ALANYHQ-MNT"
+            },
+            {
                 "asn": 64626,
                 "prefix": "fd00:1337:cafe::/48",
                 "maxPrefixLength": 64,
@@ -11934,6 +11941,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GATUNO-MNT"
+            },
+            {
+                "asn": 4242420916,
+                "prefix": "172.22.123.0/24",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ALANYHQ-MNT"
             },
             {
                 "asn": 4242422024,
