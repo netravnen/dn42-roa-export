@@ -14444,17 +14444,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "5efe108bd4f24b2db35e65b5e8246cdc6111b9b5",
-            "merge": "18e07393 f6d07b35",
+            "commit": "3c466c19afa2945f7b6147d22eb7e2d51b033276",
+            "merge": "a9a40897 e03111da",
             "author": "burble",
-            "date": "Sun, 12 Apr 2020 08:26:37 +0000",
-            "subject": "Merge branch 'master' of alanyhq/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5efe108bd4f24b2db35e65b5e8246cdc6111b9b5",
-            "generated": "2020-04-12T10:20:31+00:00",
-            "valid": "2020-04-15T10:20:31+00:00"
+            "date": "Sun, 12 Apr 2020 18:57:30 +0000",
+            "subject": "Merge branch 'master' of sunaihui/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3c466c19afa2945f7b6147d22eb7e2d51b033276",
+            "generated": "2020-04-12T20:20:28+00:00",
+            "valid": "2020-04-15T20:20:28+00:00"
         },
         "counts": 2063,
-        "generated": 1586686831,
-        "valid": 1586946031
+        "generated": 1586722828,
+        "valid": 1586982028
     }
 }
