@@ -14464,11 +14464,11 @@
             "date": "Mon, 13 Apr 2020 07:57:55 +0000",
             "subject": "Merge branch 'master' of BreakingTime/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/64a320f99895ce16223f81229350ae113df4e3a5",
-            "generated": "2020-04-13T10:20:27+00:00",
-            "valid": "2020-04-16T10:20:27+00:00"
+            "generated": "2020-04-13T20:20:04+00:00",
+            "valid": "2020-04-16T20:20:04+00:00"
         },
         "counts": 2065,
-        "generated": 1586773227,
-        "valid": 1587032427
+        "generated": 1586809204,
+        "valid": 1587068404
     }
 }
