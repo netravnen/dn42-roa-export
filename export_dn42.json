@@ -2010,6 +2010,13 @@
             "mnt-by": "BURBLE-MNT"
         },
         {
+            "asn": "AS4242422660",
+            "prefix": "fd42:4242:2660::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BREAKINGTIME-MNT"
+        },
+        {
             "asn": "AS4242422707",
             "prefix": "fd42:4242:2707::/48",
             "maxLength": 64,
@@ -10102,6 +10109,13 @@
             "mnt-by": "NICOLAS-MNT"
         },
         {
+            "asn": "AS4242422660",
+            "prefix": "172.20.29.64/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BREAKINGTIME-MNT"
+        },
+        {
             "asn": "AS4242420467",
             "prefix": "172.20.3.0/24",
             "maxLength": 28,
@@ -14444,17 +14458,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "3c466c19afa2945f7b6147d22eb7e2d51b033276",
-            "merge": "a9a40897 e03111da",
+            "commit": "64a320f99895ce16223f81229350ae113df4e3a5",
+            "merge": "3c466c19 b666368f",
             "author": "burble",
-            "date": "Sun, 12 Apr 2020 18:57:30 +0000",
-            "subject": "Merge branch 'master' of sunaihui/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3c466c19afa2945f7b6147d22eb7e2d51b033276",
-            "generated": "2020-04-13T00:19:58+00:00",
-            "valid": "2020-04-16T00:19:58+00:00"
+            "date": "Mon, 13 Apr 2020 07:57:55 +0000",
+            "subject": "Merge branch 'master' of BreakingTime/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/64a320f99895ce16223f81229350ae113df4e3a5",
+            "generated": "2020-04-13T10:20:27+00:00",
+            "valid": "2020-04-16T10:20:27+00:00"
         },
-        "counts": 2063,
-        "generated": 1586737198,
-        "valid": 1586996398
+        "counts": 2065,
+        "generated": 1586773227,
+        "valid": 1587032427
     }
 }
