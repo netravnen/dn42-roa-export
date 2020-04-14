@@ -1206,7 +1206,7 @@
         },
         {
             "asn": "AS4242423747",
-            "prefix": "fd37:03b3:cae6:5158::/48",
+            "prefix": "fd37:03b3:cae6::/48",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "ZHYZ-MNT"
@@ -4178,6 +4178,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "FISCALCHEIS-MNT"
+        },
+        {
+            "asn": "AS4242420985",
+            "prefix": "fd94:267a:f14e::/48",
+            "maxLength": 56,
+            "ta": "DN42",
+            "mnt-by": "BILL-MNT"
         },
         {
             "asn": "AS4242423238",
@@ -12174,6 +12181,13 @@
             "mnt-by": "N2S-MNT"
         },
         {
+            "asn": "AS4242420985",
+            "prefix": "172.22.134.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BILL-MNT"
+        },
+        {
             "asn": "AS4242422288",
             "prefix": "172.22.135.0/28",
             "maxLength": 28,
@@ -14486,17 +14500,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "7d683893d57d437d58c5896ed31d3383abd7a933",
-            "merge": "9b9905b5 fccdae74",
+            "commit": "254100d4c790dfb361cf04e577e83c9fe5dafe31",
+            "merge": "a0107399 2487c79f",
             "author": "burble",
-            "date": "Tue, 14 Apr 2020 08:14:07 +0000",
-            "subject": "Merge branch 'master' of zhihuiyuze/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7d683893d57d437d58c5896ed31d3383abd7a933",
-            "generated": "2020-04-14T10:20:28+00:00",
-            "valid": "2020-04-17T10:20:28+00:00"
+            "date": "Tue, 14 Apr 2020 19:39:11 +0000",
+            "subject": "Merge branch 'master' of billchenchina/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/254100d4c790dfb361cf04e577e83c9fe5dafe31",
+            "generated": "2020-04-14T20:20:34+00:00",
+            "valid": "2020-04-17T20:20:34+00:00"
         },
-        "counts": 2069,
-        "generated": 1586859628,
-        "valid": 1587118828
+        "counts": 2071,
+        "generated": 1586895634,
+        "valid": 1587154834
     }
 }

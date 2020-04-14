@@ -1213,7 +1213,7 @@
             },
             {
                 "asn": 4242423747,
-                "prefix": "fd37:03b3:cae6:5158::/48",
+                "prefix": "fd37:03b3:cae6::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ZHYZ-MNT"
@@ -4185,6 +4185,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "FISCALCHEIS-MNT"
+            },
+            {
+                "asn": 4242420985,
+                "prefix": "fd94:267a:f14e::/48",
+                "maxPrefixLength": 56,
+                "source": "DN42",
+                "mnt-by": "BILL-MNT"
             },
             {
                 "asn": 4242423238,
@@ -12179,6 +12186,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "N2S-MNT"
+            },
+            {
+                "asn": 4242420985,
+                "prefix": "172.22.134.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BILL-MNT"
             },
             {
                 "asn": 4242422288,
