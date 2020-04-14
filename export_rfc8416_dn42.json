@@ -1212,6 +1212,13 @@
                 "mnt-by": "DANIMO-MNT"
             },
             {
+                "asn": 4242423747,
+                "prefix": "fd37:03b3:cae6:5158::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ZHYZ-MNT"
+            },
+            {
                 "asn": 4242423783,
                 "prefix": "fd37:13a8:98d6::/48",
                 "maxPrefixLength": 64,
@@ -2330,6 +2337,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "AIYION-MNT"
+            },
+            {
+                "asn": 4242420880,
+                "prefix": "fd42:8ffc:36a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MARROPAX-MNT"
             },
             {
                 "asn": 4242422548,
@@ -11054,6 +11068,13 @@
                 "mnt-by": "GIMPYB-MNT"
             },
             {
+                "asn": 4242420880,
+                "prefix": "172.21.106.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MARROPAX-MNT"
+            },
+            {
                 "asn": 4242420155,
                 "prefix": "172.21.111.0/24",
                 "maxPrefixLength": 28,
@@ -11367,6 +11388,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CONREY-MNT"
+            },
+            {
+                "asn": 4242423747,
+                "prefix": "172.21.75.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ZHYZ-MNT"
             },
             {
                 "asn": 4242421500,

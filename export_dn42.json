@@ -1205,6 +1205,13 @@
             "mnt-by": "DANIMO-MNT"
         },
         {
+            "asn": "AS4242423747",
+            "prefix": "fd37:03b3:cae6:5158::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ZHYZ-MNT"
+        },
+        {
             "asn": "AS4242423783",
             "prefix": "fd37:13a8:98d6::/48",
             "maxLength": 64,
@@ -2323,6 +2330,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "AIYION-MNT"
+        },
+        {
+            "asn": "AS4242420880",
+            "prefix": "fd42:8ffc:36a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MARROPAX-MNT"
         },
         {
             "asn": "AS4242422548",
@@ -11047,6 +11061,13 @@
             "mnt-by": "GIMPYB-MNT"
         },
         {
+            "asn": "AS4242420880",
+            "prefix": "172.21.106.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MARROPAX-MNT"
+        },
+        {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
             "maxLength": 28,
@@ -11360,6 +11381,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "CONREY-MNT"
+        },
+        {
+            "asn": "AS4242423747",
+            "prefix": "172.21.75.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZHYZ-MNT"
         },
         {
             "asn": "AS4242421500",
@@ -14458,17 +14486,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "64a320f99895ce16223f81229350ae113df4e3a5",
-            "merge": "3c466c19 b666368f",
+            "commit": "7d683893d57d437d58c5896ed31d3383abd7a933",
+            "merge": "9b9905b5 fccdae74",
             "author": "burble",
-            "date": "Mon, 13 Apr 2020 07:57:55 +0000",
-            "subject": "Merge branch 'master' of BreakingTime/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/64a320f99895ce16223f81229350ae113df4e3a5",
-            "generated": "2020-04-14T00:20:07+00:00",
-            "valid": "2020-04-17T00:20:07+00:00"
+            "date": "Tue, 14 Apr 2020 08:14:07 +0000",
+            "subject": "Merge branch 'master' of zhihuiyuze/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7d683893d57d437d58c5896ed31d3383abd7a933",
+            "generated": "2020-04-14T10:20:28+00:00",
+            "valid": "2020-04-17T10:20:28+00:00"
         },
-        "counts": 2065,
-        "generated": 1586823607,
-        "valid": 1587082807
+        "counts": 2069,
+        "generated": 1586859628,
+        "valid": 1587118828
     }
 }
