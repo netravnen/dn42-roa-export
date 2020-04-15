@@ -3564,6 +3564,13 @@
                 "mnt-by": "GXA-MNT"
             },
             {
+                "asn": 4242420969,
+                "prefix": "fd65:f4d8:5327::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HEXCHEN-MNT"
+            },
+            {
                 "asn": 4242423439,
                 "prefix": "fd66:feed:beef::/48",
                 "maxPrefixLength": 64,
@@ -11563,6 +11570,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "5670-MNT"
+            },
+            {
+                "asn": 4242420969,
+                "prefix": "172.21.93.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HEXCHEN-MNT"
             },
             {
                 "asn": 0,

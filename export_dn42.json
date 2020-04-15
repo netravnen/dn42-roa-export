@@ -3557,6 +3557,13 @@
             "mnt-by": "GXA-MNT"
         },
         {
+            "asn": "AS4242420969",
+            "prefix": "fd65:f4d8:5327::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HEXCHEN-MNT"
+        },
+        {
             "asn": "AS4242423439",
             "prefix": "fd66:feed:beef::/48",
             "maxLength": 64,
@@ -11558,6 +11565,13 @@
             "mnt-by": "5670-MNT"
         },
         {
+            "asn": "AS4242420969",
+            "prefix": "172.21.93.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HEXCHEN-MNT"
+        },
+        {
             "asn": "AS0",
             "prefix": "172.21.99.0/27",
             "maxLength": 32,
@@ -14500,17 +14514,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "254100d4c790dfb361cf04e577e83c9fe5dafe31",
-            "merge": "a0107399 2487c79f",
+            "commit": "bfc35a03f4f571ebe7c26ccbe20766a77836428b",
+            "merge": "254100d4 81cc7df1",
             "author": "burble",
-            "date": "Tue, 14 Apr 2020 19:39:11 +0000",
-            "subject": "Merge branch 'master' of billchenchina/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/254100d4c790dfb361cf04e577e83c9fe5dafe31",
-            "generated": "2020-04-14T20:20:34+00:00",
-            "valid": "2020-04-17T20:20:34+00:00"
+            "date": "Tue, 14 Apr 2020 21:09:09 +0000",
+            "subject": "Merge branch 'master' of hexchen/dn42-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/bfc35a03f4f571ebe7c26ccbe20766a77836428b",
+            "generated": "2020-04-15T00:20:34+00:00",
+            "valid": "2020-04-18T00:20:34+00:00"
         },
-        "counts": 2071,
-        "generated": 1586895634,
-        "valid": 1587154834
+        "counts": 2073,
+        "generated": 1586910034,
+        "valid": 1587169234
     }
 }
