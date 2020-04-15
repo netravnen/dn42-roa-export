@@ -8912,6 +8912,13 @@
                 "mnt-by": "JUMPNET-MNT"
             },
             {
+                "asn": 4242421231,
+                "prefix": "172.20.172.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CAESIA-MNT"
+            },
+            {
                 "asn": 4242423999,
                 "prefix": "172.20.172.176/29",
                 "maxPrefixLength": 29,
