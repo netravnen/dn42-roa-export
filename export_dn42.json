@@ -2021,7 +2021,7 @@
             "prefix": "fd42:4242:2660::/48",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "BREAKINGTIME-MNT"
+            "mnt-by": "HERTZ-MNT"
         },
         {
             "asn": "AS4242422707",
@@ -5400,7 +5400,7 @@
         {
             "asn": "AS4242422077",
             "prefix": "fdd0:77f2:44de::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "FEU-MNT"
         },
@@ -10141,7 +10141,7 @@
             "prefix": "172.20.29.64/28",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "BREAKINGTIME-MNT"
+            "mnt-by": "HERTZ-MNT"
         },
         {
             "asn": "AS4242420467",
@@ -14514,17 +14514,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "bfc35a03f4f571ebe7c26ccbe20766a77836428b",
-            "merge": "254100d4 81cc7df1",
+            "commit": "cac1053e4a061208b688ee7dd7eacc4af3c23f16",
+            "merge": "e8725e14 65920f32",
             "author": "burble",
-            "date": "Tue, 14 Apr 2020 21:09:09 +0000",
-            "subject": "Merge branch 'master' of hexchen/dn42-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/bfc35a03f4f571ebe7c26ccbe20766a77836428b",
-            "generated": "2020-04-15T00:20:34+00:00",
-            "valid": "2020-04-18T00:20:34+00:00"
+            "date": "Wed, 15 Apr 2020 07:22:49 +0000",
+            "subject": "Merge branch 'master' of firehazard/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/cac1053e4a061208b688ee7dd7eacc4af3c23f16",
+            "generated": "2020-04-15T10:20:49+00:00",
+            "valid": "2020-04-18T10:20:49+00:00"
         },
         "counts": 2073,
-        "generated": 1586910034,
-        "valid": 1587169234
+        "generated": 1586946049,
+        "valid": 1587205249
     }
 }
