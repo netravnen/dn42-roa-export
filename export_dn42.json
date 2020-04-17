@@ -4320,13 +4320,6 @@
             "mnt-by": "NARNIA-MNT"
         },
         {
-            "asn": "AS4242420225",
-            "prefix": "fd9c:bee3:3694::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "WJZ-MNT"
-        },
-        {
             "asn": "AS4242421775",
             "prefix": "fd9c:cab6:54f3::/48",
             "maxLength": 64,
@@ -14155,13 +14148,6 @@
             "mnt-by": "DARKIT-MNT"
         },
         {
-            "asn": "AS4242420225",
-            "prefix": "172.23.248.160/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "WJZ-MNT"
-        },
-        {
             "asn": "AS4242422480",
             "prefix": "172.23.248.192/28",
             "maxLength": 28,
@@ -14521,17 +14507,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "b90af483882e23cbb942f8f56052f4b821fccf6d",
-            "merge": "cac1053e 914eed83",
+            "commit": "193554f23dc876042457ba78c0450fbe54d923f6",
+            "merge": "7012dbcc 81b6fdf2",
             "author": "burble",
-            "date": "Wed, 15 Apr 2020 17:34:49 +0000",
-            "subject": "Merge branch 'master' of inrin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b90af483882e23cbb942f8f56052f4b821fccf6d",
-            "generated": "2020-04-17T10:19:47+00:00",
-            "valid": "2020-04-20T10:19:47+00:00"
+            "date": "Fri, 17 Apr 2020 11:18:19 +0000",
+            "subject": "Merge branch 'pr1441' of dn42/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/193554f23dc876042457ba78c0450fbe54d923f6",
+            "generated": "2020-04-17T20:20:50+00:00",
+            "valid": "2020-04-20T20:20:50+00:00"
         },
-        "counts": 2074,
-        "generated": 1587118787,
-        "valid": 1587377987
+        "counts": 2072,
+        "generated": 1587154850,
+        "valid": 1587414050
     }
 }

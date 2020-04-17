@@ -4327,13 +4327,6 @@
                 "mnt-by": "NARNIA-MNT"
             },
             {
-                "asn": 4242420225,
-                "prefix": "fd9c:bee3:3694::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "WJZ-MNT"
-            },
-            {
                 "asn": 4242421775,
                 "prefix": "fd9c:cab6:54f3::/48",
                 "maxPrefixLength": 64,
@@ -14160,13 +14153,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DARKIT-MNT"
-            },
-            {
-                "asn": 4242420225,
-                "prefix": "172.23.248.160/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "WJZ-MNT"
             },
             {
                 "asn": 4242422480,
