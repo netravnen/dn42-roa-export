@@ -155,6 +155,13 @@
             "mnt-by": "NIA-MNT"
         },
         {
+            "asn": "AS4242422235",
+            "prefix": "fd00:1996:726::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BOLD-MNT"
+        },
+        {
             "asn": "AS4242423348",
             "prefix": "fd00:4242:3348::/48",
             "maxLength": 64,
@@ -9920,6 +9927,13 @@
             "mnt-by": "BRUEGGUS-MNT"
         },
         {
+            "asn": "AS4242421415",
+            "prefix": "172.20.232.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BENJI-MNT"
+        },
+        {
             "asn": "AS4242423255",
             "prefix": "172.20.233.0/27",
             "maxLength": 28,
@@ -11920,6 +11934,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "LINUTUX-MNT"
+        },
+        {
+            "asn": "AS4242422235",
+            "prefix": "172.22.118.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BOLD-MNT"
         },
         {
             "asn": "AS64719",
@@ -14507,17 +14528,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "193554f23dc876042457ba78c0450fbe54d923f6",
-            "merge": "7012dbcc 81b6fdf2",
+            "commit": "a3a8cfb70e2b74d5ac964322edb2e17e51eb4827",
+            "merge": "45d7790e e4d3ef5b",
             "author": "burble",
-            "date": "Fri, 17 Apr 2020 11:18:19 +0000",
-            "subject": "Merge branch 'pr1441' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/193554f23dc876042457ba78c0450fbe54d923f6",
-            "generated": "2020-04-18T00:19:47+00:00",
-            "valid": "2020-04-21T00:19:47+00:00"
+            "date": "Sat, 18 Apr 2020 07:04:22 +0000",
+            "subject": "Merge branch 'master' of BenjiWiebe/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a3a8cfb70e2b74d5ac964322edb2e17e51eb4827",
+            "generated": "2020-04-18T10:20:39+00:00",
+            "valid": "2020-04-21T10:20:39+00:00"
         },
-        "counts": 2072,
-        "generated": 1587169187,
-        "valid": 1587428387
+        "counts": 2075,
+        "generated": 1587205239,
+        "valid": 1587464439
     }
 }

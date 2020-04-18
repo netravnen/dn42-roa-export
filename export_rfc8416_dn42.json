@@ -162,6 +162,13 @@
                 "mnt-by": "NIA-MNT"
             },
             {
+                "asn": 4242422235,
+                "prefix": "fd00:1996:726::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BOLD-MNT"
+            },
+            {
                 "asn": 4242423348,
                 "prefix": "fd00:4242:3348::/48",
                 "maxPrefixLength": 64,
@@ -9927,6 +9934,13 @@
                 "mnt-by": "BRUEGGUS-MNT"
             },
             {
+                "asn": 4242421415,
+                "prefix": "172.20.232.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BENJI-MNT"
+            },
+            {
                 "asn": 4242423255,
                 "prefix": "172.20.233.0/27",
                 "maxPrefixLength": 28,
@@ -11927,6 +11941,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LINUTUX-MNT"
+            },
+            {
+                "asn": 4242422235,
+                "prefix": "172.22.118.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BOLD-MNT"
             },
             {
                 "asn": 64719,
