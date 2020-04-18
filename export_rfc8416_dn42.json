@@ -3053,6 +3053,13 @@
                 "mnt-by": "NICHI-MNT"
             },
             {
+                "asn": 4242422575,
+                "prefix": "fd45:1b93:dddf::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ANDROW-MNT"
+            },
+            {
                 "asn": 4242423620,
                 "prefix": "fd46:972a:903b::/48",
                 "maxPrefixLength": 64,
@@ -13775,6 +13782,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NOPE-MNT"
+            },
+            {
+                "asn": 4242422575,
+                "prefix": "172.23.186.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ANDROW-MNT"
             },
             {
                 "asn": 64633,

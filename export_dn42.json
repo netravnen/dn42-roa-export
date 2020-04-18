@@ -3046,6 +3046,13 @@
             "mnt-by": "NICHI-MNT"
         },
         {
+            "asn": "AS4242422575",
+            "prefix": "fd45:1b93:dddf::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ANDROW-MNT"
+        },
+        {
             "asn": "AS4242423620",
             "prefix": "fd46:972a:903b::/48",
             "maxLength": 64,
@@ -13770,6 +13777,13 @@
             "mnt-by": "NOPE-MNT"
         },
         {
+            "asn": "AS4242422575",
+            "prefix": "172.23.186.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ANDROW-MNT"
+        },
+        {
             "asn": "AS64633",
             "prefix": "172.23.187.0/24",
             "maxLength": 28,
@@ -14528,17 +14542,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a3a8cfb70e2b74d5ac964322edb2e17e51eb4827",
-            "merge": "45d7790e e4d3ef5b",
+            "commit": "a6f63892fd2723f28e2248ccbb156a6cc5a679e0",
+            "merge": "a3a8cfb7 662baa1f",
             "author": "burble",
-            "date": "Sat, 18 Apr 2020 07:04:22 +0000",
-            "subject": "Merge branch 'master' of BenjiWiebe/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a3a8cfb70e2b74d5ac964322edb2e17e51eb4827",
-            "generated": "2020-04-18T10:20:39+00:00",
-            "valid": "2020-04-21T10:20:39+00:00"
+            "date": "Sat, 18 Apr 2020 17:47:28 +0000",
+            "subject": "Merge branch 'androw' of androw/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a6f63892fd2723f28e2248ccbb156a6cc5a679e0",
+            "generated": "2020-04-18T20:20:45+00:00",
+            "valid": "2020-04-21T20:20:45+00:00"
         },
-        "counts": 2075,
-        "generated": 1587205239,
-        "valid": 1587464439
+        "counts": 2077,
+        "generated": 1587241245,
+        "valid": 1587500445
     }
 }
