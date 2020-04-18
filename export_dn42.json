@@ -14513,11 +14513,11 @@
             "date": "Fri, 17 Apr 2020 11:18:19 +0000",
             "subject": "Merge branch 'pr1441' of dn42/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/193554f23dc876042457ba78c0450fbe54d923f6",
-            "generated": "2020-04-17T20:20:50+00:00",
-            "valid": "2020-04-20T20:20:50+00:00"
+            "generated": "2020-04-18T00:19:47+00:00",
+            "valid": "2020-04-21T00:19:47+00:00"
         },
         "counts": 2072,
-        "generated": 1587154850,
-        "valid": 1587414050
+        "generated": 1587169187,
+        "valid": 1587428387
     }
 }
