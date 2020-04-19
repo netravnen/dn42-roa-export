@@ -5902,6 +5902,13 @@
                 "mnt-by": "ARITE-MNT"
             },
             {
+                "asn": 4242423765,
+                "prefix": "fded:fd48:3355::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LAGERTONNE-MNT"
+            },
+            {
                 "asn": 4242421069,
                 "prefix": "fdee:1999:1005::/48",
                 "maxPrefixLength": 64,
@@ -11472,6 +11479,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FEU-MNT"
+            },
+            {
+                "asn": 4242423765,
+                "prefix": "172.21.80.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LAGERTONNE-MNT"
             },
             {
                 "asn": 4242422381,

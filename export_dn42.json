@@ -5895,6 +5895,13 @@
             "mnt-by": "ARITE-MNT"
         },
         {
+            "asn": "AS4242423765",
+            "prefix": "fded:fd48:3355::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LAGERTONNE-MNT"
+        },
+        {
             "asn": "AS4242421069",
             "prefix": "fdee:1999:1005::/48",
             "maxLength": 64,
@@ -11467,6 +11474,13 @@
             "mnt-by": "FEU-MNT"
         },
         {
+            "asn": "AS4242423765",
+            "prefix": "172.21.80.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LAGERTONNE-MNT"
+        },
+        {
             "asn": "AS4242422381",
             "prefix": "172.21.84.0/27",
             "maxLength": 28,
@@ -14549,17 +14563,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "c5532df04bddcceba2bb1a1a55743508a37af04a",
-            "merge": "a6f63892 348b4c40",
+            "commit": "270238d1baf8f4ee3b4eae34353b1c2cc37ea75f",
+            "merge": "c5532df0 ae43945e",
             "author": "burble",
-            "date": "Sat, 18 Apr 2020 21:21:10 +0000",
-            "subject": "Merge branch 'master' of chippy/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c5532df04bddcceba2bb1a1a55743508a37af04a",
-            "generated": "2020-04-19T10:20:09+00:00",
-            "valid": "2020-04-22T10:20:09+00:00"
+            "date": "Sun, 19 Apr 2020 14:40:12 +0000",
+            "subject": "Merge branch 'master' of lagertonne/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/270238d1baf8f4ee3b4eae34353b1c2cc37ea75f",
+            "generated": "2020-04-19T20:20:36+00:00",
+            "valid": "2020-04-22T20:20:36+00:00"
         },
-        "counts": 2078,
-        "generated": 1587291609,
-        "valid": 1587550809
+        "counts": 2080,
+        "generated": 1587327636,
+        "valid": 1587586836
     }
 }
