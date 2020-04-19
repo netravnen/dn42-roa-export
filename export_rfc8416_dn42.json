@@ -4733,6 +4733,13 @@
                 "mnt-by": "FNS-MNT"
             },
             {
+                "asn": 4242423434,
+                "prefix": "fdab:18d6:beef::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CIP-MNT"
+            },
+            {
                 "asn": 4242420093,
                 "prefix": "fdab:896d:d34::/48",
                 "maxPrefixLength": 64,

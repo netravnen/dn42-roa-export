@@ -4726,6 +4726,13 @@
             "mnt-by": "FNS-MNT"
         },
         {
+            "asn": "AS4242423434",
+            "prefix": "fdab:18d6:beef::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CIP-MNT"
+        },
+        {
             "asn": "AS4242420093",
             "prefix": "fdab:896d:d34::/48",
             "maxLength": 64,
@@ -14542,17 +14549,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a6f63892fd2723f28e2248ccbb156a6cc5a679e0",
-            "merge": "a3a8cfb7 662baa1f",
+            "commit": "c5532df04bddcceba2bb1a1a55743508a37af04a",
+            "merge": "a6f63892 348b4c40",
             "author": "burble",
-            "date": "Sat, 18 Apr 2020 17:47:28 +0000",
-            "subject": "Merge branch 'androw' of androw/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a6f63892fd2723f28e2248ccbb156a6cc5a679e0",
-            "generated": "2020-04-18T20:20:45+00:00",
-            "valid": "2020-04-21T20:20:45+00:00"
+            "date": "Sat, 18 Apr 2020 21:21:10 +0000",
+            "subject": "Merge branch 'master' of chippy/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c5532df04bddcceba2bb1a1a55743508a37af04a",
+            "generated": "2020-04-19T00:20:03+00:00",
+            "valid": "2020-04-22T00:20:03+00:00"
         },
-        "counts": 2077,
-        "generated": 1587241245,
-        "valid": 1587500445
+        "counts": 2078,
+        "generated": 1587255603,
+        "valid": 1587514803
     }
 }
