@@ -14555,11 +14555,11 @@
             "date": "Sat, 18 Apr 2020 21:21:10 +0000",
             "subject": "Merge branch 'master' of chippy/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/c5532df04bddcceba2bb1a1a55743508a37af04a",
-            "generated": "2020-04-19T00:20:03+00:00",
-            "valid": "2020-04-22T00:20:03+00:00"
+            "generated": "2020-04-19T10:20:09+00:00",
+            "valid": "2020-04-22T10:20:09+00:00"
         },
         "counts": 2078,
-        "generated": 1587255603,
-        "valid": 1587514803
+        "generated": 1587291609,
+        "valid": 1587550809
     }
 }
