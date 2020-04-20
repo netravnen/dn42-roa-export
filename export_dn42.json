@@ -610,6 +610,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420630",
+            "prefix": "fd10:49:4f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SKYNET-MNT"
+        },
+        {
             "asn": "AS4242420789",
             "prefix": "fd10:7053:49de::/48",
             "maxLength": 64,
@@ -5713,6 +5720,13 @@
             "mnt-by": "TSYMQ00-MNT"
         },
         {
+            "asn": "AS4242421280",
+            "prefix": "fde3:4c0d:2836::/48",
+            "maxLength": 56,
+            "ta": "DN42",
+            "mnt-by": "MARGAU-MNT"
+        },
+        {
             "asn": "AS4242423004",
             "prefix": "fde3:a7e3:7957::/48",
             "maxLength": 64,
@@ -10081,6 +10095,13 @@
             "mnt-by": "WEEJITS-MNT"
         },
         {
+            "asn": "AS4242420630",
+            "prefix": "172.20.246.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SKYNET-MNT"
+        },
+        {
             "asn": "AS4242423920",
             "prefix": "172.20.246.192/27",
             "maxLength": 28,
@@ -11474,6 +11495,13 @@
             "mnt-by": "FEU-MNT"
         },
         {
+            "asn": "AS4242423618",
+            "prefix": "172.21.80.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JERRY-MNT"
+        },
+        {
             "asn": "AS4242423765",
             "prefix": "172.21.80.96/27",
             "maxLength": 28,
@@ -12552,6 +12580,13 @@
             "mnt-by": "JPC-MNT"
         },
         {
+            "asn": "AS4242421280",
+            "prefix": "172.22.161.96/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MARGAU-MNT"
+        },
+        {
             "asn": "AS4242422002",
             "prefix": "172.22.163.0/24",
             "maxLength": 28,
@@ -13096,6 +13131,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "BLACKHOLE-MNT"
+        },
+        {
+            "asn": "AS4242420630",
+            "prefix": "172.22.77.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SKYNET-MNT"
         },
         {
             "asn": "AS64692",
@@ -14563,17 +14605,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "270238d1baf8f4ee3b4eae34353b1c2cc37ea75f",
-            "merge": "c5532df0 ae43945e",
+            "commit": "bc313da489c26edb529259a4567269c4c99aecfb",
+            "merge": "e80109ee 9292184b",
             "author": "burble",
-            "date": "Sun, 19 Apr 2020 14:40:12 +0000",
-            "subject": "Merge branch 'master' of lagertonne/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/270238d1baf8f4ee3b4eae34353b1c2cc37ea75f",
-            "generated": "2020-04-20T10:20:25+00:00",
-            "valid": "2020-04-23T10:20:25+00:00"
+            "date": "Mon, 20 Apr 2020 19:48:51 +0000",
+            "subject": "Merge branch 'master' of margau/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/bc313da489c26edb529259a4567269c4c99aecfb",
+            "generated": "2020-04-20T20:20:36+00:00",
+            "valid": "2020-04-23T20:20:36+00:00"
         },
-        "counts": 2080,
-        "generated": 1587378025,
-        "valid": 1587637225
+        "counts": 2086,
+        "generated": 1587414036,
+        "valid": 1587673236
     }
 }

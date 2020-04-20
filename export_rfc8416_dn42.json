@@ -617,6 +617,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420630,
+                "prefix": "fd10:49:4f::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SKYNET-MNT"
+            },
+            {
                 "asn": 4242420789,
                 "prefix": "fd10:7053:49de::/48",
                 "maxPrefixLength": 64,
@@ -5720,6 +5727,13 @@
                 "mnt-by": "TSYMQ00-MNT"
             },
             {
+                "asn": 4242421280,
+                "prefix": "fde3:4c0d:2836::/48",
+                "maxPrefixLength": 56,
+                "source": "DN42",
+                "mnt-by": "MARGAU-MNT"
+            },
+            {
                 "asn": 4242423004,
                 "prefix": "fde3:a7e3:7957::/48",
                 "maxPrefixLength": 64,
@@ -10088,6 +10102,13 @@
                 "mnt-by": "WEEJITS-MNT"
             },
             {
+                "asn": 4242420630,
+                "prefix": "172.20.246.160/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SKYNET-MNT"
+            },
+            {
                 "asn": 4242423920,
                 "prefix": "172.20.246.192/27",
                 "maxPrefixLength": 28,
@@ -11481,6 +11502,13 @@
                 "mnt-by": "FEU-MNT"
             },
             {
+                "asn": 4242423618,
+                "prefix": "172.21.80.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JERRY-MNT"
+            },
+            {
                 "asn": 4242423765,
                 "prefix": "172.21.80.96/27",
                 "maxPrefixLength": 28,
@@ -12559,6 +12587,13 @@
                 "mnt-by": "JPC-MNT"
             },
             {
+                "asn": 4242421280,
+                "prefix": "172.22.161.96/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MARGAU-MNT"
+            },
+            {
                 "asn": 4242422002,
                 "prefix": "172.22.163.0/24",
                 "maxPrefixLength": 28,
@@ -13103,6 +13138,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BLACKHOLE-MNT"
+            },
+            {
+                "asn": 4242420630,
+                "prefix": "172.22.77.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SKYNET-MNT"
             },
             {
                 "asn": 64692,
