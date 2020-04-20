@@ -14569,11 +14569,11 @@
             "date": "Sun, 19 Apr 2020 14:40:12 +0000",
             "subject": "Merge branch 'master' of lagertonne/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/270238d1baf8f4ee3b4eae34353b1c2cc37ea75f",
-            "generated": "2020-04-20T00:19:54+00:00",
-            "valid": "2020-04-23T00:19:54+00:00"
+            "generated": "2020-04-20T10:20:25+00:00",
+            "valid": "2020-04-23T10:20:25+00:00"
         },
         "counts": 2080,
-        "generated": 1587341994,
-        "valid": 1587601194
+        "generated": 1587378025,
+        "valid": 1587637225
     }
 }
