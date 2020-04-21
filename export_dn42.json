@@ -3186,6 +3186,13 @@
             "mnt-by": "ZEBMCCORKLE-MNT"
         },
         {
+            "asn": "AS4242423883",
+            "prefix": "fd4f:c7fd:f1ea::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TXC-MNT"
+        },
+        {
             "asn": "AS4242423820",
             "prefix": "fd50:3c8f:b8b1::/48",
             "maxLength": 64,
@@ -4927,6 +4934,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "TIMWEB-MNT"
+        },
+        {
+            "asn": "AS4242422238",
+            "prefix": "fdbb:baba:2222::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BESTFENG-MNT"
         },
         {
             "asn": "AS4242420151",
@@ -11999,6 +12013,13 @@
             "mnt-by": "BOLD-MNT"
         },
         {
+            "asn": "AS4242422238",
+            "prefix": "172.22.118.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BESTFENG-MNT"
+        },
+        {
             "asn": "AS64719",
             "prefix": "172.22.119.0/25",
             "maxLength": 28,
@@ -13462,6 +13483,13 @@
             "mnt-by": "ROT13-MNT"
         },
         {
+            "asn": "AS4242423883",
+            "prefix": "172.23.128.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TXC-MNT"
+        },
+        {
             "asn": "AS4242423113",
             "prefix": "172.23.128.64/27",
             "maxLength": 28,
@@ -14605,17 +14633,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "bc313da489c26edb529259a4567269c4c99aecfb",
-            "merge": "e80109ee 9292184b",
+            "commit": "24d841a8b0d6b05a83dcbe0a883d00ee6fd2e042",
+            "merge": "ed5119c1 1a3b4198",
             "author": "burble",
-            "date": "Mon, 20 Apr 2020 19:48:51 +0000",
-            "subject": "Merge branch 'master' of margau/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/bc313da489c26edb529259a4567269c4c99aecfb",
-            "generated": "2020-04-21T00:20:06+00:00",
-            "valid": "2020-04-24T00:20:06+00:00"
+            "date": "Tue, 21 Apr 2020 09:50:24 +0000",
+            "subject": "Merge branch 'master' of bestfeng/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/24d841a8b0d6b05a83dcbe0a883d00ee6fd2e042",
+            "generated": "2020-04-21T10:20:05+00:00",
+            "valid": "2020-04-24T10:20:05+00:00"
         },
-        "counts": 2086,
-        "generated": 1587428406,
-        "valid": 1587687606
+        "counts": 2090,
+        "generated": 1587464405,
+        "valid": 1587723605
     }
 }

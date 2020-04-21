@@ -3193,6 +3193,13 @@
                 "mnt-by": "ZEBMCCORKLE-MNT"
             },
             {
+                "asn": 4242423883,
+                "prefix": "fd4f:c7fd:f1ea::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TXC-MNT"
+            },
+            {
                 "asn": 4242423820,
                 "prefix": "fd50:3c8f:b8b1::/48",
                 "maxPrefixLength": 64,
@@ -4934,6 +4941,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TIMWEB-MNT"
+            },
+            {
+                "asn": 4242422238,
+                "prefix": "fdbb:baba:2222::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BESTFENG-MNT"
             },
             {
                 "asn": 4242420151,
@@ -12006,6 +12020,13 @@
                 "mnt-by": "BOLD-MNT"
             },
             {
+                "asn": 4242422238,
+                "prefix": "172.22.118.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BESTFENG-MNT"
+            },
+            {
                 "asn": 64719,
                 "prefix": "172.22.119.0/25",
                 "maxPrefixLength": 28,
@@ -13467,6 +13488,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ROT13-MNT"
+            },
+            {
+                "asn": 4242423883,
+                "prefix": "172.23.128.128/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TXC-MNT"
             },
             {
                 "asn": 4242423113,
