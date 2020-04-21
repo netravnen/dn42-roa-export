@@ -4334,6 +4334,13 @@
             "mnt-by": "LYREX-MNT"
         },
         {
+            "asn": "AS4242423012",
+            "prefix": "fd9b:37f7:faf7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NEX-MNT"
+        },
+        {
             "asn": "AS4242423320",
             "prefix": "fd9b:8277:c31a::/48",
             "maxLength": 64,
@@ -14633,17 +14640,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "24d841a8b0d6b05a83dcbe0a883d00ee6fd2e042",
-            "merge": "ed5119c1 1a3b4198",
+            "commit": "7af2d9e96bbc54d13707656549fd271c1c79e34a",
+            "merge": "24d841a8 91ee24f5",
             "author": "burble",
-            "date": "Tue, 21 Apr 2020 09:50:24 +0000",
-            "subject": "Merge branch 'master' of bestfeng/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/24d841a8b0d6b05a83dcbe0a883d00ee6fd2e042",
-            "generated": "2020-04-21T10:20:05+00:00",
-            "valid": "2020-04-24T10:20:05+00:00"
+            "date": "Tue, 21 Apr 2020 17:39:30 +0000",
+            "subject": "Merge branch 'nex' of nex/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7af2d9e96bbc54d13707656549fd271c1c79e34a",
+            "generated": "2020-04-21T20:19:58+00:00",
+            "valid": "2020-04-24T20:19:58+00:00"
         },
-        "counts": 2090,
-        "generated": 1587464405,
-        "valid": 1587723605
+        "counts": 2091,
+        "generated": 1587500398,
+        "valid": 1587759598
     }
 }

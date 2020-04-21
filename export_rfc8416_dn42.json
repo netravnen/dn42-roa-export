@@ -4341,6 +4341,13 @@
                 "mnt-by": "LYREX-MNT"
             },
             {
+                "asn": 4242423012,
+                "prefix": "fd9b:37f7:faf7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NEX-MNT"
+            },
+            {
                 "asn": 4242423320,
                 "prefix": "fd9b:8277:c31a::/48",
                 "maxPrefixLength": 64,
