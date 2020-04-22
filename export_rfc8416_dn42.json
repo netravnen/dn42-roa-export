@@ -3984,6 +3984,13 @@
                 "mnt-by": "TRUNET-MNT"
             },
             {
+                "asn": 4242422248,
+                "prefix": "fd81:763a:ce01::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SUDOPARADISE-MNT"
+            },
+            {
                 "asn": 4242423452,
                 "prefix": "fd81:e49c:ba39::/48",
                 "maxPrefixLength": 64,
@@ -4108,6 +4115,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MITSUHA-MNT"
+            },
+            {
+                "asn": 4242422942,
+                "prefix": "fd89:aec1:ca45::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YZITE-MNT"
             },
             {
                 "asn": 4242420710,
@@ -6222,6 +6236,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JASONSREALM-MNT"
+            },
+            {
+                "asn": 4242421180,
+                "prefix": "fdf8:52a8:1314::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FROGJIANG-MNT"
             },
             {
                 "asn": 4242420904,
@@ -10221,6 +10242,13 @@
                 "mnt-by": "NICOLAS-MNT"
             },
             {
+                "asn": 4242422248,
+                "prefix": "172.20.29.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SUDOPARADISE-MNT"
+            },
+            {
                 "asn": 4242422660,
                 "prefix": "172.20.29.64/28",
                 "maxPrefixLength": 28,
@@ -11409,6 +11437,20 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "KDINGO-MNT"
+            },
+            {
+                "asn": 4242420769,
+                "prefix": "172.21.67.144/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HAMMYNET-MNT"
+            },
+            {
+                "asn": 4242421091,
+                "prefix": "172.21.67.160/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOZZNET-MNT"
             },
             {
                 "asn": 4242420339,
@@ -14517,6 +14559,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ROTTY-MNT"
+            },
+            {
+                "asn": 4242421180,
+                "prefix": "172.23.78.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FROGJIANG-MNT"
             },
             {
                 "asn": 4242422857,

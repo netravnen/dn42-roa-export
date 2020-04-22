@@ -3977,6 +3977,13 @@
             "mnt-by": "TRUNET-MNT"
         },
         {
+            "asn": "AS4242422248",
+            "prefix": "fd81:763a:ce01::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SUDOPARADISE-MNT"
+        },
+        {
             "asn": "AS4242423452",
             "prefix": "fd81:e49c:ba39::/48",
             "maxLength": 64,
@@ -4101,6 +4108,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "MITSUHA-MNT"
+        },
+        {
+            "asn": "AS4242422942",
+            "prefix": "fd89:aec1:ca45::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YZITE-MNT"
         },
         {
             "asn": "AS4242420710",
@@ -6215,6 +6229,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JASONSREALM-MNT"
+        },
+        {
+            "asn": "AS4242421180",
+            "prefix": "fdf8:52a8:1314::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FROGJIANG-MNT"
         },
         {
             "asn": "AS4242420904",
@@ -10214,6 +10235,13 @@
             "mnt-by": "NICOLAS-MNT"
         },
         {
+            "asn": "AS4242422248",
+            "prefix": "172.20.29.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SUDOPARADISE-MNT"
+        },
+        {
             "asn": "AS4242422660",
             "prefix": "172.20.29.64/28",
             "maxLength": 28,
@@ -11402,6 +11430,20 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "KDINGO-MNT"
+        },
+        {
+            "asn": "AS4242420769",
+            "prefix": "172.21.67.144/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HAMMYNET-MNT"
+        },
+        {
+            "asn": "AS4242421091",
+            "prefix": "172.21.67.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOZZNET-MNT"
         },
         {
             "asn": "AS4242420339",
@@ -14512,6 +14554,13 @@
             "mnt-by": "ROTTY-MNT"
         },
         {
+            "asn": "AS4242421180",
+            "prefix": "172.23.78.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FROGJIANG-MNT"
+        },
+        {
             "asn": "AS4242422857",
             "prefix": "172.23.82.0/24",
             "maxLength": 28,
@@ -14640,17 +14689,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "7af2d9e96bbc54d13707656549fd271c1c79e34a",
-            "merge": "24d841a8 91ee24f5",
+            "commit": "2d76a00dcc261c711ebad5f42318ac137f17fb15",
+            "merge": "f22478ff 0bd565a4",
             "author": "burble",
-            "date": "Tue, 21 Apr 2020 17:39:30 +0000",
-            "subject": "Merge branch 'nex' of nex/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7af2d9e96bbc54d13707656549fd271c1c79e34a",
-            "generated": "2020-04-22T10:19:49+00:00",
-            "valid": "2020-04-25T10:19:49+00:00"
+            "date": "Wed, 22 Apr 2020 19:14:50 +0000",
+            "subject": "Merge branch 'master' of DatOneLefty/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2d76a00dcc261c711ebad5f42318ac137f17fb15",
+            "generated": "2020-04-22T20:20:09+00:00",
+            "valid": "2020-04-25T20:20:09+00:00"
         },
-        "counts": 2091,
-        "generated": 1587550789,
-        "valid": 1587809989
+        "counts": 2098,
+        "generated": 1587586809,
+        "valid": 1587846009
     }
 }
