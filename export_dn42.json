@@ -14646,11 +14646,11 @@
             "date": "Tue, 21 Apr 2020 17:39:30 +0000",
             "subject": "Merge branch 'nex' of nex/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/7af2d9e96bbc54d13707656549fd271c1c79e34a",
-            "generated": "2020-04-22T00:20:03+00:00",
-            "valid": "2020-04-25T00:20:03+00:00"
+            "generated": "2020-04-22T10:19:49+00:00",
+            "valid": "2020-04-25T10:19:49+00:00"
         },
         "counts": 2091,
-        "generated": 1587514803,
-        "valid": 1587774003
+        "generated": 1587550789,
+        "valid": 1587809989
     }
 }
