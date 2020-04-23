@@ -14695,11 +14695,11 @@
             "date": "Wed, 22 Apr 2020 19:14:50 +0000",
             "subject": "Merge branch 'master' of DatOneLefty/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/2d76a00dcc261c711ebad5f42318ac137f17fb15",
-            "generated": "2020-04-23T10:19:57+00:00",
-            "valid": "2020-04-26T10:19:57+00:00"
+            "generated": "2020-04-23T20:20:07+00:00",
+            "valid": "2020-04-26T20:20:07+00:00"
         },
         "counts": 2098,
-        "generated": 1587637197,
-        "valid": 1587896397
+        "generated": 1587673207,
+        "valid": 1587932407
     }
 }
