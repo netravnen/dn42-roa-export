@@ -12552,6 +12552,13 @@
                 "mnt-by": "PRAUSCHER-MNT"
             },
             {
+                "asn": 4242421219,
+                "prefix": "172.22.156.0/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BIVABORI-MNT"
+            },
+            {
                 "asn": 4242423783,
                 "prefix": "172.22.156.128/26",
                 "maxPrefixLength": 29,
@@ -14622,6 +14629,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ROOT6-MNT"
+            },
+            {
+                "asn": 4242422942,
+                "prefix": "172.23.9.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YZITE-MNT"
             },
             {
                 "asn": 4242422189,

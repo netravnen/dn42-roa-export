@@ -12545,6 +12545,13 @@
             "mnt-by": "PRAUSCHER-MNT"
         },
         {
+            "asn": "AS4242421219",
+            "prefix": "172.22.156.0/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BIVABORI-MNT"
+        },
+        {
             "asn": "AS4242423783",
             "prefix": "172.22.156.128/26",
             "maxLength": 29,
@@ -14617,6 +14624,13 @@
             "mnt-by": "ROOT6-MNT"
         },
         {
+            "asn": "AS4242422942",
+            "prefix": "172.23.9.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YZITE-MNT"
+        },
+        {
             "asn": "AS4242422189",
             "prefix": "172.23.91.0/25",
             "maxLength": 28,
@@ -14689,17 +14703,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "2d76a00dcc261c711ebad5f42318ac137f17fb15",
-            "merge": "f22478ff 0bd565a4",
+            "commit": "efbe45c80bda66416a1f58c3f96b28b1375eb982",
+            "merge": "76041265 863f9078",
             "author": "burble",
-            "date": "Wed, 22 Apr 2020 19:14:50 +0000",
-            "subject": "Merge branch 'master' of DatOneLefty/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2d76a00dcc261c711ebad5f42318ac137f17fb15",
-            "generated": "2020-04-24T10:19:56+00:00",
-            "valid": "2020-04-27T10:19:56+00:00"
+            "date": "Fri, 24 Apr 2020 12:19:21 +0000",
+            "subject": "Merge branch 'yzite' of zseri/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/efbe45c80bda66416a1f58c3f96b28b1375eb982",
+            "generated": "2020-04-24T20:20:09+00:00",
+            "valid": "2020-04-27T20:20:09+00:00"
         },
-        "counts": 2098,
-        "generated": 1587723596,
-        "valid": 1587982796
+        "counts": 2100,
+        "generated": 1587759609,
+        "valid": 1588018809
     }
 }
