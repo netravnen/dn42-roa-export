@@ -14703,17 +14703,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "efbe45c80bda66416a1f58c3f96b28b1375eb982",
-            "merge": "76041265 863f9078",
+            "commit": "dc74d12faf70459f23a24d7e8b6e389f3a194aeb",
+            "merge": "efbe45c8 e2966624",
             "author": "burble",
-            "date": "Fri, 24 Apr 2020 12:19:21 +0000",
-            "subject": "Merge branch 'yzite' of zseri/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/efbe45c80bda66416a1f58c3f96b28b1375eb982",
-            "generated": "2020-04-24T20:20:09+00:00",
-            "valid": "2020-04-27T20:20:09+00:00"
+            "date": "Fri, 24 Apr 2020 21:22:00 +0000",
+            "subject": "Merge branch 'androw' of androw/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dc74d12faf70459f23a24d7e8b6e389f3a194aeb",
+            "generated": "2020-04-25T00:20:26+00:00",
+            "valid": "2020-04-28T00:20:26+00:00"
         },
         "counts": 2100,
-        "generated": 1587759609,
-        "valid": 1588018809
+        "generated": 1587774026,
+        "valid": 1588033226
     }
 }
