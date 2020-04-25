@@ -14709,11 +14709,11 @@
             "date": "Fri, 24 Apr 2020 21:22:00 +0000",
             "subject": "Merge branch 'androw' of androw/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/dc74d12faf70459f23a24d7e8b6e389f3a194aeb",
-            "generated": "2020-04-25T00:20:26+00:00",
-            "valid": "2020-04-28T00:20:26+00:00"
+            "generated": "2020-04-25T10:20:25+00:00",
+            "valid": "2020-04-28T10:20:25+00:00"
         },
         "counts": 2100,
-        "generated": 1587774026,
-        "valid": 1588033226
+        "generated": 1587810025,
+        "valid": 1588069225
     }
 }
