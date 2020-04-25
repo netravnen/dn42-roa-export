@@ -904,6 +904,13 @@
             "mnt-by": "CLOUDYSKIES-MNT"
         },
         {
+            "asn": "AS4242423929",
+            "prefix": "fd23:1d71:dd17::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "V0TTI-MNT"
+        },
+        {
             "asn": "AS4242420741",
             "prefix": "fd23:2333:2333::/48",
             "maxLength": 64,
@@ -1350,6 +1357,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NOP-MNT"
+        },
+        {
+            "asn": "AS4242422644",
+            "prefix": "fd40:d8e8:5088::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FOXO-MNT"
         },
         {
             "asn": "AS4242420066",
@@ -10963,6 +10977,13 @@
             "mnt-by": "MENTHA-MNT"
         },
         {
+            "asn": "AS4242422644",
+            "prefix": "172.20.6.144/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FOXO-MNT"
+        },
+        {
             "asn": "AS4242421860",
             "prefix": "172.20.6.160/27",
             "maxLength": 28,
@@ -14703,17 +14724,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "dc74d12faf70459f23a24d7e8b6e389f3a194aeb",
-            "merge": "efbe45c8 e2966624",
+            "commit": "bac99ab83f27460fa853f9d6295745e4db78451a",
+            "merge": "7c55c39d 86702869",
             "author": "burble",
-            "date": "Fri, 24 Apr 2020 21:22:00 +0000",
-            "subject": "Merge branch 'androw' of androw/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/dc74d12faf70459f23a24d7e8b6e389f3a194aeb",
-            "generated": "2020-04-25T10:20:25+00:00",
-            "valid": "2020-04-28T10:20:25+00:00"
+            "date": "Sat, 25 Apr 2020 19:58:05 +0000",
+            "subject": "Merge branch 'fix-dns' of stv0g/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/bac99ab83f27460fa853f9d6295745e4db78451a",
+            "generated": "2020-04-25T20:20:14+00:00",
+            "valid": "2020-04-28T20:20:14+00:00"
         },
-        "counts": 2100,
-        "generated": 1587810025,
-        "valid": 1588069225
+        "counts": 2103,
+        "generated": 1587846014,
+        "valid": 1588105214
     }
 }

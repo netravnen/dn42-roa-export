@@ -911,6 +911,13 @@
                 "mnt-by": "CLOUDYSKIES-MNT"
             },
             {
+                "asn": 4242423929,
+                "prefix": "fd23:1d71:dd17::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "V0TTI-MNT"
+            },
+            {
                 "asn": 4242420741,
                 "prefix": "fd23:2333:2333::/48",
                 "maxPrefixLength": 64,
@@ -1357,6 +1364,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NOP-MNT"
+            },
+            {
+                "asn": 4242422644,
+                "prefix": "fd40:d8e8:5088::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FOXO-MNT"
             },
             {
                 "asn": 4242420066,
@@ -10968,6 +10982,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MENTHA-MNT"
+            },
+            {
+                "asn": 4242422644,
+                "prefix": "172.20.6.144/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FOXO-MNT"
             },
             {
                 "asn": 4242421860,
