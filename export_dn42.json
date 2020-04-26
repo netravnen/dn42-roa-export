@@ -14730,11 +14730,11 @@
             "date": "Sat, 25 Apr 2020 19:58:05 +0000",
             "subject": "Merge branch 'fix-dns' of stv0g/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/bac99ab83f27460fa853f9d6295745e4db78451a",
-            "generated": "2020-04-25T20:20:14+00:00",
-            "valid": "2020-04-28T20:20:14+00:00"
+            "generated": "2020-04-26T02:22:10+00:00",
+            "valid": "2020-04-29T02:22:10+00:00"
         },
         "counts": 2103,
-        "generated": 1587846014,
-        "valid": 1588105214
+        "generated": 1587867730,
+        "valid": 1588126930
     }
 }
