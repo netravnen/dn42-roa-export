@@ -11740,6 +11740,13 @@
                 "mnt-by": "IMLONGHAO-MNT"
             },
             {
+                "asn": 4242421099,
+                "prefix": "172.21.99.128/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "OWENSRESEARCH-MNT"
+            },
+            {
                 "asn": 0,
                 "prefix": "172.21.99.32/27",
                 "maxPrefixLength": 32,
@@ -12165,13 +12172,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VULKAN-MNT"
-            },
-            {
-                "asn": 4242420180,
-                "prefix": "172.22.122.64/26",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242420916,

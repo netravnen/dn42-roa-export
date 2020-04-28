@@ -11733,6 +11733,13 @@
             "mnt-by": "IMLONGHAO-MNT"
         },
         {
+            "asn": "AS4242421099",
+            "prefix": "172.21.99.128/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "OWENSRESEARCH-MNT"
+        },
+        {
             "asn": "AS0",
             "prefix": "172.21.99.32/27",
             "maxLength": 32,
@@ -12158,13 +12165,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "VULKAN-MNT"
-        },
-        {
-            "asn": "AS4242420180",
-            "prefix": "172.22.122.64/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242420916",
@@ -14724,17 +14724,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d5bb6a0e39aa3d4d404e847b176e8f7b1cda5dd2",
-            "merge": "2f335ce6 a921c363",
+            "commit": "d861ee5d0181d6ae71727e527edb98bdf7752966",
+            "merge": "f8709d27 71aff1bd",
             "author": "burble",
-            "date": "Sun, 26 Apr 2020 18:03:03 +0000",
-            "subject": "Merge branch 'add-mnt-pin' of stv0g/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d5bb6a0e39aa3d4d404e847b176e8f7b1cda5dd2",
-            "generated": "2020-04-28T10:20:02+00:00",
-            "valid": "2020-05-01T10:20:02+00:00"
+            "date": "Tue, 28 Apr 2020 17:08:45 +0000",
+            "subject": "Merge branch 'master' of owens/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d861ee5d0181d6ae71727e527edb98bdf7752966",
+            "generated": "2020-04-28T20:20:28+00:00",
+            "valid": "2020-05-01T20:20:28+00:00"
         },
         "counts": 2103,
-        "generated": 1588069202,
-        "valid": 1588328402
+        "generated": 1588105228,
+        "valid": 1588364428
     }
 }
