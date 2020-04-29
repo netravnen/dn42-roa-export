@@ -14730,11 +14730,11 @@
             "date": "Tue, 28 Apr 2020 17:08:45 +0000",
             "subject": "Merge branch 'master' of owens/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/d861ee5d0181d6ae71727e527edb98bdf7752966",
-            "generated": "2020-04-29T00:19:48+00:00",
-            "valid": "2020-05-02T00:19:48+00:00"
+            "generated": "2020-04-29T10:20:15+00:00",
+            "valid": "2020-05-02T10:20:15+00:00"
         },
         "counts": 2103,
-        "generated": 1588119588,
-        "valid": 1588378788
+        "generated": 1588155615,
+        "valid": 1588414815
     }
 }
