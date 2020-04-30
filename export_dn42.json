@@ -14744,11 +14744,11 @@
             "date": "Wed, 29 Apr 2020 20:36:23 +0000",
             "subject": "Merge branch 'master' of mnagel/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/7984d7a280ebc586d9e187a9e768528f42b82a28",
-            "generated": "2020-04-30T00:20:14+00:00",
-            "valid": "2020-05-03T00:20:14+00:00"
+            "generated": "2020-04-30T10:19:55+00:00",
+            "valid": "2020-05-03T10:19:55+00:00"
         },
         "counts": 2105,
-        "generated": 1588206014,
-        "valid": 1588465214
+        "generated": 1588241995,
+        "valid": 1588501195
     }
 }
