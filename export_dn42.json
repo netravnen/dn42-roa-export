@@ -4936,6 +4936,13 @@
             "mnt-by": "DRATHIR-MNT"
         },
         {
+            "asn": "AS4242421098",
+            "prefix": "fdb8:dff5:dea0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MNAGEL-MNT"
+        },
+        {
             "asn": "AS4242423866",
             "prefix": "fdb9:fff1:dbbf::/48",
             "maxLength": 64,
@@ -10046,6 +10053,13 @@
             "mnt-by": "ALBITZ-MNT"
         },
         {
+            "asn": "AS4242421098",
+            "prefix": "172.20.234.208/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MNAGEL-MNT"
+        },
+        {
             "asn": "AS4242423737",
             "prefix": "172.20.234.224/28",
             "maxLength": 28,
@@ -14724,17 +14738,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d861ee5d0181d6ae71727e527edb98bdf7752966",
-            "merge": "f8709d27 71aff1bd",
+            "commit": "7984d7a280ebc586d9e187a9e768528f42b82a28",
+            "merge": "d861ee5d e7b594f8",
             "author": "burble",
-            "date": "Tue, 28 Apr 2020 17:08:45 +0000",
-            "subject": "Merge branch 'master' of owens/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d861ee5d0181d6ae71727e527edb98bdf7752966",
-            "generated": "2020-04-29T20:20:21+00:00",
-            "valid": "2020-05-02T20:20:21+00:00"
+            "date": "Wed, 29 Apr 2020 20:36:23 +0000",
+            "subject": "Merge branch 'master' of mnagel/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7984d7a280ebc586d9e187a9e768528f42b82a28",
+            "generated": "2020-04-30T00:20:14+00:00",
+            "valid": "2020-05-03T00:20:14+00:00"
         },
-        "counts": 2103,
-        "generated": 1588191621,
-        "valid": 1588450821
+        "counts": 2105,
+        "generated": 1588206014,
+        "valid": 1588465214
     }
 }

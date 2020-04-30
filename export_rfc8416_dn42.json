@@ -4943,6 +4943,13 @@
                 "mnt-by": "DRATHIR-MNT"
             },
             {
+                "asn": 4242421098,
+                "prefix": "fdb8:dff5:dea0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MNAGEL-MNT"
+            },
+            {
                 "asn": 4242423866,
                 "prefix": "fdb9:fff1:dbbf::/48",
                 "maxPrefixLength": 64,
@@ -10051,6 +10058,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ALBITZ-MNT"
+            },
+            {
+                "asn": 4242421098,
+                "prefix": "172.20.234.208/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MNAGEL-MNT"
             },
             {
                 "asn": 4242423737,
