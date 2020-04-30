@@ -4789,6 +4789,13 @@
             "mnt-by": "WWLABS-MNT"
         },
         {
+            "asn": "AS4242420032",
+            "prefix": "fdac:1662:9edd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ERGRBT-MNT"
+        },
+        {
             "asn": "AS4242421296",
             "prefix": "fdac:ebc8:c8ba::/48",
             "maxLength": 48,
@@ -12538,6 +12545,13 @@
             "mnt-by": "KANA-MNT"
         },
         {
+            "asn": "AS4242420032",
+            "prefix": "172.22.150.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ERGRBT-MNT"
+        },
+        {
             "asn": "AS4242420031",
             "prefix": "172.22.150.64/26",
             "maxLength": 28,
@@ -14738,17 +14752,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "7984d7a280ebc586d9e187a9e768528f42b82a28",
-            "merge": "d861ee5d e7b594f8",
+            "commit": "e1da9b2a2c2bd592aa226b417e4336555f85f927",
+            "merge": "7984d7a2 e8548fb2",
             "author": "burble",
-            "date": "Wed, 29 Apr 2020 20:36:23 +0000",
-            "subject": "Merge branch 'master' of mnagel/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7984d7a280ebc586d9e187a9e768528f42b82a28",
-            "generated": "2020-04-30T10:19:55+00:00",
-            "valid": "2020-05-03T10:19:55+00:00"
+            "date": "Thu, 30 Apr 2020 16:15:11 +0000",
+            "subject": "Merge branch 'master' of nvgeele/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e1da9b2a2c2bd592aa226b417e4336555f85f927",
+            "generated": "2020-04-30T20:20:21+00:00",
+            "valid": "2020-05-03T20:20:21+00:00"
         },
-        "counts": 2105,
-        "generated": 1588241995,
-        "valid": 1588501195
+        "counts": 2107,
+        "generated": 1588278021,
+        "valid": 1588537221
     }
 }

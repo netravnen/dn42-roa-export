@@ -4796,6 +4796,13 @@
                 "mnt-by": "WWLABS-MNT"
             },
             {
+                "asn": 4242420032,
+                "prefix": "fdac:1662:9edd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ERGRBT-MNT"
+            },
+            {
                 "asn": 4242421296,
                 "prefix": "fdac:ebc8:c8ba::/48",
                 "maxPrefixLength": 48,
@@ -12543,6 +12550,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "KANA-MNT"
+            },
+            {
+                "asn": 4242420032,
+                "prefix": "172.22.150.192/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ERGRBT-MNT"
             },
             {
                 "asn": 4242420031,
