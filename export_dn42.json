@@ -14772,11 +14772,11 @@
             "date": "Thu, 30 Apr 2020 20:49:46 +0000",
             "subject": "Merge branch 'master' of mcbrown90/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/2f1abb5d1ad0aee8d2e7afc9ea8486decb242869",
-            "generated": "2020-05-01T00:20:05+00:00",
-            "valid": "2020-05-04T00:20:05+00:00"
+            "generated": "2020-05-01T10:19:50+00:00",
+            "valid": "2020-05-04T10:19:50+00:00"
         },
         "counts": 2109,
-        "generated": 1588292405,
-        "valid": 1588551605
+        "generated": 1588328390,
+        "valid": 1588587590
     }
 }
