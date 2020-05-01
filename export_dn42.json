@@ -3340,6 +3340,13 @@
             "mnt-by": "JAMESR-MNT"
         },
         {
+            "asn": "AS4242422574",
+            "prefix": "fd56:4902:eca0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CLERIE-MNT"
+        },
+        {
             "asn": "AS64737",
             "prefix": "fd56:5799:d8f6:1b75::/64",
             "maxLength": 64,
@@ -12069,6 +12076,13 @@
             "mnt-by": "RELIGHT-MNT"
         },
         {
+            "asn": "AS4242422840",
+            "prefix": "172.22.114.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JCAHILL-MNT"
+        },
+        {
             "asn": "AS4242421256",
             "prefix": "172.22.115.0/25",
             "maxLength": 28,
@@ -14766,17 +14780,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "2f1abb5d1ad0aee8d2e7afc9ea8486decb242869",
-            "merge": "e1da9b2a 6638d66d",
+            "commit": "3b22bb4c7da5acf08bfb5673a15df7cca1767b39",
+            "merge": "ec85960b bb0cae7c",
             "author": "burble",
-            "date": "Thu, 30 Apr 2020 20:49:46 +0000",
-            "subject": "Merge branch 'master' of mcbrown90/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2f1abb5d1ad0aee8d2e7afc9ea8486decb242869",
-            "generated": "2020-05-01T10:19:50+00:00",
-            "valid": "2020-05-04T10:19:50+00:00"
+            "date": "Fri, 1 May 2020 17:22:27 +0000",
+            "subject": "Merge branch 'master' of jcx/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3b22bb4c7da5acf08bfb5673a15df7cca1767b39",
+            "generated": "2020-05-01T20:20:18+00:00",
+            "valid": "2020-05-04T20:20:18+00:00"
         },
-        "counts": 2109,
-        "generated": 1588328390,
-        "valid": 1588587590
+        "counts": 2111,
+        "generated": 1588364418,
+        "valid": 1588623618
     }
 }

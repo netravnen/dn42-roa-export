@@ -3347,6 +3347,13 @@
                 "mnt-by": "JAMESR-MNT"
             },
             {
+                "asn": 4242422574,
+                "prefix": "fd56:4902:eca0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CLERIE-MNT"
+            },
+            {
                 "asn": 64737,
                 "prefix": "fd56:5799:d8f6:1b75::/64",
                 "maxPrefixLength": 64,
@@ -12074,6 +12081,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RELIGHT-MNT"
+            },
+            {
+                "asn": 4242422840,
+                "prefix": "172.22.114.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JCAHILL-MNT"
             },
             {
                 "asn": 4242421256,
