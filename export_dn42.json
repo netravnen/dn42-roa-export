@@ -659,6 +659,13 @@
             "mnt-by": "SENAO-MNT"
         },
         {
+            "asn": "AS4242422843",
+            "prefix": "fd12:dbe1:d36c::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MCBROWN-MNT"
+        },
+        {
             "asn": "AS4242423640",
             "prefix": "fd12:ee00:9898::/48",
             "maxLength": 64,
@@ -12188,6 +12195,13 @@
             "mnt-by": "VULKAN-MNT"
         },
         {
+            "asn": "AS4242422843",
+            "prefix": "172.22.122.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MCBROWN-MNT"
+        },
+        {
             "asn": "AS4242420916",
             "prefix": "172.22.123.0/24",
             "maxLength": 28,
@@ -14752,17 +14766,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "e1da9b2a2c2bd592aa226b417e4336555f85f927",
-            "merge": "7984d7a2 e8548fb2",
+            "commit": "2f1abb5d1ad0aee8d2e7afc9ea8486decb242869",
+            "merge": "e1da9b2a 6638d66d",
             "author": "burble",
-            "date": "Thu, 30 Apr 2020 16:15:11 +0000",
-            "subject": "Merge branch 'master' of nvgeele/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e1da9b2a2c2bd592aa226b417e4336555f85f927",
-            "generated": "2020-04-30T20:20:21+00:00",
-            "valid": "2020-05-03T20:20:21+00:00"
+            "date": "Thu, 30 Apr 2020 20:49:46 +0000",
+            "subject": "Merge branch 'master' of mcbrown90/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2f1abb5d1ad0aee8d2e7afc9ea8486decb242869",
+            "generated": "2020-05-01T00:20:05+00:00",
+            "valid": "2020-05-04T00:20:05+00:00"
         },
-        "counts": 2107,
-        "generated": 1588278021,
-        "valid": 1588537221
+        "counts": 2109,
+        "generated": 1588292405,
+        "valid": 1588551605
     }
 }

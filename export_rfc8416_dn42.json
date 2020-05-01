@@ -666,6 +666,13 @@
                 "mnt-by": "SENAO-MNT"
             },
             {
+                "asn": 4242422843,
+                "prefix": "fd12:dbe1:d36c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MCBROWN-MNT"
+            },
+            {
                 "asn": 4242423640,
                 "prefix": "fd12:ee00:9898::/48",
                 "maxPrefixLength": 64,
@@ -12193,6 +12200,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VULKAN-MNT"
+            },
+            {
+                "asn": 4242422843,
+                "prefix": "172.22.122.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MCBROWN-MNT"
             },
             {
                 "asn": 4242420916,
