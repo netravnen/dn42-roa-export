@@ -14780,17 +14780,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "dd61c6f2ae8f5e251a417cf36e96f90b7e3ed178",
-            "merge": "93e16735 c1853e9b",
+            "commit": "c79b1db9107e39693ca953028988392030e261a8",
+            "merge": "dd61c6f2 6e809af0",
             "author": "burble",
-            "date": "Sat, 2 May 2020 07:23:08 +0000",
-            "subject": "Merge branch 'master' of hongangcn/registry_hg into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/dd61c6f2ae8f5e251a417cf36e96f90b7e3ed178",
-            "generated": "2020-05-02T10:20:18+00:00",
-            "valid": "2020-05-05T10:20:18+00:00"
+            "date": "Sat, 2 May 2020 20:10:42 +0000",
+            "subject": "Merge branch 'androw' of androw/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c79b1db9107e39693ca953028988392030e261a8",
+            "generated": "2020-05-02T20:21:29+00:00",
+            "valid": "2020-05-05T20:21:29+00:00"
         },
         "counts": 2111,
-        "generated": 1588414818,
-        "valid": 1588674018
+        "generated": 1588450889,
+        "valid": 1588710089
     }
 }
