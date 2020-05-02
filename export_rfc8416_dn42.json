@@ -1338,13 +1338,6 @@
                 "mnt-by": "PACKETFRAME-MNT"
             },
             {
-                "asn": 4242422390,
-                "prefix": "fd3d:fec4:1a02:be51::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242428989,
                 "prefix": "fd3f:e6b2:8a3e::/48",
                 "maxPrefixLength": 64,
@@ -5783,6 +5776,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423518,
+                "prefix": "fde0:ccf0:ac16::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOON-MNT"
+            },
+            {
                 "asn": 4242420901,
                 "prefix": "fde1:cb02:bc2c::/48",
                 "maxPrefixLength": 64,
@@ -9430,6 +9430,13 @@
                 "mnt-by": "ROUTEDBITS-MNT"
             },
             {
+                "asn": 4242423518,
+                "prefix": "172.20.19.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOON-MNT"
+            },
+            {
                 "asn": 4242423759,
                 "prefix": "172.20.190.0/26",
                 "maxPrefixLength": 28,
@@ -11262,13 +11269,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SEEK42-MNT"
-            },
-            {
-                "asn": 4242422390,
-                "prefix": "172.21.112.32/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422911,

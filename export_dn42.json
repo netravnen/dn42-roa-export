@@ -1331,13 +1331,6 @@
             "mnt-by": "PACKETFRAME-MNT"
         },
         {
-            "asn": "AS4242422390",
-            "prefix": "fd3d:fec4:1a02:be51::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
-        },
-        {
             "asn": "AS4242428989",
             "prefix": "fd3f:e6b2:8a3e::/48",
             "maxLength": 64,
@@ -5776,6 +5769,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423518",
+            "prefix": "fde0:ccf0:ac16::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOON-MNT"
+        },
+        {
             "asn": "AS4242420901",
             "prefix": "fde1:cb02:bc2c::/48",
             "maxLength": 64,
@@ -9423,6 +9423,13 @@
             "mnt-by": "ROUTEDBITS-MNT"
         },
         {
+            "asn": "AS4242423518",
+            "prefix": "172.20.19.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOON-MNT"
+        },
+        {
             "asn": "AS4242423759",
             "prefix": "172.20.190.0/26",
             "maxLength": 28,
@@ -11255,13 +11262,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "SEEK42-MNT"
-        },
-        {
-            "asn": "AS4242422390",
-            "prefix": "172.21.112.32/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242422911",
@@ -14780,17 +14780,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "3b22bb4c7da5acf08bfb5673a15df7cca1767b39",
-            "merge": "ec85960b bb0cae7c",
+            "commit": "dd61c6f2ae8f5e251a417cf36e96f90b7e3ed178",
+            "merge": "93e16735 c1853e9b",
             "author": "burble",
-            "date": "Fri, 1 May 2020 17:22:27 +0000",
-            "subject": "Merge branch 'master' of jcx/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3b22bb4c7da5acf08bfb5673a15df7cca1767b39",
-            "generated": "2020-05-02T00:19:42+00:00",
-            "valid": "2020-05-05T00:19:42+00:00"
+            "date": "Sat, 2 May 2020 07:23:08 +0000",
+            "subject": "Merge branch 'master' of hongangcn/registry_hg into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/dd61c6f2ae8f5e251a417cf36e96f90b7e3ed178",
+            "generated": "2020-05-02T10:20:18+00:00",
+            "valid": "2020-05-05T10:20:18+00:00"
         },
         "counts": 2111,
-        "generated": 1588378782,
-        "valid": 1588637982
+        "generated": 1588414818,
+        "valid": 1588674018
     }
 }
