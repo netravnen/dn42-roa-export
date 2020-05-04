@@ -6210,6 +6210,13 @@
             "mnt-by": "ALWAYSLIVID-MNT"
         },
         {
+            "asn": "AS4242420197",
+            "prefix": "fdf4:2331:fa09::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "N0EMIS-MNT"
+        },
+        {
             "asn": "AS4242420515",
             "prefix": "fdf4:83f1:6f4f::/48",
             "maxLength": 48,
@@ -9498,6 +9505,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "PSM-MNT"
+        },
+        {
+            "asn": "AS4242420197",
+            "prefix": "172.20.190.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "N0EMIS-MNT"
         },
         {
             "asn": "AS4242420191",
@@ -14836,17 +14850,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "8ee4c0f754410b7e10d5d886c90900ca25be1afe",
-            "merge": "e83daa6a 567b5697",
+            "commit": "76c82c02dd35f797c014a8bb458dc25c4798977c",
+            "merge": "49d8ed62 803f0431",
             "author": "burble",
-            "date": "Sun, 3 May 2020 19:43:04 +0000",
-            "subject": "Merge branch 'master' of xuyh0120/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8ee4c0f754410b7e10d5d886c90900ca25be1afe",
-            "generated": "2020-05-03T20:20:54+00:00",
-            "valid": "2020-05-06T20:20:54+00:00"
+            "date": "Sun, 3 May 2020 20:52:00 +0000",
+            "subject": "Merge branch 'master' of n0emis/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/76c82c02dd35f797c014a8bb458dc25c4798977c",
+            "generated": "2020-05-04T00:20:05+00:00",
+            "valid": "2020-05-07T00:20:05+00:00"
         },
-        "counts": 2119,
-        "generated": 1588537254,
-        "valid": 1588796454
+        "counts": 2121,
+        "generated": 1588551605,
+        "valid": 1588810805
     }
 }

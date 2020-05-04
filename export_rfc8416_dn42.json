@@ -6217,6 +6217,13 @@
                 "mnt-by": "ALWAYSLIVID-MNT"
             },
             {
+                "asn": 4242420197,
+                "prefix": "fdf4:2331:fa09::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "N0EMIS-MNT"
+            },
+            {
                 "asn": 4242420515,
                 "prefix": "fdf4:83f1:6f4f::/48",
                 "maxPrefixLength": 48,
@@ -9505,6 +9512,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "PSM-MNT"
+            },
+            {
+                "asn": 4242420197,
+                "prefix": "172.20.190.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "N0EMIS-MNT"
             },
             {
                 "asn": 4242420191,
