@@ -4271,13 +4271,6 @@
             "mnt-by": "FISCALCHEIS-MNT"
         },
         {
-            "asn": "AS4242420985",
-            "prefix": "fd94:267a:f14e::/48",
-            "maxLength": 56,
-            "ta": "DN42",
-            "mnt-by": "BILL-MNT"
-        },
-        {
             "asn": "AS4242423238",
             "prefix": "fd94:3e63:c202::/48",
             "maxLength": 64,
@@ -12468,13 +12461,6 @@
             "mnt-by": "N2S-MNT"
         },
         {
-            "asn": "AS4242420985",
-            "prefix": "172.22.134.32/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "BILL-MNT"
-        },
-        {
             "asn": "AS4242422288",
             "prefix": "172.22.135.0/28",
             "maxLength": 28,
@@ -14864,17 +14850,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "caaa8b178f03e8b5fef4771f73d59140bfadb3cc",
-            "merge": "76c82c02 de3644ad",
+            "commit": "09654d117fe70e9b2764ac470e479de5818e33a4",
+            "merge": "caaa8b17 ecf166c5",
             "author": "burble",
-            "date": "Mon, 4 May 2020 09:04:58 +0000",
-            "subject": "Merge branch 'master' of jlu5/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/caaa8b178f03e8b5fef4771f73d59140bfadb3cc",
-            "generated": "2020-05-04T10:20:10+00:00",
-            "valid": "2020-05-07T10:20:10+00:00"
+            "date": "Mon, 4 May 2020 17:35:31 +0000",
+            "subject": "Merge branch 'master' of billchenchina/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/09654d117fe70e9b2764ac470e479de5818e33a4",
+            "generated": "2020-05-04T20:20:09+00:00",
+            "valid": "2020-05-07T20:20:09+00:00"
         },
-        "counts": 2123,
-        "generated": 1588587610,
-        "valid": 1588846810
+        "counts": 2121,
+        "generated": 1588623609,
+        "valid": 1588882809
     }
 }

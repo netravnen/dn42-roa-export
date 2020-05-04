@@ -4278,13 +4278,6 @@
                 "mnt-by": "FISCALCHEIS-MNT"
             },
             {
-                "asn": 4242420985,
-                "prefix": "fd94:267a:f14e::/48",
-                "maxPrefixLength": 56,
-                "source": "DN42",
-                "mnt-by": "BILL-MNT"
-            },
-            {
                 "asn": 4242423238,
                 "prefix": "fd94:3e63:c202::/48",
                 "maxPrefixLength": 64,
@@ -12473,13 +12466,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "N2S-MNT"
-            },
-            {
-                "asn": 4242420985,
-                "prefix": "172.22.134.32/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "BILL-MNT"
             },
             {
                 "asn": 4242422288,
