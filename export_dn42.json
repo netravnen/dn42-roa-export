@@ -4103,6 +4103,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421080",
+            "prefix": "fd86:bad:11b7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JLU5-MNT"
+        },
+        {
             "asn": "AS4242420674",
             "prefix": "fd86:bc21:638a::/48",
             "maxLength": 64,
@@ -10004,6 +10011,13 @@
             "mnt-by": "LUELISTAN-MNT"
         },
         {
+            "asn": "AS4242421080",
+            "prefix": "172.20.229.112/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "JLU5-MNT"
+        },
+        {
             "asn": "AS4242423951",
             "prefix": "172.20.229.128/27",
             "maxLength": 28,
@@ -14850,17 +14864,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "76c82c02dd35f797c014a8bb458dc25c4798977c",
-            "merge": "49d8ed62 803f0431",
+            "commit": "caaa8b178f03e8b5fef4771f73d59140bfadb3cc",
+            "merge": "76c82c02 de3644ad",
             "author": "burble",
-            "date": "Sun, 3 May 2020 20:52:00 +0000",
-            "subject": "Merge branch 'master' of n0emis/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/76c82c02dd35f797c014a8bb458dc25c4798977c",
-            "generated": "2020-05-04T00:20:05+00:00",
-            "valid": "2020-05-07T00:20:05+00:00"
+            "date": "Mon, 4 May 2020 09:04:58 +0000",
+            "subject": "Merge branch 'master' of jlu5/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/caaa8b178f03e8b5fef4771f73d59140bfadb3cc",
+            "generated": "2020-05-04T10:20:10+00:00",
+            "valid": "2020-05-07T10:20:10+00:00"
         },
-        "counts": 2121,
-        "generated": 1588551605,
-        "valid": 1588810805
+        "counts": 2123,
+        "generated": 1588587610,
+        "valid": 1588846810
     }
 }
