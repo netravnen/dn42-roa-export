@@ -4096,6 +4096,13 @@
             "mnt-by": "N4N-MNT"
         },
         {
+            "asn": "AS4242423855",
+            "prefix": "fd86:4ce:d32f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "FRE-MNT"
+        },
+        {
             "asn": "AS65037",
             "prefix": "fd86:b4dc:4b1e::/48",
             "maxLength": 64,
@@ -4115,6 +4122,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "VULKAN-MNT"
+        },
+        {
+            "asn": "AS4242423939",
+            "prefix": "fd87:3e50:cf33::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MNIHYC-MNT"
         },
         {
             "asn": "AS4242420251",
@@ -8434,6 +8448,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "KAI-MNT"
+        },
+        {
+            "asn": "AS4242423855",
+            "prefix": "172.20.148.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FRE-MNT"
         },
         {
             "asn": "AS4242422550",
@@ -14561,6 +14582,13 @@
             "mnt-by": "SIS-MNT"
         },
         {
+            "asn": "AS4242423939",
+            "prefix": "172.23.39.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MNIHYC-MNT"
+        },
+        {
             "asn": "AS4242420515",
             "prefix": "172.23.40.0/25",
             "maxLength": 28,
@@ -14850,17 +14878,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "09654d117fe70e9b2764ac470e479de5818e33a4",
-            "merge": "caaa8b17 ecf166c5",
+            "commit": "b0157598835782ea43ff6f86a1b5f579a10d1cbc",
+            "merge": "e830c7ec 6a68c9bc",
             "author": "burble",
-            "date": "Mon, 4 May 2020 17:35:31 +0000",
-            "subject": "Merge branch 'master' of billchenchina/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/09654d117fe70e9b2764ac470e479de5818e33a4",
-            "generated": "2020-05-05T10:20:05+00:00",
-            "valid": "2020-05-08T10:20:05+00:00"
+            "date": "Tue, 5 May 2020 15:53:34 +0000",
+            "subject": "Merge branch 'master' of mnihyc/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b0157598835782ea43ff6f86a1b5f579a10d1cbc",
+            "generated": "2020-05-05T20:20:08+00:00",
+            "valid": "2020-05-08T20:20:08+00:00"
         },
-        "counts": 2121,
-        "generated": 1588674005,
-        "valid": 1588933205
+        "counts": 2125,
+        "generated": 1588710008,
+        "valid": 1588969208
     }
 }
