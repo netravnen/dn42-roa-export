@@ -5685,6 +5685,13 @@
                 "mnt-by": "XIAOYU-MNT"
             },
             {
+                "asn": 4242421177,
+                "prefix": "fdd9:be:a2a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "A2X-MNT"
+            },
+            {
                 "asn": 4242423670,
                 "prefix": "fdd9:cecf:b296::/48",
                 "maxPrefixLength": 64,
@@ -13600,6 +13607,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "QPLI920501-MNT"
+            },
+            {
+                "asn": 4242421177,
+                "prefix": "172.23.111.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "A2X-MNT"
             },
             {
                 "asn": 4242420905,

@@ -5678,6 +5678,13 @@
             "mnt-by": "XIAOYU-MNT"
         },
         {
+            "asn": "AS4242421177",
+            "prefix": "fdd9:be:a2a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "A2X-MNT"
+        },
+        {
             "asn": "AS4242423670",
             "prefix": "fdd9:cecf:b296::/48",
             "maxLength": 64,
@@ -13595,6 +13602,13 @@
             "mnt-by": "QPLI920501-MNT"
         },
         {
+            "asn": "AS4242421177",
+            "prefix": "172.23.111.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "A2X-MNT"
+        },
+        {
             "asn": "AS4242420905",
             "prefix": "172.23.116.0/26",
             "maxLength": 28,
@@ -14885,17 +14899,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "4897e431b6c6eff9533e93a4c85077e86625c315",
-            "merge": "4f5bff82 cc6cfd31",
+            "commit": "276441034f5b74e9be7008ceca90d907bf9580f2",
+            "merge": "4897e431 dfdf5e03",
             "author": "burble",
-            "date": "Wed, 6 May 2020 09:59:57 +0000",
-            "subject": "Merge branch 'master' of bitstacker/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4897e431b6c6eff9533e93a4c85077e86625c315",
-            "generated": "2020-05-06T10:20:15+00:00",
-            "valid": "2020-05-09T10:20:15+00:00"
+            "date": "Wed, 6 May 2020 14:32:48 +0000",
+            "subject": "Merge branch 'master' of benedikt/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/276441034f5b74e9be7008ceca90d907bf9580f2",
+            "generated": "2020-05-06T20:20:08+00:00",
+            "valid": "2020-05-09T20:20:08+00:00"
         },
-        "counts": 2126,
-        "generated": 1588760415,
-        "valid": 1589019615
+        "counts": 2128,
+        "generated": 1588796408,
+        "valid": 1589055608
     }
 }
