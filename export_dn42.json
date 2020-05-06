@@ -2997,6 +2997,13 @@
             "mnt-by": "TIMANDO-MNT"
         },
         {
+            "asn": "AS4242420280",
+            "prefix": "fd42:fd42:dead::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BIT-MNT"
+        },
+        {
             "asn": "AS4242423306",
             "prefix": "fd42:fd6b:774e::/48",
             "maxLength": 64,
@@ -14878,17 +14885,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "b0157598835782ea43ff6f86a1b5f579a10d1cbc",
-            "merge": "e830c7ec 6a68c9bc",
+            "commit": "4897e431b6c6eff9533e93a4c85077e86625c315",
+            "merge": "4f5bff82 cc6cfd31",
             "author": "burble",
-            "date": "Tue, 5 May 2020 15:53:34 +0000",
-            "subject": "Merge branch 'master' of mnihyc/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b0157598835782ea43ff6f86a1b5f579a10d1cbc",
-            "generated": "2020-05-06T00:19:56+00:00",
-            "valid": "2020-05-09T00:19:56+00:00"
+            "date": "Wed, 6 May 2020 09:59:57 +0000",
+            "subject": "Merge branch 'master' of bitstacker/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4897e431b6c6eff9533e93a4c85077e86625c315",
+            "generated": "2020-05-06T10:20:15+00:00",
+            "valid": "2020-05-09T10:20:15+00:00"
         },
-        "counts": 2125,
-        "generated": 1588724396,
-        "valid": 1588983596
+        "counts": 2126,
+        "generated": 1588760415,
+        "valid": 1589019615
     }
 }

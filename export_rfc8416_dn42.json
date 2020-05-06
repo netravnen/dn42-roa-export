@@ -3004,6 +3004,13 @@
                 "mnt-by": "TIMANDO-MNT"
             },
             {
+                "asn": 4242420280,
+                "prefix": "fd42:fd42:dead::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BIT-MNT"
+            },
+            {
                 "asn": 4242423306,
                 "prefix": "fd42:fd6b:774e::/48",
                 "maxPrefixLength": 64,
