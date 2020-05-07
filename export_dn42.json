@@ -14905,11 +14905,11 @@
             "date": "Wed, 6 May 2020 14:32:48 +0000",
             "subject": "Merge branch 'master' of benedikt/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/276441034f5b74e9be7008ceca90d907bf9580f2",
-            "generated": "2020-05-06T20:20:08+00:00",
-            "valid": "2020-05-09T20:20:08+00:00"
+            "generated": "2020-05-07T00:19:44+00:00",
+            "valid": "2020-05-10T00:19:44+00:00"
         },
         "counts": 2128,
-        "generated": 1588796408,
-        "valid": 1589055608
+        "generated": 1588810784,
+        "valid": 1589069984
     }
 }
