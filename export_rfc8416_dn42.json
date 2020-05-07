@@ -862,6 +862,13 @@
                 "mnt-by": "CK-MNT"
             },
             {
+                "asn": 4242421307,
+                "prefix": "fd1f:ce1e:ff42::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MAX-MNT"
+            },
+            {
                 "asn": 4242421976,
                 "prefix": "fd20:bdda:5df0::/48",
                 "maxPrefixLength": 64,
@@ -1161,6 +1168,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "IRONFLAKE-MNT"
+            },
+            {
+                "asn": 4242422752,
+                "prefix": "fd2e:b71f:7983::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DELTADELTA-MNT"
             },
             {
                 "asn": 65196,
@@ -1490,6 +1504,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422464,
+                "prefix": "fd42:1145:1419::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOE-MNT"
             },
             {
                 "asn": 4242421997,
@@ -3079,6 +3100,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
+                "asn": 4242423535,
+                "prefix": "fd44:ccc3:5454::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RB67-MNT"
             },
             {
                 "asn": 4242422855,
@@ -9554,6 +9582,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "N0EMIS-MNT"
+            },
+            {
+                "asn": 4242422464,
+                "prefix": "172.20.191.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOE-MNT"
             },
             {
                 "asn": 4242420191,

@@ -855,6 +855,13 @@
             "mnt-by": "CK-MNT"
         },
         {
+            "asn": "AS4242421307",
+            "prefix": "fd1f:ce1e:ff42::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MAX-MNT"
+        },
+        {
             "asn": "AS4242421976",
             "prefix": "fd20:bdda:5df0::/48",
             "maxLength": 64,
@@ -1154,6 +1161,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "IRONFLAKE-MNT"
+        },
+        {
+            "asn": "AS4242422752",
+            "prefix": "fd2e:b71f:7983::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DELTADELTA-MNT"
         },
         {
             "asn": "AS65196",
@@ -1483,6 +1497,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242422464",
+            "prefix": "fd42:1145:1419::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOE-MNT"
         },
         {
             "asn": "AS4242421997",
@@ -3072,6 +3093,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JONATHAN-FERGUSON-MNT"
+        },
+        {
+            "asn": "AS4242423535",
+            "prefix": "fd44:ccc3:5454::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RB67-MNT"
         },
         {
             "asn": "AS4242422855",
@@ -9549,6 +9577,13 @@
             "mnt-by": "N0EMIS-MNT"
         },
         {
+            "asn": "AS4242422464",
+            "prefix": "172.20.191.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOE-MNT"
+        },
+        {
             "asn": "AS4242420191",
             "prefix": "172.20.191.64/27",
             "maxLength": 28,
@@ -14899,17 +14934,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "276441034f5b74e9be7008ceca90d907bf9580f2",
-            "merge": "4897e431 dfdf5e03",
+            "commit": "ede526122a356a3aaed91a00e273856631e89674",
+            "merge": "e0bae61f 0ec27a6d",
             "author": "burble",
-            "date": "Wed, 6 May 2020 14:32:48 +0000",
-            "subject": "Merge branch 'master' of benedikt/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/276441034f5b74e9be7008ceca90d907bf9580f2",
-            "generated": "2020-05-07T00:19:44+00:00",
-            "valid": "2020-05-10T00:19:44+00:00"
+            "date": "Thu, 7 May 2020 07:56:31 +0000",
+            "subject": "Merge branch 'master' of deltadelta/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ede526122a356a3aaed91a00e273856631e89674",
+            "generated": "2020-05-07T10:20:08+00:00",
+            "valid": "2020-05-10T10:20:08+00:00"
         },
-        "counts": 2128,
-        "generated": 1588810784,
-        "valid": 1589069984
+        "counts": 2133,
+        "generated": 1588846808,
+        "valid": 1589106008
     }
 }
