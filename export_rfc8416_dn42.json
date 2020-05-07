@@ -4236,6 +4236,13 @@
                 "mnt-by": "PSM-MNT"
             },
             {
+                "asn": 4242421789,
+                "prefix": "fd8c:fa9a:4b4a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GERG-MNT"
+            },
+            {
                 "asn": 4242422044,
                 "prefix": "fd8e:898d:caa3::/48",
                 "maxPrefixLength": 64,

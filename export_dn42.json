@@ -4229,6 +4229,13 @@
             "mnt-by": "PSM-MNT"
         },
         {
+            "asn": "AS4242421789",
+            "prefix": "fd8c:fa9a:4b4a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GERG-MNT"
+        },
+        {
             "asn": "AS4242422044",
             "prefix": "fd8e:898d:caa3::/48",
             "maxLength": 64,
@@ -14934,17 +14941,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "ede526122a356a3aaed91a00e273856631e89674",
-            "merge": "e0bae61f 0ec27a6d",
+            "commit": "8d10c9cfbd7c121b5387f5d8f20a63471c841786",
+            "merge": "ede52612 8b9d64c0",
             "author": "burble",
-            "date": "Thu, 7 May 2020 07:56:31 +0000",
-            "subject": "Merge branch 'master' of deltadelta/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ede526122a356a3aaed91a00e273856631e89674",
-            "generated": "2020-05-07T10:20:08+00:00",
-            "valid": "2020-05-10T10:20:08+00:00"
+            "date": "Thu, 7 May 2020 14:28:10 +0000",
+            "subject": "Merge branch 'master' of gerg/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8d10c9cfbd7c121b5387f5d8f20a63471c841786",
+            "generated": "2020-05-07T20:20:09+00:00",
+            "valid": "2020-05-10T20:20:09+00:00"
         },
-        "counts": 2133,
-        "generated": 1588846808,
-        "valid": 1589106008
+        "counts": 2134,
+        "generated": 1588882809,
+        "valid": 1589142009
     }
 }
