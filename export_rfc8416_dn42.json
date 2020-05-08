@@ -4698,6 +4698,13 @@
                 "mnt-by": "PYROPETER-MNT"
             },
             {
+                "asn": 4242423928,
+                "prefix": "fda2:2a3e:ba9:9f91::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ADCEMK-MNT"
+            },
+            {
                 "asn": 4242421407,
                 "prefix": "fda3:7863:2204::/48",
                 "maxPrefixLength": 64,
@@ -6271,6 +6278,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420215,
+                "prefix": "fdf3:bd28:d90b::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "EM0LAR-MNT"
             },
             {
                 "asn": 4242420799,
@@ -8898,6 +8912,13 @@
                 "mnt-by": "PICOCLOUD-MNT"
             },
             {
+                "asn": 4242423928,
+                "prefix": "172.20.162.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ADCEMK-MNT"
+            },
+            {
                 "asn": 4242421588,
                 "prefix": "172.20.162.64/26",
                 "maxPrefixLength": 28,
@@ -9897,6 +9918,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LIFEDIO-MNT"
+            },
+            {
+                "asn": 4242420215,
+                "prefix": "172.20.209.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "EM0LAR-MNT"
             },
             {
                 "asn": 4242420260,

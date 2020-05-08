@@ -4691,6 +4691,13 @@
             "mnt-by": "PYROPETER-MNT"
         },
         {
+            "asn": "AS4242423928",
+            "prefix": "fda2:2a3e:ba9:9f91::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ADCEMK-MNT"
+        },
+        {
             "asn": "AS4242421407",
             "prefix": "fda3:7863:2204::/48",
             "maxLength": 64,
@@ -6264,6 +6271,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242420215",
+            "prefix": "fdf3:bd28:d90b::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "EM0LAR-MNT"
         },
         {
             "asn": "AS4242420799",
@@ -8891,6 +8905,13 @@
             "mnt-by": "PICOCLOUD-MNT"
         },
         {
+            "asn": "AS4242423928",
+            "prefix": "172.20.162.16/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ADCEMK-MNT"
+        },
+        {
             "asn": "AS4242421588",
             "prefix": "172.20.162.64/26",
             "maxLength": 28,
@@ -9890,6 +9911,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "LIFEDIO-MNT"
+        },
+        {
+            "asn": "AS4242420215",
+            "prefix": "172.20.209.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "EM0LAR-MNT"
         },
         {
             "asn": "AS4242420260",
@@ -14941,17 +14969,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "8d10c9cfbd7c121b5387f5d8f20a63471c841786",
-            "merge": "ede52612 8b9d64c0",
+            "commit": "4db6ae4fbf3db1f04faa2021433ccbed536f02ee",
+            "merge": "4f066063 30936f5d",
             "author": "burble",
-            "date": "Thu, 7 May 2020 14:28:10 +0000",
-            "subject": "Merge branch 'master' of gerg/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8d10c9cfbd7c121b5387f5d8f20a63471c841786",
-            "generated": "2020-05-08T10:19:50+00:00",
-            "valid": "2020-05-11T10:19:50+00:00"
+            "date": "Fri, 8 May 2020 14:08:59 +0000",
+            "subject": "Merge branch 'master' of em0lar/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4db6ae4fbf3db1f04faa2021433ccbed536f02ee",
+            "generated": "2020-05-08T20:20:21+00:00",
+            "valid": "2020-05-11T20:20:21+00:00"
         },
-        "counts": 2134,
-        "generated": 1588933190,
-        "valid": 1589192390
+        "counts": 2138,
+        "generated": 1588969221,
+        "valid": 1589228421
     }
 }
