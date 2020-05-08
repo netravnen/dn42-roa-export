@@ -14947,11 +14947,11 @@
             "date": "Thu, 7 May 2020 14:28:10 +0000",
             "subject": "Merge branch 'master' of gerg/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/8d10c9cfbd7c121b5387f5d8f20a63471c841786",
-            "generated": "2020-05-08T00:19:41+00:00",
-            "valid": "2020-05-11T00:19:41+00:00"
+            "generated": "2020-05-08T10:19:50+00:00",
+            "valid": "2020-05-11T10:19:50+00:00"
         },
         "counts": 2134,
-        "generated": 1588897181,
-        "valid": 1589156381
+        "generated": 1588933190,
+        "valid": 1589192390
     }
 }
