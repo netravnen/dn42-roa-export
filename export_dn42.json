@@ -4950,6 +4950,13 @@
             "mnt-by": "RHM-MNT"
         },
         {
+            "asn": "AS4242422345",
+            "prefix": "fdb0:4339::/32",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "IIIDEFIX-MNT"
+        },
+        {
             "asn": "AS4242420207",
             "prefix": "fdb1:e72a:343d::/48",
             "maxLength": 64,
@@ -12083,6 +12090,13 @@
             "mnt-by": "HEXCHEN-MNT"
         },
         {
+            "asn": "AS4242421789",
+            "prefix": "172.21.93.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GERG-MNT"
+        },
+        {
             "asn": "AS0",
             "prefix": "172.21.99.0/27",
             "maxLength": 32,
@@ -13987,6 +14001,13 @@
             "mnt-by": "BAKABYTE-MNT"
         },
         {
+            "asn": "AS4242422345",
+            "prefix": "172.23.131.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IIIDEFIX-MNT"
+        },
+        {
             "asn": "AS4242423504",
             "prefix": "172.23.132.0/27",
             "maxLength": 28,
@@ -15137,17 +15158,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "52032068e9ea35a18d59b98ad4fabadbc770e95e",
-            "merge": "4db6ae4f 71c61af7",
+            "commit": "0e7144783ee631ca412ec2d756da8fcdb249421f",
+            "merge": "03774d85 0edddb2b",
             "author": "jrb0001",
-            "date": "Sat, 9 May 2020 08:12:59 +0000",
-            "subject": "Merge branch 'neonetwork' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/52032068e9ea35a18d59b98ad4fabadbc770e95e",
-            "generated": "2020-05-09T10:19:57+00:00",
-            "valid": "2020-05-12T10:19:57+00:00"
+            "date": "Sat, 9 May 2020 15:24:10 +0000",
+            "subject": "Merge branch 'object-fix' of dn42/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0e7144783ee631ca412ec2d756da8fcdb249421f",
+            "generated": "2020-05-09T20:20:06+00:00",
+            "valid": "2020-05-12T20:20:06+00:00"
         },
-        "counts": 2162,
-        "generated": 1589019597,
-        "valid": 1589278797
+        "counts": 2165,
+        "generated": 1589055606,
+        "valid": 1589314806
     }
 }

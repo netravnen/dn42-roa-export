@@ -4957,6 +4957,13 @@
                 "mnt-by": "RHM-MNT"
             },
             {
+                "asn": 4242422345,
+                "prefix": "fdb0:4339::/32",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "IIIDEFIX-MNT"
+            },
+            {
                 "asn": 4242420207,
                 "prefix": "fdb1:e72a:343d::/48",
                 "maxPrefixLength": 64,
@@ -12090,6 +12097,13 @@
                 "mnt-by": "HEXCHEN-MNT"
             },
             {
+                "asn": 4242421789,
+                "prefix": "172.21.93.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GERG-MNT"
+            },
+            {
                 "asn": 0,
                 "prefix": "172.21.99.0/27",
                 "maxPrefixLength": 32,
@@ -13992,6 +14006,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BAKABYTE-MNT"
+            },
+            {
+                "asn": 4242422345,
+                "prefix": "172.23.131.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "IIIDEFIX-MNT"
             },
             {
                 "asn": 4242423504,
