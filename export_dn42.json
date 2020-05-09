@@ -14975,11 +14975,11 @@
             "date": "Fri, 8 May 2020 14:08:59 +0000",
             "subject": "Merge branch 'master' of em0lar/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/4db6ae4fbf3db1f04faa2021433ccbed536f02ee",
-            "generated": "2020-05-08T20:20:21+00:00",
-            "valid": "2020-05-11T20:20:21+00:00"
+            "generated": "2020-05-09T00:19:50+00:00",
+            "valid": "2020-05-12T00:19:50+00:00"
         },
         "counts": 2138,
-        "generated": 1588969221,
-        "valid": 1589228421
+        "generated": 1588983590,
+        "valid": 1589242790
     }
 }
