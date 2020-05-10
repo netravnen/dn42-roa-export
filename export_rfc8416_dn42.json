@@ -12097,6 +12097,13 @@
                 "mnt-by": "HEXCHEN-MNT"
             },
             {
+                "asn": 4242422752,
+                "prefix": "172.21.93.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DELTADELTA-MNT"
+            },
+            {
                 "asn": 4242421789,
                 "prefix": "172.21.93.96/27",
                 "maxPrefixLength": 28,

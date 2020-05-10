@@ -12090,6 +12090,13 @@
             "mnt-by": "HEXCHEN-MNT"
         },
         {
+            "asn": "AS4242422752",
+            "prefix": "172.21.93.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DELTADELTA-MNT"
+        },
+        {
             "asn": "AS4242421789",
             "prefix": "172.21.93.96/27",
             "maxLength": 28,
@@ -15158,17 +15165,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0e7144783ee631ca412ec2d756da8fcdb249421f",
-            "merge": "03774d85 0edddb2b",
-            "author": "jrb0001",
-            "date": "Sat, 9 May 2020 15:24:10 +0000",
-            "subject": "Merge branch 'object-fix' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0e7144783ee631ca412ec2d756da8fcdb249421f",
-            "generated": "2020-05-09T20:20:06+00:00",
-            "valid": "2020-05-12T20:20:06+00:00"
+            "commit": "eb695ca30a9b33b5358645ea94c2d96c4ec2bd5c",
+            "merge": "4d721c27 5093f06f",
+            "author": "burble",
+            "date": "Sat, 9 May 2020 21:18:49 +0000",
+            "subject": "Merge branch 'master' of Kioubit/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/eb695ca30a9b33b5358645ea94c2d96c4ec2bd5c",
+            "generated": "2020-05-10T00:20:03+00:00",
+            "valid": "2020-05-13T00:20:03+00:00"
         },
-        "counts": 2165,
-        "generated": 1589055606,
-        "valid": 1589314806
+        "counts": 2166,
+        "generated": 1589070003,
+        "valid": 1589329203
     }
 }
