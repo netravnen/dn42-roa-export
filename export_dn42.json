@@ -617,6 +617,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270006",
+            "prefix": "fd10:127:53::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270000",
             "prefix": "fd10:127:5f37:59df::/64",
             "maxLength": 64,
@@ -6952,6 +6959,20 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270011",
+            "prefix": "10.127.22.0/29",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270011",
+            "prefix": "10.127.22.8/29",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270005",
             "prefix": "10.127.233.0/24",
             "maxLength": 29,
@@ -6975,6 +6996,13 @@
         {
             "asn": "AS4201270000",
             "prefix": "10.127.255.4/32",
+            "maxLength": 32,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270006",
+            "prefix": "10.127.255.53/32",
             "maxLength": 32,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -15171,11 +15199,11 @@
             "date": "Sat, 9 May 2020 21:18:49 +0000",
             "subject": "Merge branch 'master' of Kioubit/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/eb695ca30a9b33b5358645ea94c2d96c4ec2bd5c",
-            "generated": "2020-05-11T10:19:48+00:00",
-            "valid": "2020-05-14T10:19:48+00:00"
+            "generated": "2020-05-11T20:20:26+00:00",
+            "valid": "2020-05-14T20:20:26+00:00"
         },
-        "counts": 2166,
-        "generated": 1589192388,
-        "valid": 1589451588
+        "counts": 2170,
+        "generated": 1589228426,
+        "valid": 1589487626
     }
 }
