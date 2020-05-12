@@ -6925,6 +6925,13 @@
         },
         {
             "asn": "AS4201270000",
+            "prefix": "10.127.0.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270000",
             "prefix": "10.127.1.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
@@ -15200,17 +15207,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "eb695ca30a9b33b5358645ea94c2d96c4ec2bd5c",
-            "merge": "4d721c27 5093f06f",
+            "commit": "ddd7e668bd1873d4da9dec8940cbc973da9d14f9",
+            "merge": "570dd3cf ff4d99a5",
             "author": "burble",
-            "date": "Sat, 9 May 2020 21:18:49 +0000",
-            "subject": "Merge branch 'master' of Kioubit/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/eb695ca30a9b33b5358645ea94c2d96c4ec2bd5c",
-            "generated": "2020-05-12T10:21:09+00:00",
-            "valid": "2020-05-15T10:21:09+00:00"
+            "date": "Tue, 12 May 2020 17:46:39 +0000",
+            "subject": "Merge branch 'master' of outloudvi/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/ddd7e668bd1873d4da9dec8940cbc973da9d14f9",
+            "generated": "2020-05-12T20:20:06+00:00",
+            "valid": "2020-05-15T20:20:06+00:00"
         },
-        "counts": 2171,
-        "generated": 1589278869,
-        "valid": 1589538069
+        "counts": 2172,
+        "generated": 1589314806,
+        "valid": 1589574006
     }
 }
