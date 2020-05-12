@@ -610,6 +610,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4201270010,
+                "prefix": "fd10:127:10::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4201270013,
                 "prefix": "fd10:127:13::/48",
                 "maxPrefixLength": 64,

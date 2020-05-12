@@ -603,6 +603,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270010",
+            "prefix": "fd10:127:10::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270013",
             "prefix": "fd10:127:13::/48",
             "maxLength": 64,
@@ -15199,11 +15206,11 @@
             "date": "Sat, 9 May 2020 21:18:49 +0000",
             "subject": "Merge branch 'master' of Kioubit/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/eb695ca30a9b33b5358645ea94c2d96c4ec2bd5c",
-            "generated": "2020-05-12T00:19:53+00:00",
-            "valid": "2020-05-15T00:19:53+00:00"
+            "generated": "2020-05-12T10:21:09+00:00",
+            "valid": "2020-05-15T10:21:09+00:00"
         },
-        "counts": 2170,
-        "generated": 1589242793,
-        "valid": 1589501993
+        "counts": 2171,
+        "generated": 1589278869,
+        "valid": 1589538069
     }
 }
