@@ -617,6 +617,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270005",
+            "prefix": "fd10:127:233:1c3c::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270008",
             "prefix": "fd10:127:233::/48",
             "maxLength": 64,
@@ -692,6 +699,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "TRRUNDE-MNT"
+        },
+        {
+            "asn": "AS4242423209",
+            "prefix": "fd12:9554:7f59::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "GDEV-MNT"
         },
         {
             "asn": "AS4242423882",
@@ -4290,6 +4304,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421423",
+            "prefix": "fd8f:a905:397::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BANNET-MNT"
         },
         {
             "asn": "AS4242423337",
@@ -9710,6 +9731,13 @@
             "mnt-by": "AFX-MNT"
         },
         {
+            "asn": "AS4242423209",
+            "prefix": "172.20.184.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GDEV-MNT"
+        },
+        {
             "asn": "AS4242421588",
             "prefix": "172.20.186.0/24",
             "maxLength": 28,
@@ -11675,6 +11703,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "VRNET-MNT"
+        },
+        {
+            "asn": "AS4242423535",
+            "prefix": "172.21.118.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RB67-MNT"
         },
         {
             "asn": "AS4242422058",
@@ -13889,6 +13924,13 @@
             "mnt-by": "LOSER-MNT"
         },
         {
+            "asn": "AS4242421423",
+            "prefix": "172.23.109.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BANNET-MNT"
+        },
+        {
             "asn": "AS64526",
             "prefix": "172.23.11.0/24",
             "maxLength": 28,
@@ -15207,17 +15249,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "ddd7e668bd1873d4da9dec8940cbc973da9d14f9",
-            "merge": "570dd3cf ff4d99a5",
+            "commit": "7070e3f8e9ae022c7c302a2c7b69c9cafe517c90",
+            "merge": "367cf6eb 699c6cf1",
             "author": "burble",
-            "date": "Tue, 12 May 2020 17:46:39 +0000",
-            "subject": "Merge branch 'master' of outloudvi/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/ddd7e668bd1873d4da9dec8940cbc973da9d14f9",
-            "generated": "2020-05-13T10:19:51+00:00",
-            "valid": "2020-05-16T10:19:51+00:00"
+            "date": "Wed, 13 May 2020 19:41:48 +0000",
+            "subject": "Merge branch 'master' of borednerd/gdev-registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7070e3f8e9ae022c7c302a2c7b69c9cafe517c90",
+            "generated": "2020-05-13T20:20:20+00:00",
+            "valid": "2020-05-16T20:20:20+00:00"
         },
-        "counts": 2172,
-        "generated": 1589365191,
-        "valid": 1589624391
+        "counts": 2178,
+        "generated": 1589401220,
+        "valid": 1589660420
     }
 }

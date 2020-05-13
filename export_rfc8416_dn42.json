@@ -624,6 +624,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4201270005,
+                "prefix": "fd10:127:233:1c3c::/64",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4201270008,
                 "prefix": "fd10:127:233::/48",
                 "maxPrefixLength": 64,
@@ -699,6 +706,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TRRUNDE-MNT"
+            },
+            {
+                "asn": 4242423209,
+                "prefix": "fd12:9554:7f59::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "GDEV-MNT"
             },
             {
                 "asn": 4242423882,
@@ -4297,6 +4311,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421423,
+                "prefix": "fd8f:a905:397::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BANNET-MNT"
             },
             {
                 "asn": 4242423337,
@@ -9717,6 +9738,13 @@
                 "mnt-by": "AFX-MNT"
             },
             {
+                "asn": 4242423209,
+                "prefix": "172.20.184.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GDEV-MNT"
+            },
+            {
                 "asn": 4242421588,
                 "prefix": "172.20.186.0/24",
                 "maxPrefixLength": 28,
@@ -11682,6 +11710,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VRNET-MNT"
+            },
+            {
+                "asn": 4242423535,
+                "prefix": "172.21.118.160/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RB67-MNT"
             },
             {
                 "asn": 4242422058,
@@ -13894,6 +13929,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LOSER-MNT"
+            },
+            {
+                "asn": 4242421423,
+                "prefix": "172.23.109.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BANNET-MNT"
             },
             {
                 "asn": 64526,
