@@ -15255,11 +15255,11 @@
             "date": "Wed, 13 May 2020 19:41:48 +0000",
             "subject": "Merge branch 'master' of borednerd/gdev-registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/7070e3f8e9ae022c7c302a2c7b69c9cafe517c90",
-            "generated": "2020-05-13T20:20:20+00:00",
-            "valid": "2020-05-16T20:20:20+00:00"
+            "generated": "2020-05-14T00:19:50+00:00",
+            "valid": "2020-05-17T00:19:50+00:00"
         },
         "counts": 2178,
-        "generated": 1589401220,
-        "valid": 1589660420
+        "generated": 1589415590,
+        "valid": 1589674790
     }
 }
