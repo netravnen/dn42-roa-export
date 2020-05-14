@@ -659,6 +659,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4201270007,
+                "prefix": "fd10:127:7::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64894,
                 "prefix": "fd10:2ea2:4dae::/48",
                 "maxPrefixLength": 64,
@@ -3879,6 +3886,13 @@
                 "mnt-by": "GERGERNET-MNT"
             },
             {
+                "asn": 4242423964,
+                "prefix": "fd71:2bc7:20dc::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ARCH-MNT"
+            },
+            {
                 "asn": 4242421190,
                 "prefix": "fd71:7ce:bfbb::/48",
                 "maxPrefixLength": 64,
@@ -4780,6 +4794,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "KNS-MNT"
+            },
+            {
+                "asn": 4242420781,
+                "prefix": "fda3:d993:602a:babe::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NAB-MNT"
             },
             {
                 "asn": 4242420145,
@@ -9155,6 +9176,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ADCEMK-MNT"
+            },
+            {
+                "asn": 4242423964,
+                "prefix": "172.20.162.32/27",
+                "maxPrefixLength": 27,
+                "source": "DN42",
+                "mnt-by": "ARCH-MNT"
             },
             {
                 "asn": 4242421588,

@@ -652,6 +652,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270007",
+            "prefix": "fd10:127:7::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64894",
             "prefix": "fd10:2ea2:4dae::/48",
             "maxLength": 64,
@@ -3872,6 +3879,13 @@
             "mnt-by": "GERGERNET-MNT"
         },
         {
+            "asn": "AS4242423964",
+            "prefix": "fd71:2bc7:20dc::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ARCH-MNT"
+        },
+        {
             "asn": "AS4242421190",
             "prefix": "fd71:7ce:bfbb::/48",
             "maxLength": 64,
@@ -4773,6 +4787,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "KNS-MNT"
+        },
+        {
+            "asn": "AS4242420781",
+            "prefix": "fda3:d993:602a:babe::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NAB-MNT"
         },
         {
             "asn": "AS4242420145",
@@ -9148,6 +9169,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ADCEMK-MNT"
+        },
+        {
+            "asn": "AS4242423964",
+            "prefix": "172.20.162.32/27",
+            "maxLength": 27,
+            "ta": "DN42",
+            "mnt-by": "ARCH-MNT"
         },
         {
             "asn": "AS4242421588",
@@ -15249,17 +15277,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "7070e3f8e9ae022c7c302a2c7b69c9cafe517c90",
-            "merge": "367cf6eb 699c6cf1",
+            "commit": "cd8cc10ccdb33dd5403e038e084569e246404592",
+            "merge": "8c583b4f 4906a0d1",
             "author": "burble",
-            "date": "Wed, 13 May 2020 19:41:48 +0000",
-            "subject": "Merge branch 'master' of borednerd/gdev-registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7070e3f8e9ae022c7c302a2c7b69c9cafe517c90",
-            "generated": "2020-05-14T10:20:36+00:00",
-            "valid": "2020-05-17T10:20:36+00:00"
+            "date": "Thu, 14 May 2020 17:42:14 +0000",
+            "subject": "Merge branch 'master' of nab/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/cd8cc10ccdb33dd5403e038e084569e246404592",
+            "generated": "2020-05-14T20:20:09+00:00",
+            "valid": "2020-05-17T20:20:09+00:00"
         },
-        "counts": 2178,
-        "generated": 1589451636,
-        "valid": 1589710836
+        "counts": 2182,
+        "generated": 1589487609,
+        "valid": 1589746809
     }
 }
