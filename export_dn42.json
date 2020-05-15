@@ -15283,11 +15283,11 @@
             "date": "Thu, 14 May 2020 17:42:14 +0000",
             "subject": "Merge branch 'master' of nab/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/cd8cc10ccdb33dd5403e038e084569e246404592",
-            "generated": "2020-05-15T00:20:03+00:00",
-            "valid": "2020-05-18T00:20:03+00:00"
+            "generated": "2020-05-15T10:20:04+00:00",
+            "valid": "2020-05-18T10:20:04+00:00"
         },
         "counts": 2182,
-        "generated": 1589502003,
-        "valid": 1589761203
+        "generated": 1589538004,
+        "valid": 1589797204
     }
 }
