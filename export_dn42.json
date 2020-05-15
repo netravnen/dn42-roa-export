@@ -36,6 +36,13 @@
             "mnt-by": "NIA-MNT"
         },
         {
+            "asn": "AS207268",
+            "prefix": "fd00:1926:817::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NIA-MNT"
+        },
+        {
             "asn": "AS4242422235",
             "prefix": "fd00:1996:726::/48",
             "maxLength": 64,
@@ -9003,6 +9010,13 @@
             "mnt-by": "NIA-MNT"
         },
         {
+            "asn": "AS207268",
+            "prefix": "172.20.158.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NIA-MNT"
+        },
+        {
             "asn": "AS4242421629",
             "prefix": "172.20.158.32/27",
             "maxLength": 28,
@@ -15277,17 +15291,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "cd8cc10ccdb33dd5403e038e084569e246404592",
-            "merge": "8c583b4f 4906a0d1",
+            "commit": "c8578df9f5814d8b54df60e27621b6757a76ecf9",
+            "merge": "3f6a7963 c60661a9",
             "author": "burble",
-            "date": "Thu, 14 May 2020 17:42:14 +0000",
-            "subject": "Merge branch 'master' of nab/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/cd8cc10ccdb33dd5403e038e084569e246404592",
-            "generated": "2020-05-15T10:20:04+00:00",
-            "valid": "2020-05-18T10:20:04+00:00"
+            "date": "Fri, 15 May 2020 18:12:32 +0000",
+            "subject": "Merge branch 'master' of loser/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c8578df9f5814d8b54df60e27621b6757a76ecf9",
+            "generated": "2020-05-15T20:20:56+00:00",
+            "valid": "2020-05-18T20:20:56+00:00"
         },
-        "counts": 2182,
-        "generated": 1589538004,
-        "valid": 1589797204
+        "counts": 2184,
+        "generated": 1589574056,
+        "valid": 1589833256
     }
 }
