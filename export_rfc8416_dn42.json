@@ -673,7 +673,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242420916,
+                "asn": 4201270020,
                 "prefix": "fd10:127:a1a1:20::/64",
                 "maxPrefixLength": 64,
                 "source": "NEONETWORK",
@@ -5760,6 +5760,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NOCTURNO-MNT"
+            },
+            {
+                "asn": 4242423735,
+                "prefix": "fdce:3a98:4c1c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CPERRIN-MNT"
             },
             {
                 "asn": 4242423999,

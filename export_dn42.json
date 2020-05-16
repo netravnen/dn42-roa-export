@@ -666,7 +666,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242420916",
+            "asn": "AS4201270020",
             "prefix": "fd10:127:a1a1:20::/64",
             "maxLength": 64,
             "ta": "NEONETWORK",
@@ -5753,6 +5753,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NOCTURNO-MNT"
+        },
+        {
+            "asn": "AS4242423735",
+            "prefix": "fdce:3a98:4c1c::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CPERRIN-MNT"
         },
         {
             "asn": "AS4242423999",
@@ -15431,17 +15438,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "b0d7327a99377df1ef9d22fc388dbaf3cb4fa762",
-            "merge": "8c6271f0 407897fa",
+            "commit": "8a7714e1989c16d1d62af94e28f2ee2187a22381",
+            "merge": "56fa08c4 1f8dfacd",
             "author": "burble",
-            "date": "Sat, 16 May 2020 06:44:42 +0000",
-            "subject": "Merge branch 'master' of adcemk/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b0d7327a99377df1ef9d22fc388dbaf3cb4fa762",
-            "generated": "2020-05-16T10:20:24+00:00",
-            "valid": "2020-05-19T10:20:24+00:00"
+            "date": "Sat, 16 May 2020 19:43:01 +0000",
+            "subject": "Merge branch 'master' of Hexanet/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8a7714e1989c16d1d62af94e28f2ee2187a22381",
+            "generated": "2020-05-16T20:20:04+00:00",
+            "valid": "2020-05-19T20:20:04+00:00"
         },
-        "counts": 2204,
-        "generated": 1589624424,
-        "valid": 1589883624
+        "counts": 2205,
+        "generated": 1589660404,
+        "valid": 1589919604
     }
 }
