@@ -666,6 +666,146 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420916",
+            "prefix": "fd10:127:a1a1:20::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270021",
+            "prefix": "fd10:127:a1a1:21::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270022",
+            "prefix": "fd10:127:a1a1:22::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270023",
+            "prefix": "fd10:127:a1a1:23::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270024",
+            "prefix": "fd10:127:a1a1:24::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270025",
+            "prefix": "fd10:127:a1a1:25::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270026",
+            "prefix": "fd10:127:a1a1:26::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270027",
+            "prefix": "fd10:127:a1a1:27::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270028",
+            "prefix": "fd10:127:a1a1:28::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270029",
+            "prefix": "fd10:127:a1a1:29::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270030",
+            "prefix": "fd10:127:a1a1:30::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270031",
+            "prefix": "fd10:127:a1a1:31::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270032",
+            "prefix": "fd10:127:a1a1:32::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270033",
+            "prefix": "fd10:127:a1a1:33::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270034",
+            "prefix": "fd10:127:a1a1:34::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270035",
+            "prefix": "fd10:127:a1a1:35::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270036",
+            "prefix": "fd10:127:a1a1:36::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270037",
+            "prefix": "fd10:127:a1a1:37::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270038",
+            "prefix": "fd10:127:a1a1:38::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270039",
+            "prefix": "fd10:127:a1a1:39::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64894",
             "prefix": "fd10:2ea2:4dae::/48",
             "maxLength": 64,
@@ -4775,13 +4915,6 @@
             "mnt-by": "PYROPETER-MNT"
         },
         {
-            "asn": "AS4242423928",
-            "prefix": "fda2:2a3e:ba9:9f91::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "ADCEMK-MNT"
-        },
-        {
             "asn": "AS4242421407",
             "prefix": "fda3:7863:2204::/48",
             "maxLength": 64,
@@ -5900,6 +6033,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "CODEHACK-MNT"
+        },
+        {
+            "asn": "AS4242421555",
+            "prefix": "fdde:dead:beef::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WRMSR-MNT"
         },
         {
             "asn": "AS4242422460",
@@ -9178,13 +9318,6 @@
             "mnt-by": "PICOCLOUD-MNT"
         },
         {
-            "asn": "AS4242423928",
-            "prefix": "172.20.162.16/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "ADCEMK-MNT"
-        },
-        {
             "asn": "AS4242423964",
             "prefix": "172.20.162.32/27",
             "maxLength": 27,
@@ -10499,6 +10632,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "DAYI-MNT"
+        },
+        {
+            "asn": "AS4242421555",
+            "prefix": "172.20.233.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WRMSR-MNT"
         },
         {
             "asn": "AS4242420205",
@@ -15291,17 +15431,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "11ee5dae0ef0654732568c2a912f6eda36b1e085",
-            "merge": "c8578df9 eca7017e",
+            "commit": "b0d7327a99377df1ef9d22fc388dbaf3cb4fa762",
+            "merge": "8c6271f0 407897fa",
             "author": "burble",
-            "date": "Fri, 15 May 2020 21:31:37 +0000",
-            "subject": "Merge branch 'master' of keksbg/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/11ee5dae0ef0654732568c2a912f6eda36b1e085",
-            "generated": "2020-05-16T00:20:19+00:00",
-            "valid": "2020-05-19T00:20:19+00:00"
+            "date": "Sat, 16 May 2020 06:44:42 +0000",
+            "subject": "Merge branch 'master' of adcemk/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b0d7327a99377df1ef9d22fc388dbaf3cb4fa762",
+            "generated": "2020-05-16T10:20:24+00:00",
+            "valid": "2020-05-19T10:20:24+00:00"
         },
-        "counts": 2184,
-        "generated": 1589588419,
-        "valid": 1589847619
+        "counts": 2204,
+        "generated": 1589624424,
+        "valid": 1589883624
     }
 }
