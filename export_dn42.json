@@ -15291,17 +15291,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "c8578df9f5814d8b54df60e27621b6757a76ecf9",
-            "merge": "3f6a7963 c60661a9",
+            "commit": "11ee5dae0ef0654732568c2a912f6eda36b1e085",
+            "merge": "c8578df9 eca7017e",
             "author": "burble",
-            "date": "Fri, 15 May 2020 18:12:32 +0000",
-            "subject": "Merge branch 'master' of loser/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c8578df9f5814d8b54df60e27621b6757a76ecf9",
-            "generated": "2020-05-15T20:20:56+00:00",
-            "valid": "2020-05-18T20:20:56+00:00"
+            "date": "Fri, 15 May 2020 21:31:37 +0000",
+            "subject": "Merge branch 'master' of keksbg/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/11ee5dae0ef0654732568c2a912f6eda36b1e085",
+            "generated": "2020-05-16T00:20:19+00:00",
+            "valid": "2020-05-19T00:20:19+00:00"
         },
         "counts": 2184,
-        "generated": 1589574056,
-        "valid": 1589833256
+        "generated": 1589588419,
+        "valid": 1589847619
     }
 }
