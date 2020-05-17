@@ -3984,6 +3984,13 @@
             "mnt-by": "LLEVI-MNT"
         },
         {
+            "asn": "AS4242423916",
+            "prefix": "fd6c:c6ed:38d5::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BYRON-MNT"
+        },
+        {
             "asn": "AS4242423962",
             "prefix": "fd6d:a5fa:383c::/48",
             "maxLength": 48,
@@ -8658,6 +8665,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "FANTASQUEX-MNT"
+        },
+        {
+            "asn": "AS4242423916",
+            "prefix": "172.20.132.128/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "BYRON-MNT"
         },
         {
             "asn": "AS4242421916",
@@ -15459,17 +15473,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "f302cc945ad704908e70ce188f7f4ae1d87ee12c",
-            "merge": "ffa7d128 aadce6bb",
+            "commit": "f86cd081f34f6ca9f74de0ea0b8309a1ed40456e",
+            "merge": "9887868a acbf3262",
             "author": "burble",
-            "date": "Sun, 17 May 2020 08:17:27 +0000",
-            "subject": "Merge branch 'master' of olabs/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f302cc945ad704908e70ce188f7f4ae1d87ee12c",
-            "generated": "2020-05-17T10:20:06+00:00",
-            "valid": "2020-05-20T10:20:06+00:00"
+            "date": "Sun, 17 May 2020 18:59:06 +0000",
+            "subject": "Merge branch 'master' of byron/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f86cd081f34f6ca9f74de0ea0b8309a1ed40456e",
+            "generated": "2020-05-17T20:20:33+00:00",
+            "valid": "2020-05-20T20:20:33+00:00"
         },
-        "counts": 2208,
-        "generated": 1589710806,
-        "valid": 1589970006
+        "counts": 2210,
+        "generated": 1589746833,
+        "valid": 1590006033
     }
 }

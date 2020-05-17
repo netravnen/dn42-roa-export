@@ -3991,6 +3991,13 @@
                 "mnt-by": "LLEVI-MNT"
             },
             {
+                "asn": 4242423916,
+                "prefix": "fd6c:c6ed:38d5::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BYRON-MNT"
+            },
+            {
                 "asn": 4242423962,
                 "prefix": "fd6d:a5fa:383c::/48",
                 "maxPrefixLength": 48,
@@ -8665,6 +8672,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FANTASQUEX-MNT"
+            },
+            {
+                "asn": 4242423916,
+                "prefix": "172.20.132.128/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "BYRON-MNT"
             },
             {
                 "asn": 4242421916,
