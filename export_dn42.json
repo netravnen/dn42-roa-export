@@ -3690,6 +3690,13 @@
             "mnt-by": "JUMBLE-MNT"
         },
         {
+            "asn": "AS4242420218",
+            "prefix": "fd5c:998a:b6a5::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "XKEY-MNT"
+        },
+        {
             "asn": "AS4242420171",
             "prefix": "fd5c:d982:d80d:9243::/64",
             "maxLength": 64,
@@ -4927,6 +4934,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "KNS-MNT"
+        },
+        {
+            "asn": "AS4242423217",
+            "prefix": "fda3:b3ab:126d::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "KANGAROONET-MNT"
         },
         {
             "asn": "AS4242420781",
@@ -12748,6 +12762,13 @@
             "mnt-by": "BESTFENG-MNT"
         },
         {
+            "asn": "AS4242423217",
+            "prefix": "172.22.118.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KANGAROONET-MNT"
+        },
+        {
             "asn": "AS64719",
             "prefix": "172.22.119.0/25",
             "maxLength": 28,
@@ -15438,17 +15459,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "8a7714e1989c16d1d62af94e28f2ee2187a22381",
-            "merge": "56fa08c4 1f8dfacd",
+            "commit": "f302cc945ad704908e70ce188f7f4ae1d87ee12c",
+            "merge": "ffa7d128 aadce6bb",
             "author": "burble",
-            "date": "Sat, 16 May 2020 19:43:01 +0000",
-            "subject": "Merge branch 'master' of Hexanet/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8a7714e1989c16d1d62af94e28f2ee2187a22381",
-            "generated": "2020-05-17T00:19:59+00:00",
-            "valid": "2020-05-20T00:19:59+00:00"
+            "date": "Sun, 17 May 2020 08:17:27 +0000",
+            "subject": "Merge branch 'master' of olabs/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f302cc945ad704908e70ce188f7f4ae1d87ee12c",
+            "generated": "2020-05-17T10:20:06+00:00",
+            "valid": "2020-05-20T10:20:06+00:00"
         },
-        "counts": 2205,
-        "generated": 1589674799,
-        "valid": 1589933999
+        "counts": 2208,
+        "generated": 1589710806,
+        "valid": 1589970006
     }
 }
