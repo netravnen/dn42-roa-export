@@ -15479,11 +15479,11 @@
             "date": "Sun, 17 May 2020 18:59:06 +0000",
             "subject": "Merge branch 'master' of byron/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/f86cd081f34f6ca9f74de0ea0b8309a1ed40456e",
-            "generated": "2020-05-18T00:19:58+00:00",
-            "valid": "2020-05-21T00:19:58+00:00"
+            "generated": "2020-05-18T10:20:31+00:00",
+            "valid": "2020-05-21T10:20:31+00:00"
         },
         "counts": 2210,
-        "generated": 1589761198,
-        "valid": 1590020398
+        "generated": 1589797231,
+        "valid": 1590056431
     }
 }
