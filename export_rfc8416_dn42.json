@@ -673,146 +673,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201270020,
-                "prefix": "fd10:127:a1a1:20::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270021,
-                "prefix": "fd10:127:a1a1:21::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270022,
-                "prefix": "fd10:127:a1a1:22::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270023,
-                "prefix": "fd10:127:a1a1:23::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270024,
-                "prefix": "fd10:127:a1a1:24::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270025,
-                "prefix": "fd10:127:a1a1:25::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270026,
-                "prefix": "fd10:127:a1a1:26::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270027,
-                "prefix": "fd10:127:a1a1:27::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270028,
-                "prefix": "fd10:127:a1a1:28::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270029,
-                "prefix": "fd10:127:a1a1:29::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270030,
-                "prefix": "fd10:127:a1a1:30::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270031,
-                "prefix": "fd10:127:a1a1:31::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270032,
-                "prefix": "fd10:127:a1a1:32::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270033,
-                "prefix": "fd10:127:a1a1:33::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270034,
-                "prefix": "fd10:127:a1a1:34::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270035,
-                "prefix": "fd10:127:a1a1:35::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270036,
-                "prefix": "fd10:127:a1a1:36::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270037,
-                "prefix": "fd10:127:a1a1:37::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270038,
-                "prefix": "fd10:127:a1a1:38::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270039,
-                "prefix": "fd10:127:a1a1:39::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 64894,
                 "prefix": "fd10:2ea2:4dae::/48",
                 "maxPrefixLength": 64,
@@ -2248,6 +2108,13 @@
                 "mnt-by": "BURBLE-MNT"
             },
             {
+                "asn": 0,
+                "prefix": "fd42:4242:2601:ffff::/64",
+                "maxPrefixLength": 128,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
                 "asn": 4242422660,
                 "prefix": "fd42:4242:2660::/48",
                 "maxPrefixLength": 64,
@@ -2966,21 +2833,21 @@
                 "prefix": "fd42:d42:d42:43::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
-                "mnt-by": "KRSTN-MNT"
-            },
-            {
-                "asn": 4242420013,
-                "prefix": "fd42:d42:d42:43::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "KRSTN-MNT"
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 4242423723,
                 "prefix": "fd42:d42:d42:43::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
-                "mnt-by": "KRSTN-MNT"
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "fd42:d42:d42:43::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 64737,
@@ -5328,6 +5195,13 @@
                 "mnt-by": "TIMWEB-MNT"
             },
             {
+                "asn": 4242420074,
+                "prefix": "fdbb:8bb5:fb3d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SPLASH-MNT"
+            },
+            {
                 "asn": 4242422238,
                 "prefix": "fdbb:baba:2222::/48",
                 "maxPrefixLength": 48,
@@ -5529,6 +5403,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "CREATIX-MNT"
+            },
+            {
+                "asn": 64946,
+                "prefix": "fdc3:67ce:cc7e::/48",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
             },
             {
                 "asn": 64874,
@@ -7185,6 +7066,13 @@
             {
                 "asn": 4201270013,
                 "prefix": "10.127.13.0/24",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 134098,
+                "prefix": "10.127.14.0/23",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
@@ -9127,6 +9015,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PN-MNT"
+            },
+            {
+                "asn": 4242421424,
+                "prefix": "172.20.154.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BANTERNET-MNT"
             },
             {
                 "asn": 4242423435,
@@ -12444,21 +12339,21 @@
                 "prefix": "172.22.0.43/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "KRSTN-MNT"
-            },
-            {
-                "asn": 4242420013,
-                "prefix": "172.22.0.43/32",
-                "maxPrefixLength": 32,
-                "source": "DN42",
-                "mnt-by": "KRSTN-MNT"
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 4242423723,
                 "prefix": "172.22.0.43/32",
                 "maxPrefixLength": 32,
                 "source": "DN42",
-                "mnt-by": "KRSTN-MNT"
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "172.22.0.43/32",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 0,
