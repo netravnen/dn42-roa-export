@@ -15374,11 +15374,11 @@
             "date": "Mon, 18 May 2020 19:23:31 +0000",
             "subject": "Merge branch 'master' of cambanfield/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/f2a1fbd048f68d388e3fd159bfb5231b861ad8ec",
-            "generated": "2020-05-18T20:20:27+00:00",
-            "valid": "2020-05-21T20:20:27+00:00"
+            "generated": "2020-05-19T00:19:48+00:00",
+            "valid": "2020-05-22T00:19:48+00:00"
         },
         "counts": 2195,
-        "generated": 1589833227,
-        "valid": 1590092427
+        "generated": 1589847588,
+        "valid": 1590106788
     }
 }
