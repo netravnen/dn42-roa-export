@@ -4299,6 +4299,13 @@
             "mnt-by": "MITSUHA-MNT"
         },
         {
+            "asn": "AS4242420604",
+            "prefix": "fd89:35db:0fc0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOECAST-MNT"
+        },
+        {
             "asn": "AS4242422942",
             "prefix": "fd89:aec1:ca45::/48",
             "maxLength": 64,
@@ -15296,6 +15303,13 @@
             "mnt-by": "ROOT6-MNT"
         },
         {
+            "asn": "AS4242420604",
+            "prefix": "172.23.89.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOECAST-MNT"
+        },
+        {
             "asn": "AS4242422942",
             "prefix": "172.23.9.32/27",
             "maxLength": 28,
@@ -15375,17 +15389,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "f2a1fbd048f68d388e3fd159bfb5231b861ad8ec",
-            "merge": "e26a0567 af7073a5",
+            "commit": "96ac64bfd369f23a964eaee326b4766125c37793",
+            "merge": "7367bc0d 2fa76726",
             "author": "burble",
-            "date": "Mon, 18 May 2020 19:23:31 +0000",
-            "subject": "Merge branch 'master' of cambanfield/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f2a1fbd048f68d388e3fd159bfb5231b861ad8ec",
-            "generated": "2020-05-19T10:20:44+00:00",
-            "valid": "2020-05-22T10:20:44+00:00"
+            "date": "Tue, 19 May 2020 18:24:06 +0000",
+            "subject": "Merge branch 'AS4242422237' of munsternet/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/96ac64bfd369f23a964eaee326b4766125c37793",
+            "generated": "2020-05-19T20:20:17+00:00",
+            "valid": "2020-05-22T20:20:17+00:00"
         },
-        "counts": 2196,
-        "generated": 1589883644,
-        "valid": 1590142844
+        "counts": 2198,
+        "generated": 1589919617,
+        "valid": 1590178817
     }
 }

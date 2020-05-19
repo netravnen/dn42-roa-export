@@ -4306,6 +4306,13 @@
                 "mnt-by": "MITSUHA-MNT"
             },
             {
+                "asn": 4242420604,
+                "prefix": "fd89:35db:0fc0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOECAST-MNT"
+            },
+            {
                 "asn": 4242422942,
                 "prefix": "fd89:aec1:ca45::/48",
                 "maxPrefixLength": 64,
@@ -15301,6 +15308,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ROOT6-MNT"
+            },
+            {
+                "asn": 4242420604,
+                "prefix": "172.23.89.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOECAST-MNT"
             },
             {
                 "asn": 4242422942,
