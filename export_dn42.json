@@ -7155,6 +7155,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270012",
+            "prefix": "10.127.5.0/28",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270004",
             "prefix": "10.127.56.0/24",
             "maxLength": 29,
@@ -15374,11 +15381,11 @@
             "date": "Mon, 18 May 2020 19:23:31 +0000",
             "subject": "Merge branch 'master' of cambanfield/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/f2a1fbd048f68d388e3fd159bfb5231b861ad8ec",
-            "generated": "2020-05-19T00:19:48+00:00",
-            "valid": "2020-05-22T00:19:48+00:00"
+            "generated": "2020-05-19T10:20:44+00:00",
+            "valid": "2020-05-22T10:20:44+00:00"
         },
-        "counts": 2195,
-        "generated": 1589847588,
-        "valid": 1590106788
+        "counts": 2196,
+        "generated": 1589883644,
+        "valid": 1590142844
     }
 }
