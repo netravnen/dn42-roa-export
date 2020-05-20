@@ -645,6 +645,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4201270014,
+                "prefix": "fd10:127:23::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4201270006,
                 "prefix": "fd10:127:53::/48",
                 "maxPrefixLength": 64,
@@ -4307,7 +4314,7 @@
             },
             {
                 "asn": 4242420604,
-                "prefix": "fd89:35db:0fc0::/48",
+                "prefix": "fd89:35db:fc0::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "MOECAST-MNT"
@@ -7101,6 +7108,13 @@
             {
                 "asn": 4201270011,
                 "prefix": "10.127.22.8/29",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4201270014,
+                "prefix": "10.127.23.0/29",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
