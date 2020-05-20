@@ -15389,17 +15389,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "96ac64bfd369f23a964eaee326b4766125c37793",
-            "merge": "7367bc0d 2fa76726",
+            "commit": "005debf68341e584e31f772b2c525850b936da8e",
+            "merge": "96ac64bf ab698314",
             "author": "burble",
-            "date": "Tue, 19 May 2020 18:24:06 +0000",
-            "subject": "Merge branch 'AS4242422237' of munsternet/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/96ac64bfd369f23a964eaee326b4766125c37793",
-            "generated": "2020-05-20T00:20:20+00:00",
-            "valid": "2020-05-23T00:20:20+00:00"
+            "date": "Wed, 20 May 2020 07:48:58 +0000",
+            "subject": "Merge branch 'master' of inrin/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/005debf68341e584e31f772b2c525850b936da8e",
+            "generated": "2020-05-20T10:20:00+00:00",
+            "valid": "2020-05-23T10:20:00+00:00"
         },
         "counts": 2198,
-        "generated": 1589934020,
-        "valid": 1590193220
+        "generated": 1589970000,
+        "valid": 1590229200
     }
 }
