@@ -645,6 +645,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270001",
+            "prefix": "fd10:127:41::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270006",
             "prefix": "fd10:127:53::/48",
             "maxLength": 64,
@@ -7120,6 +7127,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270008",
+            "prefix": "10.127.255.117/32",
+            "maxLength": 32,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270000",
             "prefix": "10.127.255.1/32",
             "maxLength": 32,
@@ -7171,6 +7185,13 @@
         {
             "asn": "AS4201270008",
             "prefix": "10.127.4.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270001",
+            "prefix": "10.127.41.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -15409,11 +15430,11 @@
             "date": "Wed, 20 May 2020 07:48:58 +0000",
             "subject": "Merge branch 'master' of inrin/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/005debf68341e584e31f772b2c525850b936da8e",
-            "generated": "2020-05-22T00:19:57+00:00",
-            "valid": "2020-05-25T00:19:57+00:00"
+            "generated": "2020-05-22T10:20:25+00:00",
+            "valid": "2020-05-25T10:20:25+00:00"
         },
-        "counts": 2200,
-        "generated": 1590106797,
-        "valid": 1590365997
+        "counts": 2203,
+        "generated": 1590142825,
+        "valid": 1590402025
     }
 }
