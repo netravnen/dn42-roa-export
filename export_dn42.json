@@ -15445,17 +15445,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d316424b7ba4f01e47361e94a7b30b7c0e1810e1",
-            "merge": "af34d7c0 de541ef6",
+            "commit": "19ad4728b0be41ffa008e876d16991ef7a20f6f4",
+            "merge": "d738c3b5 5e36efd2",
             "author": "burble",
-            "date": "Sat, 23 May 2020 08:42:39 +0000",
+            "date": "Sat, 23 May 2020 18:44:39 +0000",
             "subject": "Merge branch 'master' of Mebus/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d316424b7ba4f01e47361e94a7b30b7c0e1810e1",
-            "generated": "2020-05-23T10:20:33+00:00",
-            "valid": "2020-05-26T10:20:33+00:00"
+            "url": "https://git.dn42.us/dn42/registry/commit/19ad4728b0be41ffa008e876d16991ef7a20f6f4",
+            "generated": "2020-05-23T20:20:10+00:00",
+            "valid": "2020-05-26T20:20:10+00:00"
         },
         "counts": 2206,
-        "generated": 1590229233,
-        "valid": 1590488433
+        "generated": 1590265210,
+        "valid": 1590524410
     }
 }
