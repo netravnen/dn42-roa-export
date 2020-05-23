@@ -4313,6 +4313,13 @@
                 "mnt-by": "FRYGUY-MNT"
             },
             {
+                "asn": 4242420112,
+                "prefix": "fd88:c7e:c7b7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MEBUS-MNT"
+            },
+            {
                 "asn": 4242423886,
                 "prefix": "fd88:dead:beef::/48",
                 "maxPrefixLength": 64,
@@ -5529,6 +5536,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "ROBOTHAM-MNT"
+            },
+            {
+                "asn": 4242423353,
+                "prefix": "fdc7:d4c1:7b13::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ZSTEVA-MNT"
             },
             {
                 "asn": 4242423854,
@@ -13474,6 +13488,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PLASMATRIX-MNT"
+            },
+            {
+                "asn": 4242423353,
+                "prefix": "172.22.181.224/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ZSTEVA-MNT"
             },
             {
                 "asn": 4242421069,

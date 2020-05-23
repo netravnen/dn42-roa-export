@@ -4306,6 +4306,13 @@
             "mnt-by": "FRYGUY-MNT"
         },
         {
+            "asn": "AS4242420112",
+            "prefix": "fd88:c7e:c7b7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MEBUS-MNT"
+        },
+        {
             "asn": "AS4242423886",
             "prefix": "fd88:dead:beef::/48",
             "maxLength": 64,
@@ -5522,6 +5529,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "ROBOTHAM-MNT"
+        },
+        {
+            "asn": "AS4242423353",
+            "prefix": "fdc7:d4c1:7b13::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ZSTEVA-MNT"
         },
         {
             "asn": "AS4242423854",
@@ -13469,6 +13483,13 @@
             "mnt-by": "PLASMATRIX-MNT"
         },
         {
+            "asn": "AS4242423353",
+            "prefix": "172.22.181.224/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZSTEVA-MNT"
+        },
+        {
             "asn": "AS4242421069",
             "prefix": "172.22.182.0/25",
             "maxLength": 28,
@@ -15424,17 +15445,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d0d9692899572e4a86c48a592aaafdb473039109",
-            "merge": "866aa072 fb7ffb4d",
+            "commit": "d316424b7ba4f01e47361e94a7b30b7c0e1810e1",
+            "merge": "af34d7c0 de541ef6",
             "author": "burble",
-            "date": "Fri, 22 May 2020 20:24:05 +0000",
-            "subject": "Merge branch 'master' of n0emis/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d0d9692899572e4a86c48a592aaafdb473039109",
-            "generated": "2020-05-23T00:20:43+00:00",
-            "valid": "2020-05-26T00:20:43+00:00"
+            "date": "Sat, 23 May 2020 08:42:39 +0000",
+            "subject": "Merge branch 'master' of Mebus/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d316424b7ba4f01e47361e94a7b30b7c0e1810e1",
+            "generated": "2020-05-23T10:20:33+00:00",
+            "valid": "2020-05-26T10:20:33+00:00"
         },
-        "counts": 2203,
-        "generated": 1590193243,
-        "valid": 1590452443
+        "counts": 2206,
+        "generated": 1590229233,
+        "valid": 1590488433
     }
 }
