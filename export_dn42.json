@@ -15424,17 +15424,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "005debf68341e584e31f772b2c525850b936da8e",
-            "merge": "96ac64bf ab698314",
+            "commit": "d0d9692899572e4a86c48a592aaafdb473039109",
+            "merge": "866aa072 fb7ffb4d",
             "author": "burble",
-            "date": "Wed, 20 May 2020 07:48:58 +0000",
-            "subject": "Merge branch 'master' of inrin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/005debf68341e584e31f772b2c525850b936da8e",
-            "generated": "2020-05-22T20:20:07+00:00",
-            "valid": "2020-05-25T20:20:07+00:00"
+            "date": "Fri, 22 May 2020 20:24:05 +0000",
+            "subject": "Merge branch 'master' of n0emis/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d0d9692899572e4a86c48a592aaafdb473039109",
+            "generated": "2020-05-23T00:20:43+00:00",
+            "valid": "2020-05-26T00:20:43+00:00"
         },
         "counts": 2203,
-        "generated": 1590178807,
-        "valid": 1590438007
+        "generated": 1590193243,
+        "valid": 1590452443
     }
 }
