@@ -1030,6 +1030,13 @@
                 "mnt-by": "BAKABYTE-MNT"
             },
             {
+                "asn": 64616,
+                "prefix": "fd23:42:ac16::/56",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ASTRO-MNT"
+            },
+            {
                 "asn": 64699,
                 "prefix": "fd23:42:c3d2:500::/56",
                 "maxPrefixLength": 64,
