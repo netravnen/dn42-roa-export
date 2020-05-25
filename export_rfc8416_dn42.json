@@ -6273,6 +6273,13 @@
                 "mnt-by": "ARITE-MNT"
             },
             {
+                "asn": 4242420565,
+                "prefix": "fded:e0fd:05fe::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "E1MO-MNT"
+            },
+            {
                 "asn": 4242423765,
                 "prefix": "fded:fd48:3355::/48",
                 "maxPrefixLength": 48,
@@ -10548,6 +10555,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "OUTSOURCER-MNT"
+            },
+            {
+                "asn": 4242420565,
+                "prefix": "172.20.229.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "E1MO-MNT"
             },
             {
                 "asn": 4242422440,

@@ -6266,6 +6266,13 @@
             "mnt-by": "ARITE-MNT"
         },
         {
+            "asn": "AS4242420565",
+            "prefix": "fded:e0fd:05fe::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "E1MO-MNT"
+        },
+        {
             "asn": "AS4242423765",
             "prefix": "fded:fd48:3355::/48",
             "maxLength": 48,
@@ -10541,6 +10548,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "OUTSOURCER-MNT"
+        },
+        {
+            "asn": "AS4242420565",
+            "prefix": "172.20.229.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "E1MO-MNT"
         },
         {
             "asn": "AS4242422440",
@@ -15452,17 +15466,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d66ba7f4790634cbd07a8d871834d29eaff83756",
-            "merge": "15832b17 9cb91394",
+            "commit": "30efd22f25061769ce0b220537035f57a30edb9c",
+            "merge": "8f86826f c0ff0d07",
             "author": "burble",
-            "date": "Sun, 24 May 2020 20:43:29 +0000",
-            "subject": "Merge branch 'ula-astro' of astro/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d66ba7f4790634cbd07a8d871834d29eaff83756",
-            "generated": "2020-05-25T00:20:01+00:00",
-            "valid": "2020-05-28T00:20:01+00:00"
+            "date": "Mon, 25 May 2020 09:09:16 +0000",
+            "subject": "Merge branch 'master' of e1mo/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/30efd22f25061769ce0b220537035f57a30edb9c",
+            "generated": "2020-05-25T10:20:20+00:00",
+            "valid": "2020-05-28T10:20:20+00:00"
         },
-        "counts": 2207,
-        "generated": 1590366001,
-        "valid": 1590625201
+        "counts": 2209,
+        "generated": 1590402020,
+        "valid": 1590661220
     }
 }
