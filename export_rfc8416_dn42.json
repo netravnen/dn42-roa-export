@@ -5356,6 +5356,13 @@
                 "mnt-by": "COLOCATIOUS-MNT"
             },
             {
+                "asn": 4242422551,
+                "prefix": "fdc0:9c8d:ce13::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VLCTY-MNT"
+            },
+            {
                 "asn": 4242421811,
                 "prefix": "fdc0:bc88:be::/48",
                 "maxPrefixLength": 64,
@@ -6117,13 +6124,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JFRED-MNT"
-            },
-            {
-                "asn": 4242422103,
-                "prefix": "fde6:dee3:615d::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422777,
@@ -9512,13 +9512,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "COSMIC-MNT"
-            },
-            {
-                "asn": 4242422103,
-                "prefix": "172.20.171.160/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242421564,
@@ -14419,6 +14412,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TYLER-MNT"
+            },
+            {
+                "asn": 4242422551,
+                "prefix": "172.23.151.224/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VLCTY-MNT"
             },
             {
                 "asn": 4242422428,

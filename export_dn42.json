@@ -5349,6 +5349,13 @@
             "mnt-by": "COLOCATIOUS-MNT"
         },
         {
+            "asn": "AS4242422551",
+            "prefix": "fdc0:9c8d:ce13::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "VLCTY-MNT"
+        },
+        {
             "asn": "AS4242421811",
             "prefix": "fdc0:bc88:be::/48",
             "maxLength": 64,
@@ -6110,13 +6117,6 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JFRED-MNT"
-        },
-        {
-            "asn": "AS4242422103",
-            "prefix": "fde6:dee3:615d::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242422777",
@@ -9505,13 +9505,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "COSMIC-MNT"
-        },
-        {
-            "asn": "AS4242422103",
-            "prefix": "172.20.171.160/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242421564",
@@ -14414,6 +14407,13 @@
             "mnt-by": "TYLER-MNT"
         },
         {
+            "asn": "AS4242422551",
+            "prefix": "172.23.151.224/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VLCTY-MNT"
+        },
+        {
             "asn": "AS4242422428",
             "prefix": "172.23.156.0/23",
             "maxLength": 28,
@@ -15466,17 +15466,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "16202a381b12568912f01b75d4f513cac8e196b5",
-            "merge": "7d99dbf4 f82e4429",
+            "commit": "adc76d4108a35f31c733c3969a5337308e8e8bf8",
+            "merge": "b9405785 dbdc26c4",
             "author": "burble",
-            "date": "Wed, 27 May 2020 19:05:38 +0000",
-            "subject": "Merge branch 'nserver' of astro/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/16202a381b12568912f01b75d4f513cac8e196b5",
-            "generated": "2020-05-28T10:19:53+00:00",
-            "valid": "2020-05-31T10:19:53+00:00"
+            "date": "Thu, 28 May 2020 15:24:53 +0000",
+            "subject": "Merge branch 'master' of veloc1ty/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/adc76d4108a35f31c733c3969a5337308e8e8bf8",
+            "generated": "2020-05-28T20:20:15+00:00",
+            "valid": "2020-05-31T20:20:15+00:00"
         },
         "counts": 2209,
-        "generated": 1590661193,
-        "valid": 1590920393
+        "generated": 1590697215,
+        "valid": 1590956415
     }
 }
