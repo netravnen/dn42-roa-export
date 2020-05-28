@@ -15472,11 +15472,11 @@
             "date": "Wed, 27 May 2020 19:05:38 +0000",
             "subject": "Merge branch 'nserver' of astro/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/16202a381b12568912f01b75d4f513cac8e196b5",
-            "generated": "2020-05-27T20:20:04+00:00",
-            "valid": "2020-05-30T20:20:04+00:00"
+            "generated": "2020-05-28T00:20:11+00:00",
+            "valid": "2020-05-31T00:20:11+00:00"
         },
         "counts": 2209,
-        "generated": 1590610804,
-        "valid": 1590870004
+        "generated": 1590625211,
+        "valid": 1590884411
     }
 }
