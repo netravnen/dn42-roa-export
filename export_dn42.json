@@ -624,6 +624,20 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270003",
+            "prefix": "fd10:127:1919:810::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421025",
+            "prefix": "fd10:127:233:1000::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270005",
             "prefix": "fd10:127:233:1c3c::/64",
             "maxLength": 64,
@@ -661,13 +675,6 @@
         {
             "asn": "AS4201270000",
             "prefix": "fd10:127:5f37:59df::/64",
-            "maxLength": 64,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4201270009",
-            "prefix": "fd10:127:6969::/48",
             "maxLength": 64,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -6267,7 +6274,7 @@
         },
         {
             "asn": "AS4242420565",
-            "prefix": "fded:e0fd:05fe::/48",
+            "prefix": "fded:e0fd:5fe::/48",
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "E1MO-MNT"
@@ -7263,6 +7270,13 @@
             "asn": "AS4201270006",
             "prefix": "10.127.8.192/26",
             "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270003",
+            "prefix": "10.127.89.3/32",
+            "maxLength": 32,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
         },
@@ -15472,11 +15486,11 @@
             "date": "Thu, 28 May 2020 15:24:53 +0000",
             "subject": "Merge branch 'master' of veloc1ty/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/adc76d4108a35f31c733c3969a5337308e8e8bf8",
-            "generated": "2020-05-28T20:20:15+00:00",
-            "valid": "2020-05-31T20:20:15+00:00"
+            "generated": "2020-05-29T00:20:09+00:00",
+            "valid": "2020-06-01T00:20:09+00:00"
         },
-        "counts": 2209,
-        "generated": 1590697215,
-        "valid": 1590956415
+        "counts": 2211,
+        "generated": 1590711609,
+        "valid": 1590970809
     }
 }
