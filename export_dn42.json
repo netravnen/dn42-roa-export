@@ -15486,11 +15486,11 @@
             "date": "Thu, 28 May 2020 15:24:53 +0000",
             "subject": "Merge branch 'master' of veloc1ty/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/adc76d4108a35f31c733c3969a5337308e8e8bf8",
-            "generated": "2020-05-29T00:20:09+00:00",
-            "valid": "2020-06-01T00:20:09+00:00"
+            "generated": "2020-05-29T10:20:41+00:00",
+            "valid": "2020-06-01T10:20:41+00:00"
         },
         "counts": 2211,
-        "generated": 1590711609,
-        "valid": 1590970809
+        "generated": 1590747641,
+        "valid": 1591006841
     }
 }
