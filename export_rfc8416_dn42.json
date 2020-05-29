@@ -995,6 +995,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242422610,
+                "prefix": "fd22:3adc:a411::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VOTRIBE-MNT"
+            },
+            {
                 "asn": 4242420110,
                 "prefix": "fd22:622:1f6c::/48",
                 "maxPrefixLength": 64,
@@ -11479,6 +11486,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CHALLENE-MNT"
+            },
+            {
+                "asn": 4242422610,
+                "prefix": "172.20.55.192/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VOTRIBE-MNT"
             },
             {
                 "asn": 4242423623,
