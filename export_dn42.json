@@ -1352,6 +1352,13 @@
             "mnt-by": "DANIMO-MNT"
         },
         {
+            "asn": "AS4242420270",
+            "prefix": "fd36:cf83:36bd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SNH-MNT"
+        },
+        {
             "asn": "AS4242423783",
             "prefix": "fd37:13a8:98d6::/48",
             "maxLength": 64,
@@ -4537,6 +4544,13 @@
             "mnt-by": "ANUBIOZ-MNT"
         },
         {
+            "asn": "AS46997",
+            "prefix": "fd96:399d:d7bd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NATO-MNT"
+        },
+        {
             "asn": "AS4242422231",
             "prefix": "fd96:ac77:1286::/48",
             "maxLength": 64,
@@ -5811,13 +5825,6 @@
             "mnt-by": "MODER-MNT"
         },
         {
-            "asn": "AS4242421019",
-            "prefix": "fdd1:b48:88fb:fac5::/64",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
-        },
-        {
             "asn": "AS4242423322",
             "prefix": "fdd2:c9d1:ecb7::/48",
             "maxLength": 64,
@@ -5858,6 +5865,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "ZZZ-MNT"
+        },
+        {
+            "asn": "AS4242420621",
+            "prefix": "fdd6:6392:5e0c::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ELISE-MNT"
         },
         {
             "asn": "AS76198",
@@ -10368,6 +10382,13 @@
             "mnt-by": "INTERACTIVELABS-MNT"
         },
         {
+            "asn": "AS4242420270",
+            "prefix": "172.20.21.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SNH-MNT"
+        },
+        {
             "asn": "AS4242423008",
             "prefix": "172.20.21.192/26",
             "maxLength": 28,
@@ -11171,13 +11192,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HASHQ-MNT"
-        },
-        {
-            "asn": "AS4242421019",
-            "prefix": "172.20.41.64/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242422100",
@@ -12515,6 +12529,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "KIBO-MNT"
+        },
+        {
+            "asn": "AS4242420621",
+            "prefix": "172.22.101.112/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ELISE-MNT"
         },
         {
             "asn": "AS4242422027",
@@ -15494,17 +15515,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "75b5e0a5ee11c3b6e285ee8138a95820c22b63ea",
-            "merge": "33443c0a ede5b188",
+            "commit": "643270a01e6882cc3bd400cbdb32b4e8967f49a4",
+            "merge": "3072f334 3483d5a7",
             "author": "burble",
-            "date": "Fri, 29 May 2020 19:05:55 +0000",
-            "subject": "Merge branch 'master' of votribe/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/75b5e0a5ee11c3b6e285ee8138a95820c22b63ea",
-            "generated": "2020-05-30T10:20:07+00:00",
-            "valid": "2020-06-02T10:20:07+00:00"
+            "date": "Sat, 30 May 2020 19:05:12 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/643270a01e6882cc3bd400cbdb32b4e8967f49a4",
+            "generated": "2020-05-30T20:20:28+00:00",
+            "valid": "2020-06-02T20:20:28+00:00"
         },
-        "counts": 2213,
-        "generated": 1590834007,
-        "valid": 1591093207
+        "counts": 2216,
+        "generated": 1590870028,
+        "valid": 1591129228
     }
 }

@@ -1359,6 +1359,13 @@
                 "mnt-by": "DANIMO-MNT"
             },
             {
+                "asn": 4242420270,
+                "prefix": "fd36:cf83:36bd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SNH-MNT"
+            },
+            {
                 "asn": 4242423783,
                 "prefix": "fd37:13a8:98d6::/48",
                 "maxPrefixLength": 64,
@@ -4544,6 +4551,13 @@
                 "mnt-by": "ANUBIOZ-MNT"
             },
             {
+                "asn": 46997,
+                "prefix": "fd96:399d:d7bd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NATO-MNT"
+            },
+            {
                 "asn": 4242422231,
                 "prefix": "fd96:ac77:1286::/48",
                 "maxPrefixLength": 64,
@@ -5818,13 +5832,6 @@
                 "mnt-by": "MODER-MNT"
             },
             {
-                "asn": 4242421019,
-                "prefix": "fdd1:b48:88fb:fac5::/64",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242423322,
                 "prefix": "fdd2:c9d1:ecb7::/48",
                 "maxPrefixLength": 64,
@@ -5865,6 +5872,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ZZZ-MNT"
+            },
+            {
+                "asn": 4242420621,
+                "prefix": "fdd6:6392:5e0c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ELISE-MNT"
             },
             {
                 "asn": 76198,
@@ -10375,6 +10389,13 @@
                 "mnt-by": "INTERACTIVELABS-MNT"
             },
             {
+                "asn": 4242420270,
+                "prefix": "172.20.21.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SNH-MNT"
+            },
+            {
                 "asn": 4242423008,
                 "prefix": "172.20.21.192/26",
                 "maxPrefixLength": 28,
@@ -11178,13 +11199,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HASHQ-MNT"
-            },
-            {
-                "asn": 4242421019,
-                "prefix": "172.20.41.64/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422100,
@@ -12522,6 +12536,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "KIBO-MNT"
+            },
+            {
+                "asn": 4242420621,
+                "prefix": "172.22.101.112/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ELISE-MNT"
             },
             {
                 "asn": 4242422027,
