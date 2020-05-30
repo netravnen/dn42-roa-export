@@ -15500,11 +15500,11 @@
             "date": "Fri, 29 May 2020 19:05:55 +0000",
             "subject": "Merge branch 'master' of votribe/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/75b5e0a5ee11c3b6e285ee8138a95820c22b63ea",
-            "generated": "2020-05-30T00:20:07+00:00",
-            "valid": "2020-06-02T00:20:07+00:00"
+            "generated": "2020-05-30T10:20:07+00:00",
+            "valid": "2020-06-02T10:20:07+00:00"
         },
         "counts": 2213,
-        "generated": 1590798007,
-        "valid": 1591057207
+        "generated": 1590834007,
+        "valid": 1591093207
     }
 }
