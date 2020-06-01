@@ -5349,6 +5349,13 @@
             "mnt-by": "DOT-MNT"
         },
         {
+            "asn": "AS4242421668",
+            "prefix": "fdbe:f027:9965::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MALINDEX-MNT"
+        },
+        {
             "asn": "AS4242421525",
             "prefix": "fdbf:54f1:66b8::/48",
             "maxLength": 48,
@@ -7262,13 +7269,6 @@
         {
             "asn": "AS4201270004",
             "prefix": "10.127.56.0/24",
-            "maxLength": 29,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4201270009",
-            "prefix": "10.127.69.0/29",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -12867,6 +12867,13 @@
             "mnt-by": "GATUNO-MNT"
         },
         {
+            "asn": "AS4242421668",
+            "prefix": "172.22.122.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MALINDEX-MNT"
+        },
+        {
             "asn": "AS4242420674",
             "prefix": "172.22.122.32/27",
             "maxLength": 28,
@@ -15515,17 +15522,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "643270a01e6882cc3bd400cbdb32b4e8967f49a4",
-            "merge": "3072f334 3483d5a7",
+            "commit": "a8127a854d7a65a7076c87305cf928b7fb73fc78",
+            "merge": "8e939585 ccca6f11",
             "author": "burble",
-            "date": "Sat, 30 May 2020 19:05:12 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/643270a01e6882cc3bd400cbdb32b4e8967f49a4",
-            "generated": "2020-06-01T00:20:08+00:00",
-            "valid": "2020-06-04T00:20:08+00:00"
+            "date": "Mon, 1 Jun 2020 10:00:16 +0000",
+            "subject": "Merge branch 'dns-update' of jrb0001/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a8127a854d7a65a7076c87305cf928b7fb73fc78",
+            "generated": "2020-06-01T10:20:28+00:00",
+            "valid": "2020-06-04T10:20:28+00:00"
         },
-        "counts": 2216,
-        "generated": 1590970808,
-        "valid": 1591230008
+        "counts": 2217,
+        "generated": 1591006828,
+        "valid": 1591266028
     }
 }

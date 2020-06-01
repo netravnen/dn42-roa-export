@@ -5356,6 +5356,13 @@
                 "mnt-by": "DOT-MNT"
             },
             {
+                "asn": 4242421668,
+                "prefix": "fdbe:f027:9965::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MALINDEX-MNT"
+            },
+            {
                 "asn": 4242421525,
                 "prefix": "fdbf:54f1:66b8::/48",
                 "maxPrefixLength": 48,
@@ -7269,13 +7276,6 @@
             {
                 "asn": 4201270004,
                 "prefix": "10.127.56.0/24",
-                "maxPrefixLength": 29,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270009,
-                "prefix": "10.127.69.0/29",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
@@ -12872,6 +12872,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GATUNO-MNT"
+            },
+            {
+                "asn": 4242421668,
+                "prefix": "172.22.122.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MALINDEX-MNT"
             },
             {
                 "asn": 4242420674,
