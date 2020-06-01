@@ -15522,17 +15522,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a8127a854d7a65a7076c87305cf928b7fb73fc78",
-            "merge": "8e939585 ccca6f11",
+            "commit": "36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6",
+            "merge": "a8127a85 7ab2a996",
             "author": "burble",
-            "date": "Mon, 1 Jun 2020 10:00:16 +0000",
+            "date": "Mon, 1 Jun 2020 17:51:56 +0000",
             "subject": "Merge branch 'dns-update' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a8127a854d7a65a7076c87305cf928b7fb73fc78",
-            "generated": "2020-06-01T10:20:28+00:00",
-            "valid": "2020-06-04T10:20:28+00:00"
+            "url": "https://git.dn42.us/dn42/registry/commit/36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6",
+            "generated": "2020-06-01T20:20:28+00:00",
+            "valid": "2020-06-04T20:20:28+00:00"
         },
         "counts": 2217,
-        "generated": 1591006828,
-        "valid": 1591266028
+        "generated": 1591042828,
+        "valid": 1591302028
     }
 }

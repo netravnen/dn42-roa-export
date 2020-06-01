@@ -20,10 +20,10 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit a8127a854d7a65a7076c87305cf928b7fb73fc78
-Merge: 8e939585 ccca6f11
+commit 36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6
+Merge: a8127a85 7ab2a996
 Author: burble
-Date:   2020-06-01 10:00:16 +0000
+Date:   2020-06-01 17:51:56 +0000
 
     Merge branch 'dns-update' of jrb0001/registry into master
 ```
@@ -42,7 +42,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  988
 - ROAs total: 2217
 
-[0]: https://git.dn42.us/dn42/registry/commit/a8127a854d7a65a7076c87305cf928b7fb73fc78
+[0]: https://git.dn42.us/dn42/registry/commit/36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
