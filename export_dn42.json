@@ -15528,11 +15528,11 @@
             "date": "Mon, 1 Jun 2020 17:51:56 +0000",
             "subject": "Merge branch 'dns-update' of jrb0001/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6",
-            "generated": "2020-06-03T00:20:28+00:00",
-            "valid": "2020-06-06T00:20:28+00:00"
+            "generated": "2020-06-03T10:19:21+00:00",
+            "valid": "2020-06-06T10:19:21+00:00"
         },
         "counts": 2217,
-        "generated": 1591143628,
-        "valid": 1591402828
+        "generated": 1591179561,
+        "valid": 1591438761
     }
 }
