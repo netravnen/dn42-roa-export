@@ -1352,6 +1352,13 @@
             "mnt-by": "DANIMO-MNT"
         },
         {
+            "asn": "AS4242422575",
+            "prefix": "fd36:92df:6a62:9df2::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ECOR-MNT"
+        },
+        {
             "asn": "AS4242420270",
             "prefix": "fd36:cf83:36bd::/48",
             "maxLength": 48,
@@ -6016,7 +6023,7 @@
         {
             "asn": "AS4242421231",
             "prefix": "fdde:4869:4062::/48",
-            "maxLength": 64,
+            "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "CAESIA-MNT"
         },
@@ -8877,6 +8884,13 @@
             "mnt-by": "RIPNET-MNT"
         },
         {
+            "asn": "AS4242422575",
+            "prefix": "172.20.143.128/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ECOR-MNT"
+        },
+        {
             "asn": "AS4242423569",
             "prefix": "172.20.143.16/28",
             "maxLength": 28,
@@ -9925,13 +9939,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "JOSEPHB-MNT"
-        },
-        {
-            "asn": "AS4242420661",
-            "prefix": "172.20.184.240/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "SANTOST12-MNT"
         },
         {
             "asn": "AS4242423884",
@@ -15522,17 +15529,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6",
-            "merge": "a8127a85 7ab2a996",
+            "commit": "622dcc6f610d7a54c681fdeff9c5399fffd29f95",
+            "merge": "9db2fd1c 7f4d5597",
             "author": "burble",
-            "date": "Mon, 1 Jun 2020 17:51:56 +0000",
-            "subject": "Merge branch 'dns-update' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/36cfe320fd5d9f5a0c4b5e2fa60c93734d2f21c6",
-            "generated": "2020-06-03T10:19:21+00:00",
-            "valid": "2020-06-06T10:19:21+00:00"
+            "date": "Wed, 3 Jun 2020 17:13:24 +0000",
+            "subject": "Merge branch 'fix-200603' of dn42/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/622dcc6f610d7a54c681fdeff9c5399fffd29f95",
+            "generated": "2020-06-03T20:20:33+00:00",
+            "valid": "2020-06-06T20:20:33+00:00"
         },
-        "counts": 2217,
-        "generated": 1591179561,
-        "valid": 1591438761
+        "counts": 2218,
+        "generated": 1591215633,
+        "valid": 1591474833
     }
 }

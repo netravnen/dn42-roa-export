@@ -1359,6 +1359,13 @@
                 "mnt-by": "DANIMO-MNT"
             },
             {
+                "asn": 4242422575,
+                "prefix": "fd36:92df:6a62:9df2::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ECOR-MNT"
+            },
+            {
                 "asn": 4242420270,
                 "prefix": "fd36:cf83:36bd::/48",
                 "maxPrefixLength": 48,
@@ -6023,7 +6030,7 @@
             {
                 "asn": 4242421231,
                 "prefix": "fdde:4869:4062::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "CAESIA-MNT"
             },
@@ -8884,6 +8891,13 @@
                 "mnt-by": "RIPNET-MNT"
             },
             {
+                "asn": 4242422575,
+                "prefix": "172.20.143.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ECOR-MNT"
+            },
+            {
                 "asn": 4242423569,
                 "prefix": "172.20.143.16/28",
                 "maxPrefixLength": 28,
@@ -9932,13 +9946,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JOSEPHB-MNT"
-            },
-            {
-                "asn": 4242420661,
-                "prefix": "172.20.184.240/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "SANTOST12-MNT"
             },
             {
                 "asn": 4242423884,
