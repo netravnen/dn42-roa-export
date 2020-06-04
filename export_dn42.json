@@ -15542,11 +15542,11 @@
             "date": "Wed, 3 Jun 2020 17:13:24 +0000",
             "subject": "Merge branch 'fix-200603' of dn42/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/622dcc6f610d7a54c681fdeff9c5399fffd29f95",
-            "generated": "2020-06-04T10:20:33+00:00",
-            "valid": "2020-06-07T10:20:33+00:00"
+            "generated": "2020-06-04T20:20:07+00:00",
+            "valid": "2020-06-07T20:20:07+00:00"
         },
         "counts": 2219,
-        "generated": 1591266033,
-        "valid": 1591525233
+        "generated": 1591302007,
+        "valid": 1591561207
     }
 }
