@@ -15536,17 +15536,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "622dcc6f610d7a54c681fdeff9c5399fffd29f95",
-            "merge": "9db2fd1c 7f4d5597",
+            "commit": "0f9d455bb6ce55817f840875dc066e914f32508e",
+            "merge": "70037aea c8ec3d07",
             "author": "burble",
-            "date": "Wed, 3 Jun 2020 17:13:24 +0000",
-            "subject": "Merge branch 'fix-200603' of dn42/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/622dcc6f610d7a54c681fdeff9c5399fffd29f95",
-            "generated": "2020-06-05T00:19:58+00:00",
-            "valid": "2020-06-08T00:19:58+00:00"
+            "date": "Fri, 5 Jun 2020 09:35:16 +0000",
+            "subject": "Merge branch 'master' of schrodinger/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0f9d455bb6ce55817f840875dc066e914f32508e",
+            "generated": "2020-06-05T10:20:04+00:00",
+            "valid": "2020-06-08T10:20:04+00:00"
         },
         "counts": 2219,
-        "generated": 1591316398,
-        "valid": 1591575598
+        "generated": 1591352404,
+        "valid": 1591611604
     }
 }
