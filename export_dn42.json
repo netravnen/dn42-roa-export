@@ -15536,17 +15536,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "5f691bf8a7802d03de85078b9f02a92df214a951",
-            "merge": "0f9d455b 8e3f5f34",
-            "author": "jrb0001",
-            "date": "Sat, 6 Jun 2020 08:42:22 +0000",
-            "subject": "Merge branch 'dns' of snh/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5f691bf8a7802d03de85078b9f02a92df214a951",
-            "generated": "2020-06-06T10:20:09+00:00",
-            "valid": "2020-06-09T10:20:09+00:00"
+            "commit": "629be0b514560db0dd266225a608a28706d6cfe0",
+            "merge": "5f691bf8 7656d6ef",
+            "author": "burble",
+            "date": "Sat, 6 Jun 2020 11:53:51 +0000",
+            "subject": "Merge branch 'dns-update' of jrb0001/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/629be0b514560db0dd266225a608a28706d6cfe0",
+            "generated": "2020-06-06T20:20:16+00:00",
+            "valid": "2020-06-09T20:20:16+00:00"
         },
         "counts": 2219,
-        "generated": 1591438809,
-        "valid": 1591698009
+        "generated": 1591474816,
+        "valid": 1591734016
     }
 }
