@@ -15536,17 +15536,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0f9d455bb6ce55817f840875dc066e914f32508e",
-            "merge": "70037aea c8ec3d07",
-            "author": "burble",
-            "date": "Fri, 5 Jun 2020 09:35:16 +0000",
-            "subject": "Merge branch 'master' of schrodinger/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0f9d455bb6ce55817f840875dc066e914f32508e",
-            "generated": "2020-06-06T00:19:56+00:00",
-            "valid": "2020-06-09T00:19:56+00:00"
+            "commit": "5f691bf8a7802d03de85078b9f02a92df214a951",
+            "merge": "0f9d455b 8e3f5f34",
+            "author": "jrb0001",
+            "date": "Sat, 6 Jun 2020 08:42:22 +0000",
+            "subject": "Merge branch 'dns' of snh/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5f691bf8a7802d03de85078b9f02a92df214a951",
+            "generated": "2020-06-06T10:20:09+00:00",
+            "valid": "2020-06-09T10:20:09+00:00"
         },
         "counts": 2219,
-        "generated": 1591402796,
-        "valid": 1591661996
+        "generated": 1591438809,
+        "valid": 1591698009
     }
 }
