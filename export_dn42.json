@@ -2045,6 +2045,13 @@
             "mnt-by": "SOLITUDE-MNT"
         },
         {
+            "asn": "AS4242421099",
+            "prefix": "fd42:4242:1099::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "OWENSRESEARCH-MNT"
+        },
+        {
             "asn": "AS4242420414",
             "prefix": "fd42:4242:1337::/48",
             "maxLength": 64,
@@ -12434,8 +12441,8 @@
         },
         {
             "asn": "AS4242421099",
-            "prefix": "172.21.99.128/29",
-            "maxLength": 29,
+            "prefix": "172.21.99.128/27",
+            "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "OWENSRESEARCH-MNT"
         },
@@ -15536,17 +15543,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "629be0b514560db0dd266225a608a28706d6cfe0",
-            "merge": "5f691bf8 7656d6ef",
+            "commit": "5cafcf2bcc66555886f9be98a67dabf5b699b14a",
+            "merge": "b1ff7ad7 e5d2e16b",
             "author": "burble",
-            "date": "Sat, 6 Jun 2020 11:53:51 +0000",
-            "subject": "Merge branch 'dns-update' of jrb0001/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/629be0b514560db0dd266225a608a28706d6cfe0",
-            "generated": "2020-06-06T20:20:16+00:00",
-            "valid": "2020-06-09T20:20:16+00:00"
+            "date": "Sat, 6 Jun 2020 21:30:39 +0000",
+            "subject": "Merge branch 'master' of inrin/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/5cafcf2bcc66555886f9be98a67dabf5b699b14a",
+            "generated": "2020-06-07T00:20:06+00:00",
+            "valid": "2020-06-10T00:20:06+00:00"
         },
-        "counts": 2219,
-        "generated": 1591474816,
-        "valid": 1591734016
+        "counts": 2220,
+        "generated": 1591489206,
+        "valid": 1591748406
     }
 }

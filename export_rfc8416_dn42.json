@@ -2052,6 +2052,13 @@
                 "mnt-by": "SOLITUDE-MNT"
             },
             {
+                "asn": 4242421099,
+                "prefix": "fd42:4242:1099::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "OWENSRESEARCH-MNT"
+            },
+            {
                 "asn": 4242420414,
                 "prefix": "fd42:4242:1337::/48",
                 "maxPrefixLength": 64,
@@ -12441,8 +12448,8 @@
             },
             {
                 "asn": 4242421099,
-                "prefix": "172.21.99.128/29",
-                "maxPrefixLength": 29,
+                "prefix": "172.21.99.128/27",
+                "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "OWENSRESEARCH-MNT"
             },
