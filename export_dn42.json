@@ -687,6 +687,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270000",
+            "prefix": "fd10:127::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64894",
             "prefix": "fd10:2ea2:4dae::/48",
             "maxLength": 64,
@@ -4551,6 +4558,13 @@
             "mnt-by": "CAXAP-MNT"
         },
         {
+            "asn": "AS4242421224",
+            "prefix": "fd95:ea42:7f82::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BITBAKERS-MNT"
+        },
+        {
             "asn": "AS4242422815",
             "prefix": "fd96:1337:1337::/48",
             "maxLength": 64,
@@ -5748,6 +5762,13 @@
             "mnt-by": "FCON-MNT"
         },
         {
+            "asn": "AS4242421237",
+            "prefix": "fdcc:8b7e:4593::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RG-MNT"
+        },
+        {
             "asn": "AS4242422002",
             "prefix": "fdcd:3682:1c17::/48",
             "maxLength": 64,
@@ -6819,6 +6840,13 @@
             "mnt-by": "DDEV-MNT"
         },
         {
+            "asn": "AS4242422203",
+            "prefix": "fdfd:cbac:cb51:5957::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "0XCB-MNT"
+        },
+        {
             "asn": "AS4242421873",
             "prefix": "fdfd:d0b7:5feb::/48",
             "maxLength": 64,
@@ -7164,6 +7192,13 @@
         {
             "asn": "AS134098",
             "prefix": "10.127.14.0/23",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270000",
+            "prefix": "10.127.16.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -12111,6 +12146,13 @@
             "mnt-by": "CPBARNES-MNT"
         },
         {
+            "asn": "AS4242421224",
+            "prefix": "172.21.66.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BITBAKERS-MNT"
+        },
+        {
             "asn": "AS4242423886",
             "prefix": "172.21.66.128/27",
             "maxLength": 28,
@@ -13110,6 +13152,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "AR-MNT"
+        },
+        {
+            "asn": "AS4242422203",
+            "prefix": "172.22.135.16/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "0XCB-MNT"
         },
         {
             "asn": "AS4242420742",
@@ -14491,6 +14540,13 @@
             "mnt-by": "VLCTY-MNT"
         },
         {
+            "asn": "AS4242421237",
+            "prefix": "172.23.151.240/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RG-MNT"
+        },
+        {
             "asn": "AS4242422428",
             "prefix": "172.23.156.0/23",
             "maxLength": 28,
@@ -15543,17 +15599,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "5cafcf2bcc66555886f9be98a67dabf5b699b14a",
-            "merge": "b1ff7ad7 e5d2e16b",
-            "author": "burble",
-            "date": "Sat, 6 Jun 2020 21:30:39 +0000",
-            "subject": "Merge branch 'master' of inrin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/5cafcf2bcc66555886f9be98a67dabf5b699b14a",
-            "generated": "2020-06-08T10:19:50+00:00",
-            "valid": "2020-06-11T10:19:50+00:00"
+            "commit": "a447768f3a842d7d9982d52e8455ab6d96ea537d",
+            "merge": "855bb220 5a077af3",
+            "author": "Jon Lundy",
+            "date": "Mon, 8 Jun 2020 13:13:06 -0600",
+            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
+            "url": "https://git.dn42.us/dn42/registry/commit/a447768f3a842d7d9982d52e8455ab6d96ea537d",
+            "generated": "2020-06-08T20:20:12+00:00",
+            "valid": "2020-06-11T20:20:12+00:00"
         },
-        "counts": 2220,
-        "generated": 1591611590,
-        "valid": 1591870790
+        "counts": 2228,
+        "generated": 1591647612,
+        "valid": 1591906812
     }
 }

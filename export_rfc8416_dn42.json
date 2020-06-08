@@ -694,6 +694,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4201270000,
+                "prefix": "fd10:127::/64",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64894,
                 "prefix": "fd10:2ea2:4dae::/48",
                 "maxPrefixLength": 64,
@@ -4558,6 +4565,13 @@
                 "mnt-by": "CAXAP-MNT"
             },
             {
+                "asn": 4242421224,
+                "prefix": "fd95:ea42:7f82::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BITBAKERS-MNT"
+            },
+            {
                 "asn": 4242422815,
                 "prefix": "fd96:1337:1337::/48",
                 "maxPrefixLength": 64,
@@ -5755,6 +5769,13 @@
                 "mnt-by": "FCON-MNT"
             },
             {
+                "asn": 4242421237,
+                "prefix": "fdcc:8b7e:4593::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RG-MNT"
+            },
+            {
                 "asn": 4242422002,
                 "prefix": "fdcd:3682:1c17::/48",
                 "maxPrefixLength": 64,
@@ -6826,6 +6847,13 @@
                 "mnt-by": "DDEV-MNT"
             },
             {
+                "asn": 4242422203,
+                "prefix": "fdfd:cbac:cb51:5957::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "0XCB-MNT"
+            },
+            {
                 "asn": 4242421873,
                 "prefix": "fdfd:d0b7:5feb::/48",
                 "maxPrefixLength": 64,
@@ -7171,6 +7199,13 @@
             {
                 "asn": 134098,
                 "prefix": "10.127.14.0/23",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4201270000,
+                "prefix": "10.127.16.0/24",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
@@ -12118,6 +12153,13 @@
                 "mnt-by": "CPBARNES-MNT"
             },
             {
+                "asn": 4242421224,
+                "prefix": "172.21.66.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BITBAKERS-MNT"
+            },
+            {
                 "asn": 4242423886,
                 "prefix": "172.21.66.128/27",
                 "maxPrefixLength": 28,
@@ -13117,6 +13159,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "AR-MNT"
+            },
+            {
+                "asn": 4242422203,
+                "prefix": "172.22.135.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "0XCB-MNT"
             },
             {
                 "asn": 4242420742,
@@ -14496,6 +14545,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VLCTY-MNT"
+            },
+            {
+                "asn": 4242421237,
+                "prefix": "172.23.151.240/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RG-MNT"
             },
             {
                 "asn": 4242422428,
