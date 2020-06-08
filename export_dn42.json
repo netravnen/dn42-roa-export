@@ -15549,11 +15549,11 @@
             "date": "Sat, 6 Jun 2020 21:30:39 +0000",
             "subject": "Merge branch 'master' of inrin/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/5cafcf2bcc66555886f9be98a67dabf5b699b14a",
-            "generated": "2020-06-08T00:19:57+00:00",
-            "valid": "2020-06-11T00:19:57+00:00"
+            "generated": "2020-06-08T10:19:50+00:00",
+            "valid": "2020-06-11T10:19:50+00:00"
         },
         "counts": 2220,
-        "generated": 1591575597,
-        "valid": 1591834797
+        "generated": 1591611590,
+        "valid": 1591870790
     }
 }
