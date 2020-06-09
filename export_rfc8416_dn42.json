@@ -1149,6 +1149,13 @@
                 "mnt-by": "DLIT-MNT"
             },
             {
+                "asn": 4242421516,
+                "prefix": "fd25:af2d:1f51::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "W1KL4S-MNT"
+            },
+            {
                 "asn": 4242420800,
                 "prefix": "fd25:ce36:b7db::/48",
                 "maxPrefixLength": 64,
@@ -14853,6 +14860,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FRITZ-MNT"
+            },
+            {
+                "asn": 4242421516,
+                "prefix": "172.23.193.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "W1KL4S-MNT"
             },
             {
                 "asn": 4242421289,

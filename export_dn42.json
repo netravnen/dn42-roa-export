@@ -1142,6 +1142,13 @@
             "mnt-by": "DLIT-MNT"
         },
         {
+            "asn": "AS4242421516",
+            "prefix": "fd25:af2d:1f51::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "W1KL4S-MNT"
+        },
+        {
             "asn": "AS4242420800",
             "prefix": "fd25:ce36:b7db::/48",
             "maxLength": 64,
@@ -14848,6 +14855,13 @@
             "mnt-by": "FRITZ-MNT"
         },
         {
+            "asn": "AS4242421516",
+            "prefix": "172.23.193.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "W1KL4S-MNT"
+        },
+        {
             "asn": "AS4242421289",
             "prefix": "172.23.193.128/27",
             "maxLength": 28,
@@ -15599,17 +15613,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a447768f3a842d7d9982d52e8455ab6d96ea537d",
-            "merge": "855bb220 5a077af3",
-            "author": "Jon Lundy",
-            "date": "Mon, 8 Jun 2020 13:13:06 -0600",
-            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/a447768f3a842d7d9982d52e8455ab6d96ea537d",
-            "generated": "2020-06-09T10:19:54+00:00",
-            "valid": "2020-06-12T10:19:54+00:00"
+            "commit": "6710ed1c8f46afe275c4292e9b73ed03988f782c",
+            "merge": "a589d521 fd76117c",
+            "author": "burble",
+            "date": "Tue, 9 Jun 2020 12:16:49 +0000",
+            "subject": "Merge branch 'master' of w1kl4s/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6710ed1c8f46afe275c4292e9b73ed03988f782c",
+            "generated": "2020-06-09T20:20:06+00:00",
+            "valid": "2020-06-12T20:20:06+00:00"
         },
-        "counts": 2228,
-        "generated": 1591697994,
-        "valid": 1591957194
+        "counts": 2230,
+        "generated": 1591734006,
+        "valid": 1591993206
     }
 }
