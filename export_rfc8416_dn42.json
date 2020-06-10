@@ -4474,6 +4474,13 @@
                 "mnt-by": "ELOKO-MNT"
             },
             {
+                "asn": 4242421181,
+                "prefix": "fd91:9191:9191::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NEVLEZAY-MNT"
+            },
+            {
                 "asn": 4242421169,
                 "prefix": "fd91:de6e:e51d::/48",
                 "maxPrefixLength": 64,
@@ -14594,6 +14601,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MARSHY-MNT"
+            },
+            {
+                "asn": 4242421181,
+                "prefix": "172.23.158.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NEVLEZAY-MNT"
             },
             {
                 "asn": 4242420031,

@@ -4467,6 +4467,13 @@
             "mnt-by": "ELOKO-MNT"
         },
         {
+            "asn": "AS4242421181",
+            "prefix": "fd91:9191:9191::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NEVLEZAY-MNT"
+        },
+        {
             "asn": "AS4242421169",
             "prefix": "fd91:de6e:e51d::/48",
             "maxLength": 64,
@@ -14589,6 +14596,13 @@
             "mnt-by": "MARSHY-MNT"
         },
         {
+            "asn": "AS4242421181",
+            "prefix": "172.23.158.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NEVLEZAY-MNT"
+        },
+        {
             "asn": "AS4242420031",
             "prefix": "172.23.158.64/26",
             "maxLength": 28,
@@ -15613,17 +15627,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "6710ed1c8f46afe275c4292e9b73ed03988f782c",
-            "merge": "a589d521 fd76117c",
+            "commit": "2df46211c12c7d5d6f25b00c3073392460253538",
+            "merge": "6710ed1c 1d50ede6",
             "author": "burble",
-            "date": "Tue, 9 Jun 2020 12:16:49 +0000",
-            "subject": "Merge branch 'master' of w1kl4s/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6710ed1c8f46afe275c4292e9b73ed03988f782c",
-            "generated": "2020-06-10T00:19:49+00:00",
-            "valid": "2020-06-13T00:19:49+00:00"
+            "date": "Wed, 10 Jun 2020 07:47:46 +0000",
+            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/2df46211c12c7d5d6f25b00c3073392460253538",
+            "generated": "2020-06-10T10:20:02+00:00",
+            "valid": "2020-06-13T10:20:02+00:00"
         },
-        "counts": 2230,
-        "generated": 1591748389,
-        "valid": 1592007589
+        "counts": 2232,
+        "generated": 1591784402,
+        "valid": 1592043602
     }
 }
