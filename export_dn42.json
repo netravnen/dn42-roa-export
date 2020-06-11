@@ -694,6 +694,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270009",
+            "prefix": "fd10:127:ec39::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64894",
             "prefix": "fd10:2ea2:4dae::/48",
             "maxLength": 64,
@@ -7339,6 +7346,13 @@
         {
             "asn": "AS4201270004",
             "prefix": "10.127.56.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270009",
+            "prefix": "10.127.69.0/29",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -15627,17 +15641,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "2df46211c12c7d5d6f25b00c3073392460253538",
-            "merge": "6710ed1c 1d50ede6",
+            "commit": "16fee4db975c41f2755550d0046157e896c86b2d",
+            "merge": "f09b09b1 045f47ff",
             "author": "burble",
-            "date": "Wed, 10 Jun 2020 07:47:46 +0000",
-            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/2df46211c12c7d5d6f25b00c3073392460253538",
-            "generated": "2020-06-11T00:19:50+00:00",
-            "valid": "2020-06-14T00:19:50+00:00"
+            "date": "Thu, 11 Jun 2020 08:42:30 +0000",
+            "subject": "Merge branch 'master' of jastrup/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/16fee4db975c41f2755550d0046157e896c86b2d",
+            "generated": "2020-06-11T10:20:40+00:00",
+            "valid": "2020-06-14T10:20:40+00:00"
         },
-        "counts": 2232,
-        "generated": 1591834790,
-        "valid": 1592093990
+        "counts": 2234,
+        "generated": 1591870840,
+        "valid": 1592130040
     }
 }
