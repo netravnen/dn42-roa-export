@@ -15647,11 +15647,11 @@
             "date": "Thu, 11 Jun 2020 08:42:30 +0000",
             "subject": "Merge branch 'master' of jastrup/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/16fee4db975c41f2755550d0046157e896c86b2d",
-            "generated": "2020-06-11T10:20:40+00:00",
-            "valid": "2020-06-14T10:20:40+00:00"
+            "generated": "2020-06-11T20:19:55+00:00",
+            "valid": "2020-06-14T20:19:55+00:00"
         },
         "counts": 2234,
-        "generated": 1591870840,
-        "valid": 1592130040
+        "generated": 1591906795,
+        "valid": 1592165995
     }
 }
