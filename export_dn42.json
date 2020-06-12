@@ -15641,17 +15641,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "16fee4db975c41f2755550d0046157e896c86b2d",
-            "merge": "f09b09b1 045f47ff",
-            "author": "burble",
-            "date": "Thu, 11 Jun 2020 08:42:30 +0000",
-            "subject": "Merge branch 'master' of jastrup/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/16fee4db975c41f2755550d0046157e896c86b2d",
-            "generated": "2020-06-12T02:21:34+00:00",
-            "valid": "2020-06-15T02:21:34+00:00"
+            "commit": "6c0bfb895bdd04c1b3a5cae812a05f8e6e9874ab",
+            "merge": "fc920899 16fee4db",
+            "author": "Jon Lundy",
+            "date": "Thu, 11 Jun 2020 21:29:09 -0600",
+            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
+            "url": "https://git.dn42.us/dn42/registry/commit/6c0bfb895bdd04c1b3a5cae812a05f8e6e9874ab",
+            "generated": "2020-06-12T10:20:00+00:00",
+            "valid": "2020-06-15T10:20:00+00:00"
         },
         "counts": 2234,
-        "generated": 1591928494,
-        "valid": 1592187694
+        "generated": 1591957200,
+        "valid": 1592216400
     }
 }
