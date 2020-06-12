@@ -7204,6 +7204,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242422464",
+            "prefix": "10.127.127.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270013",
             "prefix": "10.127.13.0/24",
             "maxLength": 29,
@@ -15647,11 +15654,11 @@
             "date": "Thu, 11 Jun 2020 21:29:09 -0600",
             "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
             "url": "https://git.dn42.us/dn42/registry/commit/6c0bfb895bdd04c1b3a5cae812a05f8e6e9874ab",
-            "generated": "2020-06-12T10:20:00+00:00",
-            "valid": "2020-06-15T10:20:00+00:00"
+            "generated": "2020-06-12T20:20:03+00:00",
+            "valid": "2020-06-15T20:20:03+00:00"
         },
-        "counts": 2234,
-        "generated": 1591957200,
-        "valid": 1592216400
+        "counts": 2235,
+        "generated": 1591993203,
+        "valid": 1592252403
     }
 }
