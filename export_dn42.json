@@ -15648,17 +15648,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "6c0bfb895bdd04c1b3a5cae812a05f8e6e9874ab",
-            "merge": "fc920899 16fee4db",
-            "author": "Jon Lundy",
-            "date": "Thu, 11 Jun 2020 21:29:09 -0600",
+            "commit": "05361c5826cde4f7f29148b6a26fac4b7fbc8b71",
+            "merge": "df8054d4 91a315ae",
+            "author": "Jonathan Lundy",
+            "date": "Fri, 12 Jun 2020 16:28:15 -0600",
             "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/6c0bfb895bdd04c1b3a5cae812a05f8e6e9874ab",
-            "generated": "2020-06-12T20:20:03+00:00",
-            "valid": "2020-06-15T20:20:03+00:00"
+            "url": "https://git.dn42.us/dn42/registry/commit/05361c5826cde4f7f29148b6a26fac4b7fbc8b71",
+            "generated": "2020-06-13T00:19:52+00:00",
+            "valid": "2020-06-16T00:19:52+00:00"
         },
         "counts": 2235,
-        "generated": 1591993203,
-        "valid": 1592252403
+        "generated": 1592007592,
+        "valid": 1592266792
     }
 }
