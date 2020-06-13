@@ -3522,6 +3522,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421021",
+            "prefix": "fd55:eedf:a5c0::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "GEEKWU-MNT"
+        },
+        {
             "asn": "AS4242420810",
             "prefix": "fd56:4147:5545::/48",
             "maxLength": 64,
@@ -6049,6 +6056,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421119",
+            "prefix": "fddd:a553:ee0e::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TBSO-MNT"
+        },
+        {
             "asn": "AS4242421312",
             "prefix": "fddd:ed3:375e::/48",
             "maxLength": 64,
@@ -6320,6 +6334,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BEEFSTEAK-MNT"
+        },
+        {
+            "asn": "AS4242420529",
+            "prefix": "fdec:2fb6:2bdd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DKJOKER-MNT"
         },
         {
             "asn": "AS65520",
@@ -11586,6 +11607,13 @@
             "mnt-by": "CHALLENE-MNT"
         },
         {
+            "asn": "AS4242421021",
+            "prefix": "172.20.55.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GEEKWU-MNT"
+        },
+        {
             "asn": "AS4242422610",
             "prefix": "172.20.55.192/28",
             "maxLength": 28,
@@ -12193,6 +12221,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "MITSUHA-MNT"
+        },
+        {
+            "asn": "AS4242421119",
+            "prefix": "172.21.66.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TBSO-MNT"
         },
         {
             "asn": "AS4242423955",
@@ -15135,6 +15170,13 @@
             "mnt-by": "NARNIA-MNT"
         },
         {
+            "asn": "AS4242420529",
+            "prefix": "172.23.231.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DKJOKER-MNT"
+        },
+        {
             "asn": "AS4242422244",
             "prefix": "172.23.233.0/24",
             "maxLength": 28,
@@ -15648,17 +15690,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "05361c5826cde4f7f29148b6a26fac4b7fbc8b71",
-            "merge": "df8054d4 91a315ae",
-            "author": "Jonathan Lundy",
-            "date": "Fri, 12 Jun 2020 16:28:15 -0600",
-            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/05361c5826cde4f7f29148b6a26fac4b7fbc8b71",
-            "generated": "2020-06-13T10:22:02+00:00",
-            "valid": "2020-06-16T10:22:02+00:00"
+            "commit": "a55f5f6f3576a651b0dc832b6c7b867d001d2eff",
+            "merge": "1deb285b d0992181",
+            "author": "burble",
+            "date": "Sat, 13 Jun 2020 18:10:57 +0000",
+            "subject": "Merge branch 'master' of BastienDurel/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a55f5f6f3576a651b0dc832b6c7b867d001d2eff",
+            "generated": "2020-06-13T20:19:53+00:00",
+            "valid": "2020-06-16T20:19:53+00:00"
         },
-        "counts": 2235,
-        "generated": 1592043722,
-        "valid": 1592302922
+        "counts": 2241,
+        "generated": 1592079593,
+        "valid": 1592338793
     }
 }

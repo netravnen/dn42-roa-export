@@ -3529,6 +3529,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421021,
+                "prefix": "fd55:eedf:a5c0::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "GEEKWU-MNT"
+            },
+            {
                 "asn": 4242420810,
                 "prefix": "fd56:4147:5545::/48",
                 "maxPrefixLength": 64,
@@ -6056,6 +6063,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421119,
+                "prefix": "fddd:a553:ee0e::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TBSO-MNT"
+            },
+            {
                 "asn": 4242421312,
                 "prefix": "fddd:ed3:375e::/48",
                 "maxPrefixLength": 64,
@@ -6327,6 +6341,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BEEFSTEAK-MNT"
+            },
+            {
+                "asn": 4242420529,
+                "prefix": "fdec:2fb6:2bdd::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DKJOKER-MNT"
             },
             {
                 "asn": 65520,
@@ -11593,6 +11614,13 @@
                 "mnt-by": "CHALLENE-MNT"
             },
             {
+                "asn": 4242421021,
+                "prefix": "172.20.55.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GEEKWU-MNT"
+            },
+            {
                 "asn": 4242422610,
                 "prefix": "172.20.55.192/28",
                 "maxPrefixLength": 28,
@@ -12200,6 +12228,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MITSUHA-MNT"
+            },
+            {
+                "asn": 4242421119,
+                "prefix": "172.21.66.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TBSO-MNT"
             },
             {
                 "asn": 4242423955,
@@ -15140,6 +15175,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NARNIA-MNT"
+            },
+            {
+                "asn": 4242420529,
+                "prefix": "172.23.231.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DKJOKER-MNT"
             },
             {
                 "asn": 4242422244,
