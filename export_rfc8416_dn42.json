@@ -3424,6 +3424,13 @@
                 "mnt-by": "GCT-MNT"
             },
             {
+                "asn": 4242421227,
+                "prefix": "fd50:9b3b:9cd6::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RBRANDON81-MNT"
+            },
+            {
                 "asn": 64654,
                 "prefix": "fd51:2bb2:fd0d::/48",
                 "maxPrefixLength": 64,

@@ -3417,6 +3417,13 @@
             "mnt-by": "GCT-MNT"
         },
         {
+            "asn": "AS4242421227",
+            "prefix": "fd50:9b3b:9cd6::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RBRANDON81-MNT"
+        },
+        {
             "asn": "AS64654",
             "prefix": "fd51:2bb2:fd0d::/48",
             "maxLength": 64,
@@ -15690,17 +15697,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0e4e91ac3d4ad220506c823c974f83bcc369d5d4",
-            "merge": "a55f5f6f 65bd0218",
+            "commit": "8e1688bfda61446e3e97da344e3dc1b16b007449",
+            "merge": "0e4e91ac 0f025668",
             "author": "burble",
-            "date": "Sun, 14 Jun 2020 09:16:24 +0000",
-            "subject": "Merge branch 'master' of liangjw/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0e4e91ac3d4ad220506c823c974f83bcc369d5d4",
-            "generated": "2020-06-14T10:20:25+00:00",
-            "valid": "2020-06-17T10:20:25+00:00"
+            "date": "Sun, 14 Jun 2020 19:39:19 +0000",
+            "subject": "Merge branch 'master' of rbrandon81/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8e1688bfda61446e3e97da344e3dc1b16b007449",
+            "generated": "2020-06-14T20:20:08+00:00",
+            "valid": "2020-06-17T20:20:08+00:00"
         },
-        "counts": 2241,
-        "generated": 1592130025,
-        "valid": 1592389225
+        "counts": 2242,
+        "generated": 1592166008,
+        "valid": 1592425208
     }
 }
