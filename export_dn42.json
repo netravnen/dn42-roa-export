@@ -15690,17 +15690,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a55f5f6f3576a651b0dc832b6c7b867d001d2eff",
-            "merge": "1deb285b d0992181",
+            "commit": "0e4e91ac3d4ad220506c823c974f83bcc369d5d4",
+            "merge": "a55f5f6f 65bd0218",
             "author": "burble",
-            "date": "Sat, 13 Jun 2020 18:10:57 +0000",
-            "subject": "Merge branch 'master' of BastienDurel/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a55f5f6f3576a651b0dc832b6c7b867d001d2eff",
-            "generated": "2020-06-14T00:19:57+00:00",
-            "valid": "2020-06-17T00:19:57+00:00"
+            "date": "Sun, 14 Jun 2020 09:16:24 +0000",
+            "subject": "Merge branch 'master' of liangjw/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0e4e91ac3d4ad220506c823c974f83bcc369d5d4",
+            "generated": "2020-06-14T10:20:25+00:00",
+            "valid": "2020-06-17T10:20:25+00:00"
         },
         "counts": 2241,
-        "generated": 1592093997,
-        "valid": 1592353197
+        "generated": 1592130025,
+        "valid": 1592389225
     }
 }
