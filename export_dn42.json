@@ -13042,6 +13042,13 @@
             "mnt-by": "LIYUMIN-MNT"
         },
         {
+            "asn": "AS4242420180",
+            "prefix": "172.22.124.16/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242423974",
             "prefix": "172.22.125.0/28",
             "maxLength": 28,
@@ -15697,17 +15704,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "8e1688bfda61446e3e97da344e3dc1b16b007449",
-            "merge": "0e4e91ac 0f025668",
+            "commit": "b6991f510ed90bbebf2bb49449d53dc163d2889f",
+            "merge": "2f827d88 5ab669a0",
             "author": "burble",
-            "date": "Sun, 14 Jun 2020 19:39:19 +0000",
-            "subject": "Merge branch 'master' of rbrandon81/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/8e1688bfda61446e3e97da344e3dc1b16b007449",
-            "generated": "2020-06-16T10:20:14+00:00",
-            "valid": "2020-06-19T10:20:14+00:00"
+            "date": "Tue, 16 Jun 2020 13:54:47 +0000",
+            "subject": "Merge branch 'master' of gatuno/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/b6991f510ed90bbebf2bb49449d53dc163d2889f",
+            "generated": "2020-06-16T20:19:59+00:00",
+            "valid": "2020-06-19T20:19:59+00:00"
         },
-        "counts": 2242,
-        "generated": 1592302814,
-        "valid": 1592562014
+        "counts": 2243,
+        "generated": 1592338799,
+        "valid": 1592597999
     }
 }

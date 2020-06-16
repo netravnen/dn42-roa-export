@@ -13049,6 +13049,13 @@
                 "mnt-by": "LIYUMIN-MNT"
             },
             {
+                "asn": 4242420180,
+                "prefix": "172.22.124.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242423974,
                 "prefix": "172.22.125.0/28",
                 "maxPrefixLength": 28,
