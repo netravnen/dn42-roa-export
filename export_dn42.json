@@ -15703,11 +15703,11 @@
             "date": "Sun, 14 Jun 2020 19:39:19 +0000",
             "subject": "Merge branch 'master' of rbrandon81/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/8e1688bfda61446e3e97da344e3dc1b16b007449",
-            "generated": "2020-06-16T00:19:37+00:00",
-            "valid": "2020-06-19T00:19:37+00:00"
+            "generated": "2020-06-16T10:20:14+00:00",
+            "valid": "2020-06-19T10:20:14+00:00"
         },
         "counts": 2242,
-        "generated": 1592266777,
-        "valid": 1592525977
+        "generated": 1592302814,
+        "valid": 1592562014
     }
 }
