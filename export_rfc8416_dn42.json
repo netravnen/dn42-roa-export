@@ -6504,6 +6504,13 @@
                 "mnt-by": "SPLITTER-MNT"
             },
             {
+                "asn": 4242423189,
+                "prefix": "fdef:6fb6:592d::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MARLIN-MNT"
+            },
+            {
                 "asn": 65489,
                 "prefix": "fdef:affe:edda::/48",
                 "maxPrefixLength": 64,
@@ -9582,6 +9589,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MISTERGEEK-MNT"
+            },
+            {
+                "asn": 4242423189,
+                "prefix": "172.20.165.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MARLIN-MNT"
             },
             {
                 "asn": 4242423821,

@@ -6497,6 +6497,13 @@
             "mnt-by": "SPLITTER-MNT"
         },
         {
+            "asn": "AS4242423189",
+            "prefix": "fdef:6fb6:592d::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MARLIN-MNT"
+        },
+        {
             "asn": "AS65489",
             "prefix": "fdef:affe:edda::/48",
             "maxLength": 64,
@@ -9575,6 +9582,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "MISTERGEEK-MNT"
+        },
+        {
+            "asn": "AS4242423189",
+            "prefix": "172.20.165.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MARLIN-MNT"
         },
         {
             "asn": "AS4242423821",
@@ -15718,17 +15732,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "4387f6176487e7a73d1847d4e6eab487f19b19ce",
-            "merge": "86f1acb0 de93f153",
+            "commit": "fbaa6f5793ed09383b04ad4ff844ae9261234cdd",
+            "merge": "4387f617 0f546f0f",
             "author": "burble",
-            "date": "Tue, 16 Jun 2020 20:39:26 +0000",
-            "subject": "Merge branch 'master' of jackcooku/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4387f6176487e7a73d1847d4e6eab487f19b19ce",
-            "generated": "2020-06-17T10:19:52+00:00",
-            "valid": "2020-06-20T10:19:52+00:00"
+            "date": "Wed, 17 Jun 2020 18:31:54 +0000",
+            "subject": "Merge branch 'master' of marlin/mydn42 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/fbaa6f5793ed09383b04ad4ff844ae9261234cdd",
+            "generated": "2020-06-17T20:20:17+00:00",
+            "valid": "2020-06-20T20:20:17+00:00"
         },
-        "counts": 2245,
-        "generated": 1592389192,
-        "valid": 1592648392
+        "counts": 2247,
+        "generated": 1592425217,
+        "valid": 1592684417
     }
 }
