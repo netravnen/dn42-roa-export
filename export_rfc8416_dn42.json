@@ -3914,6 +3914,13 @@
                 "mnt-by": "Q1X-MNT"
             },
             {
+                "asn": 4242421214,
+                "prefix": "fd69:9889:9692::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
+            },
+            {
                 "asn": 4242420213,
                 "prefix": "fd6a:16b9:a0b2::/48",
                 "maxPrefixLength": 48,
@@ -5217,7 +5224,7 @@
             },
             {
                 "asn": 4242422225,
-                "prefix": "fdb3:4cc3:3bfb:7830::/64",
+                "prefix": "fdb3:4cc3:3bfb::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MARAUN-MNT"
@@ -13796,6 +13803,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MOO-MNT"
+            },
+            {
+                "asn": 4242421214,
+                "prefix": "172.22.189.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
             },
             {
                 "asn": 4242423158,

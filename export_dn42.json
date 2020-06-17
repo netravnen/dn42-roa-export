@@ -3907,6 +3907,13 @@
             "mnt-by": "Q1X-MNT"
         },
         {
+            "asn": "AS4242421214",
+            "prefix": "fd69:9889:9692::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
+        },
+        {
             "asn": "AS4242420213",
             "prefix": "fd6a:16b9:a0b2::/48",
             "maxLength": 48,
@@ -5210,7 +5217,7 @@
         },
         {
             "asn": "AS4242422225",
-            "prefix": "fdb3:4cc3:3bfb:7830::/64",
+            "prefix": "fdb3:4cc3:3bfb::/48",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "MARAUN-MNT"
@@ -13791,6 +13798,13 @@
             "mnt-by": "MOO-MNT"
         },
         {
+            "asn": "AS4242421214",
+            "prefix": "172.22.189.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
+        },
+        {
             "asn": "AS4242423158",
             "prefix": "172.22.190.0/23",
             "maxLength": 28,
@@ -15704,17 +15718,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "b6991f510ed90bbebf2bb49449d53dc163d2889f",
-            "merge": "2f827d88 5ab669a0",
+            "commit": "4387f6176487e7a73d1847d4e6eab487f19b19ce",
+            "merge": "86f1acb0 de93f153",
             "author": "burble",
-            "date": "Tue, 16 Jun 2020 13:54:47 +0000",
-            "subject": "Merge branch 'master' of gatuno/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/b6991f510ed90bbebf2bb49449d53dc163d2889f",
-            "generated": "2020-06-16T20:19:59+00:00",
-            "valid": "2020-06-19T20:19:59+00:00"
+            "date": "Tue, 16 Jun 2020 20:39:26 +0000",
+            "subject": "Merge branch 'master' of jackcooku/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4387f6176487e7a73d1847d4e6eab487f19b19ce",
+            "generated": "2020-06-17T00:20:04+00:00",
+            "valid": "2020-06-20T00:20:04+00:00"
         },
-        "counts": 2243,
-        "generated": 1592338799,
-        "valid": 1592597999
+        "counts": 2245,
+        "generated": 1592353204,
+        "valid": 1592612404
     }
 }
