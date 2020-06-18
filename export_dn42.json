@@ -15732,17 +15732,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "07f2eddcd08243056a56a12b919a759c618c4bcc",
-            "merge": "da617f19 fbaa6f57",
-            "author": "Jonathan Lundy",
-            "date": "Wed, 17 Jun 2020 16:04:16 -0600",
-            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/07f2eddcd08243056a56a12b919a759c618c4bcc",
-            "generated": "2020-06-18T10:19:50+00:00",
-            "valid": "2020-06-21T10:19:50+00:00"
+            "commit": "1659b2b32422ac0115946c183ad99b6076cb59a4",
+            "merge": "07f2eddc 60bd75af",
+            "author": "burble",
+            "date": "Thu, 18 Jun 2020 16:53:26 +0000",
+            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1659b2b32422ac0115946c183ad99b6076cb59a4",
+            "generated": "2020-06-18T20:20:05+00:00",
+            "valid": "2020-06-21T20:20:05+00:00"
         },
         "counts": 2247,
-        "generated": 1592475590,
-        "valid": 1592734790
+        "generated": 1592511605,
+        "valid": 1592770805
     }
 }
