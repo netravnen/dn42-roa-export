@@ -6238,6 +6238,13 @@
             "mnt-by": "JFRED-MNT"
         },
         {
+            "asn": "AS4242422667",
+            "prefix": "fde6:e763:a0e6::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BJOERRRRN-MNT"
+        },
+        {
             "asn": "AS4242422777",
             "prefix": "fde7:32ae:ee77::/48",
             "maxLength": 64,
@@ -12783,6 +12790,13 @@
             "mnt-by": "ALPACA-MNT"
         },
         {
+            "asn": "AS4242422667",
+            "prefix": "172.22.110.208/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "BJOERRRRN-MNT"
+        },
+        {
             "asn": "AS4242420808",
             "prefix": "172.22.110.32/27",
             "maxLength": 28,
@@ -15732,17 +15746,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "1659b2b32422ac0115946c183ad99b6076cb59a4",
-            "merge": "07f2eddc 60bd75af",
+            "commit": "9404f6d3581f8e997dceef6b4ac7300c3b46bc93",
+            "merge": "1659b2b3 87b113e1",
             "author": "burble",
-            "date": "Thu, 18 Jun 2020 16:53:26 +0000",
-            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1659b2b32422ac0115946c183ad99b6076cb59a4",
-            "generated": "2020-06-19T00:19:58+00:00",
-            "valid": "2020-06-22T00:19:58+00:00"
+            "date": "Fri, 19 Jun 2020 09:48:18 +0000",
+            "subject": "Merge branch 'master' of bjoerrrrn/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9404f6d3581f8e997dceef6b4ac7300c3b46bc93",
+            "generated": "2020-06-19T10:20:03+00:00",
+            "valid": "2020-06-22T10:20:03+00:00"
         },
-        "counts": 2247,
-        "generated": 1592525998,
-        "valid": 1592785198
+        "counts": 2249,
+        "generated": 1592562003,
+        "valid": 1592821203
     }
 }

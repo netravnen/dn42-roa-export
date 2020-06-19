@@ -6245,6 +6245,13 @@
                 "mnt-by": "JFRED-MNT"
             },
             {
+                "asn": 4242422667,
+                "prefix": "fde6:e763:a0e6::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BJOERRRRN-MNT"
+            },
+            {
                 "asn": 4242422777,
                 "prefix": "fde7:32ae:ee77::/48",
                 "maxPrefixLength": 64,
@@ -12788,6 +12795,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "ALPACA-MNT"
+            },
+            {
+                "asn": 4242422667,
+                "prefix": "172.22.110.208/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "BJOERRRRN-MNT"
             },
             {
                 "asn": 4242420808,
