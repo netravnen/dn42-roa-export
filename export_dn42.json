@@ -5199,7 +5199,7 @@
             "prefix": "fdb2:b297:900d::/48",
             "maxLength": 48,
             "ta": "DN42",
-            "mnt-by": "LIYUMIN-MNT"
+            "mnt-by": "GCC-MNT"
         },
         {
             "asn": "AS4242420177",
@@ -9311,6 +9311,13 @@
             "mnt-by": "ACCELERATOR-MNT"
         },
         {
+            "asn": "AS4242421129",
+            "prefix": "172.20.155.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WILLY-MNT"
+        },
+        {
             "asn": "AS4242423906",
             "prefix": "172.20.156.0/23",
             "maxLength": 28,
@@ -10534,6 +10541,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "SNH-MNT"
+        },
+        {
+            "asn": "AS4242422024",
+            "prefix": "172.20.21.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GCC-MNT"
         },
         {
             "asn": "AS4242423008",
@@ -12797,6 +12811,13 @@
             "mnt-by": "BJOERRRRN-MNT"
         },
         {
+            "asn": "AS46997",
+            "prefix": "172.22.110.216/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "NATO-MNT"
+        },
+        {
             "asn": "AS4242420808",
             "prefix": "172.22.110.32/27",
             "maxLength": 28,
@@ -13074,7 +13095,7 @@
             "prefix": "172.22.124.0/28",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "LIYUMIN-MNT"
+            "mnt-by": "GCC-MNT"
         },
         {
             "asn": "AS4242420180",
@@ -15746,17 +15767,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9404f6d3581f8e997dceef6b4ac7300c3b46bc93",
-            "merge": "1659b2b3 87b113e1",
+            "commit": "36a5784627242ba593b2c49c9fc0b9f188cd93fb",
+            "merge": "4033c8d6 c270d75c",
             "author": "burble",
-            "date": "Fri, 19 Jun 2020 09:48:18 +0000",
-            "subject": "Merge branch 'master' of bjoerrrrn/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9404f6d3581f8e997dceef6b4ac7300c3b46bc93",
-            "generated": "2020-06-19T10:20:03+00:00",
-            "valid": "2020-06-22T10:20:03+00:00"
+            "date": "Fri, 19 Jun 2020 18:28:03 +0000",
+            "subject": "Merge branch 'master' of liyumin/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/36a5784627242ba593b2c49c9fc0b9f188cd93fb",
+            "generated": "2020-06-19T20:20:03+00:00",
+            "valid": "2020-06-22T20:20:03+00:00"
         },
-        "counts": 2249,
-        "generated": 1592562003,
-        "valid": 1592821203
+        "counts": 2252,
+        "generated": 1592598003,
+        "valid": 1592857203
     }
 }

@@ -5206,7 +5206,7 @@
                 "prefix": "fdb2:b297:900d::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
-                "mnt-by": "LIYUMIN-MNT"
+                "mnt-by": "GCC-MNT"
             },
             {
                 "asn": 4242420177,
@@ -9318,6 +9318,13 @@
                 "mnt-by": "ACCELERATOR-MNT"
             },
             {
+                "asn": 4242421129,
+                "prefix": "172.20.155.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WILLY-MNT"
+            },
+            {
                 "asn": 4242423906,
                 "prefix": "172.20.156.0/23",
                 "maxPrefixLength": 28,
@@ -10541,6 +10548,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SNH-MNT"
+            },
+            {
+                "asn": 4242422024,
+                "prefix": "172.20.21.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GCC-MNT"
             },
             {
                 "asn": 4242423008,
@@ -12804,6 +12818,13 @@
                 "mnt-by": "BJOERRRRN-MNT"
             },
             {
+                "asn": 46997,
+                "prefix": "172.22.110.216/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "NATO-MNT"
+            },
+            {
                 "asn": 4242420808,
                 "prefix": "172.22.110.32/27",
                 "maxPrefixLength": 28,
@@ -13081,7 +13102,7 @@
                 "prefix": "172.22.124.0/28",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "LIYUMIN-MNT"
+                "mnt-by": "GCC-MNT"
             },
             {
                 "asn": 4242420180,
