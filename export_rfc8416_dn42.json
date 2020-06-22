@@ -4355,13 +4355,6 @@
                 "mnt-by": "JLU5-MNT"
             },
             {
-                "asn": 4242420674,
-                "prefix": "fd86:bc21:638a::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "VULKAN-MNT"
-            },
-            {
                 "asn": 4242423939,
                 "prefix": "fd87:3e50:cf33::/48",
                 "maxPrefixLength": 64,
@@ -13075,13 +13068,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MALINDEX-MNT"
-            },
-            {
-                "asn": 4242420674,
-                "prefix": "172.22.122.32/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "VULKAN-MNT"
             },
             {
                 "asn": 4242422843,

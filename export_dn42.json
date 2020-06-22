@@ -4348,13 +4348,6 @@
             "mnt-by": "JLU5-MNT"
         },
         {
-            "asn": "AS4242420674",
-            "prefix": "fd86:bc21:638a::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "VULKAN-MNT"
-        },
-        {
             "asn": "AS4242423939",
             "prefix": "fd87:3e50:cf33::/48",
             "maxLength": 64,
@@ -13070,13 +13063,6 @@
             "mnt-by": "MALINDEX-MNT"
         },
         {
-            "asn": "AS4242420674",
-            "prefix": "172.22.122.32/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "VULKAN-MNT"
-        },
-        {
             "asn": "AS4242422843",
             "prefix": "172.22.122.64/27",
             "maxLength": 28,
@@ -15767,17 +15753,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "36a5784627242ba593b2c49c9fc0b9f188cd93fb",
-            "merge": "4033c8d6 c270d75c",
+            "commit": "6516ccbbf014de3f16104557c4d94dae111368fc",
+            "merge": "f6704d97 d6ee276c",
             "author": "burble",
-            "date": "Fri, 19 Jun 2020 18:28:03 +0000",
-            "subject": "Merge branch 'master' of liyumin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/36a5784627242ba593b2c49c9fc0b9f188cd93fb",
-            "generated": "2020-06-21T20:20:03+00:00",
-            "valid": "2020-06-24T20:20:03+00:00"
+            "date": "Sun, 21 Jun 2020 21:06:34 +0000",
+            "subject": "Merge branch 'master' of grandejosh/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6516ccbbf014de3f16104557c4d94dae111368fc",
+            "generated": "2020-06-22T00:20:13+00:00",
+            "valid": "2020-06-25T00:20:13+00:00"
         },
-        "counts": 2252,
-        "generated": 1592770803,
-        "valid": 1593030003
+        "counts": 2250,
+        "generated": 1592785213,
+        "valid": 1593044413
     }
 }
