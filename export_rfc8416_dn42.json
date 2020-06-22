@@ -13679,6 +13679,13 @@
                 "mnt-by": "PERKSCO-MNT"
             },
             {
+                "asn": 4242422341,
+                "prefix": "172.22.169.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ZOTAN-MNT"
+            },
+            {
                 "asn": 4242420339,
                 "prefix": "172.22.172.0/27",
                 "maxPrefixLength": 28,

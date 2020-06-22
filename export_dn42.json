@@ -13672,6 +13672,13 @@
             "mnt-by": "PERKSCO-MNT"
         },
         {
+            "asn": "AS4242422341",
+            "prefix": "172.22.169.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZOTAN-MNT"
+        },
+        {
             "asn": "AS4242420339",
             "prefix": "172.22.172.0/27",
             "maxLength": 28,
@@ -15753,17 +15760,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "6516ccbbf014de3f16104557c4d94dae111368fc",
-            "merge": "f6704d97 d6ee276c",
+            "commit": "d7b515f9be502f50b505534ba7ddf870580fb684",
+            "merge": "f34fddf6 fde753b2",
             "author": "burble",
-            "date": "Sun, 21 Jun 2020 21:06:34 +0000",
-            "subject": "Merge branch 'master' of grandejosh/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6516ccbbf014de3f16104557c4d94dae111368fc",
-            "generated": "2020-06-22T10:19:52+00:00",
-            "valid": "2020-06-25T10:19:52+00:00"
+            "date": "Mon, 22 Jun 2020 19:43:51 +0000",
+            "subject": "Merge branch 'dn42-zotan' of zotan/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d7b515f9be502f50b505534ba7ddf870580fb684",
+            "generated": "2020-06-22T20:19:54+00:00",
+            "valid": "2020-06-25T20:19:54+00:00"
         },
-        "counts": 2250,
-        "generated": 1592821192,
-        "valid": 1593080392
+        "counts": 2251,
+        "generated": 1592857194,
+        "valid": 1593116394
     }
 }
