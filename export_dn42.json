@@ -15759,11 +15759,11 @@
             "date": "Sun, 21 Jun 2020 21:06:34 +0000",
             "subject": "Merge branch 'master' of grandejosh/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/6516ccbbf014de3f16104557c4d94dae111368fc",
-            "generated": "2020-06-22T00:20:13+00:00",
-            "valid": "2020-06-25T00:20:13+00:00"
+            "generated": "2020-06-22T10:19:52+00:00",
+            "valid": "2020-06-25T10:19:52+00:00"
         },
         "counts": 2250,
-        "generated": 1592785213,
-        "valid": 1593044413
+        "generated": 1592821192,
+        "valid": 1593080392
     }
 }
