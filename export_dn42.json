@@ -15766,11 +15766,11 @@
             "date": "Mon, 22 Jun 2020 19:43:51 +0000",
             "subject": "Merge branch 'dn42-zotan' of zotan/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/d7b515f9be502f50b505534ba7ddf870580fb684",
-            "generated": "2020-06-22T20:19:54+00:00",
-            "valid": "2020-06-25T20:19:54+00:00"
+            "generated": "2020-06-23T00:19:53+00:00",
+            "valid": "2020-06-26T00:19:53+00:00"
         },
         "counts": 2251,
-        "generated": 1592857194,
-        "valid": 1593116394
+        "generated": 1592871593,
+        "valid": 1593130793
     }
 }
