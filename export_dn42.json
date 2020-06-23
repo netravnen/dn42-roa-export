@@ -15760,17 +15760,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "28e3857cc2d97ac621eba3af3cba8bc5e7e84209",
-            "merge": "4b6f9cd7 3709268e",
-            "author": "burble",
-            "date": "Tue, 23 Jun 2020 09:46:49 +0000",
-            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/28e3857cc2d97ac621eba3af3cba8bc5e7e84209",
-            "generated": "2020-06-23T10:20:04+00:00",
-            "valid": "2020-06-26T10:20:04+00:00"
+            "commit": "617f959e4938319606f8e6346f9cf722863de623",
+            "merge": "0610fae1 28e3857c",
+            "author": "Jonathan Lundy",
+            "date": "Tue, 23 Jun 2020 09:22:41 -0600",
+            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
+            "url": "https://git.dn42.us/dn42/registry/commit/617f959e4938319606f8e6346f9cf722863de623",
+            "generated": "2020-06-23T20:20:10+00:00",
+            "valid": "2020-06-26T20:20:10+00:00"
         },
         "counts": 2251,
-        "generated": 1592907604,
-        "valid": 1593166804
+        "generated": 1592943610,
+        "valid": 1593202810
     }
 }
