@@ -15760,17 +15760,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d7b515f9be502f50b505534ba7ddf870580fb684",
-            "merge": "f34fddf6 fde753b2",
+            "commit": "28e3857cc2d97ac621eba3af3cba8bc5e7e84209",
+            "merge": "4b6f9cd7 3709268e",
             "author": "burble",
-            "date": "Mon, 22 Jun 2020 19:43:51 +0000",
-            "subject": "Merge branch 'dn42-zotan' of zotan/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d7b515f9be502f50b505534ba7ddf870580fb684",
-            "generated": "2020-06-23T00:19:53+00:00",
-            "valid": "2020-06-26T00:19:53+00:00"
+            "date": "Tue, 23 Jun 2020 09:46:49 +0000",
+            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/28e3857cc2d97ac621eba3af3cba8bc5e7e84209",
+            "generated": "2020-06-23T10:20:04+00:00",
+            "valid": "2020-06-26T10:20:04+00:00"
         },
         "counts": 2251,
-        "generated": 1592871593,
-        "valid": 1593130793
+        "generated": 1592907604,
+        "valid": 1593166804
     }
 }
