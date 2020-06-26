@@ -435,6 +435,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421719,
+                "prefix": "fd02:152e:d070::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GOFORCEX-MNT"
+            },
+            {
                 "asn": 4242420309,
                 "prefix": "fd03:4de4:6baa::/48",
                 "maxPrefixLength": 64,
@@ -797,6 +804,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422432,
+                "prefix": "fd14:762d:bf6a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CARLOTRONICS-MNT"
             },
             {
                 "asn": 4242420724,
@@ -9605,6 +9619,13 @@
                 "mnt-by": "MARLIN-MNT"
             },
             {
+                "asn": 4242421719,
+                "prefix": "172.20.165.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GOFORCEX-MNT"
+            },
+            {
                 "asn": 4242423821,
                 "prefix": "172.20.165.8/29",
                 "maxPrefixLength": 29,
@@ -11080,6 +11101,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SUDOPARADISE-MNT"
+            },
+            {
+                "asn": 4242422432,
+                "prefix": "172.20.29.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CARLOTRONICS-MNT"
             },
             {
                 "asn": 4242422660,

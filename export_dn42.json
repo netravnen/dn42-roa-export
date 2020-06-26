@@ -428,6 +428,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421719",
+            "prefix": "fd02:152e:d070::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GOFORCEX-MNT"
+        },
+        {
             "asn": "AS4242420309",
             "prefix": "fd03:4de4:6baa::/48",
             "maxLength": 64,
@@ -790,6 +797,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242422432",
+            "prefix": "fd14:762d:bf6a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CARLOTRONICS-MNT"
         },
         {
             "asn": "AS4242420724",
@@ -9598,6 +9612,13 @@
             "mnt-by": "MARLIN-MNT"
         },
         {
+            "asn": "AS4242421719",
+            "prefix": "172.20.165.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GOFORCEX-MNT"
+        },
+        {
             "asn": "AS4242423821",
             "prefix": "172.20.165.8/29",
             "maxLength": 29,
@@ -11073,6 +11094,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "SUDOPARADISE-MNT"
+        },
+        {
+            "asn": "AS4242422432",
+            "prefix": "172.20.29.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CARLOTRONICS-MNT"
         },
         {
             "asn": "AS4242422660",
@@ -15760,17 +15788,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "617f959e4938319606f8e6346f9cf722863de623",
-            "merge": "0610fae1 28e3857c",
-            "author": "Jonathan Lundy",
-            "date": "Tue, 23 Jun 2020 09:22:41 -0600",
-            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/617f959e4938319606f8e6346f9cf722863de623",
-            "generated": "2020-06-26T10:20:52+00:00",
-            "valid": "2020-06-29T10:20:52+00:00"
+            "commit": "08408858401291bd958de8e5b30db79143b6bba2",
+            "merge": "ed02a3ba 91d0d652",
+            "author": "burble",
+            "date": "Fri, 26 Jun 2020 16:18:09 +0000",
+            "subject": "Merge branch 'master' of GoForceX/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/08408858401291bd958de8e5b30db79143b6bba2",
+            "generated": "2020-06-26T20:20:47+00:00",
+            "valid": "2020-06-29T20:20:47+00:00"
         },
-        "counts": 2251,
-        "generated": 1593166852,
-        "valid": 1593426052
+        "counts": 2255,
+        "generated": 1593202847,
+        "valid": 1593462047
     }
 }
