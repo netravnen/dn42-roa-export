@@ -15788,17 +15788,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "08408858401291bd958de8e5b30db79143b6bba2",
-            "merge": "ed02a3ba 91d0d652",
-            "author": "burble",
-            "date": "Fri, 26 Jun 2020 16:18:09 +0000",
-            "subject": "Merge branch 'master' of GoForceX/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/08408858401291bd958de8e5b30db79143b6bba2",
-            "generated": "2020-06-26T20:20:47+00:00",
-            "valid": "2020-06-29T20:20:47+00:00"
+            "commit": "0ddf8af6869cf218b7943d8656c24b5e4788dc5b",
+            "merge": "af46a7c4 08408858",
+            "author": "Jonathan Lundy",
+            "date": "Fri, 26 Jun 2020 12:11:30 -0600",
+            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
+            "url": "https://git.dn42.us/dn42/registry/commit/0ddf8af6869cf218b7943d8656c24b5e4788dc5b",
+            "generated": "2020-06-27T00:20:43+00:00",
+            "valid": "2020-06-30T00:20:43+00:00"
         },
         "counts": 2255,
-        "generated": 1593202847,
-        "valid": 1593462047
+        "generated": 1593217243,
+        "valid": 1593476443
     }
 }
