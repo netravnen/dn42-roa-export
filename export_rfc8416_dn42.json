@@ -2220,6 +2220,13 @@
                 "mnt-by": "CYBERTINUS-MNT"
             },
             {
+                "asn": 4242422990,
+                "prefix": "fd42:4242:2990::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TAN-MNT"
+            },
+            {
                 "asn": 4242423369,
                 "prefix": "fd42:4242:3369:6102::/64",
                 "maxPrefixLength": 64,
@@ -13103,6 +13110,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MCBROWN-MNT"
+            },
+            {
+                "asn": 4242422990,
+                "prefix": "172.22.122.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TAN-MNT"
             },
             {
                 "asn": 4242420916,

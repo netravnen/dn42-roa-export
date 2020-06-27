@@ -2213,6 +2213,13 @@
             "mnt-by": "CYBERTINUS-MNT"
         },
         {
+            "asn": "AS4242422990",
+            "prefix": "fd42:4242:2990::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TAN-MNT"
+        },
+        {
             "asn": "AS4242423369",
             "prefix": "fd42:4242:3369:6102::/64",
             "maxLength": 64,
@@ -13098,6 +13105,13 @@
             "mnt-by": "MCBROWN-MNT"
         },
         {
+            "asn": "AS4242422990",
+            "prefix": "172.22.122.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TAN-MNT"
+        },
+        {
             "asn": "AS4242420916",
             "prefix": "172.22.123.0/24",
             "maxLength": 28,
@@ -15788,17 +15802,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0ddf8af6869cf218b7943d8656c24b5e4788dc5b",
-            "merge": "af46a7c4 08408858",
+            "commit": "c623aedade9e2b382376c686c38e15b9c88e9462",
+            "merge": "6029bd2c 3c8e1c24",
             "author": "Jonathan Lundy",
-            "date": "Fri, 26 Jun 2020 12:11:30 -0600",
+            "date": "Sat, 27 Jun 2020 08:35:55 -0600",
             "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/0ddf8af6869cf218b7943d8656c24b5e4788dc5b",
-            "generated": "2020-06-27T10:21:29+00:00",
-            "valid": "2020-06-30T10:21:29+00:00"
+            "url": "https://git.dn42.us/dn42/registry/commit/c623aedade9e2b382376c686c38e15b9c88e9462",
+            "generated": "2020-06-27T20:20:54+00:00",
+            "valid": "2020-06-30T20:20:54+00:00"
         },
-        "counts": 2255,
-        "generated": 1593253289,
-        "valid": 1593512489
+        "counts": 2257,
+        "generated": 1593289254,
+        "valid": 1593548454
     }
 }
