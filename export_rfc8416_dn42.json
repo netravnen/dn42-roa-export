@@ -639,7 +639,7 @@
             },
             {
                 "asn": 4201270003,
-                "prefix": "fd10:127:1919:810::/64",
+                "prefix": "fd10:127:1919::/48",
                 "maxPrefixLength": 64,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
@@ -7457,8 +7457,8 @@
             },
             {
                 "asn": 4201270003,
-                "prefix": "10.127.89.3/32",
-                "maxPrefixLength": 32,
+                "prefix": "10.127.89.0/24",
+                "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
             },
