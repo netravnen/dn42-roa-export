@@ -1191,6 +1191,13 @@
             "mnt-by": "DRATHIR-MNT"
         },
         {
+            "asn": "AS4242422850",
+            "prefix": "fd26:3adf:465e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "VICTORROMAN-MNT"
+        },
+        {
             "asn": "AS4242420342",
             "prefix": "fd27:2313:eee5::/48",
             "maxLength": 64,
@@ -13343,6 +13350,13 @@
             "mnt-by": "DOT-MNT"
         },
         {
+            "asn": "AS4242422850",
+            "prefix": "172.22.137.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VICTORROMAN-MNT"
+        },
+        {
             "asn": "AS4242422233",
             "prefix": "172.22.140.0/25",
             "maxLength": 28,
@@ -15795,17 +15809,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0fa80c59e81eacf6cece12b9377318b91e5613ec",
-            "merge": "5c872025 5baaa32c",
+            "commit": "63729b2122794f332bb3a70d70bd068fa86741b0",
+            "merge": "edfc1cce 837495d9",
             "author": "burble",
-            "date": "Tue, 30 Jun 2020 07:47:42 +0000",
-            "subject": "Merge branch 'master' of xyz479/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0fa80c59e81eacf6cece12b9377318b91e5613ec",
-            "generated": "2020-06-30T10:19:53+00:00",
-            "valid": "2020-07-03T10:19:53+00:00"
+            "date": "Tue, 30 Jun 2020 14:19:45 +0000",
+            "subject": "Merge branch 'master' of vroman/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/63729b2122794f332bb3a70d70bd068fa86741b0",
+            "generated": "2020-06-30T20:19:54+00:00",
+            "valid": "2020-07-03T20:19:54+00:00"
         },
-        "counts": 2256,
-        "generated": 1593512393,
-        "valid": 1593771593
+        "counts": 2258,
+        "generated": 1593548394,
+        "valid": 1593807594
     }
 }

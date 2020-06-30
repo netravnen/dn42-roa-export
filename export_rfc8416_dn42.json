@@ -1198,6 +1198,13 @@
                 "mnt-by": "DRATHIR-MNT"
             },
             {
+                "asn": 4242422850,
+                "prefix": "fd26:3adf:465e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VICTORROMAN-MNT"
+            },
+            {
                 "asn": 4242420342,
                 "prefix": "fd27:2313:eee5::/48",
                 "maxPrefixLength": 64,
@@ -13348,6 +13355,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DOT-MNT"
+            },
+            {
+                "asn": 4242422850,
+                "prefix": "172.22.137.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VICTORROMAN-MNT"
             },
             {
                 "asn": 4242422233,
