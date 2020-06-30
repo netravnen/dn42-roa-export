@@ -3935,13 +3935,6 @@
             "mnt-by": "YI-MNT"
         },
         {
-            "asn": "AS4242420213",
-            "prefix": "fd6a:16b9:a0b2::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "XYZ479-MNT"
-        },
-        {
             "asn": "AS4242423338",
             "prefix": "fd6a:22f6:b683::/48",
             "maxLength": 64,
@@ -15802,17 +15795,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "c623aedade9e2b382376c686c38e15b9c88e9462",
-            "merge": "6029bd2c 3c8e1c24",
-            "author": "Jonathan Lundy",
-            "date": "Sat, 27 Jun 2020 08:35:55 -0600",
-            "subject": "Merge branch 'master' of git.dn42.us:dn42/registry",
-            "url": "https://git.dn42.us/dn42/registry/commit/c623aedade9e2b382376c686c38e15b9c88e9462",
-            "generated": "2020-06-30T00:19:44+00:00",
-            "valid": "2020-07-03T00:19:44+00:00"
+            "commit": "0fa80c59e81eacf6cece12b9377318b91e5613ec",
+            "merge": "5c872025 5baaa32c",
+            "author": "burble",
+            "date": "Tue, 30 Jun 2020 07:47:42 +0000",
+            "subject": "Merge branch 'master' of xyz479/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0fa80c59e81eacf6cece12b9377318b91e5613ec",
+            "generated": "2020-06-30T10:19:53+00:00",
+            "valid": "2020-07-03T10:19:53+00:00"
         },
-        "counts": 2257,
-        "generated": 1593476384,
-        "valid": 1593735584
+        "counts": 2256,
+        "generated": 1593512393,
+        "valid": 1593771593
     }
 }

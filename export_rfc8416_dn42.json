@@ -3942,13 +3942,6 @@
                 "mnt-by": "YI-MNT"
             },
             {
-                "asn": 4242420213,
-                "prefix": "fd6a:16b9:a0b2::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "XYZ479-MNT"
-            },
-            {
                 "asn": 4242423338,
                 "prefix": "fd6a:22f6:b683::/48",
                 "maxPrefixLength": 64,
