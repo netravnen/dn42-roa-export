@@ -15815,11 +15815,11 @@
             "date": "Tue, 30 Jun 2020 14:19:45 +0000",
             "subject": "Merge branch 'master' of vroman/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/63729b2122794f332bb3a70d70bd068fa86741b0",
-            "generated": "2020-07-01T00:21:20+00:00",
-            "valid": "2020-07-04T00:21:20+00:00"
+            "generated": "2020-07-01T10:22:31+00:00",
+            "valid": "2020-07-04T10:22:31+00:00"
         },
         "counts": 2258,
-        "generated": 1593562880,
-        "valid": 1593822080
+        "generated": 1593598951,
+        "valid": 1593858151
     }
 }
