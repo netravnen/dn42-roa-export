@@ -890,6 +890,13 @@
                 "mnt-by": "ATR-MNT"
             },
             {
+                "asn": 4242422512,
+                "prefix": "fd18:3ab6:2508::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CLEMENT-MNT"
+            },
+            {
                 "asn": 4242420321,
                 "prefix": "fd19:e0a6:1295::/48",
                 "maxPrefixLength": 64,
@@ -3690,6 +3697,13 @@
                 "mnt-by": "XKEY-MNT"
             },
             {
+                "asn": 4242423323,
+                "prefix": "fd5c:adc5:16b1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MARCUSW-MNT"
+            },
+            {
                 "asn": 4242420171,
                 "prefix": "fd5c:d982:d80d:9243::/64",
                 "maxPrefixLength": 64,
@@ -4479,6 +4493,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242423652,
+                "prefix": "fd8f:7f6d:be92:8716::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NESQUIIKHOST-MNT"
             },
             {
                 "asn": 4242421423,
@@ -10975,6 +10996,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SAMMKO-MNT"
+            },
+            {
+                "asn": 4242423652,
+                "prefix": "172.20.238.32/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "NESQUIIKHOST-MNT"
             },
             {
                 "asn": 4242423514,

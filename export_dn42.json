@@ -883,6 +883,13 @@
             "mnt-by": "ATR-MNT"
         },
         {
+            "asn": "AS4242422512",
+            "prefix": "fd18:3ab6:2508::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CLEMENT-MNT"
+        },
+        {
             "asn": "AS4242420321",
             "prefix": "fd19:e0a6:1295::/48",
             "maxLength": 64,
@@ -3683,6 +3690,13 @@
             "mnt-by": "XKEY-MNT"
         },
         {
+            "asn": "AS4242423323",
+            "prefix": "fd5c:adc5:16b1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MARCUSW-MNT"
+        },
+        {
             "asn": "AS4242420171",
             "prefix": "fd5c:d982:d80d:9243::/64",
             "maxLength": 64,
@@ -4472,6 +4486,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242423652",
+            "prefix": "fd8f:7f6d:be92:8716::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NESQUIIKHOST-MNT"
         },
         {
             "asn": "AS4242421423",
@@ -10970,6 +10991,13 @@
             "mnt-by": "SAMMKO-MNT"
         },
         {
+            "asn": "AS4242423652",
+            "prefix": "172.20.238.32/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "NESQUIIKHOST-MNT"
+        },
+        {
             "asn": "AS4242423514",
             "prefix": "172.20.239.128/26",
             "maxLength": 28,
@@ -15809,17 +15837,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "63729b2122794f332bb3a70d70bd068fa86741b0",
-            "merge": "edfc1cce 837495d9",
+            "commit": "11e99642302ad484f2786dff44f6686806a682a5",
+            "merge": "71a2de8d 00b48e64",
             "author": "burble",
-            "date": "Tue, 30 Jun 2020 14:19:45 +0000",
-            "subject": "Merge branch 'master' of vroman/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/63729b2122794f332bb3a70d70bd068fa86741b0",
-            "generated": "2020-07-01T20:19:39+00:00",
-            "valid": "2020-07-04T20:19:39+00:00"
+            "date": "Wed, 1 Jul 2020 21:07:13 +0000",
+            "subject": "Merge branch 'master' of MarcusWichelmann/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/11e99642302ad484f2786dff44f6686806a682a5",
+            "generated": "2020-07-02T00:19:53+00:00",
+            "valid": "2020-07-05T00:19:53+00:00"
         },
-        "counts": 2258,
-        "generated": 1593634779,
-        "valid": 1593893979
+        "counts": 2262,
+        "generated": 1593649193,
+        "valid": 1593908393
     }
 }
