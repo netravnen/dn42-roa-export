@@ -7442,6 +7442,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270016",
+            "prefix": "10.127.64.0/27",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270009",
             "prefix": "10.127.69.0/29",
             "maxLength": 29,
@@ -15843,11 +15850,11 @@
             "date": "Fri, 3 Jul 2020 09:24:22 +0000",
             "subject": "Merge branch 'master' of inrin/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/c3f185f434db56bab8a297a47144526b34c63383",
-            "generated": "2020-07-03T10:19:41+00:00",
-            "valid": "2020-07-06T10:19:41+00:00"
+            "generated": "2020-07-03T20:19:49+00:00",
+            "valid": "2020-07-06T20:19:49+00:00"
         },
-        "counts": 2262,
-        "generated": 1593771581,
-        "valid": 1594030781
+        "counts": 2263,
+        "generated": 1593807589,
+        "valid": 1594066789
     }
 }
