@@ -15837,17 +15837,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "11e99642302ad484f2786dff44f6686806a682a5",
-            "merge": "71a2de8d 00b48e64",
+            "commit": "c3f185f434db56bab8a297a47144526b34c63383",
+            "merge": "796ec123 f4896e20",
             "author": "burble",
-            "date": "Wed, 1 Jul 2020 21:07:13 +0000",
-            "subject": "Merge branch 'master' of MarcusWichelmann/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/11e99642302ad484f2786dff44f6686806a682a5",
-            "generated": "2020-07-03T00:19:39+00:00",
-            "valid": "2020-07-06T00:19:39+00:00"
+            "date": "Fri, 3 Jul 2020 09:24:22 +0000",
+            "subject": "Merge branch 'master' of inrin/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c3f185f434db56bab8a297a47144526b34c63383",
+            "generated": "2020-07-03T10:19:41+00:00",
+            "valid": "2020-07-06T10:19:41+00:00"
         },
         "counts": 2262,
-        "generated": 1593735579,
-        "valid": 1593994779
+        "generated": 1593771581,
+        "valid": 1594030781
     }
 }
