@@ -15843,11 +15843,11 @@
             "date": "Wed, 1 Jul 2020 21:07:13 +0000",
             "subject": "Merge branch 'master' of MarcusWichelmann/registry into master",
             "url": "https://git.dn42.us/dn42/registry/commit/11e99642302ad484f2786dff44f6686806a682a5",
-            "generated": "2020-07-02T20:19:41+00:00",
-            "valid": "2020-07-05T20:19:41+00:00"
+            "generated": "2020-07-03T00:19:39+00:00",
+            "valid": "2020-07-06T00:19:39+00:00"
         },
         "counts": 2262,
-        "generated": 1593721181,
-        "valid": 1593980381
+        "generated": 1593735579,
+        "valid": 1593994779
     }
 }
