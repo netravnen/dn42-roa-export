@@ -1800,6 +1800,13 @@
             "mnt-by": "CLEMENTPRIMOT-MNT"
         },
         {
+            "asn": "AS4242422092",
+            "prefix": "fd42:2092:2092::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "P3BK4C-MNT"
+        },
+        {
             "asn": "AS4242423723",
             "prefix": "fd42:20:50::/48",
             "maxLength": 64,
@@ -12398,6 +12405,13 @@
             "mnt-by": "MOZZNET-MNT"
         },
         {
+            "asn": "AS4242422092",
+            "prefix": "172.21.67.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "P3BK4C-MNT"
+        },
+        {
             "asn": "AS4242420339",
             "prefix": "172.21.67.32/27",
             "maxLength": 28,
@@ -15865,17 +15879,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "1ceb0dd6b25540fdce2e19e5c31a3d08d725ad56",
-            "merge": "d6dc4b5c b5ced35c",
-            "author": "burble",
-            "date": "Sat, 4 Jul 2020 08:22:04 +0000",
-            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1ceb0dd6b25540fdce2e19e5c31a3d08d725ad56",
-            "generated": "2020-07-04T10:19:43+00:00",
-            "valid": "2020-07-07T10:19:43+00:00"
+            "commit": "d245f43b43a99a30ed230a6fa47f25bf18d22358",
+            "merge": "dc0fd930 4230191b",
+            "author": "Simon Marsh",
+            "date": "Sat, 4 Jul 2020 16:03:27 +0000",
+            "subject": "Merge pull request 'burble-20200704/sync2' (#7) from burble-20200704/sync2 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d245f43b43a99a30ed230a6fa47f25bf18d22358",
+            "generated": "2020-07-04T17:35:23+00:00",
+            "valid": "2020-07-07T17:35:23+00:00"
         },
-        "counts": 2266,
-        "generated": 1593857983,
-        "valid": 1594117183
+        "counts": 2268,
+        "generated": 1593884123,
+        "valid": 1594143323
     }
 }

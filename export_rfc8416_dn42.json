@@ -1807,6 +1807,13 @@
                 "mnt-by": "CLEMENTPRIMOT-MNT"
             },
             {
+                "asn": 4242422092,
+                "prefix": "fd42:2092:2092::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "P3BK4C-MNT"
+            },
+            {
                 "asn": 4242423723,
                 "prefix": "fd42:20:50::/48",
                 "maxPrefixLength": 64,
@@ -12403,6 +12410,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MOZZNET-MNT"
+            },
+            {
+                "asn": 4242422092,
+                "prefix": "172.21.67.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "P3BK4C-MNT"
             },
             {
                 "asn": 4242420339,
