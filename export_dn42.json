@@ -386,6 +386,13 @@
             "mnt-by": "LUELISTAN-MNT"
         },
         {
+            "asn": "AS4242423869",
+            "prefix": "fd01:374d:4ddd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SELLERIE-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd01:38f7:e6d8:4e04::/64",
             "maxLength": 64,
@@ -10571,6 +10578,13 @@
             "mnt-by": "LEVING-MNT"
         },
         {
+            "asn": "AS4242423869",
+            "prefix": "172.20.206.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SELLERIE-MNT"
+        },
+        {
             "asn": "AS4242420136",
             "prefix": "172.20.206.128/25",
             "maxLength": 28,
@@ -14092,13 +14106,6 @@
             "mnt-by": "FRITZ-MNT"
         },
         {
-            "asn": "AS4242420000",
-            "prefix": "172.22.41.240/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "PYROPETER-MNT"
-        },
-        {
             "asn": "AS64643",
             "prefix": "172.22.43.0/24",
             "maxLength": 28,
@@ -15135,13 +15142,6 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
-            "asn": "AS4242420000",
-            "prefix": "172.23.196.0/24",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "PYROPETER-MNT"
-        },
-        {
             "asn": "AS4242423303",
             "prefix": "172.23.197.0/25",
             "maxLength": 28,
@@ -15879,17 +15879,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d245f43b43a99a30ed230a6fa47f25bf18d22358",
-            "merge": "dc0fd930 4230191b",
+            "commit": "6934e999f08999e99398d18a44390807209464e6",
+            "merge": "885efbe0 d9b63c20",
             "author": "Simon Marsh",
-            "date": "Sat, 4 Jul 2020 16:03:27 +0000",
-            "subject": "Merge pull request 'burble-20200704/sync2' (#7) from burble-20200704/sync2 into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d245f43b43a99a30ed230a6fa47f25bf18d22358",
-            "generated": "2020-07-04T17:35:23+00:00",
-            "valid": "2020-07-07T17:35:23+00:00"
+            "date": "Sat, 4 Jul 2020 22:18:38 +0000",
+            "subject": "Merge pull request 'Clarify update process in README' (#17) from burble-20200704/readme3 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/6934e999f08999e99398d18a44390807209464e6",
+            "generated": "2020-07-04T22:59:15+00:00",
+            "valid": "2020-07-07T22:59:15+00:00"
         },
         "counts": 2268,
-        "generated": 1593884123,
-        "valid": 1594143323
+        "generated": 1593903555,
+        "valid": 1594162755
     }
 }

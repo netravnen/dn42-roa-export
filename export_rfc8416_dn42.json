@@ -393,6 +393,13 @@
                 "mnt-by": "LUELISTAN-MNT"
             },
             {
+                "asn": 4242423869,
+                "prefix": "fd01:374d:4ddd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SELLERIE-MNT"
+            },
+            {
                 "asn": 4242420017,
                 "prefix": "fd01:38f7:e6d8:4e04::/64",
                 "maxPrefixLength": 64,
@@ -10578,6 +10585,13 @@
                 "mnt-by": "LEVING-MNT"
             },
             {
+                "asn": 4242423869,
+                "prefix": "172.20.206.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SELLERIE-MNT"
+            },
+            {
                 "asn": 4242420136,
                 "prefix": "172.20.206.128/25",
                 "maxPrefixLength": 28,
@@ -14099,13 +14113,6 @@
                 "mnt-by": "FRITZ-MNT"
             },
             {
-                "asn": 4242420000,
-                "prefix": "172.22.41.240/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "PYROPETER-MNT"
-            },
-            {
                 "asn": 64643,
                 "prefix": "172.22.43.0/24",
                 "maxPrefixLength": 28,
@@ -15140,13 +15147,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
-            },
-            {
-                "asn": 4242420000,
-                "prefix": "172.23.196.0/24",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "PYROPETER-MNT"
             },
             {
                 "asn": 4242423303,

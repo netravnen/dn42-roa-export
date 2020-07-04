@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d245f43b43a99a30ed230a6fa47f25bf18d22358
-Merge: dc0fd930 4230191b
+commit 6934e999f08999e99398d18a44390807209464e6
+Merge: 885efbe0 d9b63c20
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-04 16:03:27 +0000
+Date:   2020-07-04 22:18:38 +0000
 
-    Merge pull request 'burble-20200704/sync2' (#7) from burble-20200704/sync2 into master
+    Merge pull request 'Clarify update process in README' (#17) from burble-20200704/readme3 into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/7
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/17
 ```
 
 ## crontab
@@ -40,11 +40,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1256
-- ROAs IPv6:  1012
+- ROAs IPv4:  1255
+- ROAs IPv6:  1013
 - ROAs total: 2268
 
-[0]: https://git.dn42.us/dn42/registry/commit/d245f43b43a99a30ed230a6fa47f25bf18d22358
+[0]: https://git.dn42.us/dn42/registry/commit/6934e999f08999e99398d18a44390807209464e6
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
