@@ -3340,6 +3340,13 @@
             "mnt-by": "8FCDE-MNT"
         },
         {
+            "asn": "AS4242423935",
+            "prefix": "fd4a:2e8b:78bb:ae6e::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NIRVANET-MNT"
+        },
+        {
             "asn": "AS4242420550",
             "prefix": "fd4b:9921:47d0::/48",
             "maxLength": 48,
@@ -6537,6 +6544,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "SPLITTER-MNT"
+        },
+        {
+            "asn": "AS64738",
+            "prefix": "fdef:5d0d:ee12::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WELTERDE-MNT"
         },
         {
             "asn": "AS4242423189",
@@ -13910,6 +13924,13 @@
             "mnt-by": "DELTAMAN-MNT"
         },
         {
+            "asn": "AS4242423935",
+            "prefix": "172.22.188.224/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NIRVANET-MNT"
+        },
+        {
             "asn": "AS4242421166",
             "prefix": "172.22.189.0/26",
             "maxLength": 28,
@@ -15844,17 +15865,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "c3f185f434db56bab8a297a47144526b34c63383",
-            "merge": "796ec123 f4896e20",
+            "commit": "1ceb0dd6b25540fdce2e19e5c31a3d08d725ad56",
+            "merge": "d6dc4b5c b5ced35c",
             "author": "burble",
-            "date": "Fri, 3 Jul 2020 09:24:22 +0000",
-            "subject": "Merge branch 'master' of inrin/registry into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c3f185f434db56bab8a297a47144526b34c63383",
-            "generated": "2020-07-04T00:19:46+00:00",
-            "valid": "2020-07-07T00:19:46+00:00"
+            "date": "Sat, 4 Jul 2020 08:22:04 +0000",
+            "subject": "Merge branch 'nevlezay' of nevlezay80/registry into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1ceb0dd6b25540fdce2e19e5c31a3d08d725ad56",
+            "generated": "2020-07-04T10:19:43+00:00",
+            "valid": "2020-07-07T10:19:43+00:00"
         },
-        "counts": 2263,
-        "generated": 1593821986,
-        "valid": 1594081186
+        "counts": 2266,
+        "generated": 1593857983,
+        "valid": 1594117183
     }
 }

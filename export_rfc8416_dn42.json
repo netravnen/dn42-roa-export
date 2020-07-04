@@ -3347,6 +3347,13 @@
                 "mnt-by": "8FCDE-MNT"
             },
             {
+                "asn": 4242423935,
+                "prefix": "fd4a:2e8b:78bb:ae6e::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NIRVANET-MNT"
+            },
+            {
                 "asn": 4242420550,
                 "prefix": "fd4b:9921:47d0::/48",
                 "maxPrefixLength": 48,
@@ -6544,6 +6551,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SPLITTER-MNT"
+            },
+            {
+                "asn": 64738,
+                "prefix": "fdef:5d0d:ee12::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "WELTERDE-MNT"
             },
             {
                 "asn": 4242423189,
@@ -13915,6 +13929,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DELTAMAN-MNT"
+            },
+            {
+                "asn": 4242423935,
+                "prefix": "172.22.188.224/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NIRVANET-MNT"
             },
             {
                 "asn": 4242421166,
