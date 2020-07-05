@@ -442,6 +442,13 @@
             "mnt-by": "GOFORCEX-MNT"
         },
         {
+            "asn": "AS49752",
+            "prefix": "fd02:685f:edac::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "REDPANDA-MNT"
+        },
+        {
             "asn": "AS4242420309",
             "prefix": "fd03:4de4:6baa::/48",
             "maxLength": 64,
@@ -741,6 +748,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "RC-MNT"
+        },
+        {
+            "asn": "AS4242421918",
+            "prefix": "fd10:fcac:b8f2::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "FABRATERIA-MNT"
         },
         {
             "asn": "AS65051",
@@ -5151,6 +5165,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "CAP-MNT"
+        },
+        {
+            "asn": "AS213021",
+            "prefix": "fdaa:d0e:147f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SM-MNT"
         },
         {
             "asn": "AS4242423175",
@@ -12923,6 +12944,13 @@
             "mnt-by": "NATO-MNT"
         },
         {
+            "asn": "AS4242421918",
+            "prefix": "172.22.110.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FABRATERIA-MNT"
+        },
+        {
             "asn": "AS4242420808",
             "prefix": "172.22.110.32/27",
             "maxLength": 28,
@@ -13852,6 +13880,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "JOMAT-MNT"
+        },
+        {
+            "asn": "AS49752",
+            "prefix": "172.22.177.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "REDPANDA-MNT"
         },
         {
             "asn": "AS4242421977",
@@ -15879,17 +15914,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "6934e999f08999e99398d18a44390807209464e6",
-            "merge": "885efbe0 d9b63c20",
+            "commit": "56a47eaa161a6485969e7bf3049c8e074de1aef9",
+            "merge": "f4b6c07a aad4b320",
             "author": "Simon Marsh",
-            "date": "Sat, 4 Jul 2020 22:18:38 +0000",
-            "subject": "Merge pull request 'Clarify update process in README' (#17) from burble-20200704/readme3 into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/6934e999f08999e99398d18a44390807209464e6",
-            "generated": "2020-07-04T22:59:15+00:00",
-            "valid": "2020-07-07T22:59:15+00:00"
+            "date": "Sun, 5 Jul 2020 09:58:11 +0000",
+            "subject": "Merge pull request 'Merge REDPANDANETWORK with master' (#14) from tyrasuki-20200704/register into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/56a47eaa161a6485969e7bf3049c8e074de1aef9",
+            "generated": "2020-07-05T12:27:49+00:00",
+            "valid": "2020-07-08T12:27:49+00:00"
         },
-        "counts": 2268,
-        "generated": 1593903555,
-        "valid": 1594162755
+        "counts": 2273,
+        "generated": 1593952069,
+        "valid": 1594211269
     }
 }

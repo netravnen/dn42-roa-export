@@ -449,6 +449,13 @@
                 "mnt-by": "GOFORCEX-MNT"
             },
             {
+                "asn": 49752,
+                "prefix": "fd02:685f:edac::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "REDPANDA-MNT"
+            },
+            {
                 "asn": 4242420309,
                 "prefix": "fd03:4de4:6baa::/48",
                 "maxPrefixLength": 64,
@@ -748,6 +755,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "RC-MNT"
+            },
+            {
+                "asn": 4242421918,
+                "prefix": "fd10:fcac:b8f2::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "FABRATERIA-MNT"
             },
             {
                 "asn": 65051,
@@ -5158,6 +5172,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "CAP-MNT"
+            },
+            {
+                "asn": 213021,
+                "prefix": "fdaa:d0e:147f::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SM-MNT"
             },
             {
                 "asn": 4242423175,
@@ -12930,6 +12951,13 @@
                 "mnt-by": "NATO-MNT"
             },
             {
+                "asn": 4242421918,
+                "prefix": "172.22.110.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FABRATERIA-MNT"
+            },
+            {
                 "asn": 4242420808,
                 "prefix": "172.22.110.32/27",
                 "maxPrefixLength": 28,
@@ -13859,6 +13887,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JOMAT-MNT"
+            },
+            {
+                "asn": 49752,
+                "prefix": "172.22.177.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "REDPANDA-MNT"
             },
             {
                 "asn": 4242421977,

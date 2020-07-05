@@ -20,14 +20,15 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 6934e999f08999e99398d18a44390807209464e6
-Merge: 885efbe0 d9b63c20
+commit 56a47eaa161a6485969e7bf3049c8e074de1aef9
+Merge: f4b6c07a aad4b320
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-04 22:18:38 +0000
+Date:   2020-07-05 09:58:11 +0000
 
-    Merge pull request 'Clarify update process in README' (#17) from burble-20200704/readme3 into master
+    Merge pull request 'Merge REDPANDANETWORK with master' (#14) from tyrasuki-20200704/register into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/17
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/14
+    Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
 ## crontab
@@ -40,11 +41,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1255
-- ROAs IPv6:  1013
-- ROAs total: 2268
+- ROAs IPv4:  1257
+- ROAs IPv6:  1016
+- ROAs total: 2273
 
-[0]: https://git.dn42.us/dn42/registry/commit/6934e999f08999e99398d18a44390807209464e6
+[0]: https://git.dn42.us/dn42/registry/commit/56a47eaa161a6485969e7bf3049c8e074de1aef9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
