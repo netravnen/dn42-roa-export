@@ -2283,6 +2283,13 @@
             "mnt-by": "KNORRIE-MNT"
         },
         {
+            "asn": "AS4242423920",
+            "prefix": "fd42:4242:3920::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "KEBE-MNT"
+        },
+        {
             "asn": "AS4242423991",
             "prefix": "fd42:4242:4200::/40",
             "maxLength": 64,
@@ -15914,17 +15921,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "56a47eaa161a6485969e7bf3049c8e074de1aef9",
-            "merge": "f4b6c07a aad4b320",
+            "commit": "472aa0740061d35add58a51929bf22b97ccad323",
+            "merge": "89f8a5ef 45dfabac",
             "author": "Simon Marsh",
-            "date": "Sun, 5 Jul 2020 09:58:11 +0000",
-            "subject": "Merge pull request 'Merge REDPANDANETWORK with master' (#14) from tyrasuki-20200704/register into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/56a47eaa161a6485969e7bf3049c8e074de1aef9",
-            "generated": "2020-07-05T12:27:49+00:00",
-            "valid": "2020-07-08T12:27:49+00:00"
+            "date": "Sun, 5 Jul 2020 18:59:19 +0000",
+            "subject": "Merge pull request 'changed e-mail address, added pgp key fingerprint' (#28) from Mebus/registry:master into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/472aa0740061d35add58a51929bf22b97ccad323",
+            "generated": "2020-07-06T23:55:01+00:00",
+            "valid": "2020-07-09T23:55:01+00:00"
         },
-        "counts": 2273,
-        "generated": 1593952069,
-        "valid": 1594211269
+        "counts": 2274,
+        "generated": 1594079701,
+        "valid": 1594338901
     }
 }

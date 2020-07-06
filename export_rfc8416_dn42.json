@@ -2290,6 +2290,13 @@
                 "mnt-by": "KNORRIE-MNT"
             },
             {
+                "asn": 4242423920,
+                "prefix": "fd42:4242:3920::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "KEBE-MNT"
+            },
+            {
                 "asn": 4242423991,
                 "prefix": "fd42:4242:4200::/40",
                 "maxPrefixLength": 64,

@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 56a47eaa161a6485969e7bf3049c8e074de1aef9
-Merge: f4b6c07a aad4b320
+commit 472aa0740061d35add58a51929bf22b97ccad323
+Merge: 89f8a5ef 45dfabac
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-05 09:58:11 +0000
+Date:   2020-07-05 18:59:19 +0000
 
-    Merge pull request 'Merge REDPANDANETWORK with master' (#14) from tyrasuki-20200704/register into master
+    Merge pull request 'changed e-mail address, added pgp key fingerprint' (#28) from Mebus/registry:master into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/14
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/28
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
@@ -42,10 +42,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1257
-- ROAs IPv6:  1016
-- ROAs total: 2273
+- ROAs IPv6:  1017
+- ROAs total: 2274
 
-[0]: https://git.dn42.us/dn42/registry/commit/56a47eaa161a6485969e7bf3049c8e074de1aef9
+[0]: https://git.dn42.us/dn42/registry/commit/472aa0740061d35add58a51929bf22b97ccad323
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
