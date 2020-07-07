@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 472aa0740061d35add58a51929bf22b97ccad323
-Merge: 89f8a5ef 45dfabac
+commit 0b905b4620bf5fe55944fe74098e777c81967337
+Merge: 1d3f3f7d b24cdf2c
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-05 18:59:19 +0000
+Date:   2020-07-07 17:06:24 +0000
 
-    Merge pull request 'changed e-mail address, added pgp key fingerprint' (#28) from Mebus/registry:master into master
+    Merge pull request 'Add gpg key' (#31) from sspreitzer-20200707/mntner-auth into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/28
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/31
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
@@ -41,11 +41,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1257
-- ROAs IPv6:  1017
-- ROAs total: 2274
+- ROAs IPv4:  1258
+- ROAs IPv6:  1018
+- ROAs total: 2276
 
-[0]: https://git.dn42.us/dn42/registry/commit/472aa0740061d35add58a51929bf22b97ccad323
+[0]: https://git.dn42.us/dn42/registry/commit/0b905b4620bf5fe55944fe74098e777c81967337
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

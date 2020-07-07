@@ -2906,6 +2906,13 @@
                 "mnt-by": "JOMAT-MNT"
             },
             {
+                "asn": 4242423395,
+                "prefix": "fd42:ca7:3395::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SHEBANG-MNT"
+            },
+            {
                 "asn": 4242423389,
                 "prefix": "fd42:cafe::/44",
                 "maxPrefixLength": 64,
@@ -11535,6 +11542,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "DIZZY-MNT"
+            },
+            {
+                "asn": 4242423395,
+                "prefix": "172.20.46.168/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SHEBANG-MNT"
             },
             {
                 "asn": 4242420990,

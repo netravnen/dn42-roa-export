@@ -2899,6 +2899,13 @@
             "mnt-by": "JOMAT-MNT"
         },
         {
+            "asn": "AS4242423395",
+            "prefix": "fd42:ca7:3395::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SHEBANG-MNT"
+        },
+        {
             "asn": "AS4242423389",
             "prefix": "fd42:cafe::/44",
             "maxLength": 64,
@@ -11530,6 +11537,13 @@
             "mnt-by": "DIZZY-MNT"
         },
         {
+            "asn": "AS4242423395",
+            "prefix": "172.20.46.168/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SHEBANG-MNT"
+        },
+        {
             "asn": "AS4242420990",
             "prefix": "172.20.46.192/27",
             "maxLength": 28,
@@ -15921,17 +15935,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "472aa0740061d35add58a51929bf22b97ccad323",
-            "merge": "89f8a5ef 45dfabac",
+            "commit": "0b905b4620bf5fe55944fe74098e777c81967337",
+            "merge": "1d3f3f7d b24cdf2c",
             "author": "Simon Marsh",
-            "date": "Sun, 5 Jul 2020 18:59:19 +0000",
-            "subject": "Merge pull request 'changed e-mail address, added pgp key fingerprint' (#28) from Mebus/registry:master into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/472aa0740061d35add58a51929bf22b97ccad323",
-            "generated": "2020-07-06T23:55:01+00:00",
-            "valid": "2020-07-09T23:55:01+00:00"
+            "date": "Tue, 7 Jul 2020 17:06:24 +0000",
+            "subject": "Merge pull request 'Add gpg key' (#31) from sspreitzer-20200707/mntner-auth into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0b905b4620bf5fe55944fe74098e777c81967337",
+            "generated": "2020-07-07T17:56:37+00:00",
+            "valid": "2020-07-10T17:56:37+00:00"
         },
-        "counts": 2274,
-        "generated": 1594079701,
-        "valid": 1594338901
+        "counts": 2276,
+        "generated": 1594144597,
+        "valid": 1594403797
     }
 }
