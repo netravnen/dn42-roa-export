@@ -15941,11 +15941,11 @@
             "date": "Tue, 7 Jul 2020 17:06:24 +0000",
             "subject": "Merge pull request 'Add gpg key' (#31) from sspreitzer-20200707/mntner-auth into master",
             "url": "https://git.dn42.us/dn42/registry/commit/0b905b4620bf5fe55944fe74098e777c81967337",
-            "generated": "2020-07-07T19:09:30+00:00",
-            "valid": "2020-07-10T19:09:30+00:00"
+            "generated": "2020-07-08T05:09:31+00:00",
+            "valid": "2020-07-11T05:09:31+00:00"
         },
         "counts": 2276,
-        "generated": 1594148970,
-        "valid": 1594408170
+        "generated": 1594184971,
+        "valid": 1594444171
     }
 }
