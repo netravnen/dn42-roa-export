@@ -1828,13 +1828,6 @@
                 "mnt-by": "CLEMENTPRIMOT-MNT"
             },
             {
-                "asn": 4242422092,
-                "prefix": "fd42:2092:2092::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "P3BK4C-MNT"
-            },
-            {
                 "asn": 4242423723,
                 "prefix": "fd42:20:50::/48",
                 "maxPrefixLength": 64,
@@ -3891,6 +3884,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
+            },
+            {
+                "asn": 4242422092,
+                "prefix": "fd63:672f:38e7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "P3BK4C-MNT"
             },
             {
                 "asn": 4242420316,
@@ -6495,6 +6495,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ARITE-MNT"
+            },
+            {
+                "asn": 4242420225,
+                "prefix": "fded:8ea7:f687::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HEXXNET-MNT"
             },
             {
                 "asn": 4242420565,
@@ -13320,6 +13327,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PESCO-MNT"
+            },
+            {
+                "asn": 4242420225,
+                "prefix": "172.22.128.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HEXXNET-MNT"
             },
             {
                 "asn": 4242420553,

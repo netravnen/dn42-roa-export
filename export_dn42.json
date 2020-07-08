@@ -1821,13 +1821,6 @@
             "mnt-by": "CLEMENTPRIMOT-MNT"
         },
         {
-            "asn": "AS4242422092",
-            "prefix": "fd42:2092:2092::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "P3BK4C-MNT"
-        },
-        {
             "asn": "AS4242423723",
             "prefix": "fd42:20:50::/48",
             "maxLength": 64,
@@ -3884,6 +3877,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "DUMMY-MNT"
+        },
+        {
+            "asn": "AS4242422092",
+            "prefix": "fd63:672f:38e7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "P3BK4C-MNT"
         },
         {
             "asn": "AS4242420316",
@@ -6488,6 +6488,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "ARITE-MNT"
+        },
+        {
+            "asn": "AS4242420225",
+            "prefix": "fded:8ea7:f687::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HEXXNET-MNT"
         },
         {
             "asn": "AS4242420565",
@@ -13315,6 +13322,13 @@
             "mnt-by": "PESCO-MNT"
         },
         {
+            "asn": "AS4242420225",
+            "prefix": "172.22.128.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HEXXNET-MNT"
+        },
+        {
             "asn": "AS4242420553",
             "prefix": "172.22.128.64/28",
             "maxLength": 28,
@@ -15935,17 +15949,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "0b905b4620bf5fe55944fe74098e777c81967337",
-            "merge": "1d3f3f7d b24cdf2c",
+            "commit": "0991b0673276d4daca7504ac8ff10bda600d96f4",
+            "merge": "e8e602cf 5f529828",
             "author": "Simon Marsh",
-            "date": "Tue, 7 Jul 2020 17:06:24 +0000",
-            "subject": "Merge pull request 'Add gpg key' (#31) from sspreitzer-20200707/mntner-auth into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/0b905b4620bf5fe55944fe74098e777c81967337",
-            "generated": "2020-07-08T11:09:27+00:00",
-            "valid": "2020-07-11T11:09:27+00:00"
+            "date": "Wed, 8 Jul 2020 17:47:24 +0000",
+            "subject": "Merge pull request 'Added AS4242420225' (#30) from sarada-20200705/Added_AS4242420225 into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/0991b0673276d4daca7504ac8ff10bda600d96f4",
+            "generated": "2020-07-08T19:09:37+00:00",
+            "valid": "2020-07-11T19:09:37+00:00"
         },
-        "counts": 2276,
-        "generated": 1594206567,
-        "valid": 1594465767
+        "counts": 2278,
+        "generated": 1594235377,
+        "valid": 1594494577
     }
 }
