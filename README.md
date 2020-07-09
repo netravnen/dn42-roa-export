@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 0991b0673276d4daca7504ac8ff10bda600d96f4
-Merge: e8e602cf 5f529828
+commit 630665b76405283c2fd84f994b3dde35bbe4cbb6
+Merge: d4b7db3a 52f6afc6
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-08 17:47:24 +0000
+Date:   2020-07-09 08:11:28 +0000
 
-    Merge pull request 'Added AS4242420225' (#30) from sarada-20200705/Added_AS4242420225 into master
+    Merge pull request 'Allocate IPv4 subnet for AS213021' (#34) from samip537-20200709/allocate-v4-block into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/30
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/34
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
@@ -41,11 +41,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1259
-- ROAs IPv6:  1019
-- ROAs total: 2278
+- ROAs IPv4:  1260
+- ROAs IPv6:  1020
+- ROAs total: 2280
 
-[0]: https://git.dn42.us/dn42/registry/commit/0991b0673276d4daca7504ac8ff10bda600d96f4
+[0]: https://git.dn42.us/dn42/registry/commit/630665b76405283c2fd84f994b3dde35bbe4cbb6
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

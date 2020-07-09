@@ -3984,6 +3984,13 @@
                 "mnt-by": "DCVOIP-MNT"
             },
             {
+                "asn": 4242421691,
+                "prefix": "fd69:1691:1691::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MCD1992-MNT"
+            },
+            {
                 "asn": 4242423510,
                 "prefix": "fd69:3053:a295::/48",
                 "maxPrefixLength": 64,
@@ -13103,6 +13110,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JCAHILL-MNT"
+            },
+            {
+                "asn": 213021,
+                "prefix": "172.22.114.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SM-MNT"
             },
             {
                 "asn": 4242421256,
