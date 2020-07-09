@@ -15955,11 +15955,11 @@
             "date": "Wed, 8 Jul 2020 17:47:24 +0000",
             "subject": "Merge pull request 'Added AS4242420225' (#30) from sarada-20200705/Added_AS4242420225 into master",
             "url": "https://git.dn42.us/dn42/registry/commit/0991b0673276d4daca7504ac8ff10bda600d96f4",
-            "generated": "2020-07-08T19:09:37+00:00",
-            "valid": "2020-07-11T19:09:37+00:00"
+            "generated": "2020-07-09T05:09:30+00:00",
+            "valid": "2020-07-12T05:09:30+00:00"
         },
         "counts": 2278,
-        "generated": 1594235377,
-        "valid": 1594494577
+        "generated": 1594271370,
+        "valid": 1594530570
     }
 }
