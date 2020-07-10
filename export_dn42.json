@@ -1828,6 +1828,13 @@
             "mnt-by": "KRSTN-MNT"
         },
         {
+            "asn": "AS4242422995",
+            "prefix": "fd42:212:995::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TAN-MNT"
+        },
+        {
             "asn": "AS4242422107",
             "prefix": "fd42:21:7::/48",
             "maxLength": 64,
@@ -2246,13 +2253,6 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "CYBERTINUS-MNT"
-        },
-        {
-            "asn": "AS4242422990",
-            "prefix": "fd42:4242:2990::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "TAN-MNT"
         },
         {
             "asn": "AS4242423369",
@@ -13252,7 +13252,7 @@
             "mnt-by": "MCBROWN-MNT"
         },
         {
-            "asn": "AS4242422990",
+            "asn": "AS4242422995",
             "prefix": "172.22.122.96/27",
             "maxLength": 28,
             "ta": "DN42",
@@ -15963,17 +15963,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "9b8af0847a44f827e38b93e9d95aa626c2a5f308",
-            "merge": "630665b7 5d11e0bf",
-            "author": "Simon Marsh",
-            "date": "Fri, 10 Jul 2020 08:07:36 +0000",
-            "subject": "Merge pull request 'Cleanup up of welterde resources' (#37) from welterde-20200709/cleanup into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/9b8af0847a44f827e38b93e9d95aa626c2a5f308",
-            "generated": "2020-07-10T11:09:33+00:00",
-            "valid": "2020-07-13T11:09:33+00:00"
+            "commit": "c67cfdc06e932123adb722845235cf6b98ed8bfc",
+            "merge": "9b8af084 63c4a92a",
+            "author": "jrb0001",
+            "date": "Fri, 10 Jul 2020 14:45:39 +0000",
+            "subject": "Merge pull request 'Changed ASN from 424242990 to 424242995.' (#36) from hw-20200709/change-asn into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/c67cfdc06e932123adb722845235cf6b98ed8bfc",
+            "generated": "2020-07-10T19:09:34+00:00",
+            "valid": "2020-07-13T19:09:34+00:00"
         },
         "counts": 2280,
-        "generated": 1594379373,
-        "valid": 1594638573
+        "generated": 1594408174,
+        "valid": 1594667374
     }
 }
