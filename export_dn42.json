@@ -15963,17 +15963,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "630665b76405283c2fd84f994b3dde35bbe4cbb6",
-            "merge": "d4b7db3a 52f6afc6",
+            "commit": "9b8af0847a44f827e38b93e9d95aa626c2a5f308",
+            "merge": "630665b7 5d11e0bf",
             "author": "Simon Marsh",
-            "date": "Thu, 9 Jul 2020 08:11:28 +0000",
-            "subject": "Merge pull request 'Allocate IPv4 subnet for AS213021' (#34) from samip537-20200709/allocate-v4-block into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/630665b76405283c2fd84f994b3dde35bbe4cbb6",
-            "generated": "2020-07-10T05:09:34+00:00",
-            "valid": "2020-07-13T05:09:34+00:00"
+            "date": "Fri, 10 Jul 2020 08:07:36 +0000",
+            "subject": "Merge pull request 'Cleanup up of welterde resources' (#37) from welterde-20200709/cleanup into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/9b8af0847a44f827e38b93e9d95aa626c2a5f308",
+            "generated": "2020-07-10T11:09:33+00:00",
+            "valid": "2020-07-13T11:09:33+00:00"
         },
         "counts": 2280,
-        "generated": 1594357774,
-        "valid": 1594616974
+        "generated": 1594379373,
+        "valid": 1594638573
     }
 }
