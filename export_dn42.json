@@ -15969,11 +15969,11 @@
             "date": "Fri, 10 Jul 2020 14:45:39 +0000",
             "subject": "Merge pull request 'Changed ASN from 424242990 to 424242995.' (#36) from hw-20200709/change-asn into master",
             "url": "https://git.dn42.us/dn42/registry/commit/c67cfdc06e932123adb722845235cf6b98ed8bfc",
-            "generated": "2020-07-11T05:09:32+00:00",
-            "valid": "2020-07-14T05:09:32+00:00"
+            "generated": "2020-07-11T11:09:27+00:00",
+            "valid": "2020-07-14T11:09:27+00:00"
         },
         "counts": 2280,
-        "generated": 1594444172,
-        "valid": 1594703372
+        "generated": 1594465767,
+        "valid": 1594724967
     }
 }
