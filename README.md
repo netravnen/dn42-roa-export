@@ -20,15 +20,16 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit f1ee23f13221bd4664d2700826123823e23f08fc
-Merge: b0faf982 8fcb29b3
-Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-11 23:11:09 +0000
+commit d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2
+Merge: f1ee23f1 b731039b
+Author: jrb0001
+Date:   2020-07-12 07:42:51 +0000
 
-    Merge pull request 'Update contact details' (#40) from liangjw/registry:master into master
+    Merge pull request 'registered hosting.dn42' (#41) from Mebus/registry:master into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/40
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/41
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
+    Reviewed-by: jrb0001 <jrb0001@noreply.dn42.us>
 ```
 
 ## crontab
@@ -45,7 +46,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1020
 - ROAs total: 2281
 
-[0]: https://git.dn42.us/dn42/registry/commit/f1ee23f13221bd4664d2700826123823e23f08fc
+[0]: https://git.dn42.us/dn42/registry/commit/d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

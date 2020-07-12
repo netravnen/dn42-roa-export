@@ -15970,17 +15970,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "f1ee23f13221bd4664d2700826123823e23f08fc",
-            "merge": "b0faf982 8fcb29b3",
-            "author": "Simon Marsh",
-            "date": "Sat, 11 Jul 2020 23:11:09 +0000",
-            "subject": "Merge pull request 'Update contact details' (#40) from liangjw/registry:master into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/f1ee23f13221bd4664d2700826123823e23f08fc",
-            "generated": "2020-07-12T05:09:39+00:00",
-            "valid": "2020-07-15T05:09:39+00:00"
+            "commit": "d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2",
+            "merge": "f1ee23f1 b731039b",
+            "author": "jrb0001",
+            "date": "Sun, 12 Jul 2020 07:42:51 +0000",
+            "subject": "Merge pull request 'registered hosting.dn42' (#41) from Mebus/registry:master into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2",
+            "generated": "2020-07-12T11:09:38+00:00",
+            "valid": "2020-07-15T11:09:38+00:00"
         },
         "counts": 2281,
-        "generated": 1594530579,
-        "valid": 1594789779
+        "generated": 1594552178,
+        "valid": 1594811378
     }
 }
