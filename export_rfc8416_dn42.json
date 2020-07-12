@@ -9717,6 +9717,13 @@
                 "mnt-by": "ZYRADYL-MNT"
             },
             {
+                "asn": 4242420112,
+                "prefix": "172.20.165.128/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MEBUS-MNT"
+            },
+            {
                 "asn": 4242421848,
                 "prefix": "172.20.165.16/28",
                 "maxPrefixLength": 28,

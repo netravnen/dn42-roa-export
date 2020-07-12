@@ -9710,6 +9710,13 @@
             "mnt-by": "ZYRADYL-MNT"
         },
         {
+            "asn": "AS4242420112",
+            "prefix": "172.20.165.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MEBUS-MNT"
+        },
+        {
             "asn": "AS4242421848",
             "prefix": "172.20.165.16/28",
             "maxLength": 28,
@@ -15963,17 +15970,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "c67cfdc06e932123adb722845235cf6b98ed8bfc",
-            "merge": "9b8af084 63c4a92a",
-            "author": "jrb0001",
-            "date": "Fri, 10 Jul 2020 14:45:39 +0000",
-            "subject": "Merge pull request 'Changed ASN from 424242990 to 424242995.' (#36) from hw-20200709/change-asn into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/c67cfdc06e932123adb722845235cf6b98ed8bfc",
-            "generated": "2020-07-11T19:09:32+00:00",
-            "valid": "2020-07-14T19:09:32+00:00"
+            "commit": "f1ee23f13221bd4664d2700826123823e23f08fc",
+            "merge": "b0faf982 8fcb29b3",
+            "author": "Simon Marsh",
+            "date": "Sat, 11 Jul 2020 23:11:09 +0000",
+            "subject": "Merge pull request 'Update contact details' (#40) from liangjw/registry:master into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f1ee23f13221bd4664d2700826123823e23f08fc",
+            "generated": "2020-07-12T05:09:39+00:00",
+            "valid": "2020-07-15T05:09:39+00:00"
         },
-        "counts": 2280,
-        "generated": 1594494572,
-        "valid": 1594753772
+        "counts": 2281,
+        "generated": 1594530579,
+        "valid": 1594789779
     }
 }
