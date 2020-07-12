@@ -15970,17 +15970,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2",
-            "merge": "f1ee23f1 b731039b",
+            "commit": "4fba115838a384a38e8d0ab910d4a10539b0189c",
+            "merge": "d5d945e6 44dbda8d",
             "author": "jrb0001",
-            "date": "Sun, 12 Jul 2020 07:42:51 +0000",
-            "subject": "Merge pull request 'registered hosting.dn42' (#41) from Mebus/registry:master into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2",
-            "generated": "2020-07-12T11:09:38+00:00",
-            "valid": "2020-07-15T11:09:38+00:00"
+            "date": "Sun, 12 Jul 2020 17:12:17 +0000",
+            "subject": "Merge pull request 'Zhihuiyuze add nameserver update email' (#42) from zhihuiyuze/registry:master into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/4fba115838a384a38e8d0ab910d4a10539b0189c",
+            "generated": "2020-07-12T19:09:39+00:00",
+            "valid": "2020-07-15T19:09:39+00:00"
         },
         "counts": 2281,
-        "generated": 1594552178,
-        "valid": 1594811378
+        "generated": 1594580979,
+        "valid": 1594840179
     }
 }

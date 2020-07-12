@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2
-Merge: f1ee23f1 b731039b
+commit 4fba115838a384a38e8d0ab910d4a10539b0189c
+Merge: d5d945e6 44dbda8d
 Author: jrb0001
-Date:   2020-07-12 07:42:51 +0000
+Date:   2020-07-12 17:12:17 +0000
 
-    Merge pull request 'registered hosting.dn42' (#41) from Mebus/registry:master into master
+    Merge pull request 'Zhihuiyuze add nameserver update email' (#42) from zhihuiyuze/registry:master into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/41
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/42
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
     Reviewed-by: jrb0001 <jrb0001@noreply.dn42.us>
 ```
@@ -46,7 +46,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1020
 - ROAs total: 2281
 
-[0]: https://git.dn42.us/dn42/registry/commit/d5d945e6482c03ceb2742d0bff4bbb6906bc6bb2
+[0]: https://git.dn42.us/dn42/registry/commit/4fba115838a384a38e8d0ab910d4a10539b0189c
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
