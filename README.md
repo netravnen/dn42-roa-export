@@ -20,16 +20,15 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 4fba115838a384a38e8d0ab910d4a10539b0189c
-Merge: d5d945e6 44dbda8d
-Author: jrb0001
-Date:   2020-07-12 17:12:17 +0000
+commit 50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd
+Merge: e830b6ea 10efe36a
+Author: Simon Marsh <burble@noreply.dn42.us>
+Date:   2020-07-14 11:57:06 +0000
 
-    Merge pull request 'Zhihuiyuze add nameserver update email' (#42) from zhihuiyuze/registry:master into master
+    Merge pull request 'Add auth PGP key and update contact info' (#47) from WallE256-20200714/update-info into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/42
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/47
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
-    Reviewed-by: jrb0001 <jrb0001@noreply.dn42.us>
 ```
 
 ## crontab
@@ -46,7 +45,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1020
 - ROAs total: 2281
 
-[0]: https://git.dn42.us/dn42/registry/commit/4fba115838a384a38e8d0ab910d4a10539b0189c
+[0]: https://git.dn42.us/dn42/registry/commit/50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -7527,7 +7527,7 @@
         },
         {
             "asn": "AS4201270009",
-            "prefix": "10.127.69.0/29",
+            "prefix": "10.127.69.0/27",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -15970,17 +15970,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "4fba115838a384a38e8d0ab910d4a10539b0189c",
-            "merge": "d5d945e6 44dbda8d",
-            "author": "jrb0001",
-            "date": "Sun, 12 Jul 2020 17:12:17 +0000",
-            "subject": "Merge pull request 'Zhihuiyuze add nameserver update email' (#42) from zhihuiyuze/registry:master into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/4fba115838a384a38e8d0ab910d4a10539b0189c",
-            "generated": "2020-07-13T11:09:28+00:00",
-            "valid": "2020-07-16T11:09:28+00:00"
+            "commit": "50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd",
+            "merge": "e830b6ea 10efe36a",
+            "author": "Simon Marsh",
+            "date": "Tue, 14 Jul 2020 11:57:06 +0000",
+            "subject": "Merge pull request 'Add auth PGP key and update contact info' (#47) from WallE256-20200714/update-info into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd",
+            "generated": "2020-07-14T14:24:10+00:00",
+            "valid": "2020-07-17T14:24:10+00:00"
         },
         "counts": 2281,
-        "generated": 1594638568,
-        "valid": 1594897768
+        "generated": 1594736650,
+        "valid": 1594995850
     }
 }
