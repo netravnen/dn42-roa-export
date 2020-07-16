@@ -15990,11 +15990,11 @@
             "date": "Wed, 15 Jul 2020 19:28:35 +0000",
             "subject": "Merge pull request 'Moving to public ASN' (#50) from hertz/registry:hertz-20200715/moving-to-pub-asn into master",
             "url": "https://git.dn42.us/dn42/registry/commit/e93239341d075ec3f295a38e2b483dc5b2cec9b9",
-            "generated": "2020-07-16T00:10:21+00:00",
-            "valid": "2020-07-19T00:10:21+00:00"
+            "generated": "2020-07-16T05:09:27+00:00",
+            "valid": "2020-07-19T05:09:27+00:00"
         },
         "counts": 2283,
-        "generated": 1594858221,
-        "valid": 1595117421
+        "generated": 1594876167,
+        "valid": 1595135367
     }
 }
