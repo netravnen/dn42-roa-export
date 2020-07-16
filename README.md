@@ -20,14 +20,15 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit e93239341d075ec3f295a38e2b483dc5b2cec9b9
-Merge: e668d79b 809f7c00
+commit 1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68
+Merge: 3deb8c32 55836c82
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-15 19:28:35 +0000
+Date:   2020-07-16 10:12:15 +0000
 
-    Merge pull request 'Moving to public ASN' (#50) from hertz/registry:hertz-20200715/moving-to-pub-asn into master
+    Merge pull request 'Adding SHA256 pin remark for CA' (#53) from somone77-20200716/ca-pin into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/50
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/53
+    Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
 ## crontab
@@ -44,7 +45,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1021
 - ROAs total: 2283
 
-[0]: https://git.dn42.us/dn42/registry/commit/e93239341d075ec3f295a38e2b483dc5b2cec9b9
+[0]: https://git.dn42.us/dn42/registry/commit/1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -15984,17 +15984,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "e93239341d075ec3f295a38e2b483dc5b2cec9b9",
-            "merge": "e668d79b 809f7c00",
+            "commit": "1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68",
+            "merge": "3deb8c32 55836c82",
             "author": "Simon Marsh",
-            "date": "Wed, 15 Jul 2020 19:28:35 +0000",
-            "subject": "Merge pull request 'Moving to public ASN' (#50) from hertz/registry:hertz-20200715/moving-to-pub-asn into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e93239341d075ec3f295a38e2b483dc5b2cec9b9",
-            "generated": "2020-07-16T05:09:27+00:00",
-            "valid": "2020-07-19T05:09:27+00:00"
+            "date": "Thu, 16 Jul 2020 10:12:15 +0000",
+            "subject": "Merge pull request 'Adding SHA256 pin remark for CA' (#53) from somone77-20200716/ca-pin into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68",
+            "generated": "2020-07-16T11:09:34+00:00",
+            "valid": "2020-07-19T11:09:34+00:00"
         },
         "counts": 2283,
-        "generated": 1594876167,
-        "valid": 1595135367
+        "generated": 1594897774,
+        "valid": 1595156974
     }
 }
