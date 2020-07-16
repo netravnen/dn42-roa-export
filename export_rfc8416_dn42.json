@@ -2248,13 +2248,6 @@
                 "mnt-by": "BURBLE-MNT"
             },
             {
-                "asn": 4242422660,
-                "prefix": "fd42:4242:2660::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "HERTZ-MNT"
-            },
-            {
                 "asn": 4242422707,
                 "prefix": "fd42:4242:2707::/48",
                 "maxPrefixLength": 64,
@@ -3702,6 +3695,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 135395,
+                "prefix": "fd5a:2663:7b48::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HERTZ-MNT"
             },
             {
                 "asn": 4242423321,
@@ -6497,6 +6497,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420977,
+                "prefix": "fdec:c6a:4002::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ARNIE97-MNT"
+            },
+            {
                 "asn": 4242421939,
                 "prefix": "fded:727b:6c7a::/48",
                 "maxPrefixLength": 64,
@@ -8749,6 +8756,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "COMPUGLOBAL-MNT"
+            },
+            {
+                "asn": 4242420977,
+                "prefix": "172.20.128.192/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ARNIE97-MNT"
             },
             {
                 "asn": 4242422935,
@@ -11243,7 +11257,7 @@
                 "mnt-by": "CARLOTRONICS-MNT"
             },
             {
-                "asn": 4242422660,
+                "asn": 135395,
                 "prefix": "172.20.29.64/28",
                 "maxPrefixLength": 28,
                 "source": "DN42",

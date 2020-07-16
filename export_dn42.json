@@ -2241,13 +2241,6 @@
             "mnt-by": "BURBLE-MNT"
         },
         {
-            "asn": "AS4242422660",
-            "prefix": "fd42:4242:2660::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "HERTZ-MNT"
-        },
-        {
             "asn": "AS4242422707",
             "prefix": "fd42:4242:2707::/48",
             "maxLength": 64,
@@ -3695,6 +3688,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS135395",
+            "prefix": "fd5a:2663:7b48::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HERTZ-MNT"
         },
         {
             "asn": "AS4242423321",
@@ -6490,6 +6490,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420977",
+            "prefix": "fdec:c6a:4002::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ARNIE97-MNT"
+        },
+        {
             "asn": "AS4242421939",
             "prefix": "fded:727b:6c7a::/48",
             "maxLength": 64,
@@ -8742,6 +8749,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "COMPUGLOBAL-MNT"
+        },
+        {
+            "asn": "AS4242420977",
+            "prefix": "172.20.128.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ARNIE97-MNT"
         },
         {
             "asn": "AS4242422935",
@@ -11236,7 +11250,7 @@
             "mnt-by": "CARLOTRONICS-MNT"
         },
         {
-            "asn": "AS4242422660",
+            "asn": "AS135395",
             "prefix": "172.20.29.64/28",
             "maxLength": 28,
             "ta": "DN42",
@@ -15970,17 +15984,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd",
-            "merge": "e830b6ea 10efe36a",
+            "commit": "e93239341d075ec3f295a38e2b483dc5b2cec9b9",
+            "merge": "e668d79b 809f7c00",
             "author": "Simon Marsh",
-            "date": "Tue, 14 Jul 2020 11:57:06 +0000",
-            "subject": "Merge pull request 'Add auth PGP key and update contact info' (#47) from WallE256-20200714/update-info into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd",
-            "generated": "2020-07-14T14:24:10+00:00",
-            "valid": "2020-07-17T14:24:10+00:00"
+            "date": "Wed, 15 Jul 2020 19:28:35 +0000",
+            "subject": "Merge pull request 'Moving to public ASN' (#50) from hertz/registry:hertz-20200715/moving-to-pub-asn into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e93239341d075ec3f295a38e2b483dc5b2cec9b9",
+            "generated": "2020-07-16T00:10:21+00:00",
+            "valid": "2020-07-19T00:10:21+00:00"
         },
-        "counts": 2281,
-        "generated": 1594736650,
-        "valid": 1594995850
+        "counts": 2283,
+        "generated": 1594858221,
+        "valid": 1595117421
     }
 }

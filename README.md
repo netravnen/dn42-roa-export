@@ -20,15 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd
-Merge: e830b6ea 10efe36a
+commit e93239341d075ec3f295a38e2b483dc5b2cec9b9
+Merge: e668d79b 809f7c00
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-14 11:57:06 +0000
+Date:   2020-07-15 19:28:35 +0000
 
-    Merge pull request 'Add auth PGP key and update contact info' (#47) from WallE256-20200714/update-info into master
+    Merge pull request 'Moving to public ASN' (#50) from hertz/registry:hertz-20200715/moving-to-pub-asn into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/47
-    Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/50
 ```
 
 ## crontab
@@ -41,11 +40,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1261
-- ROAs IPv6:  1020
-- ROAs total: 2281
+- ROAs IPv4:  1262
+- ROAs IPv6:  1021
+- ROAs total: 2283
 
-[0]: https://git.dn42.us/dn42/registry/commit/50f7ebf9b8791c22c209d9efd0ec13e1fa84b2bd
+[0]: https://git.dn42.us/dn42/registry/commit/e93239341d075ec3f295a38e2b483dc5b2cec9b9
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
