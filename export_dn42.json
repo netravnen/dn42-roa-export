@@ -15990,11 +15990,11 @@
             "date": "Thu, 16 Jul 2020 10:12:15 +0000",
             "subject": "Merge pull request 'Adding SHA256 pin remark for CA' (#53) from somone77-20200716/ca-pin into master",
             "url": "https://git.dn42.us/dn42/registry/commit/1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68",
-            "generated": "2020-07-16T19:09:33+00:00",
-            "valid": "2020-07-19T19:09:33+00:00"
+            "generated": "2020-07-17T05:09:33+00:00",
+            "valid": "2020-07-20T05:09:33+00:00"
         },
         "counts": 2283,
-        "generated": 1594926573,
-        "valid": 1595185773
+        "generated": 1594962573,
+        "valid": 1595221773
     }
 }
