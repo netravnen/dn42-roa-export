@@ -673,6 +673,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4201270017",
+            "prefix": "fd10:127:234::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270014",
             "prefix": "fd10:127:23::/48",
             "maxLength": 64,
@@ -7437,6 +7444,13 @@
         {
             "asn": "AS4201270005",
             "prefix": "10.127.233.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270017",
+            "prefix": "10.127.234.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -15984,17 +15998,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68",
-            "merge": "3deb8c32 55836c82",
+            "commit": "3a7ca794813b3dbdd3c435d95875a7d9c60bd30b",
+            "merge": "d0beb3d3 a63ac1c6",
             "author": "Simon Marsh",
-            "date": "Thu, 16 Jul 2020 10:12:15 +0000",
-            "subject": "Merge pull request 'Adding SHA256 pin remark for CA' (#53) from somone77-20200716/ca-pin into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68",
-            "generated": "2020-07-18T11:14:44+00:00",
-            "valid": "2020-07-21T11:14:44+00:00"
+            "date": "Sat, 18 Jul 2020 18:14:34 +0000",
+            "subject": "Merge pull request 'Updated AS4242421050:AS-TRANSIT' (#54) from Napsterbater-20200716/as-set into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/3a7ca794813b3dbdd3c435d95875a7d9c60bd30b",
+            "generated": "2020-07-18T19:09:43+00:00",
+            "valid": "2020-07-21T19:09:43+00:00"
         },
-        "counts": 2283,
-        "generated": 1595070884,
-        "valid": 1595330084
+        "counts": 2285,
+        "generated": 1595099383,
+        "valid": 1595358583
     }
 }

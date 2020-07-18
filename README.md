@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68
-Merge: 3deb8c32 55836c82
+commit 3a7ca794813b3dbdd3c435d95875a7d9c60bd30b
+Merge: d0beb3d3 a63ac1c6
 Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-16 10:12:15 +0000
+Date:   2020-07-18 18:14:34 +0000
 
-    Merge pull request 'Adding SHA256 pin remark for CA' (#53) from somone77-20200716/ca-pin into master
+    Merge pull request 'Updated AS4242421050:AS-TRANSIT' (#54) from Napsterbater-20200716/as-set into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/53
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/54
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
@@ -41,11 +41,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1262
-- ROAs IPv6:  1021
-- ROAs total: 2283
+- ROAs IPv4:  1263
+- ROAs IPv6:  1022
+- ROAs total: 2285
 
-[0]: https://git.dn42.us/dn42/registry/commit/1d5884c4f6b1e0ffa8cf1754f636d0ca004f7a68
+[0]: https://git.dn42.us/dn42/registry/commit/3a7ca794813b3dbdd3c435d95875a7d9c60bd30b
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
