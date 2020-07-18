@@ -7555,7 +7555,7 @@
             },
             {
                 "asn": 4201270007,
-                "prefix": "10.127.8.184/29",
+                "prefix": "10.127.8.160/27",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
