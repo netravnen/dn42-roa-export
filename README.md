@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit d31c987488c8e9333cc78b7aa8b2b3fec4beacad
-Merge: a6863db1 01d3541b
-Author: Xuu
-Date:   2020-07-19 00:58:52 +0000
+commit 7f6c418f5bd3a73784accaf960610e42e5f189b8
+Merge: d31c9874 06d5676f
+Author: Simon Marsh <burble@noreply.dn42.us>
+Date:   2020-07-19 13:07:36 +0000
 
-    Merge pull request 'delete items removed from project' (#55) from xuu-20200716/remove-rspl into master
+    Merge pull request 'New prefix for services hosted by bitbakers.' (#58) from jastrup-20200719/new-v4-object into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/55
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/58
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
@@ -41,11 +41,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1264
+- ROAs IPv4:  1265
 - ROAs IPv6:  1023
-- ROAs total: 2287
+- ROAs total: 2288
 
-[0]: https://git.dn42.us/dn42/registry/commit/d31c987488c8e9333cc78b7aa8b2b3fec4beacad
+[0]: https://git.dn42.us/dn42/registry/commit/7f6c418f5bd3a73784accaf960610e42e5f189b8
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

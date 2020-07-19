@@ -12475,6 +12475,13 @@
                 "mnt-by": "MITSUHA-MNT"
             },
             {
+                "asn": 4242421224,
+                "prefix": "172.21.66.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BITBAKERS-MNT"
+            },
+            {
                 "asn": 4242421119,
                 "prefix": "172.21.66.32/27",
                 "maxPrefixLength": 28,

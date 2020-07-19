@@ -12468,6 +12468,13 @@
             "mnt-by": "MITSUHA-MNT"
         },
         {
+            "asn": "AS4242421224",
+            "prefix": "172.21.66.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BITBAKERS-MNT"
+        },
+        {
             "asn": "AS4242421119",
             "prefix": "172.21.66.32/27",
             "maxLength": 28,
@@ -16012,17 +16019,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "d31c987488c8e9333cc78b7aa8b2b3fec4beacad",
-            "merge": "a6863db1 01d3541b",
-            "author": "Xuu",
-            "date": "Sun, 19 Jul 2020 00:58:52 +0000",
-            "subject": "Merge pull request 'delete items removed from project' (#55) from xuu-20200716/remove-rspl into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/d31c987488c8e9333cc78b7aa8b2b3fec4beacad",
-            "generated": "2020-07-19T11:09:26+00:00",
-            "valid": "2020-07-22T11:09:26+00:00"
+            "commit": "7f6c418f5bd3a73784accaf960610e42e5f189b8",
+            "merge": "d31c9874 06d5676f",
+            "author": "Simon Marsh",
+            "date": "Sun, 19 Jul 2020 13:07:36 +0000",
+            "subject": "Merge pull request 'New prefix for services hosted by bitbakers.' (#58) from jastrup-20200719/new-v4-object into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/7f6c418f5bd3a73784accaf960610e42e5f189b8",
+            "generated": "2020-07-19T19:09:32+00:00",
+            "valid": "2020-07-22T19:09:32+00:00"
         },
-        "counts": 2287,
-        "generated": 1595156966,
-        "valid": 1595416166
+        "counts": 2288,
+        "generated": 1595185772,
+        "valid": 1595444972
     }
 }
