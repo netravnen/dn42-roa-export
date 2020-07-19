@@ -20,14 +20,14 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 3a7ca794813b3dbdd3c435d95875a7d9c60bd30b
-Merge: d0beb3d3 a63ac1c6
-Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-18 18:14:34 +0000
+commit d31c987488c8e9333cc78b7aa8b2b3fec4beacad
+Merge: a6863db1 01d3541b
+Author: Xuu
+Date:   2020-07-19 00:58:52 +0000
 
-    Merge pull request 'Updated AS4242421050:AS-TRANSIT' (#54) from Napsterbater-20200716/as-set into master
+    Merge pull request 'delete items removed from project' (#55) from xuu-20200716/remove-rspl into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/54
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/55
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
@@ -41,11 +41,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1263
-- ROAs IPv6:  1022
-- ROAs total: 2285
+- ROAs IPv4:  1264
+- ROAs IPv6:  1023
+- ROAs total: 2287
 
-[0]: https://git.dn42.us/dn42/registry/commit/3a7ca794813b3dbdd3c435d95875a7d9c60bd30b
+[0]: https://git.dn42.us/dn42/registry/commit/d31c987488c8e9333cc78b7aa8b2b3fec4beacad
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

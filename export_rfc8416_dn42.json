@@ -2171,6 +2171,13 @@
                 "mnt-by": "WHS-MNT"
             },
             {
+                "asn": 4242421907,
+                "prefix": "fd42:4242:1907::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MRGHOSH-MNT"
+            },
+            {
                 "asn": 4242421921,
                 "prefix": "fd42:4242:1921::/48",
                 "maxPrefixLength": 64,
@@ -15434,6 +15441,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CODEHACK-MNT"
+            },
+            {
+                "asn": 4242421907,
+                "prefix": "172.23.222.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MRGHOSH-MNT"
             },
             {
                 "asn": 4242422027,

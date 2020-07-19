@@ -2164,6 +2164,13 @@
             "mnt-by": "WHS-MNT"
         },
         {
+            "asn": "AS4242421907",
+            "prefix": "fd42:4242:1907::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MRGHOSH-MNT"
+        },
+        {
             "asn": "AS4242421921",
             "prefix": "fd42:4242:1921::/48",
             "maxLength": 64,
@@ -15429,6 +15436,13 @@
             "mnt-by": "CODEHACK-MNT"
         },
         {
+            "asn": "AS4242421907",
+            "prefix": "172.23.222.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MRGHOSH-MNT"
+        },
+        {
             "asn": "AS4242422027",
             "prefix": "172.23.222.64/27",
             "maxLength": 28,
@@ -15998,17 +16012,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "3a7ca794813b3dbdd3c435d95875a7d9c60bd30b",
-            "merge": "d0beb3d3 a63ac1c6",
-            "author": "Simon Marsh",
-            "date": "Sat, 18 Jul 2020 18:14:34 +0000",
-            "subject": "Merge pull request 'Updated AS4242421050:AS-TRANSIT' (#54) from Napsterbater-20200716/as-set into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/3a7ca794813b3dbdd3c435d95875a7d9c60bd30b",
-            "generated": "2020-07-18T19:09:43+00:00",
-            "valid": "2020-07-21T19:09:43+00:00"
+            "commit": "d31c987488c8e9333cc78b7aa8b2b3fec4beacad",
+            "merge": "a6863db1 01d3541b",
+            "author": "Xuu",
+            "date": "Sun, 19 Jul 2020 00:58:52 +0000",
+            "subject": "Merge pull request 'delete items removed from project' (#55) from xuu-20200716/remove-rspl into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/d31c987488c8e9333cc78b7aa8b2b3fec4beacad",
+            "generated": "2020-07-19T05:09:33+00:00",
+            "valid": "2020-07-22T05:09:33+00:00"
         },
-        "counts": 2285,
-        "generated": 1595099383,
-        "valid": 1595358583
+        "counts": 2287,
+        "generated": 1595135373,
+        "valid": 1595394573
     }
 }
