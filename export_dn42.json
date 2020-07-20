@@ -638,6 +638,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS207268",
+            "prefix": "fd10:127:1300::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270013",
             "prefix": "fd10:127:13::/48",
             "maxLength": 64,
@@ -682,6 +689,13 @@
         {
             "asn": "AS4201270014",
             "prefix": "fd10:127:23::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS213262",
+            "prefix": "fd10:127:3262::/64",
             "maxLength": 64,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -5286,6 +5300,13 @@
             "mnt-by": "IIIDEFIX-MNT"
         },
         {
+            "asn": "AS4242421552",
+            "prefix": "fdb1:e13c:31ce::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "0V3RCL0KED-MNT"
+        },
+        {
             "asn": "AS4242420207",
             "prefix": "fdb1:e72a:343d::/48",
             "maxLength": 64,
@@ -7395,6 +7416,13 @@
         {
             "asn": "AS4201270013",
             "prefix": "10.127.13.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS207268",
+            "prefix": "10.127.131.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -13728,6 +13756,13 @@
             "mnt-by": "SENAO-MNT"
         },
         {
+            "asn": "AS4242421552",
+            "prefix": "172.22.151.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "0V3RCL0KED-MNT"
+        },
+        {
             "asn": "AS64752",
             "prefix": "172.22.152.0/25",
             "maxLength": 28,
@@ -16019,17 +16054,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "becd2dd26c5ea8f9517ae47f5ebe41e358f00351",
-            "merge": "f961cb4f 35b16c0d",
+            "commit": "eebf1f43075746bf0a8061363d58aa8b8ee9fb88",
+            "merge": "8024167d 423cf588",
             "author": "jrb0001",
-            "date": "Mon, 20 Jul 2020 07:29:11 +0000",
-            "subject": "Merge pull request 'Dns changes.' (#61) from jastrup-20200720/fixing-dns into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/becd2dd26c5ea8f9517ae47f5ebe41e358f00351",
-            "generated": "2020-07-20T11:09:33+00:00",
-            "valid": "2020-07-23T11:09:33+00:00"
+            "date": "Mon, 20 Jul 2020 16:58:06 +0000",
+            "subject": "Merge pull request 'Register domain sm.dn42' (#64) from samip537-20200720/domains into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/eebf1f43075746bf0a8061363d58aa8b8ee9fb88",
+            "generated": "2020-07-20T19:09:34+00:00",
+            "valid": "2020-07-23T19:09:34+00:00"
         },
-        "counts": 2288,
-        "generated": 1595243373,
-        "valid": 1595502573
+        "counts": 2293,
+        "generated": 1595272174,
+        "valid": 1595531374
     }
 }

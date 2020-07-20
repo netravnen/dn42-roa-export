@@ -20,16 +20,16 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit becd2dd26c5ea8f9517ae47f5ebe41e358f00351
-Merge: f961cb4f 35b16c0d
+commit eebf1f43075746bf0a8061363d58aa8b8ee9fb88
+Merge: 8024167d 423cf588
 Author: jrb0001
-Date:   2020-07-20 07:29:11 +0000
+Date:   2020-07-20 16:58:06 +0000
 
-    Merge pull request 'Dns changes.' (#61) from jastrup-20200720/fixing-dns into master
+    Merge pull request 'Register domain sm.dn42' (#64) from samip537-20200720/domains into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/61
-    Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/64
     Reviewed-by: jrb0001 <jrb0001@noreply.dn42.us>
+    Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
 ## crontab
@@ -42,11 +42,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1265
-- ROAs IPv6:  1023
-- ROAs total: 2288
+- ROAs IPv4:  1267
+- ROAs IPv6:  1026
+- ROAs total: 2293
 
-[0]: https://git.dn42.us/dn42/registry/commit/becd2dd26c5ea8f9517ae47f5ebe41e358f00351
+[0]: https://git.dn42.us/dn42/registry/commit/eebf1f43075746bf0a8061363d58aa8b8ee9fb88
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
