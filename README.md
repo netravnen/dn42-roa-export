@@ -20,15 +20,16 @@ instead (e.g. ) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 7f6c418f5bd3a73784accaf960610e42e5f189b8
-Merge: d31c9874 06d5676f
-Author: Simon Marsh <burble@noreply.dn42.us>
-Date:   2020-07-19 13:07:36 +0000
+commit f961cb4f68d16ac6202b3e8911b3cbe271788d90
+Merge: 7f6c418f 1001c675
+Author: jrb0001
+Date:   2020-07-19 19:41:44 +0000
 
-    Merge pull request 'New prefix for services hosted by bitbakers.' (#58) from jastrup-20200719/new-v4-object into master
+    Merge pull request 'README and AS135395 fixes.' (#59) from burble-20200719/fixups into master
 
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/58
+    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/59
     Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
+    Reviewed-by: jrb0001 <jrb0001@noreply.dn42.us>
 ```
 
 ## crontab
@@ -45,7 +46,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1023
 - ROAs total: 2288
 
-[0]: https://git.dn42.us/dn42/registry/commit/7f6c418f5bd3a73784accaf960610e42e5f189b8
+[0]: https://git.dn42.us/dn42/registry/commit/f961cb4f68d16ac6202b3e8911b3cbe271788d90
 [1]: https://git.dn42.us/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

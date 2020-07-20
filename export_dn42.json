@@ -16019,17 +16019,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "7f6c418f5bd3a73784accaf960610e42e5f189b8",
-            "merge": "d31c9874 06d5676f",
-            "author": "Simon Marsh",
-            "date": "Sun, 19 Jul 2020 13:07:36 +0000",
-            "subject": "Merge pull request 'New prefix for services hosted by bitbakers.' (#58) from jastrup-20200719/new-v4-object into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/7f6c418f5bd3a73784accaf960610e42e5f189b8",
-            "generated": "2020-07-19T19:09:32+00:00",
-            "valid": "2020-07-22T19:09:32+00:00"
+            "commit": "f961cb4f68d16ac6202b3e8911b3cbe271788d90",
+            "merge": "7f6c418f 1001c675",
+            "author": "jrb0001",
+            "date": "Sun, 19 Jul 2020 19:41:44 +0000",
+            "subject": "Merge pull request 'README and AS135395 fixes.' (#59) from burble-20200719/fixups into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/f961cb4f68d16ac6202b3e8911b3cbe271788d90",
+            "generated": "2020-07-20T05:09:33+00:00",
+            "valid": "2020-07-23T05:09:33+00:00"
         },
         "counts": 2288,
-        "generated": 1595185772,
-        "valid": 1595444972
+        "generated": 1595221773,
+        "valid": 1595480973
     }
 }
