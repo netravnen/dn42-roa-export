@@ -5930,6 +5930,13 @@
             "mnt-by": "ZALEDIA-MNT"
         },
         {
+            "asn": "AS4242422402",
+            "prefix": "fdcc:2a2d:646::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ZORKZOID-MNT"
+        },
+        {
             "asn": "AS4242422441",
             "prefix": "fdcc:60b6:2f38::/48",
             "maxLength": 64,
@@ -9570,6 +9577,13 @@
             "mnt-by": "SODRE-MNT"
         },
         {
+            "asn": "AS4242420429",
+            "prefix": "172.20.159.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KEVIN-MNT"
+        },
+        {
             "asn": "AS4242421709",
             "prefix": "172.20.159.160/27",
             "maxLength": 28,
@@ -9960,6 +9974,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "CPBARNES-MNT"
+        },
+        {
+            "asn": "AS4242422402",
+            "prefix": "172.20.172.184/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "ZORKZOID-MNT"
         },
         {
             "asn": "AS4242420993",
@@ -16054,17 +16075,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "eebf1f43075746bf0a8061363d58aa8b8ee9fb88",
-            "merge": "8024167d 423cf588",
-            "author": "jrb0001",
-            "date": "Mon, 20 Jul 2020 16:58:06 +0000",
-            "subject": "Merge pull request 'Register domain sm.dn42' (#64) from samip537-20200720/domains into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/eebf1f43075746bf0a8061363d58aa8b8ee9fb88",
-            "generated": "2020-07-20T19:09:34+00:00",
-            "valid": "2020-07-23T19:09:34+00:00"
+            "commit": "e6f7d5ecc2c0dfdcf2df027d7783db2aa87cf15e",
+            "merge": "8b0a0224 0929f16b",
+            "author": "Simon Marsh",
+            "date": "Mon, 20 Jul 2020 21:05:56 +0000",
+            "subject": "Merge pull request 'Initial registration for AS4242422402' (#60) from zorkzoid/registry:zorkzoid-20200719/initial-registration into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/e6f7d5ecc2c0dfdcf2df027d7783db2aa87cf15e",
+            "generated": "2020-07-21T05:09:34+00:00",
+            "valid": "2020-07-24T05:09:34+00:00"
         },
-        "counts": 2293,
-        "generated": 1595272174,
-        "valid": 1595531374
+        "counts": 2296,
+        "generated": 1595308174,
+        "valid": 1595567374
     }
 }

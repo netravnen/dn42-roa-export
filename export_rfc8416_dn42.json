@@ -5937,6 +5937,13 @@
                 "mnt-by": "ZALEDIA-MNT"
             },
             {
+                "asn": 4242422402,
+                "prefix": "fdcc:2a2d:646::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ZORKZOID-MNT"
+            },
+            {
                 "asn": 4242422441,
                 "prefix": "fdcc:60b6:2f38::/48",
                 "maxPrefixLength": 64,
@@ -9577,6 +9584,13 @@
                 "mnt-by": "SODRE-MNT"
             },
             {
+                "asn": 4242420429,
+                "prefix": "172.20.159.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KEVIN-MNT"
+            },
+            {
                 "asn": 4242421709,
                 "prefix": "172.20.159.160/27",
                 "maxPrefixLength": 28,
@@ -9967,6 +9981,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "CPBARNES-MNT"
+            },
+            {
+                "asn": 4242422402,
+                "prefix": "172.20.172.184/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "ZORKZOID-MNT"
             },
             {
                 "asn": 4242420993,
