@@ -16075,17 +16075,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "e6f7d5ecc2c0dfdcf2df027d7783db2aa87cf15e",
-            "merge": "8b0a0224 0929f16b",
-            "author": "Simon Marsh",
-            "date": "Mon, 20 Jul 2020 21:05:56 +0000",
-            "subject": "Merge pull request 'Initial registration for AS4242422402' (#60) from zorkzoid/registry:zorkzoid-20200719/initial-registration into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/e6f7d5ecc2c0dfdcf2df027d7783db2aa87cf15e",
-            "generated": "2020-07-21T05:09:34+00:00",
-            "valid": "2020-07-24T05:09:34+00:00"
+            "commit": "a5b91c815cd4720e5dbf9fb90ce0bff20ac3e29b",
+            "merge": "e6f7d5ec 534cb4ff",
+            "author": "jrb0001",
+            "date": "Tue, 21 Jul 2020 06:28:38 +0000",
+            "subject": "Merge pull request 'AS213021: Updated DNS server IP addresses to the correct ones.' (#67) from samip537-20200720/domains into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/a5b91c815cd4720e5dbf9fb90ce0bff20ac3e29b",
+            "generated": "2020-07-21T11:09:32+00:00",
+            "valid": "2020-07-24T11:09:32+00:00"
         },
         "counts": 2296,
-        "generated": 1595308174,
-        "valid": 1595567374
+        "generated": 1595329772,
+        "valid": 1595588972
     }
 }
