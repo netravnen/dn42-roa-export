@@ -16075,17 +16075,17 @@
     ],
     "metadata": {
         "human": {
-            "commit": "a5b91c815cd4720e5dbf9fb90ce0bff20ac3e29b",
-            "merge": "e6f7d5ec 534cb4ff",
-            "author": "jrb0001",
-            "date": "Tue, 21 Jul 2020 06:28:38 +0000",
-            "subject": "Merge pull request 'AS213021: Updated DNS server IP addresses to the correct ones.' (#67) from samip537-20200720/domains into master",
-            "url": "https://git.dn42.us/dn42/registry/commit/a5b91c815cd4720e5dbf9fb90ce0bff20ac3e29b",
-            "generated": "2020-07-21T11:09:32+00:00",
-            "valid": "2020-07-24T11:09:32+00:00"
+            "commit": "8857ebbcc3bc0fa361fe016942871f719e71263f",
+            "merge": "a5b91c81 5ebd87e9",
+            "author": "Simon Marsh",
+            "date": "Tue, 21 Jul 2020 18:37:38 +0000",
+            "subject": "Merge pull request 'Update PGP key of JRB0001-MNT/JRB0001-DN42' (#69) from jrb0001-20200721/pgp into master",
+            "url": "https://git.dn42.us/dn42/registry/commit/8857ebbcc3bc0fa361fe016942871f719e71263f",
+            "generated": "2020-07-21T19:09:33+00:00",
+            "valid": "2020-07-24T19:09:33+00:00"
         },
         "counts": 2296,
-        "generated": 1595329772,
-        "valid": 1595588972
+        "generated": 1595358573,
+        "valid": 1595617773
     }
 }
