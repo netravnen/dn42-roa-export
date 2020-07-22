@@ -43,6 +43,13 @@
             "mnt-by": "NIA-MNT"
         },
         {
+            "asn": "AS4242422761",
+            "prefix": "fd00:1953:615::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ARG-MNT"
+        },
+        {
             "asn": "AS4242422235",
             "prefix": "fd00:1996:726::/48",
             "maxLength": 64,
@@ -661,6 +668,13 @@
         {
             "asn": "AS4242421025",
             "prefix": "fd10:127:233:1000::/64",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270005",
+            "prefix": "fd10:127:233:1c3a::/64",
             "maxLength": 64,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -7493,6 +7507,27 @@
         {
             "asn": "AS4201270017",
             "prefix": "10.127.234.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270008",
+            "prefix": "10.127.235.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270005",
+            "prefix": "10.127.236.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270008",
+            "prefix": "10.127.237.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -14694,6 +14729,13 @@
             "mnt-by": "NJD-MNT"
         },
         {
+            "asn": "AS4242422761",
+            "prefix": "172.23.104.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ARG-MNT"
+        },
+        {
             "asn": "AS4242422387",
             "prefix": "172.23.109.0/26",
             "maxLength": 28,
@@ -16074,8 +16116,8 @@
         }
     ],
     "metadata": {
-        "counts": 2296,
-        "generated": 1595416165,
-        "valid": 1595848165
+        "counts": 2302,
+        "generated": 1595444972,
+        "valid": 1595876972
     }
 }
