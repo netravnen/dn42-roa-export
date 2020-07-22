@@ -15,20 +15,16 @@
 
 Note the gortr source file is DateTime stamped only, it is not signed with any certificaty. So you will need to add
 `-verify=false` as a runtime parameter when loading the cache file. Alternatively, use gortr with a slurm file
-instead (e.g. ) as a command-line parameter.
+instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-commit 8857ebbcc3bc0fa361fe016942871f719e71263f
+Commit 8857ebbcc3bc0fa361fe016942871f719e71263f
 Merge: a5b91c81 5ebd87e9
-Author: Simon Marsh <burble@noreply.dn42.us>
 Date:   2020-07-21 18:37:38 +0000
 
     Merge pull request 'Update PGP key of JRB0001-MNT/JRB0001-DN42' (#69) from jrb0001-20200721/pgp into master
-
-    Reviewed-on: https://git.dn42.dev/dn42/registry/pulls/69
-    Reviewed-by: schema-checker <schema-checker@noreply.dn42.us>
 ```
 
 ## crontab
