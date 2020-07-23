@@ -4579,6 +4579,13 @@
                 "mnt-by": "GERG-MNT"
             },
             {
+                "asn": 4242423266,
+                "prefix": "fd8e:1889:b440::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DANN-MNT"
+            },
+            {
                 "asn": 4242422044,
                 "prefix": "fd8e:898d:caa3::/48",
                 "maxPrefixLength": 64,
@@ -13481,6 +13488,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HEXXNET-MNT"
+            },
+            {
+                "asn": 4242423266,
+                "prefix": "172.22.128.32/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DANN-MNT"
             },
             {
                 "asn": 4242420553,
