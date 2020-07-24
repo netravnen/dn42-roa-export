@@ -41,8 +41,8 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1030
 - ROAs total: 2304
 
-[0]: https://git.dn42.us/dn42/registry/commit/14d7cc7a5760d53e71bf1da8cc63c53f2261f3fe
-[1]: https://git.dn42.us/dn42/registry
+[0]: https://git.dn42.dev/dn42/registry/commit/14d7cc7a5760d53e71bf1da8cc63c53f2261f3fe
+[1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
 [4]: https://tools.ietf.org/html/rfc8416
