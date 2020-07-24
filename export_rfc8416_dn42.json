@@ -1730,6 +1730,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421130,
+                "prefix": "fd42:1130::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BONJOU2333-MNT"
+            },
+            {
                 "asn": 4242422464,
                 "prefix": "fd42:1145:1419::/48",
                 "maxPrefixLength": 48,
@@ -11122,6 +11129,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "WRMSR-MNT"
+            },
+            {
+                "asn": 4242421130,
+                "prefix": "172.20.233.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BONJOU2333-MNT"
             },
             {
                 "asn": 4242420205,
