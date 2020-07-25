@@ -15303,6 +15303,13 @@
             "mnt-by": "INFTYLOOP-MNT"
         },
         {
+            "asn": "AS4242423267",
+            "prefix": "172.23.178.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CHILLONETWORK-MNT"
+        },
+        {
             "asn": "AS4242423275",
             "prefix": "172.23.183.16/29",
             "maxLength": 29,
@@ -16144,8 +16151,8 @@
         }
     ],
     "metadata": {
-        "counts": 2306,
-        "generated": 1595653762,
-        "valid": 1596085762
+        "counts": 2307,
+        "generated": 1595675369,
+        "valid": 1596107369
     }
 }
