@@ -549,7 +549,7 @@
             {
                 "asn": 4242423618,
                 "prefix": "fd07:d34:7969::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JERRY-MNT"
             },
@@ -7540,7 +7540,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201270008,
+                "asn": 4201270017,
                 "prefix": "10.127.235.0/24",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
