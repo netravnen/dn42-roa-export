@@ -5398,6 +5398,13 @@
             "mnt-by": "MRXERMON-MNT"
         },
         {
+            "asn": "AS4242422131",
+            "prefix": "fdb4:acab:1312::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JULIA-MNT"
+        },
+        {
             "asn": "AS4242423156",
             "prefix": "fdb5:48f5:d278::/48",
             "maxLength": 64,
@@ -9449,6 +9456,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "TETSAI-MNT"
+        },
+        {
+            "asn": "AS4242422131",
+            "prefix": "172.20.15.40/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "JULIA-MNT"
         },
         {
             "asn": "AS4242421103",
@@ -16151,8 +16165,8 @@
         }
     ],
     "metadata": {
-        "counts": 2307,
-        "generated": 1595704162,
-        "valid": 1596136162
+        "counts": 2309,
+        "generated": 1595740169,
+        "valid": 1596172169
     }
 }
