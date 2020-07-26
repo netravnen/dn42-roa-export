@@ -5860,6 +5860,13 @@
                 "mnt-by": "SUNNET-MNT"
             },
             {
+                "asn": 140936,
+                "prefix": "fdc8:dc88:ee11::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SUNNET-MNT"
+            },
+            {
                 "asn": 4242423036,
                 "prefix": "fdc8:f5a0:6499::/48",
                 "maxPrefixLength": 64,
@@ -12280,6 +12287,13 @@
             },
             {
                 "asn": 4242423088,
+                "prefix": "172.21.100.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SUNNET-MNT"
+            },
+            {
+                "asn": 140936,
                 "prefix": "172.21.100.128/25",
                 "maxPrefixLength": 28,
                 "source": "DN42",
