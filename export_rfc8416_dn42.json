@@ -4103,6 +4103,20 @@
                 "mnt-by": "BYRON-MNT"
             },
             {
+                "asn": 4242423878,
+                "prefix": "fd6d:3f59:4c68::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JELLYCHOU-MNT"
+            },
+            {
+                "asn": 4242423878,
+                "prefix": "fd6d:3f59:4c68::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JELLYCHOU-MNT"
+            },
+            {
                 "asn": 4242423962,
                 "prefix": "fd6d:a5fa:383c::/48",
                 "maxPrefixLength": 48,
@@ -11034,8 +11048,8 @@
             },
             {
                 "asn": 4242421080,
-                "prefix": "172.20.229.112/29",
-                "maxPrefixLength": 29,
+                "prefix": "172.20.229.112/28",
+                "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JLU5-MNT"
             },
@@ -11255,6 +11269,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SAMMKO-MNT"
+            },
+            {
+                "asn": 4242423878,
+                "prefix": "172.20.238.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JELLYCHOU-MNT"
             },
             {
                 "asn": 4242423652,
