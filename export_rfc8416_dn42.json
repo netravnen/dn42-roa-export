@@ -8121,7 +8121,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 65025,
+                "asn": 65024,
                 "prefix": "10.195.0.0/16",
                 "maxPrefixLength": 28,
                 "source": "ICVPN",

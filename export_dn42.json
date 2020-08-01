@@ -8114,7 +8114,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS65025",
+            "asn": "AS65024",
             "prefix": "10.195.0.0/16",
             "maxLength": 28,
             "ta": "ICVPN",
@@ -16271,7 +16271,7 @@
     ],
     "metadata": {
         "counts": 2324,
-        "generated": 1596222678,
-        "valid": 1596654678
+        "generated": 1596258705,
+        "valid": 1596690705
     }
 }
