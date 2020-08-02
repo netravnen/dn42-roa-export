@@ -925,6 +925,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421825",
+            "prefix": "fd15:1825:72::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LUKKIE-MNT"
+        },
+        {
             "asn": "AS4242420640",
             "prefix": "fd15:9ed:b71d::/48",
             "maxLength": 48,
@@ -16270,8 +16277,8 @@
         }
     ],
     "metadata": {
-        "counts": 2324,
-        "generated": 1596366665,
-        "valid": 1596798665
+        "counts": 2325,
+        "generated": 1596395438,
+        "valid": 1596827438
     }
 }

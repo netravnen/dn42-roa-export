@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e7a7881abebd256c70a44c06f8eed8f57acbf925
-Merge: a09f7647 f73d01bc
-Date:   2020-07-29 17:58:26 +0000
+Commit 0b319d08c8c7098f52ed7923e285a00160e93ec5
+Merge: cbea37e5 cf30e2bb
+Date:   2020-08-02 18:08:08 +0000
 
-    Merge pull request 'Adding ssh-rsa.' (#84) from jastrup-20200729/adding-ssh-rsa into master
+    Merge pull request 'Initial registry push' (#87) from lvschouwen-20200802/initialcommit into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1281
-- ROAs IPv6:  1043
-- ROAs total: 2324
+- ROAs IPv6:  1044
+- ROAs total: 2325
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e7a7881abebd256c70a44c06f8eed8f57acbf925
+[0]: https://git.dn42.dev/dn42/registry/commit/0b319d08c8c7098f52ed7923e285a00160e93ec5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

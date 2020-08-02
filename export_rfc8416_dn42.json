@@ -932,6 +932,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421825,
+                "prefix": "fd15:1825:72::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LUKKIE-MNT"
+            },
+            {
                 "asn": 4242420640,
                 "prefix": "fd15:9ed:b71d::/48",
                 "maxPrefixLength": 48,
