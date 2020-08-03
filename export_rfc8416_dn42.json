@@ -3718,13 +3718,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242421021,
-                "prefix": "fd55:eedf:a5c0::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "GEEKWU-MNT"
-            },
-            {
                 "asn": 4242420810,
                 "prefix": "fd56:4147:5545::/48",
                 "maxPrefixLength": 64,
@@ -12074,13 +12067,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CHALLENE-MNT"
-            },
-            {
-                "asn": 4242421021,
-                "prefix": "172.20.55.128/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GEEKWU-MNT"
             },
             {
                 "asn": 4242422610,
