@@ -7204,13 +7204,6 @@
                 "mnt-by": "0XCB-MNT"
             },
             {
-                "asn": 4242421873,
-                "prefix": "fdfd:d0b7:5feb::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "RMNTN-MNT"
-            },
-            {
                 "asn": 4242421113,
                 "prefix": "fdfd:dead:c0d3::/48",
                 "maxPrefixLength": 64,
@@ -12853,13 +12846,6 @@
                 "mnt-by": "SIEMIR-MNT"
             },
             {
-                "asn": 4242421873,
-                "prefix": "172.21.79.64/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "RMNTN-MNT"
-            },
-            {
                 "asn": 4242420186,
                 "prefix": "172.21.79.80/28",
                 "maxPrefixLength": 28,
@@ -14251,13 +14237,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "YUYAN-MNT"
-            },
-            {
-                "asn": 4242421873,
-                "prefix": "172.22.181.0/25",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "RMNTN-MNT"
             },
             {
                 "asn": 4242422322,
