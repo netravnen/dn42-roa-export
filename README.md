@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 51af970bea78bb273a70155d35d9ebe1858376e7
-Merge: 54cbed40 9e314b6e
-Date:   2020-08-03 14:36:05 +0000
+Commit f9577e35b57f8fe0bd6891b820c5f2c82f654a09
+Merge: 54c011c3 b1cd527d
+Date:   2020-08-05 16:44:57 +0000
 
-    Merge pull request 'remove GEEKWU-MNT and associated resources' (#88) from geekwu/registry:master into master
+    Merge pull request 'Add AS4242421938' (#90) from ma.babble/registry:ma.babble-20200805/joining into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1279
-- ROAs IPv6:  1043
-- ROAs total: 2322
+- ROAs IPv4:  1281
+- ROAs IPv6:  1045
+- ROAs total: 2326
 
-[0]: https://git.dn42.dev/dn42/registry/commit/51af970bea78bb273a70155d35d9ebe1858376e7
+[0]: https://git.dn42.dev/dn42/registry/commit/f9577e35b57f8fe0bd6891b820c5f2c82f654a09
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

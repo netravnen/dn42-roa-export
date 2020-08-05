@@ -1338,6 +1338,13 @@
                 "mnt-by": "MOJO-MNT"
             },
             {
+                "asn": 4242421938,
+                "prefix": "fd28:4a00:7533::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BABBLE-MNT"
+            },
+            {
                 "asn": 4242423805,
                 "prefix": "fd2a:1805:30::/48",
                 "maxPrefixLength": 64,
@@ -5620,6 +5627,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "LANTIAN-MNT"
+            },
+            {
+                "asn": 4242423393,
+                "prefix": "fdbc:fddc:67ad::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VICTORY-MNT"
             },
             {
                 "asn": 4242420528,
@@ -10592,6 +10606,13 @@
                 "mnt-by": "N0EMIS-MNT"
             },
             {
+                "asn": 4242423393,
+                "prefix": "172.20.191.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VICTORY-MNT"
+            },
+            {
                 "asn": 4242422464,
                 "prefix": "172.20.191.192/27",
                 "maxPrefixLength": 28,
@@ -11920,6 +11941,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LRINQVQ-MNT"
+            },
+            {
+                "asn": 4242421938,
+                "prefix": "172.20.48.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BABBLE-MNT"
             },
             {
                 "asn": 4242420573,
