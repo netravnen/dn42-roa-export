@@ -1639,6 +1639,13 @@
             "mnt-by": "PACKETFRAME-MNT"
         },
         {
+            "asn": "AS4242420721",
+            "prefix": "fd3e:d065:66fd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SESHI-MNT"
+        },
+        {
             "asn": "AS4242428989",
             "prefix": "fd3f:e6b2:8a3e::/48",
             "maxLength": 64,
@@ -7547,6 +7554,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS209557",
+            "prefix": "10.127.124.0/29",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242422464",
             "prefix": "10.127.127.0/24",
             "maxLength": 29,
@@ -12496,6 +12510,13 @@
             "mnt-by": "MARROPAX-MNT"
         },
         {
+            "asn": "AS4242420721",
+            "prefix": "172.21.109.0/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SESHI-MNT"
+        },
+        {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
             "maxLength": 28,
@@ -16284,8 +16305,8 @@
         }
     ],
     "metadata": {
-        "counts": 2326,
-        "generated": 1596798564,
-        "valid": 1597230564
+        "counts": 2329,
+        "generated": 1596827366,
+        "valid": 1597259366
     }
 }
