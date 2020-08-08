@@ -1604,6 +1604,13 @@
                 "mnt-by": "ADRA-MNT"
             },
             {
+                "asn": 4242421101,
+                "prefix": "fd3b:6bc4:49ef::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "REMI-MNT"
+            },
+            {
                 "asn": 4242423481,
                 "prefix": "fd3b:ac17:d710::/48",
                 "maxPrefixLength": 64,
@@ -16162,6 +16169,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ROTTY-MNT"
+            },
+            {
+                "asn": 4242421101,
+                "prefix": "172.23.77.0/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "REMI-MNT"
             },
             {
                 "asn": 4242421180,
