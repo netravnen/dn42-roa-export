@@ -2423,6 +2423,13 @@
             "mnt-by": "MOD-MNT"
         },
         {
+            "asn": "AS4242420443",
+            "prefix": "fd42:4242:443::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PATRYK-MNT"
+        },
+        {
             "asn": "AS4242420064",
             "prefix": "fd42:4242:64::/48",
             "maxLength": 64,
@@ -5223,6 +5230,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423761",
+            "prefix": "fda4:be8c:4fd1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "L3IBI-MNT"
+        },
+        {
             "asn": "AS4242421035",
             "prefix": "fda4:c3cb:737c::/48",
             "maxLength": 64,
@@ -6103,6 +6117,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NOCTURNO-MNT"
+        },
+        {
+            "asn": "AS4242420944",
+            "prefix": "fdcd:eb58:c24a:6798::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "VOXILITY-MNT"
         },
         {
             "asn": "AS4242423735",
@@ -10289,6 +10310,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ZOTAN-MNT"
+        },
+        {
+            "asn": "AS4242420944",
+            "prefix": "172.20.177.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VOXILITY-MNT"
         },
         {
             "asn": "AS4242423238",
@@ -15905,6 +15933,13 @@
             "mnt-by": "SODRE-MNT"
         },
         {
+            "asn": "AS4242420443",
+            "prefix": "172.23.24.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PATRYK-MNT"
+        },
+        {
             "asn": "AS4242420525",
             "prefix": "172.23.240.32/27",
             "maxLength": 28,
@@ -16319,8 +16354,8 @@
         }
     ],
     "metadata": {
-        "counts": 2331,
-        "generated": 1597000163,
-        "valid": 1597432163
+        "counts": 2336,
+        "generated": 1597036172,
+        "valid": 1597468172
     }
 }

@@ -2430,6 +2430,13 @@
                 "mnt-by": "MOD-MNT"
             },
             {
+                "asn": 4242420443,
+                "prefix": "fd42:4242:443::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PATRYK-MNT"
+            },
+            {
                 "asn": 4242420064,
                 "prefix": "fd42:4242:64::/48",
                 "maxPrefixLength": 64,
@@ -5230,6 +5237,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423761,
+                "prefix": "fda4:be8c:4fd1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "L3IBI-MNT"
+            },
+            {
                 "asn": 4242421035,
                 "prefix": "fda4:c3cb:737c::/48",
                 "maxPrefixLength": 64,
@@ -6110,6 +6124,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NOCTURNO-MNT"
+            },
+            {
+                "asn": 4242420944,
+                "prefix": "fdcd:eb58:c24a:6798::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "VOXILITY-MNT"
             },
             {
                 "asn": 4242423735,
@@ -10296,6 +10317,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZOTAN-MNT"
+            },
+            {
+                "asn": 4242420944,
+                "prefix": "172.20.177.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VOXILITY-MNT"
             },
             {
                 "asn": 4242423238,
@@ -15910,6 +15938,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SODRE-MNT"
+            },
+            {
+                "asn": 4242420443,
+                "prefix": "172.23.24.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PATRYK-MNT"
             },
             {
                 "asn": 4242420525,
