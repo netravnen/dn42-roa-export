@@ -9703,6 +9703,13 @@
             "mnt-by": "MOMIJI-MNT"
         },
         {
+            "asn": "AS4242420506",
+            "prefix": "172.20.155.80/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "PUDDING-MNT"
+        },
+        {
             "asn": "AS4242423036",
             "prefix": "172.20.155.88/29",
             "maxLength": 29,
@@ -16354,8 +16361,8 @@
         }
     ],
     "metadata": {
-        "counts": 2336,
-        "generated": 1597208964,
-        "valid": 1597640964
+        "counts": 2337,
+        "generated": 1597230568,
+        "valid": 1597662568
     }
 }

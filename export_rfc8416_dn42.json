@@ -9710,6 +9710,13 @@
                 "mnt-by": "MOMIJI-MNT"
             },
             {
+                "asn": 4242420506,
+                "prefix": "172.20.155.80/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "PUDDING-MNT"
+            },
+            {
                 "asn": 4242423036,
                 "prefix": "172.20.155.88/29",
                 "maxPrefixLength": 29,
