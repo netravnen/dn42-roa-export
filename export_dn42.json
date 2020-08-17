@@ -1885,21 +1885,42 @@
         },
         {
             "asn": "AS4242420119",
-            "prefix": "fd42:180:3de0::/48",
+            "prefix": "fd42:180:3de0:100::/60",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BURBLE-MNT"
         },
         {
-            "asn": "AS4242421191",
-            "prefix": "fd42:180:3de0::/48",
+            "asn": "AS64737",
+            "prefix": "fd42:180:3de0:100::/60",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BURBLE-MNT"
         },
         {
             "asn": "AS4242422601",
-            "prefix": "fd42:180:3de0::/48",
+            "prefix": "fd42:180:3de0:100::/60",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242420119",
+            "prefix": "fd42:180:3de0::/56",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242421191",
+            "prefix": "fd42:180:3de0::/56",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242422601",
+            "prefix": "fd42:180:3de0::/56",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BURBLE-MNT"
@@ -14617,6 +14638,27 @@
             "mnt-by": "RIPPERFOX-MNT"
         },
         {
+            "asn": "AS4242420119",
+            "prefix": "172.22.63.0/28",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS64737",
+            "prefix": "172.22.63.0/28",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
+            "asn": "AS4242422601",
+            "prefix": "172.22.63.0/28",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
             "asn": "AS64664",
             "prefix": "172.22.64.0/24",
             "maxLength": 28,
@@ -16361,8 +16403,8 @@
         }
     ],
     "metadata": {
-        "counts": 2337,
-        "generated": 1597604976,
-        "valid": 1598036976
+        "counts": 2343,
+        "generated": 1597640968,
+        "valid": 1598072968
     }
 }

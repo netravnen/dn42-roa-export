@@ -1892,21 +1892,42 @@
             },
             {
                 "asn": 4242420119,
-                "prefix": "fd42:180:3de0::/48",
+                "prefix": "fd42:180:3de0:100::/60",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BURBLE-MNT"
             },
             {
-                "asn": 4242421191,
-                "prefix": "fd42:180:3de0::/48",
+                "asn": 64737,
+                "prefix": "fd42:180:3de0:100::/60",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 4242422601,
-                "prefix": "fd42:180:3de0::/48",
+                "prefix": "fd42:180:3de0:100::/60",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242420119,
+                "prefix": "fd42:180:3de0::/56",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242421191,
+                "prefix": "fd42:180:3de0::/56",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "fd42:180:3de0::/56",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BURBLE-MNT"
@@ -14622,6 +14643,27 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RIPPERFOX-MNT"
+            },
+            {
+                "asn": 4242420119,
+                "prefix": "172.22.63.0/28",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 64737,
+                "prefix": "172.22.63.0/28",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
+            },
+            {
+                "asn": 4242422601,
+                "prefix": "172.22.63.0/28",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "BURBLE-MNT"
             },
             {
                 "asn": 64664,

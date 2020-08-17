@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit fc55378f170246286860f47ad68513ce4f6b5b3b
-Merge: c86ad394 e32a22ae
-Date:   2020-08-16 08:16:25 +0000
+Commit b82b4572eb764ad4b2e495d77aa6b5b80e17c4f5
+Merge: fc55378f 2de71095
+Date:   2020-08-16 15:41:25 +0000
 
-    Merge pull request 'Change nameserver' (#104) from Lachlan/registry:master into master
+    Merge pull request 'Create/Update prefixes for DN42 infrastructure services' (#102) from burble-20200815/registry-ip into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1287
-- ROAs IPv6:  1050
-- ROAs total: 2337
+- ROAs IPv4:  1290
+- ROAs IPv6:  1053
+- ROAs total: 2343
 
-[0]: https://git.dn42.dev/dn42/registry/commit/fc55378f170246286860f47ad68513ce4f6b5b3b
+[0]: https://git.dn42.dev/dn42/registry/commit/b82b4572eb764ad4b2e495d77aa6b5b80e17c4f5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
