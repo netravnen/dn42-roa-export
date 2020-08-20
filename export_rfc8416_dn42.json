@@ -4320,6 +4320,13 @@
                 "mnt-by": "5670-MNT"
             },
             {
+                "asn": 4242421267,
+                "prefix": "fd73:6967:6672::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SIGFRIED-MNT"
+            },
+            {
                 "asn": 4242423301,
                 "prefix": "fd73:8e01:9673::/48",
                 "maxPrefixLength": 64,
@@ -5386,7 +5393,7 @@
             {
                 "asn": 213021,
                 "prefix": "fdaa:d0e:147f::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "SM-MNT"
             },

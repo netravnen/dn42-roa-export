@@ -4313,6 +4313,13 @@
             "mnt-by": "5670-MNT"
         },
         {
+            "asn": "AS4242421267",
+            "prefix": "fd73:6967:6672::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SIGFRIED-MNT"
+        },
+        {
             "asn": "AS4242423301",
             "prefix": "fd73:8e01:9673::/48",
             "maxLength": 64,
@@ -5379,7 +5386,7 @@
         {
             "asn": "AS213021",
             "prefix": "fdaa:d0e:147f::/48",
-            "maxLength": 48,
+            "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "SM-MNT"
         },
@@ -16403,8 +16410,8 @@
         }
     ],
     "metadata": {
-        "counts": 2343,
-        "generated": 1597921763,
-        "valid": 1598353763
+        "counts": 2344,
+        "generated": 1597950567,
+        "valid": 1598382567
     }
 }
