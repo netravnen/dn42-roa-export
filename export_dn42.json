@@ -4922,6 +4922,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS424242236",
+            "prefix": "fd98:de34:62e8::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "POMOKE-MNT"
+        },
+        {
             "asn": "AS4242423759",
             "prefix": "fd99:4d80:d90c::/48",
             "maxLength": 64,
@@ -13896,6 +13903,13 @@
             "mnt-by": "DOT-MNT"
         },
         {
+            "asn": "AS424242236",
+            "prefix": "172.22.137.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "POMOKE-MNT"
+        },
+        {
             "asn": "AS4242422850",
             "prefix": "172.22.137.96/27",
             "maxLength": 28,
@@ -16410,8 +16424,8 @@
         }
     ],
     "metadata": {
-        "counts": 2344,
-        "generated": 1598072962,
-        "valid": 1598504962
+        "counts": 2346,
+        "generated": 1598094574,
+        "valid": 1598526574
     }
 }
