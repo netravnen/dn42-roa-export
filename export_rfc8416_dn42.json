@@ -1016,6 +1016,13 @@
                 "mnt-by": "CLEMENT-MNT"
             },
             {
+                "asn": 4242423850,
+                "prefix": "fd19:d101:719a::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "XINYUAN-MNT"
+            },
+            {
                 "asn": 4242420321,
                 "prefix": "fd19:e0a6:1295::/48",
                 "maxPrefixLength": 64,
@@ -10807,6 +10814,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CONREY-MNT"
+            },
+            {
+                "asn": 4242423850,
+                "prefix": "172.20.198.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "XINYUAN-MNT"
             },
             {
                 "asn": 4242423991,
