@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 534cbf905473f4702106fdc6fe6fe1d911b3900f
-Merge: c6130167 83189595
-Date:   2020-08-22 20:52:43 +0000
+Commit 3a8af6407186e02b4ef4343fa6e95e28cff92e0a
+Merge: 15e05f9e 8f6f5130
+Date:   2020-08-23 10:00:19 +0000
 
-    Merge pull request 'AS4242420737' (#118) from truewinter/registry:truewinter-20200822/NewAS into master
+    Merge pull request 'registry: add RAITO network' (#124) from RaitoBezarius/registry:master into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1294
-- ROAs IPv6:  1058
-- ROAs total: 2352
+- ROAs IPv6:  1060
+- ROAs total: 2354
 
-[0]: https://git.dn42.dev/dn42/registry/commit/534cbf905473f4702106fdc6fe6fe1d911b3900f
+[0]: https://git.dn42.dev/dn42/registry/commit/3a8af6407186e02b4ef4343fa6e95e28cff92e0a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

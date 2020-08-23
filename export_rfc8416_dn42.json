@@ -3592,6 +3592,13 @@
                 "mnt-by": "SPLITICE-MNT"
             },
             {
+                "asn": 4242421457,
+                "prefix": "fd4d:ce73:68f9::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RAITO-MNT"
+            },
+            {
                 "asn": 4242420017,
                 "prefix": "fd4e:adda:1964:e293::/64",
                 "maxPrefixLength": 64,
@@ -5837,6 +5844,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TSYS-MNT"
+            },
+            {
+                "asn": 4242422713,
+                "prefix": "fdc2:1708:72bc::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ENP2S0-MNT"
             },
             {
                 "asn": 4242423636,
