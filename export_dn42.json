@@ -3662,6 +3662,13 @@
             "mnt-by": "ZEBMCCORKLE-MNT"
         },
         {
+            "asn": "AS4242423847",
+            "prefix": "fd4f:4e49:4f4e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "THEQ-MNT"
+        },
+        {
             "asn": "AS4242423883",
             "prefix": "fd4f:c7fd:f1ea::/48",
             "maxLength": 48,
@@ -4262,6 +4269,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "KOOCHDOG-MNT"
+        },
+        {
+            "asn": "AS4242423847",
+            "prefix": "fd6f:6e69:6f6e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "THEQ-MNT"
         },
         {
             "asn": "AS4242420017",
@@ -7167,6 +7181,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "PICOCLOUD-MNT"
+        },
+        {
+            "asn": "AS4242421608",
+            "prefix": "fdfb:42d3:9346::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LEAH2-MNT"
         },
         {
             "asn": "AS4242423961",
@@ -16480,8 +16501,8 @@
         }
     ],
     "metadata": {
-        "counts": 2354,
-        "generated": 1598180967,
-        "valid": 1598612967
+        "counts": 2357,
+        "generated": 1598209767,
+        "valid": 1598641767
     }
 }
