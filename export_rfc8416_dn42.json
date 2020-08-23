@@ -1674,6 +1674,13 @@
                 "mnt-by": "SPIN-MNT"
             },
             {
+                "asn": 4242421975,
+                "prefix": "fd40:2200:1975::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FL-MNT"
+            },
+            {
                 "asn": 4242420134,
                 "prefix": "fd40:2343:64:fa52::/64",
                 "maxPrefixLength": 64,
@@ -3548,6 +3555,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "8FCDE-MNT"
+            },
+            {
+                "asn": 4242420737,
+                "prefix": "fd49:5b5:b737::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TRUEWINTER-MNT"
             },
             {
                 "asn": 4242423935,
@@ -11019,6 +11033,13 @@
                 "mnt-by": "KHALED-MNT"
             },
             {
+                "asn": 4242420737,
+                "prefix": "172.20.207.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TRUEWINTER-MNT"
+            },
+            {
                 "asn": 4242421113,
                 "prefix": "172.20.207.64/27",
                 "maxPrefixLength": 28,
@@ -13355,6 +13376,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JHE-MNT"
+            },
+            {
+                "asn": 4242421975,
+                "prefix": "172.22.105.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FL-MNT"
             },
             {
                 "asn": 4242420077,

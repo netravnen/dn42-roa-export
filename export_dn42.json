@@ -1667,6 +1667,13 @@
             "mnt-by": "SPIN-MNT"
         },
         {
+            "asn": "AS4242421975",
+            "prefix": "fd40:2200:1975::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FL-MNT"
+        },
+        {
             "asn": "AS4242420134",
             "prefix": "fd40:2343:64:fa52::/64",
             "maxLength": 64,
@@ -3541,6 +3548,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "8FCDE-MNT"
+        },
+        {
+            "asn": "AS4242420737",
+            "prefix": "fd49:5b5:b737::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TRUEWINTER-MNT"
         },
         {
             "asn": "AS4242423935",
@@ -11012,6 +11026,13 @@
             "mnt-by": "KHALED-MNT"
         },
         {
+            "asn": "AS4242420737",
+            "prefix": "172.20.207.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TRUEWINTER-MNT"
+        },
+        {
             "asn": "AS4242421113",
             "prefix": "172.20.207.64/27",
             "maxLength": 28,
@@ -13348,6 +13369,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "JHE-MNT"
+        },
+        {
+            "asn": "AS4242421975",
+            "prefix": "172.22.105.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FL-MNT"
         },
         {
             "asn": "AS4242420077",
@@ -16438,8 +16466,8 @@
         }
     ],
     "metadata": {
-        "counts": 2348,
-        "generated": 1598123371,
-        "valid": 1598555371
+        "counts": 2352,
+        "generated": 1598159368,
+        "valid": 1598591368
     }
 }
