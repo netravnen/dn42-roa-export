@@ -11502,6 +11502,13 @@
             "mnt-by": "SHARP-MNT"
         },
         {
+            "asn": "AS4242422466",
+            "prefix": "172.20.236.64/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SHYPRE-MNT"
+        },
+        {
             "asn": "AS4242422456",
             "prefix": "172.20.237.0/26",
             "maxLength": 28,
@@ -16501,8 +16508,8 @@
         }
     ],
     "metadata": {
-        "counts": 2357,
-        "generated": 1598267364,
-        "valid": 1598699364
+        "counts": 2358,
+        "generated": 1598296169,
+        "valid": 1598728169
     }
 }
