@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 032c35fc48939d1a2e72bbaaa1bdef58a1ff299a
-Merge: 0e517b39 a42efbe6
-Date:   2020-08-24 11:38:48 +0000
+Commit 948d2b382a656d4c0e270a8b590f5fd5699e3ebb
+Merge: 3fedfbd8 e0afef60
+Date:   2020-08-25 18:12:52 +0000
 
-    Merge pull request 'Update mntner and person objects for LINUXGEMINI' (#129) from linuxgemini-20200823/update-keys-contact into master
+    Merge pull request 'New User for DN42' (#133) from dadamymy/registry:master into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1295
-- ROAs IPv6:  1063
-- ROAs total: 2358
+- ROAs IPv4:  1297
+- ROAs IPv6:  1066
+- ROAs total: 2363
 
-[0]: https://git.dn42.dev/dn42/registry/commit/032c35fc48939d1a2e72bbaaa1bdef58a1ff299a
+[0]: https://git.dn42.dev/dn42/registry/commit/948d2b382a656d4c0e270a8b590f5fd5699e3ebb
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
