@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 948d2b382a656d4c0e270a8b590f5fd5699e3ebb
-Merge: 3fedfbd8 e0afef60
-Date:   2020-08-25 18:12:52 +0000
+Commit 291a7b6d3b075348aec747a81c8bce3486879fd4
+Merge: e9e05fe9 8bcecf3b
+Date:   2020-08-26 16:14:25 +0000
 
-    Merge pull request 'New User for DN42' (#133) from dadamymy/registry:master into master
+    Merge pull request 'Remove broken files from merge of POMOKE-MNT, due to invalid ASN' (#139) from burble-20200826/fix-POMOKE-MNT into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1297
-- ROAs IPv6:  1066
-- ROAs total: 2363
+- ROAs IPv4:  1298
+- ROAs IPv6:  1064
+- ROAs total: 2362
 
-[0]: https://git.dn42.dev/dn42/registry/commit/948d2b382a656d4c0e270a8b590f5fd5699e3ebb
+[0]: https://git.dn42.dev/dn42/registry/commit/291a7b6d3b075348aec747a81c8bce3486879fd4
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

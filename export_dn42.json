@@ -449,13 +449,6 @@
             "mnt-by": "GOFORCEX-MNT"
         },
         {
-            "asn": "AS49752",
-            "prefix": "fd02:685f:edac::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "REDPANDA-MNT"
-        },
-        {
             "asn": "AS4242420309",
             "prefix": "fd03:4de4:6baa::/48",
             "maxLength": 64,
@@ -4976,13 +4969,6 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JONATHAN-FERGUSON-MNT"
-        },
-        {
-            "asn": "AS424242236",
-            "prefix": "fd98:de34:62e8::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "POMOKE-MNT"
         },
         {
             "asn": "AS4242423759",
@@ -14022,13 +14008,6 @@
             "mnt-by": "DOT-MNT"
         },
         {
-            "asn": "AS424242236",
-            "prefix": "172.22.137.32/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "POMOKE-MNT"
-        },
-        {
             "asn": "AS4242422850",
             "prefix": "172.22.137.96/27",
             "maxLength": 28,
@@ -14463,13 +14442,6 @@
             "mnt-by": "JOMAT-MNT"
         },
         {
-            "asn": "AS49752",
-            "prefix": "172.22.177.0/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "REDPANDA-MNT"
-        },
-        {
             "asn": "AS4242421977",
             "prefix": "172.22.177.64/28",
             "maxLength": 28,
@@ -14575,6 +14547,27 @@
             "mnt-by": "MTR-MNT"
         },
         {
+            "asn": "AS4242421214",
+            "prefix": "172.22.189.104/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
+        },
+        {
+            "asn": "AS4242420507",
+            "prefix": "172.22.189.112/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "HONDA-MNT"
+        },
+        {
+            "asn": "AS4242421214",
+            "prefix": "172.22.189.120/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
+        },
+        {
             "asn": "AS4242421238",
             "prefix": "172.22.189.64/27",
             "maxLength": 28,
@@ -14583,8 +14576,8 @@
         },
         {
             "asn": "AS4242421214",
-            "prefix": "172.22.189.96/27",
-            "maxLength": 28,
+            "prefix": "172.22.189.96/29",
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "YI-MNT"
         },
@@ -16543,8 +16536,8 @@
         }
     ],
     "metadata": {
-        "counts": 2363,
-        "generated": 1598440163,
-        "valid": 1598872163
+        "counts": 2362,
+        "generated": 1598468969,
+        "valid": 1598900969
     }
 }

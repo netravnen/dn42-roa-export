@@ -456,13 +456,6 @@
                 "mnt-by": "GOFORCEX-MNT"
             },
             {
-                "asn": 49752,
-                "prefix": "fd02:685f:edac::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "REDPANDA-MNT"
-            },
-            {
                 "asn": 4242420309,
                 "prefix": "fd03:4de4:6baa::/48",
                 "maxPrefixLength": 64,
@@ -4983,13 +4976,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
-            },
-            {
-                "asn": 424242236,
-                "prefix": "fd98:de34:62e8::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "POMOKE-MNT"
             },
             {
                 "asn": 4242423759,
@@ -14029,13 +14015,6 @@
                 "mnt-by": "DOT-MNT"
             },
             {
-                "asn": 424242236,
-                "prefix": "172.22.137.32/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "POMOKE-MNT"
-            },
-            {
                 "asn": 4242422850,
                 "prefix": "172.22.137.96/27",
                 "maxPrefixLength": 28,
@@ -14470,13 +14449,6 @@
                 "mnt-by": "JOMAT-MNT"
             },
             {
-                "asn": 49752,
-                "prefix": "172.22.177.0/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "REDPANDA-MNT"
-            },
-            {
                 "asn": 4242421977,
                 "prefix": "172.22.177.64/28",
                 "maxPrefixLength": 28,
@@ -14582,6 +14554,27 @@
                 "mnt-by": "MTR-MNT"
             },
             {
+                "asn": 4242421214,
+                "prefix": "172.22.189.104/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
+            },
+            {
+                "asn": 4242420507,
+                "prefix": "172.22.189.112/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "HONDA-MNT"
+            },
+            {
+                "asn": 4242421214,
+                "prefix": "172.22.189.120/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
+            },
+            {
                 "asn": 4242421238,
                 "prefix": "172.22.189.64/27",
                 "maxPrefixLength": 28,
@@ -14590,8 +14583,8 @@
             },
             {
                 "asn": 4242421214,
-                "prefix": "172.22.189.96/27",
-                "maxPrefixLength": 28,
+                "prefix": "172.22.189.96/29",
+                "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "YI-MNT"
             },
