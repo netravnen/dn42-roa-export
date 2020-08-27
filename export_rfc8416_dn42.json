@@ -4775,6 +4775,13 @@
                 "mnt-by": "DANN-MNT"
             },
             {
+                "asn": 64742,
+                "prefix": "fd8e:6470:7a23::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "KANKAN-MNT"
+            },
+            {
                 "asn": 4242422044,
                 "prefix": "fd8e:898d:caa3::/48",
                 "maxPrefixLength": 64,
@@ -4976,6 +4983,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
+            },
+            {
+                "asn": 4242422647,
+                "prefix": "fd98:de34:62e8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "POMOKE-MNT"
             },
             {
                 "asn": 4242423759,
@@ -7258,6 +7272,13 @@
                 "maxPrefixLength": 128,
                 "source": "DN42",
                 "mnt-by": "KIOUBIT-MNT"
+            },
+            {
+                "asn": 4242423347,
+                "prefix": "fdfd:00df:5b67:df5b::/48",
+                "maxPrefixLength": 56,
+                "source": "DN42",
+                "mnt-by": "SM-MNT"
             },
             {
                 "asn": 4242420165,
@@ -14013,6 +14034,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DOT-MNT"
+            },
+            {
+                "asn": 4242422647,
+                "prefix": "172.22.137.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "POMOKE-MNT"
             },
             {
                 "asn": 4242422850,
