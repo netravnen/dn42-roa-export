@@ -7274,13 +7274,6 @@
                 "mnt-by": "KIOUBIT-MNT"
             },
             {
-                "asn": 4242423347,
-                "prefix": "fdfd:00df:5b67:df5b::/48",
-                "maxPrefixLength": 56,
-                "source": "DN42",
-                "mnt-by": "SM-MNT"
-            },
-            {
                 "asn": 4242420165,
                 "prefix": "fdfd:1651:65:f398::/64",
                 "maxPrefixLength": 64,
@@ -7398,6 +7391,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "REWBYSOFT-MNT"
+            },
+            {
+                "asn": 4242423347,
+                "prefix": "fdfd:df:5b67::/48",
+                "maxPrefixLength": 56,
+                "source": "DN42",
+                "mnt-by": "SM-MNT"
             },
             {
                 "asn": 4242422050,

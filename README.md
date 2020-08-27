@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0a452f206e3626021568281226acae02638576c0
-Merge: cc7a77b1 7df7e7cc
-Date:   2020-08-27 08:35:58 +0000
+Commit 1e2064e1582f3c76e207e197bcb9e76c1b5181ea
+Merge: 00f90f59 34be1098
+Date:   2020-08-27 15:00:43 +0000
 
-    Merge pull request 'Add IPv6 + clean old objects for AS64742' (#141) from chiantos-20200826/addipv6 into master
+    Merge pull request 'update drone test script' (#147) from burble-20200827/update-drone-script into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1067
 - ROAs total: 2366
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0a452f206e3626021568281226acae02638576c0
+[0]: https://git.dn42.dev/dn42/registry/commit/1e2064e1582f3c76e207e197bcb9e76c1b5181ea
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
