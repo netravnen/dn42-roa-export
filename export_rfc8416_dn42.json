@@ -575,6 +575,13 @@
                 "mnt-by": "ATR-MNT"
             },
             {
+                "asn": 4242422705,
+                "prefix": "fd0a:cdb3:cde7::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "PIGGY-MNT"
+            },
+            {
                 "asn": 65099,
                 "prefix": "fd0a:d928:b30d::/48",
                 "maxPrefixLength": 64,
@@ -4213,6 +4220,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "Q1X-MNT"
+            },
+            {
+                "asn": 209557,
+                "prefix": "fd69:9889:9692::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
             },
             {
                 "asn": 4242421214,
@@ -12755,6 +12769,13 @@
                 "mnt-by": "DRIVERSP-MNT"
             },
             {
+                "asn": 4242422705,
+                "prefix": "172.21.117.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PIGGY-MNT"
+            },
+            {
                 "asn": 4242420118,
                 "prefix": "172.21.118.0/25",
                 "maxPrefixLength": 28,
@@ -14582,6 +14603,13 @@
                 "mnt-by": "MTR-MNT"
             },
             {
+                "asn": 209557,
+                "prefix": "172.22.189.104/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
+            },
+            {
                 "asn": 4242421214,
                 "prefix": "172.22.189.104/29",
                 "maxPrefixLength": 29,
@@ -14589,11 +14617,25 @@
                 "mnt-by": "YI-MNT"
             },
             {
+                "asn": 209557,
+                "prefix": "172.22.189.112/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "HONDA-MNT"
+            },
+            {
                 "asn": 4242420507,
                 "prefix": "172.22.189.112/29",
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "HONDA-MNT"
+            },
+            {
+                "asn": 209557,
+                "prefix": "172.22.189.120/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
             },
             {
                 "asn": 4242421214,
@@ -14608,6 +14650,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MOO-MNT"
+            },
+            {
+                "asn": 209557,
+                "prefix": "172.22.189.96/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "YI-MNT"
             },
             {
                 "asn": 4242421214,

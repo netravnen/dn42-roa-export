@@ -568,6 +568,13 @@
             "mnt-by": "ATR-MNT"
         },
         {
+            "asn": "AS4242422705",
+            "prefix": "fd0a:cdb3:cde7::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "PIGGY-MNT"
+        },
+        {
             "asn": "AS65099",
             "prefix": "fd0a:d928:b30d::/48",
             "maxLength": 64,
@@ -4206,6 +4213,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "Q1X-MNT"
+        },
+        {
+            "asn": "AS209557",
+            "prefix": "fd69:9889:9692::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
         },
         {
             "asn": "AS4242421214",
@@ -12748,6 +12762,13 @@
             "mnt-by": "DRIVERSP-MNT"
         },
         {
+            "asn": "AS4242422705",
+            "prefix": "172.21.117.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PIGGY-MNT"
+        },
+        {
             "asn": "AS4242420118",
             "prefix": "172.21.118.0/25",
             "maxLength": 28,
@@ -14575,6 +14596,13 @@
             "mnt-by": "MTR-MNT"
         },
         {
+            "asn": "AS209557",
+            "prefix": "172.22.189.104/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
+        },
+        {
             "asn": "AS4242421214",
             "prefix": "172.22.189.104/29",
             "maxLength": 29,
@@ -14582,11 +14610,25 @@
             "mnt-by": "YI-MNT"
         },
         {
+            "asn": "AS209557",
+            "prefix": "172.22.189.112/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "HONDA-MNT"
+        },
+        {
             "asn": "AS4242420507",
             "prefix": "172.22.189.112/29",
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "HONDA-MNT"
+        },
+        {
+            "asn": "AS209557",
+            "prefix": "172.22.189.120/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
         },
         {
             "asn": "AS4242421214",
@@ -14601,6 +14643,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "MOO-MNT"
+        },
+        {
+            "asn": "AS209557",
+            "prefix": "172.22.189.96/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "YI-MNT"
         },
         {
             "asn": "AS4242421214",
@@ -16564,8 +16613,8 @@
         }
     ],
     "metadata": {
-        "counts": 2366,
-        "generated": 1598591362,
-        "valid": 1599023362
+        "counts": 2373,
+        "generated": 1598612972,
+        "valid": 1599044972
     }
 }
