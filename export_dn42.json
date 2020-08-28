@@ -4551,6 +4551,13 @@
             "mnt-by": "WOCKEY-MNT"
         },
         {
+            "asn": "AS4242422492",
+            "prefix": "fd7e:7e3e:71be::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "INL-MNT"
+        },
+        {
             "asn": "AS4242422144",
             "prefix": "fd7e:e43c:78d9::/48",
             "maxLength": 64,
@@ -10823,6 +10830,13 @@
             "mnt-by": "PICOCLOUD-MNT"
         },
         {
+            "asn": "AS4242422492",
+            "prefix": "172.20.192.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "INL-MNT"
+        },
+        {
             "asn": "AS4242423335",
             "prefix": "172.20.193.176/28",
             "maxLength": 28,
@@ -16613,8 +16627,8 @@
         }
     ],
     "metadata": {
-        "counts": 2373,
-        "generated": 1598612972,
-        "valid": 1599044972
+        "counts": 2375,
+        "generated": 1598641774,
+        "valid": 1599073774
     }
 }
