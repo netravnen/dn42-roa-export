@@ -4292,6 +4292,13 @@
             "mnt-by": "KOOCHDOG-MNT"
         },
         {
+            "asn": "AS4242421155",
+            "prefix": "fd6e:cab2:576b::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "L4RS-MNT"
+        },
+        {
             "asn": "AS4242423847",
             "prefix": "fd6f:6e69:6f6e::/48",
             "maxLength": 48,
@@ -10023,6 +10030,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "B101010-MNT"
+        },
+        {
+            "asn": "AS4242421155",
+            "prefix": "172.20.160.48/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "L4RS-MNT"
         },
         {
             "asn": "AS4242420616",
@@ -16627,8 +16641,8 @@
         }
     ],
     "metadata": {
-        "counts": 2375,
-        "generated": 1598785775,
-        "valid": 1599217775
+        "counts": 2377,
+        "generated": 1598814572,
+        "valid": 1599246572
     }
 }
