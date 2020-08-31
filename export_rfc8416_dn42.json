@@ -1177,6 +1177,13 @@
                 "mnt-by": "3STADT-MNT"
             },
             {
+                "asn": 4242423073,
+                "prefix": "fd22:ad17:8e8d::/48",
+                "maxPrefixLength": 52,
+                "source": "DN42",
+                "mnt-by": "PATERNOT-MNT"
+            },
+            {
                 "asn": 4242421514,
                 "prefix": "fd22:cf08:697b::/48",
                 "maxPrefixLength": 48,
@@ -4689,6 +4696,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "FRE-MNT"
+            },
+            {
+                "asn": 4242421273,
+                "prefix": "fd86:5946:61b2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SPENCERCW-MNT"
             },
             {
                 "asn": 65037,
@@ -9470,6 +9484,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TOHUTOHU-MNT"
+            },
+            {
+                "asn": 4242421273,
+                "prefix": "172.20.139.176/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SPENCERCW-MNT"
             },
             {
                 "asn": 4242422301,
@@ -15483,6 +15504,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BODEMS-MNT"
+            },
+            {
+                "asn": 64742,
+                "prefix": "172.23.147.0/24",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KANKAN-MNT"
             },
             {
                 "asn": 76140,

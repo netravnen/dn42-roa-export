@@ -1170,6 +1170,13 @@
             "mnt-by": "3STADT-MNT"
         },
         {
+            "asn": "AS4242423073",
+            "prefix": "fd22:ad17:8e8d::/48",
+            "maxLength": 52,
+            "ta": "DN42",
+            "mnt-by": "PATERNOT-MNT"
+        },
+        {
             "asn": "AS4242421514",
             "prefix": "fd22:cf08:697b::/48",
             "maxLength": 48,
@@ -4682,6 +4689,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "FRE-MNT"
+        },
+        {
+            "asn": "AS4242421273",
+            "prefix": "fd86:5946:61b2::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SPENCERCW-MNT"
         },
         {
             "asn": "AS65037",
@@ -9463,6 +9477,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "TOHUTOHU-MNT"
+        },
+        {
+            "asn": "AS4242421273",
+            "prefix": "172.20.139.176/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SPENCERCW-MNT"
         },
         {
             "asn": "AS4242422301",
@@ -15478,6 +15499,13 @@
             "mnt-by": "BODEMS-MNT"
         },
         {
+            "asn": "AS64742",
+            "prefix": "172.23.147.0/24",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KANKAN-MNT"
+        },
+        {
             "asn": "AS76140",
             "prefix": "172.23.148.0/24",
             "maxLength": 28,
@@ -16641,8 +16669,8 @@
         }
     ],
     "metadata": {
-        "counts": 2377,
-        "generated": 1598814572,
-        "valid": 1599246572
+        "counts": 2381,
+        "generated": 1598912041,
+        "valid": 1599344041
     }
 }
