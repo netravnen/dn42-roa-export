@@ -7344,6 +7344,13 @@
                 "mnt-by": "KN-MNT"
             },
             {
+                "asn": 4242423953,
+                "prefix": "fdfd:468b:bab6::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ERINN-MNT"
+            },
+            {
                 "asn": 4242421994,
                 "prefix": "fdfd:6b61:7431::/48",
                 "maxPrefixLength": 64,
@@ -13278,6 +13285,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZIIS-MNT"
+            },
+            {
+                "asn": 4242423953,
+                "prefix": "172.21.89.128/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ERINN-MNT"
             },
             {
                 "asn": 4242421994,

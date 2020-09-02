@@ -7337,6 +7337,13 @@
             "mnt-by": "KN-MNT"
         },
         {
+            "asn": "AS4242423953",
+            "prefix": "fdfd:468b:bab6::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ERINN-MNT"
+        },
+        {
             "asn": "AS4242421994",
             "prefix": "fdfd:6b61:7431::/48",
             "maxLength": 64,
@@ -13273,6 +13280,13 @@
             "mnt-by": "ZIIS-MNT"
         },
         {
+            "asn": "AS4242423953",
+            "prefix": "172.21.89.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ERINN-MNT"
+        },
+        {
             "asn": "AS4242421994",
             "prefix": "172.21.89.32/27",
             "maxLength": 28,
@@ -16683,8 +16697,8 @@
         }
     ],
     "metadata": {
-        "counts": 2383,
-        "generated": 1599044970,
-        "valid": 1599476970
+        "counts": 2385,
+        "generated": 1599073769,
+        "valid": 1599505769
     }
 }
