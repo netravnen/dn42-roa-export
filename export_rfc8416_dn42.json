@@ -1618,6 +1618,13 @@
                 "mnt-by": "SZCZOT3K-MNT"
             },
             {
+                "asn": 4242421165,
+                "prefix": "fd39:e07d:e463::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TRACE-MNT"
+            },
+            {
                 "asn": 4242422379,
                 "prefix": "fd3b:1ac0:dc97:ccd::/64",
                 "maxPrefixLength": 64,
@@ -13012,6 +13019,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BITBAKERS-MNT"
+            },
+            {
+                "asn": 4242421165,
+                "prefix": "172.21.66.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TRACE-MNT"
             },
             {
                 "asn": 4242421119,
