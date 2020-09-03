@@ -6672,6 +6672,13 @@
                 "mnt-by": "MARGAU-MNT"
             },
             {
+                "asn": 4242420780,
+                "prefix": "fde3:8334:267e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "UFFSALOT-MNT"
+            },
+            {
                 "asn": 4242423004,
                 "prefix": "fde3:a7e3:7957::/48",
                 "maxPrefixLength": 64,
@@ -10849,6 +10856,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "N0EMIS-MNT"
+            },
+            {
+                "asn": 4242420780,
+                "prefix": "172.20.191.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "UFFSALOT-MNT"
             },
             {
                 "asn": 4242423393,

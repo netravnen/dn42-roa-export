@@ -6665,6 +6665,13 @@
             "mnt-by": "MARGAU-MNT"
         },
         {
+            "asn": "AS4242420780",
+            "prefix": "fde3:8334:267e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "UFFSALOT-MNT"
+        },
+        {
             "asn": "AS4242423004",
             "prefix": "fde3:a7e3:7957::/48",
             "maxLength": 64,
@@ -10842,6 +10849,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "N0EMIS-MNT"
+        },
+        {
+            "asn": "AS4242420780",
+            "prefix": "172.20.191.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "UFFSALOT-MNT"
         },
         {
             "asn": "AS4242423393",
@@ -16697,8 +16711,8 @@
         }
     ],
     "metadata": {
-        "counts": 2385,
-        "generated": 1599131366,
-        "valid": 1599563366
+        "counts": 2387,
+        "generated": 1599160170,
+        "valid": 1599592170
     }
 }
