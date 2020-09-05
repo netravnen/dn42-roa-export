@@ -4439,6 +4439,13 @@
             "mnt-by": "GIN42-MNT"
         },
         {
+            "asn": "AS4242423740",
+            "prefix": "fd75:fd19:617d::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ROBOBO-MNT"
+        },
+        {
             "asn": "AS4242420003",
             "prefix": "fd76:b436:28bc::/48",
             "maxLength": 64,
@@ -16486,6 +16493,13 @@
             "mnt-by": "HADRILL-MNT"
         },
         {
+            "asn": "AS4242423740",
+            "prefix": "172.23.5.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ROBOBO-MNT"
+        },
+        {
             "asn": "AS4242423925",
             "prefix": "172.23.50.0/26",
             "maxLength": 28,
@@ -16711,8 +16725,8 @@
         }
     ],
     "metadata": {
-        "counts": 2387,
-        "generated": 1599282561,
-        "valid": 1599714561
+        "counts": 2389,
+        "generated": 1599304169,
+        "valid": 1599736169
     }
 }
