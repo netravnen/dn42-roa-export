@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d9614594df1230404fe16bf0f815ba70c8414dfd
-Merge: 4bf3d4c0 9691d1af
-Date:   2020-09-07 14:23:34 +0000
+Commit cf8e61b3507333eeabcdd117f79d462860246d7a
+Merge: 321e474b 9f603db5
+Date:   2020-09-08 19:37:55 +0000
 
-    Merge pull request 'Replaced lost GPG key.' (#172) from memchk-20200906/updatekeys into master
+    Merge pull request 'Update AS134098 source to be APNIC' (#170) from burble-20200906/fix-AS134098 into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1077
 - ROAs total: 2389
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d9614594df1230404fe16bf0f815ba70c8414dfd
+[0]: https://git.dn42.dev/dn42/registry/commit/cf8e61b3507333eeabcdd117f79d462860246d7a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
