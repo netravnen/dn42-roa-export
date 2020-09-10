@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit cf8e61b3507333eeabcdd117f79d462860246d7a
-Merge: 321e474b 9f603db5
-Date:   2020-09-08 19:37:55 +0000
+Commit 9166c7d35d5037cc4afc04864c36cd591ee3e617
+Merge: cf8e61b3 0b0954e4
+Date:   2020-09-10 08:04:43 +0000
 
-    Merge pull request 'Update AS134098 source to be APNIC' (#170) from burble-20200906/fix-AS134098 into master
+    Merge pull request 'add AS213262' (#169) from moe/registry:moe-20200906/addasn into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1077
 - ROAs total: 2389
 
-[0]: https://git.dn42.dev/dn42/registry/commit/cf8e61b3507333eeabcdd117f79d462860246d7a
+[0]: https://git.dn42.dev/dn42/registry/commit/9166c7d35d5037cc4afc04864c36cd591ee3e617
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
