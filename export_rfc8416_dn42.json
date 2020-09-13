@@ -1548,6 +1548,13 @@
                 "mnt-by": "ALS7-MNT"
             },
             {
+                "asn": 4242421207,
+                "prefix": "fd34:afbb:3200::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SECRETMINE-MNT"
+            },
+            {
                 "asn": 4242420909,
                 "prefix": "fd34:fe56:7891::/48",
                 "maxPrefixLength": 64,
@@ -14986,6 +14993,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SCHRODINGER-MNT"
+            },
+            {
+                "asn": 4242421207,
+                "prefix": "172.22.66.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SECRETMINE-MNT"
             },
             {
                 "asn": 4242421888,

@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 5bdea8b599b907638bbe51750a9169ccdde2f085
-Merge: 9166c7d3 37b910c7
-Date:   2020-09-11 11:18:52 +0000
+Commit 8a0f85c3da9e3114bb2967f965369f56c3b6aed2
+Merge: 5bdea8b5 6030b53d
+Date:   2020-09-13 15:21:58 +0000
 
-    Merge pull request 'irr record update + Add ASN140913 + Data change' (#173) from icecat/registry:icecat/irr into master
+    Merge pull request 'Add AS4242421207' (#174) from SecretMineDE-20200913/register-as into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1312
-- ROAs IPv6:  1077
-- ROAs total: 2389
+- ROAs IPv4:  1313
+- ROAs IPv6:  1078
+- ROAs total: 2391
 
-[0]: https://git.dn42.dev/dn42/registry/commit/5bdea8b599b907638bbe51750a9169ccdde2f085
+[0]: https://git.dn42.dev/dn42/registry/commit/8a0f85c3da9e3114bb2967f965369f56c3b6aed2
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
