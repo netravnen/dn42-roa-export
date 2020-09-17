@@ -6119,6 +6119,13 @@
             "mnt-by": "MITORAJ-MNT"
         },
         {
+            "asn": "AS4242422327",
+            "prefix": "fdc8:6f52:c4fe::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "XELZA-MNT"
+        },
+        {
             "asn": "AS64870",
             "prefix": "fdc8:8a2:b198::/48",
             "maxLength": 64,
@@ -15380,6 +15387,13 @@
             "mnt-by": "A2X-MNT"
         },
         {
+            "asn": "AS4242422327",
+            "prefix": "172.23.111.64/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "XELZA-MNT"
+        },
+        {
             "asn": "AS4242420905",
             "prefix": "172.23.116.0/26",
             "maxLength": 28,
@@ -16753,8 +16767,8 @@
         }
     ],
     "metadata": {
-        "counts": 2393,
-        "generated": 1600319368,
-        "valid": 1600751368
+        "counts": 2395,
+        "generated": 1600340970,
+        "valid": 1600772970
     }
 }
