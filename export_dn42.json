@@ -4376,6 +4376,13 @@
             "mnt-by": "LILLECARL-MNT"
         },
         {
+            "asn": "AS4242423859",
+            "prefix": "fd71:cfc3:9259:6935::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SVINSON-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd71:fd89:c4f0:6ea6::/64",
             "maxLength": 64,
@@ -11495,6 +11502,13 @@
             "mnt-by": "R33INT-MNT"
         },
         {
+            "asn": "AS4242423859",
+            "prefix": "172.20.231.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SVINSON-MNT"
+        },
+        {
             "asn": "AS4242429969",
             "prefix": "172.20.232.0/27",
             "maxLength": 28,
@@ -16739,8 +16753,8 @@
         }
     ],
     "metadata": {
-        "counts": 2391,
-        "generated": 1600283377,
-        "valid": 1600715377
+        "counts": 2393,
+        "generated": 1600319368,
+        "valid": 1600751368
     }
 }

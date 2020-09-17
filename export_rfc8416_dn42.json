@@ -4383,6 +4383,13 @@
                 "mnt-by": "LILLECARL-MNT"
             },
             {
+                "asn": 4242423859,
+                "prefix": "fd71:cfc3:9259:6935::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SVINSON-MNT"
+            },
+            {
                 "asn": 4242420017,
                 "prefix": "fd71:fd89:c4f0:6ea6::/64",
                 "maxPrefixLength": 64,
@@ -11500,6 +11507,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "R33INT-MNT"
+            },
+            {
+                "asn": 4242423859,
+                "prefix": "172.20.231.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SVINSON-MNT"
             },
             {
                 "asn": 4242429969,
