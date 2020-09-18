@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit f2bfa3144ab5ac2c1f9713ec97daa6d5663bf278
-Merge: b623e64c 46227223
-Date:   2020-09-17 09:51:00 +0000
+Commit a0c4c4c36aefc3aab529ed0e85bc270549789766
+Merge: f2bfa314 2adddd57
+Date:   2020-09-17 20:34:22 +0000
 
-    Merge pull request 'Add AS4242422327' (#178) from Nikitoshi/registry:master into master
+    Merge pull request 'Add yura.dn42 and rdns for yura's prefixes' (#179) from yura/registry:yura-20200917/add-ns-server-and-domain into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1080
 - ROAs total: 2395
 
-[0]: https://git.dn42.dev/dn42/registry/commit/f2bfa3144ab5ac2c1f9713ec97daa6d5663bf278
+[0]: https://git.dn42.dev/dn42/registry/commit/a0c4c4c36aefc3aab529ed0e85bc270549789766
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
