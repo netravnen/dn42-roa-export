@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 885e60782a5a107fa3026866740ba048690fd67a
-Merge: a0c4c4c3 d4d0f979
-Date:   2020-09-18 18:06:17 +0000
+Commit fa75958a17b2f3187ecacf9136e98b059e52181d
+Merge: 885e6078 189ad58f
+Date:   2020-09-19 15:25:56 +0000
 
-    Merge pull request 'Update credentials and add DNSSEC DS records' (#181) from liangjw/registry:update-info-09182020 into master
+    Merge pull request 'legacy-ip: get a /28 for extended nexthops + DNS64/NAT64' (#182) from RaitoBezarius-20200918/raitonet-ipvb4 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1315
+- ROAs IPv4:  1316
 - ROAs IPv6:  1080
-- ROAs total: 2395
+- ROAs total: 2396
 
-[0]: https://git.dn42.dev/dn42/registry/commit/885e60782a5a107fa3026866740ba048690fd67a
+[0]: https://git.dn42.dev/dn42/registry/commit/fa75958a17b2f3187ecacf9136e98b059e52181d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -15653,6 +15653,13 @@
                 "mnt-by": "SKUSAVI-MNT"
             },
             {
+                "asn": 4242421457,
+                "prefix": "172.23.151.160/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RAITO-MNT"
+            },
+            {
                 "asn": 4242420415,
                 "prefix": "172.23.151.192/27",
                 "maxPrefixLength": 28,

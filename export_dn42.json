@@ -15646,6 +15646,13 @@
             "mnt-by": "SKUSAVI-MNT"
         },
         {
+            "asn": "AS4242421457",
+            "prefix": "172.23.151.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RAITO-MNT"
+        },
+        {
             "asn": "AS4242420415",
             "prefix": "172.23.151.192/27",
             "maxLength": 28,
@@ -16767,8 +16774,8 @@
         }
     ],
     "metadata": {
-        "counts": 2395,
-        "generated": 1600513773,
-        "valid": 1600945773
+        "counts": 2396,
+        "generated": 1600542588,
+        "valid": 1600974588
     }
 }
