@@ -3137,6 +3137,13 @@
             "mnt-by": "MAJOR-MNT"
         },
         {
+            "asn": "AS4242420750",
+            "prefix": "fd42:cccc:eeee::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TRIHOP-MNT"
+        },
+        {
             "asn": "AS4242420418",
             "prefix": "fd42:cd49:2dd2::/48",
             "maxLength": 64,
@@ -13910,6 +13917,13 @@
             "mnt-by": "AVE-MNT"
         },
         {
+            "asn": "AS4242420750",
+            "prefix": "172.22.122.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TRIHOP-MNT"
+        },
+        {
             "asn": "AS4242422843",
             "prefix": "172.22.122.64/27",
             "maxLength": 28,
@@ -16774,8 +16788,8 @@
         }
     ],
     "metadata": {
-        "counts": 2396,
-        "generated": 1600542588,
-        "valid": 1600974588
+        "counts": 2398,
+        "generated": 1600578574,
+        "valid": 1601010574
     }
 }
