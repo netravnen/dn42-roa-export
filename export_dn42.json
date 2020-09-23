@@ -827,13 +827,6 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270007",
-            "prefix": "fd10:127:ffff:53::/64",
-            "maxLength": 64,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS64894",
             "prefix": "fd10:2ea2:4dae::/48",
             "maxLength": 64,
@@ -7967,13 +7960,6 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270007",
-            "prefix": "10.127.255.2/32",
-            "maxLength": 32,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS4201270000",
             "prefix": "10.127.255.4/32",
             "maxLength": 32,
@@ -7982,13 +7968,6 @@
         },
         {
             "asn": "AS4201270006",
-            "prefix": "10.127.255.53/32",
-            "maxLength": 32,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4201270007",
             "prefix": "10.127.255.53/32",
             "maxLength": 32,
             "ta": "NEONETWORK",
@@ -16844,8 +16823,8 @@
         }
     ],
     "metadata": {
-        "counts": 2406,
-        "generated": 1600837770,
-        "valid": 1601269770
+        "counts": 2403,
+        "generated": 1600859371,
+        "valid": 1601291371
     }
 }
