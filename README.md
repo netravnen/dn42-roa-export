@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e6caa0386b65dee9f1570d1e2dfd9881c72e8837
-Merge: e3b0cddf ca4c5545
-Date:   2020-09-22 20:49:02 +0000
+Commit 2422800774cbdf2f8e800fdbcc4e121c3b1d2a5e
+Merge: 77dc6f16 b32e3cc8
+Date:   2020-09-24 20:09:23 +0000
 
-    Merge pull request 'Added some remarks/descriptions & DNS domain delegation' (#186) from tomkap-20200922/objects_changes into master
+    Merge pull request 'xuu-20200924/cleanup-dns' (#188) from xuu-20200924/cleanup-dns into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1082
 - ROAs total: 2402
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e6caa0386b65dee9f1570d1e2dfd9881c72e8837
+[0]: https://git.dn42.dev/dn42/registry/commit/2422800774cbdf2f8e800fdbcc4e121c3b1d2a5e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
