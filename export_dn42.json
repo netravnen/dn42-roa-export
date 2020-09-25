@@ -1037,6 +1037,13 @@
             "mnt-by": "TOMBII-DN42-MNT"
         },
         {
+            "asn": "AS4242421401",
+            "prefix": "fd1a:91bf:fc44::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JUNICAST-MNT"
+        },
+        {
             "asn": "AS4242423759",
             "prefix": "fd1b:4ad0:c526::/48",
             "maxLength": 64,
@@ -16045,6 +16052,13 @@
             "mnt-by": "HFULLER-MNT"
         },
         {
+            "asn": "AS4242421401",
+            "prefix": "172.23.193.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JUNICAST-MNT"
+        },
+        {
             "asn": "AS64623",
             "prefix": "172.23.194.0/23",
             "maxLength": 28,
@@ -16816,8 +16830,8 @@
         }
     ],
     "metadata": {
-        "counts": 2402,
-        "generated": 1601032163,
-        "valid": 1601464163
+        "counts": 2404,
+        "generated": 1601060971,
+        "valid": 1601492971
     }
 }
