@@ -5076,6 +5076,13 @@
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
+                "asn": 4242420308,
+                "prefix": "fd98:308:41fc::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VILLISEK-MNT"
+            },
+            {
                 "asn": 4242422647,
                 "prefix": "fd98:de34:62e8::/48",
                 "maxPrefixLength": 48,
@@ -9792,6 +9799,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DCR-MNT"
+            },
+            {
+                "asn": 4242420308,
+                "prefix": "172.20.149.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VILLISEK-MNT"
             },
             {
                 "asn": 4242423322,

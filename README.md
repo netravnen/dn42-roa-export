@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d6b2f84b82d1af557e0ac5141df0ec9f58fd263b
-Merge: 1375b7fa 0f637d86
-Date:   2020-09-25 17:30:06 +0000
+Commit ae8db6748d19a8a06e0a02cda071127ba115be3a
+Merge: 3b504259 90cece58
+Date:   2020-09-26 17:40:44 +0000
 
-    Merge pull request 'initial commit as new user junicast' (#189) from junicast-20200925/newuser into master
+    Merge pull request 'Add reverse DNS on androw prefixes' (#191) from androw-20200926/reverse into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1321
-- ROAs IPv6:  1083
-- ROAs total: 2404
+- ROAs IPv4:  1322
+- ROAs IPv6:  1084
+- ROAs total: 2406
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d6b2f84b82d1af557e0ac5141df0ec9f58fd263b
+[0]: https://git.dn42.dev/dn42/registry/commit/ae8db6748d19a8a06e0a02cda071127ba115be3a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
