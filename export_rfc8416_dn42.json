@@ -6077,6 +6077,13 @@
                 "mnt-by": "HAHA-MNT"
             },
             {
+                "asn": 4242422216,
+                "prefix": "fdc5:de8a:b004::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FP-MNT"
+            },
+            {
                 "asn": 4242423516,
                 "prefix": "fdc5:ed74:2222::/48",
                 "maxPrefixLength": 64,
@@ -14279,6 +14286,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "POMOKE-MNT"
+            },
+            {
+                "asn": 4242422216,
+                "prefix": "172.22.137.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FP-MNT"
             },
             {
                 "asn": 4242422850,

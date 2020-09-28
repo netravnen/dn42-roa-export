@@ -6070,6 +6070,13 @@
             "mnt-by": "HAHA-MNT"
         },
         {
+            "asn": "AS4242422216",
+            "prefix": "fdc5:de8a:b004::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FP-MNT"
+        },
+        {
             "asn": "AS4242423516",
             "prefix": "fdc5:ed74:2222::/48",
             "maxLength": 64,
@@ -14274,6 +14281,13 @@
             "mnt-by": "POMOKE-MNT"
         },
         {
+            "asn": "AS4242422216",
+            "prefix": "172.22.137.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FP-MNT"
+        },
+        {
             "asn": "AS4242422850",
             "prefix": "172.22.137.96/27",
             "maxLength": 28,
@@ -16872,8 +16886,8 @@
         }
     ],
     "metadata": {
-        "counts": 2410,
-        "generated": 1601233764,
-        "valid": 1601665764
+        "counts": 2412,
+        "generated": 1601269772,
+        "valid": 1601701772
     }
 }
