@@ -11971,6 +11971,13 @@
             "mnt-by": "PZWA-MNT"
         },
         {
+            "asn": "AS4242421974",
+            "prefix": "172.20.32.112/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BUDDY-MNT"
+        },
+        {
             "asn": "AS4242420798",
             "prefix": "172.20.32.16/28",
             "maxLength": 28,
@@ -16886,8 +16893,8 @@
         }
     ],
     "metadata": {
-        "counts": 2412,
-        "generated": 1601269772,
-        "valid": 1601701772
+        "counts": 2413,
+        "generated": 1601291370,
+        "valid": 1601723370
     }
 }
