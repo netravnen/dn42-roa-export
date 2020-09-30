@@ -4348,6 +4348,13 @@
                 "mnt-by": "MANI-MNT"
             },
             {
+                "asn": 4242421913,
+                "prefix": "fd6e:3ad1:1722::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SHOGHI-MNT"
+            },
+            {
                 "asn": 4242421589,
                 "prefix": "fd6e:9f67:5d93::/48",
                 "maxPrefixLength": 64,
@@ -6103,6 +6110,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "DROPBEAR-MNT"
+            },
+            {
+                "asn": 4242423376,
+                "prefix": "fdc6:9675:ebda::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VICTOR-MNT"
             },
             {
                 "asn": 65242,
@@ -12132,6 +12146,13 @@
                 "mnt-by": "JOSENG-MNT"
             },
             {
+                "asn": 4242423376,
+                "prefix": "172.20.39.80/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VICTOR-MNT"
+            },
+            {
                 "asn": 4242423615,
                 "prefix": "172.20.39.96/27",
                 "maxPrefixLength": 28,
@@ -13705,6 +13726,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FL-MNT"
+            },
+            {
+                "asn": 4242421913,
+                "prefix": "172.22.105.96/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SHOGHI-MNT"
             },
             {
                 "asn": 4242420077,
