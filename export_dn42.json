@@ -645,6 +645,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS64752",
+            "prefix": "fd10:1074:41f6::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ALLO-MNT"
+        },
+        {
             "asn": "AS4201270010",
             "prefix": "fd10:127:10::/48",
             "maxLength": 64,
@@ -1651,6 +1658,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "TRACE-MNT"
+        },
+        {
+            "asn": "AS4242423055",
+            "prefix": "fd3b:1784:edbb::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "PZTRN-MNT"
         },
         {
             "asn": "AS4242422379",
@@ -14225,6 +14239,13 @@
             "mnt-by": "CALLUM-MNT"
         },
         {
+            "asn": "AS4242423055",
+            "prefix": "172.22.132.128/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PZTRN-MNT"
+        },
+        {
             "asn": "AS4242422128",
             "prefix": "172.22.132.64/28",
             "maxLength": 28,
@@ -16921,8 +16942,8 @@
         }
     ],
     "metadata": {
-        "counts": 2417,
-        "generated": 1601636964,
-        "valid": 1602068964
+        "counts": 2420,
+        "generated": 1601665775,
+        "valid": 1602097775
     }
 }
