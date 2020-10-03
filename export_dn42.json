@@ -11964,6 +11964,13 @@
             "mnt-by": "BARROW-MNT"
         },
         {
+            "asn": "AS4242423059",
+            "prefix": "172.20.29.96/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WP140Z-MNT"
+        },
+        {
             "asn": "AS4242420467",
             "prefix": "172.20.3.0/24",
             "maxLength": 28,
@@ -16942,8 +16949,8 @@
         }
     ],
     "metadata": {
-        "counts": 2420,
-        "generated": 1601723364,
-        "valid": 1602155364
+        "counts": 2421,
+        "generated": 1601752170,
+        "valid": 1602184170
     }
 }
