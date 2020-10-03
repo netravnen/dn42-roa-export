@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit a4ab461f4a4e1da52411fa89ee563193aba02e7f
-Merge: 7ab03ce0 3b888bec
-Date:   2020-10-02 18:35:58 +0000
+Commit af09af8be0ca8a9329d7bb1f841831d90af449ef
+Merge: 9dda0e3f 4cbb6ad1
+Date:   2020-10-02 21:20:08 +0000
 
-    Merge pull request 'Add 'data/route6/fd10:1074:41f6::_48'' (#200) from allo-20201002/route6 into master
+    Merge pull request 'Change DUMMY-MNT to ALLO-MNT for fd10:1074:41f6::_48' (#202) from allo-20201002/mnt into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1091
 - ROAs total: 2420
 
-[0]: https://git.dn42.dev/dn42/registry/commit/a4ab461f4a4e1da52411fa89ee563193aba02e7f
+[0]: https://git.dn42.dev/dn42/registry/commit/af09af8be0ca8a9329d7bb1f841831d90af449ef
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
