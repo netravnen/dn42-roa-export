@@ -1422,6 +1422,13 @@
                 "mnt-by": "STATHIS-MNT"
             },
             {
+                "asn": 4242420750,
+                "prefix": "fd2a:edfd:6bae::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TRIHOP-MNT"
+            },
+            {
                 "asn": 4242423918,
                 "prefix": "fd2c:2fa3:62f1::/48",
                 "maxPrefixLength": 64,
@@ -3184,13 +3191,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MAJOR-MNT"
-            },
-            {
-                "asn": 4242420750,
-                "prefix": "fd42:cccc:eeee::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "TRIHOP-MNT"
             },
             {
                 "asn": 4242420418,

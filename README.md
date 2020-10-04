@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8ddbbc23779d151be1f13577d5208320c5cc97ae
-Merge: af09af8b 872d25a3
-Date:   2020-10-03 18:17:13 +0000
+Commit 66effc285cfbc83b922942e438da5b31fc6cb739
+Merge: bacb1102 00222655
+Date:   2020-10-03 19:37:00 +0000
 
-    Merge pull request 'wp140z joins dn42' (#203) from wp140z-20201002/add-wp140z-net into master
+    Merge pull request 'Changing IPv6, Adding Domain/DNS' (#204) from erderr-20201003/dns into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1091
 - ROAs total: 2421
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8ddbbc23779d151be1f13577d5208320c5cc97ae
+[0]: https://git.dn42.dev/dn42/registry/commit/66effc285cfbc83b922942e438da5b31fc6cb739
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
