@@ -4152,6 +4152,27 @@
                 "mnt-by": "DONUTS-MNT"
             },
             {
+                "asn": 64654,
+                "prefix": "fd63:1e39:6f73:2929::/64",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422718,
+                "prefix": "fd63:1e39:6f73:2929::/64",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422480,
+                "prefix": "fd63:1e39:6f73:2929::/64",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64697,
                 "prefix": "fd63:1e39:6f73::/48",
                 "maxPrefixLength": 64,

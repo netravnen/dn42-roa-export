@@ -4145,6 +4145,27 @@
             "mnt-by": "DONUTS-MNT"
         },
         {
+            "asn": "AS64654",
+            "prefix": "fd63:1e39:6f73:2929::/64",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242422718",
+            "prefix": "fd63:1e39:6f73:2929::/64",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242422480",
+            "prefix": "fd63:1e39:6f73:2929::/64",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64697",
             "prefix": "fd63:1e39:6f73::/48",
             "maxLength": 64,
@@ -16949,8 +16970,8 @@
         }
     ],
     "metadata": {
-        "counts": 2421,
-        "generated": 1601874565,
-        "valid": 1602306565
+        "counts": 2424,
+        "generated": 1601896170,
+        "valid": 1602328170
     }
 }
