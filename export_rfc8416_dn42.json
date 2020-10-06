@@ -1051,6 +1051,13 @@
                 "mnt-by": "CLEMENT-MNT"
             },
             {
+                "asn": 4242421550,
+                "prefix": "fd19:11ec:bed7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BISCUITTIN-MNT"
+            },
+            {
                 "asn": 4242423850,
                 "prefix": "fd19:d101:719a::/48",
                 "maxPrefixLength": 64,
@@ -9330,6 +9337,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LL-MNT"
+            },
+            {
+                "asn": 4242421550,
+                "prefix": "172.20.12.144/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "BISCUITTIN-MNT"
             },
             {
                 "asn": 4242421470,
