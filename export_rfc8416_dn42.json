@@ -3606,6 +3606,13 @@
                 "mnt-by": "ANDROW-MNT"
             },
             {
+                "asn": 4242421149,
+                "prefix": "fd45:2e33:411e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DEPACH-MNT"
+            },
+            {
                 "asn": 4242423620,
                 "prefix": "fd46:972a:903b::/48",
                 "maxPrefixLength": 64,
@@ -4612,6 +4619,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TSHDW-MNT"
+            },
+            {
+                "asn": 4242423114,
+                "prefix": "fd7b:7879:70d5::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "WSLSHT-MNT"
             },
             {
                 "asn": 4242423692,
@@ -14377,6 +14391,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FP-MNT"
+            },
+            {
+                "asn": 4242421149,
+                "prefix": "172.22.137.64/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "DEPACH-MNT"
             },
             {
                 "asn": 4242422850,
