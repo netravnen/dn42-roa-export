@@ -6532,6 +6532,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423533,
+                "prefix": "fdd3:aff7:633e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NYANOTECH-MNT"
+            },
+            {
                 "asn": 4242421232,
                 "prefix": "fdd3:ca1e:a110::/48",
                 "maxPrefixLength": 64,

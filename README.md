@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d96dee0b315919a597e9cd3f8b0b9f976c842a98
-Merge: 24f84710 48d1e4fe
-Date:   2020-10-06 09:01:40 +0000
+Commit 6dddd860baf24c0f0053fb63b8417f5fd9abe477
+Merge: d96dee0b 9a83758e
+Date:   2020-10-07 21:22:52 +0000
 
-    Merge pull request 'Biscuit Tin joins DN42 as AS4242421550' (#207) from KexyBiscuit-20201005/initial into master
+    Merge pull request 'nyanotech/AS4242423533: initial commit' (#216) from nyanotech-20201007/init into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1332
-- ROAs IPv6:  1097
-- ROAs total: 2429
+- ROAs IPv6:  1098
+- ROAs total: 2430
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d96dee0b315919a597e9cd3f8b0b9f976c842a98
+[0]: https://git.dn42.dev/dn42/registry/commit/6dddd860baf24c0f0053fb63b8417f5fd9abe477
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
