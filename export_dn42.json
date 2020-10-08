@@ -6525,6 +6525,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420380",
+            "prefix": "fdd3:8430:5ba1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FRALINSKY-MNT"
+        },
+        {
             "asn": "AS4242423533",
             "prefix": "fdd3:aff7:633e::/48",
             "maxLength": 48,
@@ -12321,6 +12328,13 @@
             "mnt-by": "FLAMESRUNNER-MNT"
         },
         {
+            "asn": "AS4242420380",
+            "prefix": "172.20.44.0/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FRALINSKY-MNT"
+        },
+        {
             "asn": "AS4242421341",
             "prefix": "172.20.45.0/28",
             "maxLength": 28,
@@ -17012,8 +17026,8 @@
         }
     ],
     "metadata": {
-        "counts": 2430,
-        "generated": 1602155364,
-        "valid": 1602587364
+        "counts": 2432,
+        "generated": 1602184171,
+        "valid": 1602616171
     }
 }
