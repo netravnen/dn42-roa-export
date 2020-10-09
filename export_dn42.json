@@ -1401,6 +1401,13 @@
             "mnt-by": "BABBLE-MNT"
         },
         {
+            "asn": "AS4242423928",
+            "prefix": "fd29:612d:9dd1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TOPSARUN-MNT"
+        },
+        {
             "asn": "AS4242423805",
             "prefix": "fd2a:1805:30::/48",
             "maxLength": 64,
@@ -1763,6 +1770,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NOP-MNT"
+        },
+        {
+            "asn": "AS4242420216",
+            "prefix": "fd40:aac4:93b0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HELCAR-MNT"
         },
         {
             "asn": "AS4242420134",
@@ -4983,6 +4997,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "PHIIVO-MNT"
+        },
+        {
+            "asn": "AS4242422008",
+            "prefix": "fd91:5e17:f5f8::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JAYWIRE-MNT"
         },
         {
             "asn": "AS4242420524",
@@ -11957,6 +11978,13 @@
             "mnt-by": "AGH-MNT"
         },
         {
+            "asn": "AS4242420216",
+            "prefix": "172.20.28.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HELCAR-MNT"
+        },
+        {
             "asn": "AS4242423331",
             "prefix": "172.20.28.32/27",
             "maxLength": 28,
@@ -14230,6 +14258,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HEXXNET-MNT"
+        },
+        {
+            "asn": "AS4242422008",
+            "prefix": "172.22.128.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JAYWIRE-MNT"
         },
         {
             "asn": "AS4242423266",
@@ -17026,8 +17061,8 @@
         }
     ],
     "metadata": {
-        "counts": 2432,
-        "generated": 1602241762,
-        "valid": 1602673762
+        "counts": 2437,
+        "generated": 1602270570,
+        "valid": 1602702570
     }
 }

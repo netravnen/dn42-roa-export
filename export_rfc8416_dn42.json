@@ -1408,6 +1408,13 @@
                 "mnt-by": "BABBLE-MNT"
             },
             {
+                "asn": 4242423928,
+                "prefix": "fd29:612d:9dd1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TOPSARUN-MNT"
+            },
+            {
                 "asn": 4242423805,
                 "prefix": "fd2a:1805:30::/48",
                 "maxPrefixLength": 64,
@@ -1770,6 +1777,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NOP-MNT"
+            },
+            {
+                "asn": 4242420216,
+                "prefix": "fd40:aac4:93b0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HELCAR-MNT"
             },
             {
                 "asn": 4242420134,
@@ -4990,6 +5004,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "PHIIVO-MNT"
+            },
+            {
+                "asn": 4242422008,
+                "prefix": "fd91:5e17:f5f8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JAYWIRE-MNT"
             },
             {
                 "asn": 4242420524,
@@ -11964,6 +11985,13 @@
                 "mnt-by": "AGH-MNT"
             },
             {
+                "asn": 4242420216,
+                "prefix": "172.20.28.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HELCAR-MNT"
+            },
+            {
                 "asn": 4242423331,
                 "prefix": "172.20.28.32/27",
                 "maxPrefixLength": 28,
@@ -14237,6 +14265,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HEXXNET-MNT"
+            },
+            {
+                "asn": 4242422008,
+                "prefix": "172.22.128.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JAYWIRE-MNT"
             },
             {
                 "asn": 4242423266,
