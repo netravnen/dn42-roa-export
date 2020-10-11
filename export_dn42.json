@@ -4117,6 +4117,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242423014",
+            "prefix": "fd60:aa43:907d::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242423852",
             "prefix": "fd62:172:23:125::/64",
             "maxLength": 64,
@@ -14190,7 +14197,7 @@
             "mnt-by": "GCC-MNT"
         },
         {
-            "asn": "AS4242420180",
+            "asn": "AS4242423014",
             "prefix": "172.22.124.16/28",
             "maxLength": 28,
             "ta": "DN42",
@@ -17061,8 +17068,8 @@
         }
     ],
     "metadata": {
-        "counts": 2437,
-        "generated": 1602356964,
-        "valid": 1602788964
+        "counts": 2438,
+        "generated": 1602392970,
+        "valid": 1602824970
     }
 }
