@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 37e7afb45db2d3192c7dee1211e8ab093d4b05a6
-Merge: 7e4bb61d 0840b0ce
-Date:   2020-10-10 21:00:08 +0000
+Commit dba14331a6235e8b9fc8e8a57223af7ef6f6e855
+Merge: 37e7afb4 3e6a04aa
+Date:   2020-10-11 18:40:28 +0000
 
-    Merge pull request 'update my email' (#222) from topsarun-20201010/change into master
+    Merge pull request 'Added nameserver for livid.dn42' (#223) from alwayslivid/registry:master into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1103
 - ROAs total: 2438
 
-[0]: https://git.dn42.dev/dn42/registry/commit/37e7afb45db2d3192c7dee1211e8ab093d4b05a6
+[0]: https://git.dn42.dev/dn42/registry/commit/dba14331a6235e8b9fc8e8a57223af7ef6f6e855
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
