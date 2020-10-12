@@ -1017,6 +1017,13 @@
         },
         {
             "asn": "AS4242421233",
+            "prefix": "fd18:18d9:adde:80::/58",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATR-MNT"
+        },
+        {
+            "asn": "AS4242421233",
             "prefix": "fd18:18d9:adde::/48",
             "maxLength": 64,
             "ta": "DN42",
@@ -12363,6 +12370,13 @@
             "mnt-by": "FLAMESRUNNER-MNT"
         },
         {
+            "asn": "AS4242423928",
+            "prefix": "172.20.42.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TOPSARUN-MNT"
+        },
+        {
             "asn": "AS4242420380",
             "prefix": "172.20.44.0/28",
             "maxLength": 28,
@@ -17068,8 +17082,8 @@
         }
     ],
     "metadata": {
-        "counts": 2438,
-        "generated": 1602500966,
-        "valid": 1602932966
+        "counts": 2440,
+        "generated": 1602529771,
+        "valid": 1602961771
     }
 }

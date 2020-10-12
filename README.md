@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit dba14331a6235e8b9fc8e8a57223af7ef6f6e855
-Merge: 37e7afb4 3e6a04aa
-Date:   2020-10-11 18:40:28 +0000
+Commit 10e03edd2cd98db3a9d1a851f0362d54f7747ffd
+Merge: 5dcc75e8 b6bcf800
+Date:   2020-10-12 17:31:47 +0000
 
-    Merge pull request 'Added nameserver for livid.dn42' (#223) from alwayslivid/registry:master into master
+    Merge pull request 'ATR-MNT: reassign network for updated usage' (#226) from AstroProfundis/registry:adjust-network into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1335
-- ROAs IPv6:  1103
-- ROAs total: 2438
+- ROAs IPv4:  1336
+- ROAs IPv6:  1104
+- ROAs total: 2440
 
-[0]: https://git.dn42.dev/dn42/registry/commit/dba14331a6235e8b9fc8e8a57223af7ef6f6e855
+[0]: https://git.dn42.dev/dn42/registry/commit/10e03edd2cd98db3a9d1a851f0362d54f7747ffd
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

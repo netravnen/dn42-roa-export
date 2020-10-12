@@ -1024,6 +1024,13 @@
             },
             {
                 "asn": 4242421233,
+                "prefix": "fd18:18d9:adde:80::/58",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATR-MNT"
+            },
+            {
+                "asn": 4242421233,
                 "prefix": "fd18:18d9:adde::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
@@ -12368,6 +12375,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "FLAMESRUNNER-MNT"
+            },
+            {
+                "asn": 4242423928,
+                "prefix": "172.20.42.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TOPSARUN-MNT"
             },
             {
                 "asn": 4242420380,
