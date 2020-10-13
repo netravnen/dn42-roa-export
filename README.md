@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 10e03edd2cd98db3a9d1a851f0362d54f7747ffd
-Merge: 5dcc75e8 b6bcf800
-Date:   2020-10-12 17:31:47 +0000
+Commit 2bb9bcb717ef04e5cfbeb62cd58147b8afa3d49d
+Merge: 979146c1 18f88be8
+Date:   2020-10-13 14:22:12 +0000
 
-    Merge pull request 'ATR-MNT: reassign network for updated usage' (#226) from AstroProfundis/registry:adjust-network into master
+    Merge pull request 'Domain registration' (#229) from fralinsky/registry:master into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1104
 - ROAs total: 2440
 
-[0]: https://git.dn42.dev/dn42/registry/commit/10e03edd2cd98db3a9d1a851f0362d54f7747ffd
+[0]: https://git.dn42.dev/dn42/registry/commit/2bb9bcb717ef04e5cfbeb62cd58147b8afa3d49d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
