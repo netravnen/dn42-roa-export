@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit b9d0913ede7d58db41600d8bf05f95db70d53f0a
-Merge: 2bb9bcb7 2b00b19c
-Date:   2020-10-13 20:44:17 +0000
+Commit ceca51bec4d64617aa20eeea2f97f8f3386d24da
+Merge: b9d0913e b5d12345
+Date:   2020-10-14 16:54:16 +0000
 
-    Merge pull request 'modify wp140z-mnt file for DN42 CA verification' (#230) from wp140z-20201013/ca-mnt-verification into master
+    Merge pull request 'Set max-length for my route6 to /56' (#231) from jlu5-20201013/update-maxlen into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1104
 - ROAs total: 2440
 
-[0]: https://git.dn42.dev/dn42/registry/commit/b9d0913ede7d58db41600d8bf05f95db70d53f0a
+[0]: https://git.dn42.dev/dn42/registry/commit/ceca51bec4d64617aa20eeea2f97f8f3386d24da
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

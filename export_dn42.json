@@ -4861,7 +4861,7 @@
         {
             "asn": "AS4242421080",
             "prefix": "fd86:bad:11b7::/48",
-            "maxLength": 48,
+            "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "JLU5-MNT"
         },
@@ -17083,7 +17083,7 @@
     ],
     "metadata": {
         "counts": 2440,
-        "generated": 1602673765,
-        "valid": 1603105765
+        "generated": 1602702571,
+        "valid": 1603134571
     }
 }
