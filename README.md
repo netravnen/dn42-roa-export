@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 2bb9bcb717ef04e5cfbeb62cd58147b8afa3d49d
-Merge: 979146c1 18f88be8
-Date:   2020-10-13 14:22:12 +0000
+Commit b9d0913ede7d58db41600d8bf05f95db70d53f0a
+Merge: 2bb9bcb7 2b00b19c
+Date:   2020-10-13 20:44:17 +0000
 
-    Merge pull request 'Domain registration' (#229) from fralinsky/registry:master into master
+    Merge pull request 'modify wp140z-mnt file for DN42 CA verification' (#230) from wp140z-20201013/ca-mnt-verification into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1104
 - ROAs total: 2440
 
-[0]: https://git.dn42.dev/dn42/registry/commit/2bb9bcb717ef04e5cfbeb62cd58147b8afa3d49d
+[0]: https://git.dn42.dev/dn42/registry/commit/b9d0913ede7d58db41600d8bf05f95db70d53f0a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
