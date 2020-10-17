@@ -4642,6 +4642,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242421974",
+            "prefix": "fd7a:6aba:ee00::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BUDDY-MNT"
+        },
+        {
             "asn": "AS4242420176",
             "prefix": "fd7a:c01e:db7c::/48",
             "maxLength": 64,
@@ -10688,6 +10695,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "LZ1OPS-MNT"
+        },
+        {
+            "asn": "AS4242422204",
+            "prefix": "172.20.174.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "REACT-MNT"
         },
         {
             "asn": "AS4242422666",
@@ -17082,8 +17096,8 @@
         }
     ],
     "metadata": {
-        "counts": 2440,
-        "generated": 1602932963,
-        "valid": 1603364963
+        "counts": 2442,
+        "generated": 1602961772,
+        "valid": 1603393772
     }
 }

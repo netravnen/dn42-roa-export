@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit ceca51bec4d64617aa20eeea2f97f8f3386d24da
-Merge: b9d0913e b5d12345
-Date:   2020-10-14 16:54:16 +0000
+Commit 0e33d296c44364739edfc0f681f816dbbec32a66
+Merge: 38767613 79bb0b1c
+Date:   2020-10-17 17:28:46 +0000
 
-    Merge pull request 'Set max-length for my route6 to /56' (#231) from jlu5-20201013/update-maxlen into master
+    Merge pull request 'Initial' (#238) from ReAct-20201017/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1336
-- ROAs IPv6:  1104
-- ROAs total: 2440
+- ROAs IPv4:  1337
+- ROAs IPv6:  1105
+- ROAs total: 2442
 
-[0]: https://git.dn42.dev/dn42/registry/commit/ceca51bec4d64617aa20eeea2f97f8f3386d24da
+[0]: https://git.dn42.dev/dn42/registry/commit/0e33d296c44364739edfc0f681f816dbbec32a66
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
