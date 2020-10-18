@@ -5293,6 +5293,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242422833",
+            "prefix": "fd9d:d085:ba76::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "XNOE-MNT"
+        },
+        {
             "asn": "AS4242422228",
             "prefix": "fd9e:2c7c:fea6::/47",
             "maxLength": 64,
@@ -11537,6 +11544,13 @@
             "mnt-by": "X84-MNT"
         },
         {
+            "asn": "AS4242422833",
+            "prefix": "172.20.224.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "XNOE-MNT"
+        },
+        {
             "asn": "AS4242421070",
             "prefix": "172.20.224.64/27",
             "maxLength": 28,
@@ -17096,8 +17110,8 @@
         }
     ],
     "metadata": {
-        "counts": 2442,
-        "generated": 1602961772,
-        "valid": 1603393772
+        "counts": 2444,
+        "generated": 1602997772,
+        "valid": 1603429772
     }
 }
