@@ -12105,7 +12105,7 @@
             },
             {
                 "asn": 4242423059,
-                "prefix": "172.20.29.96/28",
+                "prefix": "172.20.29.96/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "WP140Z-MNT"
