@@ -6777,6 +6777,13 @@
                 "mnt-by": "CAESIA-MNT"
             },
             {
+                "asn": 4242422204,
+                "prefix": "fdde:690a:20fc:39ff::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "REACT-MNT"
+            },
+            {
                 "asn": 4242423111,
                 "prefix": "fdde:7b0b:8fb9::/48",
                 "maxPrefixLength": 64,
