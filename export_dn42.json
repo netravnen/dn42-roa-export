@@ -13623,6 +13623,13 @@
             "mnt-by": "ERINN-MNT"
         },
         {
+            "asn": "AS4242421587",
+            "prefix": "172.21.89.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DEVBEN-MNT"
+        },
+        {
             "asn": "AS4242421994",
             "prefix": "172.21.89.32/27",
             "maxLength": 28,
@@ -17110,8 +17117,8 @@
         }
     ],
     "metadata": {
-        "counts": 2444,
-        "generated": 1603170567,
-        "valid": 1603602567
+        "counts": 2445,
+        "generated": 1603192170,
+        "valid": 1603624170
     }
 }

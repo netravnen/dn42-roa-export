@@ -13630,6 +13630,13 @@
                 "mnt-by": "ERINN-MNT"
             },
             {
+                "asn": 4242421587,
+                "prefix": "172.21.89.192/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DEVBEN-MNT"
+            },
+            {
                 "asn": 4242421994,
                 "prefix": "172.21.89.32/27",
                 "maxPrefixLength": 28,
