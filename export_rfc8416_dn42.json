@@ -8129,13 +8129,6 @@
             },
             {
                 "asn": 4201270000,
-                "prefix": "10.127.255.2/32",
-                "maxPrefixLength": 32,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270000,
                 "prefix": "10.127.255.4/32",
                 "maxPrefixLength": 32,
                 "source": "NEONETWORK",
