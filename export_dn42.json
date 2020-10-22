@@ -708,7 +708,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270017",
+            "asn": "AS4201270005",
             "prefix": "fd10:127:234::/48",
             "maxLength": 64,
             "ta": "NEONETWORK",
@@ -4264,6 +4264,13 @@
             "mnt-by": "HEXCHEN-MNT"
         },
         {
+            "asn": "AS4242420299",
+            "prefix": "fd66:5dc9:d084::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "YUYUKO-MNT"
+        },
+        {
             "asn": "AS4242423439",
             "prefix": "fd66:feed:beef::/48",
             "maxLength": 64,
@@ -5179,6 +5186,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "DUMMY-MNT"
+        },
+        {
+            "asn": "AS4242421126",
+            "prefix": "fd97:6b18:3cfa:2300::/56",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242420017",
@@ -8079,21 +8093,21 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270017",
+            "asn": "AS4201270005",
             "prefix": "10.127.234.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270017",
+            "asn": "AS4201270005",
             "prefix": "10.127.235.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270017",
+            "asn": "AS4201270005",
             "prefix": "10.127.236.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
@@ -10788,6 +10802,13 @@
             "mnt-by": "VOXILITY-MNT"
         },
         {
+            "asn": "AS4242421126",
+            "prefix": "172.20.177.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242423238",
             "prefix": "172.20.178.0/27",
             "maxLength": 28,
@@ -11395,6 +11416,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "DONDON-MNT"
+        },
+        {
+            "asn": "AS4242420299",
+            "prefix": "172.20.202.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YUYUKO-MNT"
         },
         {
             "asn": "AS4242421093",
@@ -17117,8 +17145,8 @@
         }
     ],
     "metadata": {
-        "counts": 2445,
-        "generated": 1603364964,
-        "valid": 1603796964
+        "counts": 2449,
+        "generated": 1603393771,
+        "valid": 1603825771
     }
 }
