@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit fbab6ef22951f2174370dca355c2714344a43e43
-Merge: 03bdaf83 6dee1bf1
-Date:   2020-10-23 15:09:43 +0000
+Commit 608d02d990b7dcb056c9ea6d975e6c0c314d4a15
+Merge: fbab6ef2 cc33c89d
+Date:   2020-10-24 10:49:21 +0000
 
-    Merge pull request 'change nameserver on flasharchive.dn42' (#249) from wp140z-20201023/changedns into master
+    Merge pull request 'Added AS4242421461' (#248) from Fatih-20201022/Netkolik into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1340
+- ROAs IPv4:  1341
 - ROAs IPv6:  1109
-- ROAs total: 2449
+- ROAs total: 2450
 
-[0]: https://git.dn42.dev/dn42/registry/commit/fbab6ef22951f2174370dca355c2714344a43e43
+[0]: https://git.dn42.dev/dn42/registry/commit/608d02d990b7dcb056c9ea6d975e6c0c314d4a15
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

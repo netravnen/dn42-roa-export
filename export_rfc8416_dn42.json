@@ -12475,6 +12475,13 @@
                 "mnt-by": "MAJOR-MNT"
             },
             {
+                "asn": 4242421461,
+                "prefix": "172.20.46.112/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "NETKOLIK-MNT"
+            },
+            {
                 "asn": 4242420510,
                 "prefix": "172.20.46.160/29",
                 "maxPrefixLength": 29,

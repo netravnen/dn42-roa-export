@@ -12468,6 +12468,13 @@
             "mnt-by": "MAJOR-MNT"
         },
         {
+            "asn": "AS4242421461",
+            "prefix": "172.20.46.112/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "NETKOLIK-MNT"
+        },
+        {
             "asn": "AS4242420510",
             "prefix": "172.20.46.160/29",
             "maxLength": 29,
@@ -17145,8 +17152,8 @@
         }
     ],
     "metadata": {
-        "counts": 2449,
-        "generated": 1603516161,
-        "valid": 1603948161
+        "counts": 2450,
+        "generated": 1603537769,
+        "valid": 1603969769
     }
 }
