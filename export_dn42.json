@@ -722,6 +722,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420308",
+            "prefix": "fd10:127:308::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS213262",
             "prefix": "fd10:127:3262::/64",
             "maxLength": 64,
@@ -6490,6 +6497,13 @@
             "mnt-by": "CPERRIN-MNT"
         },
         {
+            "asn": "AS4242420982",
+            "prefix": "fdce:d01:12e5::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "W4XZR-MNT"
+        },
+        {
             "asn": "AS4242423999",
             "prefix": "fdce:ebc5:bbd8::/48",
             "maxLength": 64,
@@ -8179,6 +8193,13 @@
         {
             "asn": "AS4201270000",
             "prefix": "10.127.3.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242420308",
+            "prefix": "10.127.38.32/27",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -14127,6 +14148,13 @@
             "mnt-by": "GIGA-MNT"
         },
         {
+            "asn": "AS4242420982",
+            "prefix": "172.22.116.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "W4XZR-MNT"
+        },
+        {
             "asn": "AS64717",
             "prefix": "172.22.117.0/25",
             "maxLength": 28,
@@ -17152,8 +17180,8 @@
         }
     ],
     "metadata": {
-        "counts": 2450,
-        "generated": 1603710564,
-        "valid": 1604142564
+        "counts": 2454,
+        "generated": 1603739371,
+        "valid": 1604171371
     }
 }
