@@ -7302,6 +7302,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 64896,
+                "prefix": "fdef:ffe0:3ed7::/48",
+                "maxPrefixLength": 64,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 65060,
                 "prefix": "fdf0:9bb:7814::/48",
                 "maxPrefixLength": 64,
@@ -7787,6 +7794,13 @@
             {
                 "asn": 65079,
                 "prefix": "10.0.0.0/16",
+                "maxPrefixLength": 28,
+                "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 64896,
+                "prefix": "10.1.0.0/18",
                 "maxPrefixLength": 28,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
