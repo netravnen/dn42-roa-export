@@ -1170,6 +1170,13 @@
             "mnt-by": "CK-MNT"
         },
         {
+            "asn": "AS4242421607",
+            "prefix": "fd1d:cc09:1366::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "UNICORN-MNT"
+        },
+        {
             "asn": "AS4242421307",
             "prefix": "fd1f:ce1e:ff42::/48",
             "maxLength": 48,
@@ -3695,6 +3702,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "SLNX-MNT"
+        },
+        {
+            "asn": "AS4242423059",
+            "prefix": "fd4b:bae2:2594::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WP140Z-MNT"
         },
         {
             "asn": "AS4242422232",
@@ -11068,6 +11082,13 @@
             "mnt-by": "TECH9-MNT"
         },
         {
+            "asn": "AS4242421607",
+            "prefix": "172.20.187.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "UNICORN-MNT"
+        },
+        {
             "asn": "AS4242422369",
             "prefix": "172.20.188.0/24",
             "maxLength": 28,
@@ -13392,18 +13413,18 @@
             "mnt-by": "ADRA-MNT"
         },
         {
-            "asn": "AS4242421690",
-            "prefix": "172.21.65.48/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "WILL-MNT"
-        },
-        {
             "asn": "AS4242423999",
             "prefix": "172.21.65.64/29",
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "CPBARNES-MNT"
+        },
+        {
+            "asn": "AS4242421690",
+            "prefix": "172.21.65.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WILL-MNT"
         },
         {
             "asn": "AS4242421224",
@@ -17194,8 +17215,8 @@
         }
     ],
     "metadata": {
-        "counts": 2456,
-        "generated": 1603883365,
-        "valid": 1604315365
+        "counts": 2459,
+        "generated": 1603912173,
+        "valid": 1604344173
     }
 }

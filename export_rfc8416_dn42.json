@@ -1177,6 +1177,13 @@
                 "mnt-by": "CK-MNT"
             },
             {
+                "asn": 4242421607,
+                "prefix": "fd1d:cc09:1366::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "UNICORN-MNT"
+            },
+            {
                 "asn": 4242421307,
                 "prefix": "fd1f:ce1e:ff42::/48",
                 "maxPrefixLength": 48,
@@ -3702,6 +3709,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "SLNX-MNT"
+            },
+            {
+                "asn": 4242423059,
+                "prefix": "fd4b:bae2:2594::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "WP140Z-MNT"
             },
             {
                 "asn": 4242422232,
@@ -11075,6 +11089,13 @@
                 "mnt-by": "TECH9-MNT"
             },
             {
+                "asn": 4242421607,
+                "prefix": "172.20.187.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "UNICORN-MNT"
+            },
+            {
                 "asn": 4242422369,
                 "prefix": "172.20.188.0/24",
                 "maxPrefixLength": 28,
@@ -13399,18 +13420,18 @@
                 "mnt-by": "ADRA-MNT"
             },
             {
-                "asn": 4242421690,
-                "prefix": "172.21.65.48/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "WILL-MNT"
-            },
-            {
                 "asn": 4242423999,
                 "prefix": "172.21.65.64/29",
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "CPBARNES-MNT"
+            },
+            {
+                "asn": 4242421690,
+                "prefix": "172.21.65.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WILL-MNT"
             },
             {
                 "asn": 4242421224,
