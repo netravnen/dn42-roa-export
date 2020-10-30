@@ -11082,6 +11082,13 @@
             "mnt-by": "TECH9-MNT"
         },
         {
+            "asn": "AS4242423798",
+            "prefix": "172.20.187.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "B3L-MNT"
+        },
+        {
             "asn": "AS4242421607",
             "prefix": "172.20.187.224/27",
             "maxLength": 28,
@@ -17215,8 +17222,8 @@
         }
     ],
     "metadata": {
-        "counts": 2459,
-        "generated": 1604056172,
-        "valid": 1604488172
+        "counts": 2460,
+        "generated": 1604084970,
+        "valid": 1604516970
     }
 }

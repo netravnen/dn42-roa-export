@@ -11089,6 +11089,13 @@
                 "mnt-by": "TECH9-MNT"
             },
             {
+                "asn": 4242423798,
+                "prefix": "172.20.187.128/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "B3L-MNT"
+            },
+            {
                 "asn": 4242421607,
                 "prefix": "172.20.187.224/27",
                 "maxPrefixLength": 28,
