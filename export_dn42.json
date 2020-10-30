@@ -3466,18 +3466,18 @@
             "mnt-by": "ALANJCASTONGUAY-MNT"
         },
         {
+            "asn": "AS4242421488",
+            "prefix": "fd42:e621::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "KOALA-MNT"
+        },
+        {
             "asn": "AS4242421369",
             "prefix": "fd42:e9ad:e297::/48",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "WHOABRAH-MNT"
-        },
-        {
-            "asn": "AS4242421488",
-            "prefix": "fd42:ec20:4ef1::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "KOALA-MNT"
         },
         {
             "asn": "AS4242420239",
@@ -17216,7 +17216,7 @@
     ],
     "metadata": {
         "counts": 2459,
-        "generated": 1604034564,
-        "valid": 1604466564
+        "generated": 1604056172,
+        "valid": 1604488172
     }
 }

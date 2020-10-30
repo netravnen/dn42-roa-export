@@ -3473,18 +3473,18 @@
                 "mnt-by": "ALANJCASTONGUAY-MNT"
             },
             {
+                "asn": 4242421488,
+                "prefix": "fd42:e621::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "KOALA-MNT"
+            },
+            {
                 "asn": 4242421369,
                 "prefix": "fd42:e9ad:e297::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "WHOABRAH-MNT"
-            },
-            {
-                "asn": 4242421488,
-                "prefix": "fd42:ec20:4ef1::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "KOALA-MNT"
             },
             {
                 "asn": 4242420239,

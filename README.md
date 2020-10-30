@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 1fd29937b4f3ac85727333cb3017f6bdd048e002
-Merge: b4666062 25228afa
-Date:   2020-10-28 18:23:25 +0000
+Commit f347459e8b8b04a9c56664f85ab909775efe1bbc
+Merge: 1fd29937 8849c954
+Date:   2020-10-30 07:52:16 +0000
 
-    Merge pull request 'Register UNICORN' (#260) from antoine33520-20201028/registry into master
+    Merge pull request 'Change IPV6 allocation' (#261) from KaiKoala/registry:master into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1114
 - ROAs total: 2459
 
-[0]: https://git.dn42.dev/dn42/registry/commit/1fd29937b4f3ac85727333cb3017f6bdd048e002
+[0]: https://git.dn42.dev/dn42/registry/commit/f347459e8b8b04a9c56664f85ab909775efe1bbc
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
