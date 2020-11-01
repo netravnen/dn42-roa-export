@@ -4929,6 +4929,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242420520",
+            "prefix": "fd88:8888:8888::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "IVIP-MNT"
+        },
+        {
             "asn": "AS4242420448",
             "prefix": "fd88:8888:abcd::/48",
             "maxLength": 64,
@@ -13924,6 +13931,13 @@
             "mnt-by": "ELISE-MNT"
         },
         {
+            "asn": "AS4242420520",
+            "prefix": "172.22.101.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IVIP-MNT"
+        },
+        {
             "asn": "AS4242422027",
             "prefix": "172.22.101.200/29",
             "maxLength": 29,
@@ -17222,8 +17236,8 @@
         }
     ],
     "metadata": {
-        "counts": 2460,
-        "generated": 1604207363,
-        "valid": 1604639363
+        "counts": 2462,
+        "generated": 1604228976,
+        "valid": 1604660976
     }
 }
