@@ -1590,6 +1590,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242422604",
+            "prefix": "fd32:8411:abab::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ERITAP-MNT"
+        },
+        {
             "asn": "AS4242422115",
             "prefix": "fd32:b22c:b2ea::/48",
             "maxLength": 48,
@@ -16507,6 +16514,13 @@
             "mnt-by": "NOP-MNT"
         },
         {
+            "asn": "AS4242422604",
+            "prefix": "172.23.2.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ERITAP-MNT"
+        },
+        {
             "asn": "AS4242421271",
             "prefix": "172.23.200.0/24",
             "maxLength": 28,
@@ -17236,8 +17250,8 @@
         }
     ],
     "metadata": {
-        "counts": 2462,
-        "generated": 1604228976,
-        "valid": 1604660976
+        "counts": 2464,
+        "generated": 1604257769,
+        "valid": 1604689769
     }
 }
