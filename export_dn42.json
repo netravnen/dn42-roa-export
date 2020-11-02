@@ -5209,6 +5209,13 @@
             "mnt-by": "NATO-MNT"
         },
         {
+            "asn": "AS4242422683",
+            "prefix": "fd96:5241:4544::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RAED-MNT"
+        },
+        {
             "asn": "AS4242422231",
             "prefix": "fd96:ac77:1286::/48",
             "maxLength": 64,
@@ -11101,6 +11108,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "B3L-MNT"
+        },
+        {
+            "asn": "AS4242422683",
+            "prefix": "172.20.187.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RAED-MNT"
         },
         {
             "asn": "AS4242421607",
@@ -17250,8 +17264,8 @@
         }
     ],
     "metadata": {
-        "counts": 2464,
-        "generated": 1604315364,
-        "valid": 1604747364
+        "counts": 2466,
+        "generated": 1604344169,
+        "valid": 1604776169
     }
 }
