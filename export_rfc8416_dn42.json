@@ -5216,6 +5216,13 @@
                 "mnt-by": "NATO-MNT"
             },
             {
+                "asn": 4242421324,
+                "prefix": "fd96:4252:4144::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BRADLEYCLAUS-MNT"
+            },
+            {
                 "asn": 4242422683,
                 "prefix": "fd96:5241:4544::/48",
                 "maxPrefixLength": 48,
@@ -14237,6 +14244,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "W4XZR-MNT"
+            },
+            {
+                "asn": 4242421324,
+                "prefix": "172.22.116.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BRADLEYCLAUS-MNT"
             },
             {
                 "asn": 64717,
