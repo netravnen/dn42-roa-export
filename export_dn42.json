@@ -6917,6 +6917,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420827",
+            "prefix": "fde0:9750:6d9d::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "AASG-MNT"
+        },
+        {
             "asn": "AS4242423518",
             "prefix": "fde0:ccf0:ac16::/48",
             "maxLength": 48,
@@ -17278,8 +17285,8 @@
         }
     ],
     "metadata": {
-        "counts": 2468,
-        "generated": 1604430569,
-        "valid": 1604862569
+        "counts": 2469,
+        "generated": 1604466568,
+        "valid": 1604898568
     }
 }

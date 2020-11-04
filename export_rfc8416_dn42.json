@@ -6924,6 +6924,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420827,
+                "prefix": "fde0:9750:6d9d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "AASG-MNT"
+            },
+            {
                 "asn": 4242423518,
                 "prefix": "fde0:ccf0:ac16::/48",
                 "maxPrefixLength": 48,
