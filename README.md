@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 3d478f7c965c10901c44f913ba728102e80c0e8c
-Merge: a5ec041a ed1bb4c8
-Date:   2020-11-03 21:58:45 +0000
+Commit 0928bb2d2f4aa60f61942a4fb132b3e1bd4faff1
+Merge: 3d478f7c 4c0546c7
+Date:   2020-11-04 18:47:14 +0000
 
-    Merge pull request 'HEXA-MNT: add ssh-ed25519 auth' (#278) from hexa/registry:hexa-auth into master
+    Merge pull request 'Changed my AS remarks' (#279) from tomkap-20201104/remarks into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1119
 - ROAs total: 2469
 
-[0]: https://git.dn42.dev/dn42/registry/commit/3d478f7c965c10901c44f913ba728102e80c0e8c
+[0]: https://git.dn42.dev/dn42/registry/commit/0928bb2d2f4aa60f61942a4fb132b3e1bd4faff1
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
