@@ -3620,6 +3620,13 @@
                 "mnt-by": "SANTOST12-MNT"
             },
             {
+                "asn": 4242421325,
+                "prefix": "fd44:3013:d703::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PHILCGN-MNT"
+            },
+            {
                 "asn": 4242423311,
                 "prefix": "fd44:4444:4444::/48",
                 "maxPrefixLength": 64,
@@ -15861,6 +15868,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LOSER-MNT"
+            },
+            {
+                "asn": 4242421325,
+                "prefix": "172.23.109.160/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "PHILCGN-MNT"
             },
             {
                 "asn": 4242421423,
