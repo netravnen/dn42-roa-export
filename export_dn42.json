@@ -995,6 +995,13 @@
             "mnt-by": "RDBCN-MNT"
         },
         {
+            "asn": "AS4242420822",
+            "prefix": "fd16:6c6d:aaca::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "AFTBIT-MNT"
+        },
+        {
             "asn": "AS4242420530",
             "prefix": "fd16:abc0:dffd::/48",
             "maxLength": 64,
@@ -16710,6 +16717,13 @@
             "mnt-by": "CODEHACK-MNT"
         },
         {
+            "asn": "AS4242420822",
+            "prefix": "172.23.222.128/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AFTBIT-MNT"
+        },
+        {
             "asn": "AS4242421907",
             "prefix": "172.23.222.32/27",
             "maxLength": 28,
@@ -17306,8 +17320,8 @@
         }
     ],
     "metadata": {
-        "counts": 2472,
-        "generated": 1604949613,
-        "valid": 1605381613
+        "counts": 2474,
+        "generated": 1604985119,
+        "valid": 1605417119
     }
 }

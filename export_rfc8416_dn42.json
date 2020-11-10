@@ -1002,6 +1002,13 @@
                 "mnt-by": "RDBCN-MNT"
             },
             {
+                "asn": 4242420822,
+                "prefix": "fd16:6c6d:aaca::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "AFTBIT-MNT"
+            },
+            {
                 "asn": 4242420530,
                 "prefix": "fd16:abc0:dffd::/48",
                 "maxPrefixLength": 64,
@@ -16715,6 +16722,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CODEHACK-MNT"
+            },
+            {
+                "asn": 4242420822,
+                "prefix": "172.23.222.128/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "AFTBIT-MNT"
             },
             {
                 "asn": 4242421907,
