@@ -5811,6 +5811,13 @@
             "mnt-by": "LDG1-MNT"
         },
         {
+            "asn": "AS4242420769",
+            "prefix": "fdae:43fb:3ab7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HAMMYNET-MNT"
+        },
+        {
             "asn": "AS4242420756",
             "prefix": "fdae:e2d8:34a1::/48",
             "maxLength": 64,
@@ -17320,8 +17327,8 @@
         }
     ],
     "metadata": {
-        "counts": 2474,
-        "generated": 1605035731,
-        "valid": 1605467731
+        "counts": 2475,
+        "generated": 1605071654,
+        "valid": 1605503654
     }
 }

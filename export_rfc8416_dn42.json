@@ -5818,6 +5818,13 @@
                 "mnt-by": "LDG1-MNT"
             },
             {
+                "asn": 4242420769,
+                "prefix": "fdae:43fb:3ab7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HAMMYNET-MNT"
+            },
+            {
                 "asn": 4242420756,
                 "prefix": "fdae:e2d8:34a1::/48",
                 "maxPrefixLength": 64,
