@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e923b72154d7b1d33291d4de5ad09bd3ea51aec1
-Merge: c0d98464 9d0c29e3
-Date:   2020-11-10 18:26:44 +0000
+Commit 1516bc5ccd2970e60d84dd620352f67016433fcb
+Merge: e923b721 18d493fc
+Date:   2020-11-11 21:23:48 +0000
 
-    Merge pull request 'Added DS records' (#291) from xnoe-20201110/add-ds-records into master
+    Merge pull request 'add ipv6, mozzarella.dn42, and rdns' (#292) from Mozzarella-20201110/ipv6-dns into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1353
-- ROAs IPv6:  1122
-- ROAs total: 2475
+- ROAs IPv6:  1123
+- ROAs total: 2476
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e923b72154d7b1d33291d4de5ad09bd3ea51aec1
+[0]: https://git.dn42.dev/dn42/registry/commit/1516bc5ccd2970e60d84dd620352f67016433fcb
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

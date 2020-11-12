@@ -939,6 +939,13 @@
             "mnt-by": "HESSENET-MNT"
         },
         {
+            "asn": "AS4242421091",
+            "prefix": "fd12:f590:c38c::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOZZNET-MNT"
+        },
+        {
             "asn": "AS4242421043",
             "prefix": "fd13:ae3a:9022::/48",
             "maxLength": 48,
@@ -17327,8 +17334,8 @@
         }
     ],
     "metadata": {
-        "counts": 2475,
-        "generated": 1605121820,
-        "valid": 1605553820
+        "counts": 2476,
+        "generated": 1605157934,
+        "valid": 1605589934
     }
 }

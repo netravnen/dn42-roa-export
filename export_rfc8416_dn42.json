@@ -946,6 +946,13 @@
                 "mnt-by": "HESSENET-MNT"
             },
             {
+                "asn": 4242421091,
+                "prefix": "fd12:f590:c38c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOZZNET-MNT"
+            },
+            {
                 "asn": 4242421043,
                 "prefix": "fd13:ae3a:9022::/48",
                 "maxPrefixLength": 48,
