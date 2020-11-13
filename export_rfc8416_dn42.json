@@ -953,6 +953,13 @@
                 "mnt-by": "MOZZNET-MNT"
             },
             {
+                "asn": 4242421359,
+                "prefix": "fd13:7744:b08d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LINUS-MNT"
+            },
+            {
                 "asn": 4242421043,
                 "prefix": "fd13:ae3a:9022::/48",
                 "maxPrefixLength": 48,

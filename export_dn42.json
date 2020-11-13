@@ -946,6 +946,13 @@
             "mnt-by": "MOZZNET-MNT"
         },
         {
+            "asn": "AS4242421359",
+            "prefix": "fd13:7744:b08d::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LINUS-MNT"
+        },
+        {
             "asn": "AS4242421043",
             "prefix": "fd13:ae3a:9022::/48",
             "maxLength": 48,
@@ -17334,8 +17341,8 @@
         }
     ],
     "metadata": {
-        "counts": 2476,
-        "generated": 1605208579,
-        "valid": 1605640579
+        "counts": 2477,
+        "generated": 1605244439,
+        "valid": 1605676439
     }
 }
