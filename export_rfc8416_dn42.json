@@ -4558,6 +4558,13 @@
                 "mnt-by": "ARCH-MNT"
             },
             {
+                "asn": 4242420771,
+                "prefix": "fd71:3840:a60a::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ZEYPHROS-MNT"
+            },
+            {
                 "asn": 4242421190,
                 "prefix": "fd71:7ce:bfbb::/48",
                 "maxPrefixLength": 64,
@@ -15560,6 +15567,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SECRETMINE-MNT"
+            },
+            {
+                "asn": 4242420771,
+                "prefix": "172.22.67.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ZEYPHROS-MNT"
             },
             {
                 "asn": 4242421888,
