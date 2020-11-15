@@ -3018,6 +3018,13 @@
                 "mnt-by": "CLUTTERBOX-MNT"
             },
             {
+                "asn": 4242420822,
+                "prefix": "fd42:ab17:ab17::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "AFTBIT-MNT"
+            },
+            {
                 "asn": 4242423966,
                 "prefix": "fd42:abc0:1::/48",
                 "maxPrefixLength": 64,
@@ -8123,13 +8130,6 @@
             {
                 "asn": 4242420140,
                 "prefix": "10.127.12.0/24",
-                "maxPrefixLength": 29,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 209557,
-                "prefix": "10.127.124.0/29",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"

@@ -3011,6 +3011,13 @@
             "mnt-by": "CLUTTERBOX-MNT"
         },
         {
+            "asn": "AS4242420822",
+            "prefix": "fd42:ab17:ab17::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "AFTBIT-MNT"
+        },
+        {
             "asn": "AS4242423966",
             "prefix": "fd42:abc0:1::/48",
             "maxLength": 64,
@@ -8116,13 +8123,6 @@
         {
             "asn": "AS4242420140",
             "prefix": "10.127.12.0/24",
-            "maxLength": 29,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS209557",
-            "prefix": "10.127.124.0/29",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -17356,7 +17356,7 @@
     ],
     "metadata": {
         "counts": 2479,
-        "generated": 1605438750,
-        "valid": 1605870750
+        "generated": 1605467421,
+        "valid": 1605899421
     }
 }
