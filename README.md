@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8acee37028ca0d04ccd209899dd62d4dd78cee31
-Merge: 30da7166 a4f4bd4c
-Date:   2020-11-14 18:26:55 +0000
+Commit eb383ca9129212d1cb3a8f7a2d9bf090c013d074
+Merge: 8acee370 2daf9d32
+Date:   2020-11-14 21:38:57 +0000
 
-    Merge pull request 'Major administrative updates to HEXANET (AS4242423078)' (#296) from Hexawolf/registry:hexawolf-20201114/hexanet into master
+    Merge pull request 'Changed my AS remarks (added LG info)' (#297) from tomkap-20201114/remarks into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1125
 - ROAs total: 2479
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8acee37028ca0d04ccd209899dd62d4dd78cee31
+[0]: https://git.dn42.dev/dn42/registry/commit/eb383ca9129212d1cb3a8f7a2d9bf090c013d074
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
