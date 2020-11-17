@@ -1009,13 +1009,6 @@
             "mnt-by": "RDBCN-MNT"
         },
         {
-            "asn": "AS4242420822",
-            "prefix": "fd16:6c6d:aaca::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "AFTBIT-MNT"
-        },
-        {
             "asn": "AS4242420530",
             "prefix": "fd16:abc0:dffd::/48",
             "maxLength": 64,
@@ -17355,8 +17348,8 @@
         }
     ],
     "metadata": {
-        "counts": 2479,
-        "generated": 1605553813,
-        "valid": 1605985813
+        "counts": 2478,
+        "generated": 1605589821,
+        "valid": 1606021821
     }
 }
