@@ -4852,6 +4852,13 @@
                 "mnt-by": "TW-MNT"
             },
             {
+                "asn": 4242422953,
+                "prefix": "fd81:edb3:71d8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NEX-MNT"
+            },
+            {
                 "asn": 4242420238,
                 "prefix": "fd81:fd4e:4f95::/48",
                 "maxPrefixLength": 64,

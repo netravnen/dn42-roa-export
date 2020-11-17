@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 946e731d20d08b6917ace9e52a9b83f771f2856b
-Merge: 3ef51283 2a2374cd
-Date:   2020-11-17 07:57:33 +0000
+Commit 03d3053d5d4503b245cab3e51b81a2ed005eb88a
+Merge: f4720031 eff235d3
+Date:   2020-11-17 18:00:33 +0000
 
-    Merge pull request 'Fix DS record for lorkep.dn42, take 2' (#305) from aasg-20201116/fix-ds into master
+    Merge pull request 'AS4242422237 Update AS4242422237:AS-TRANSIT as-set with new peers' (#307) from munsternet-20201117/new-peers into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1353
-- ROAs IPv6:  1125
-- ROAs total: 2478
+- ROAs IPv6:  1126
+- ROAs total: 2479
 
-[0]: https://git.dn42.dev/dn42/registry/commit/946e731d20d08b6917ace9e52a9b83f771f2856b
+[0]: https://git.dn42.dev/dn42/registry/commit/03d3053d5d4503b245cab3e51b81a2ed005eb88a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -4845,6 +4845,13 @@
             "mnt-by": "TW-MNT"
         },
         {
+            "asn": "AS4242422953",
+            "prefix": "fd81:edb3:71d8::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NEX-MNT"
+        },
+        {
             "asn": "AS4242420238",
             "prefix": "fd81:fd4e:4f95::/48",
             "maxLength": 64,
@@ -17348,8 +17355,8 @@
         }
     ],
     "metadata": {
-        "counts": 2478,
-        "generated": 1605611432,
-        "valid": 1606043432
+        "counts": 2479,
+        "generated": 1605640221,
+        "valid": 1606072221
     }
 }
