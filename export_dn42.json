@@ -5419,6 +5419,13 @@
             "mnt-by": "FLORIANB-MNT"
         },
         {
+            "asn": "AS4242423704",
+            "prefix": "fd9e:5312:a3b3::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ELMER-MNT"
+        },
+        {
             "asn": "AS4242423565",
             "prefix": "fd9e:b565:def3::/48",
             "maxLength": 48,
@@ -5785,7 +5792,7 @@
         {
             "asn": "AS213021",
             "prefix": "fdaa:d0e:147f::/48",
-            "maxLength": 56,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "SM-MNT"
         },
@@ -7048,6 +7055,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JFRED-MNT"
+        },
+        {
+            "asn": "AS4242421302",
+            "prefix": "fde6:d41f:f139::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PIIRR-MNT"
         },
         {
             "asn": "AS4242422667",
@@ -10359,6 +10373,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "NIA-MNT"
+        },
+        {
+            "asn": "AS4242423704",
+            "prefix": "172.20.158.192/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ELMER-MNT"
         },
         {
             "asn": "AS4242421629",
@@ -17369,8 +17390,8 @@
         }
     ],
     "metadata": {
-        "counts": 2481,
-        "generated": 1605784215,
-        "valid": 1606216215
+        "counts": 2484,
+        "generated": 1605813022,
+        "valid": 1606245022
     }
 }

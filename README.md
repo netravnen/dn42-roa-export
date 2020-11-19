@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit eec3acfc96c0719c36fe8dfe8e939b636d24c22c
-Merge: 03d3053d 466f47a6
-Date:   2020-11-18 19:26:44 +0000
+Commit 97a0bffcce51d3d5604da7c49b37adfa56f16c3d
+Merge: d82c03ca cf8ed424
+Date:   2020-11-19 17:46:51 +0000
 
-    Merge pull request 'register ADAMG resources' (#308) from adamg-20201116/register into master
+    Merge pull request 'AS213021: Updated rDNS server addresses and max-length.' (#311) from samip537-20201119/updating-records into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1354
-- ROAs IPv6:  1127
-- ROAs total: 2481
+- ROAs IPv4:  1355
+- ROAs IPv6:  1129
+- ROAs total: 2484
 
-[0]: https://git.dn42.dev/dn42/registry/commit/eec3acfc96c0719c36fe8dfe8e939b636d24c22c
+[0]: https://git.dn42.dev/dn42/registry/commit/97a0bffcce51d3d5604da7c49b37adfa56f16c3d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

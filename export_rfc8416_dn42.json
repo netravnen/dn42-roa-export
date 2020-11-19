@@ -5426,6 +5426,13 @@
                 "mnt-by": "FLORIANB-MNT"
             },
             {
+                "asn": 4242423704,
+                "prefix": "fd9e:5312:a3b3::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ELMER-MNT"
+            },
+            {
                 "asn": 4242423565,
                 "prefix": "fd9e:b565:def3::/48",
                 "maxPrefixLength": 48,
@@ -5792,7 +5799,7 @@
             {
                 "asn": 213021,
                 "prefix": "fdaa:d0e:147f::/48",
-                "maxPrefixLength": 56,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SM-MNT"
             },
@@ -7055,6 +7062,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JFRED-MNT"
+            },
+            {
+                "asn": 4242421302,
+                "prefix": "fde6:d41f:f139::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PIIRR-MNT"
             },
             {
                 "asn": 4242422667,
@@ -10366,6 +10380,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NIA-MNT"
+            },
+            {
+                "asn": 4242423704,
+                "prefix": "172.20.158.192/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ELMER-MNT"
             },
             {
                 "asn": 4242421629,
