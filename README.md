@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 03d3053d5d4503b245cab3e51b81a2ed005eb88a
-Merge: f4720031 eff235d3
-Date:   2020-11-17 18:00:33 +0000
+Commit eec3acfc96c0719c36fe8dfe8e939b636d24c22c
+Merge: 03d3053d 466f47a6
+Date:   2020-11-18 19:26:44 +0000
 
-    Merge pull request 'AS4242422237 Update AS4242422237:AS-TRANSIT as-set with new peers' (#307) from munsternet-20201117/new-peers into master
+    Merge pull request 'register ADAMG resources' (#308) from adamg-20201116/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1353
-- ROAs IPv6:  1126
-- ROAs total: 2479
+- ROAs IPv4:  1354
+- ROAs IPv6:  1127
+- ROAs total: 2481
 
-[0]: https://git.dn42.dev/dn42/registry/commit/03d3053d5d4503b245cab3e51b81a2ed005eb88a
+[0]: https://git.dn42.dev/dn42/registry/commit/eec3acfc96c0719c36fe8dfe8e939b636d24c22c
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -1870,6 +1870,13 @@
                 "mnt-by": "RN-MNT"
             },
             {
+                "asn": 4242421048,
+                "prefix": "fd41:4541:4d47::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ADAMG-MNT"
+            },
+            {
                 "asn": 4242420845,
                 "prefix": "fd41:9805:7b69:2000::/51",
                 "maxPrefixLength": 64,
@@ -17128,6 +17135,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HADRILL-MNT"
+            },
+            {
+                "asn": 4242421048,
+                "prefix": "172.23.48.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ADAMG-MNT"
             },
             {
                 "asn": 4242423740,
