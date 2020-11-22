@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 97a0bffcce51d3d5604da7c49b37adfa56f16c3d
-Merge: d82c03ca cf8ed424
-Date:   2020-11-19 17:46:51 +0000
+Commit b5a87b262b429701d2ed9536bb7d6a3f3479b9cd
+Merge: 97a0bffc 41f7bbaa
+Date:   2020-11-22 00:13:10 +0000
 
-    Merge pull request 'AS213021: Updated rDNS server addresses and max-length.' (#311) from samip537-20201119/updating-records into master
+    Merge pull request 'DNS Fixes' (#312) from burble-20201121/dns-fix into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1129
 - ROAs total: 2484
 
-[0]: https://git.dn42.dev/dn42/registry/commit/97a0bffcce51d3d5604da7c49b37adfa56f16c3d
+[0]: https://git.dn42.dev/dn42/registry/commit/b5a87b262b429701d2ed9536bb7d6a3f3479b9cd
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
