@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit b5a87b262b429701d2ed9536bb7d6a3f3479b9cd
-Merge: 97a0bffc 41f7bbaa
-Date:   2020-11-22 00:13:10 +0000
+Commit 755c45049778f3792b4b06c7e3e6b432c59edd5d
+Merge: e8486ec9 45ea3cd7
+Date:   2020-11-22 16:46:13 +0000
 
-    Merge pull request 'DNS Fixes' (#312) from burble-20201121/dns-fix into master
+    Merge pull request 'Register AS4242421530 on DN42' (#314) from Zoddo/registry:Zoddo-20201122/registration into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1355
-- ROAs IPv6:  1129
-- ROAs total: 2484
+- ROAs IPv4:  1356
+- ROAs IPv6:  1130
+- ROAs total: 2486
 
-[0]: https://git.dn42.dev/dn42/registry/commit/b5a87b262b429701d2ed9536bb7d6a3f3479b9cd
+[0]: https://git.dn42.dev/dn42/registry/commit/755c45049778f3792b4b06c7e3e6b432c59edd5d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

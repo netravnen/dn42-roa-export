@@ -4845,6 +4845,13 @@
             "mnt-by": "SUDOPARADISE-MNT"
         },
         {
+            "asn": "AS4242421530",
+            "prefix": "fd81:c3c8:e9a2::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ZODDO-MNT"
+        },
+        {
             "asn": "AS4242423452",
             "prefix": "fd81:e49c:ba39::/48",
             "maxLength": 64,
@@ -12139,6 +12146,13 @@
             "mnt-by": "JELLYCHOU-MNT"
         },
         {
+            "asn": "AS4242421530",
+            "prefix": "172.20.238.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZODDO-MNT"
+        },
+        {
             "asn": "AS4242423652",
             "prefix": "172.20.238.32/29",
             "maxLength": 29,
@@ -17390,8 +17404,8 @@
         }
     ],
     "metadata": {
-        "counts": 2484,
-        "generated": 1606043413,
-        "valid": 1606475413
+        "counts": 2486,
+        "generated": 1606072224,
+        "valid": 1606504224
     }
 }
