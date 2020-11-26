@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 755c45049778f3792b4b06c7e3e6b432c59edd5d
-Merge: e8486ec9 45ea3cd7
-Date:   2020-11-22 16:46:13 +0000
+Commit 157ff8489e766687dd98f96f2946d94e432705ee
+Merge: 21755839 5cc2ee74
+Date:   2020-11-25 20:44:43 +0000
 
-    Merge pull request 'Register AS4242421530 on DN42' (#314) from Zoddo/registry:Zoddo-20201122/registration into master
+    Merge pull request 'Add hackint contact to AASG-DN42' (#316) from aasg-20201125/irc into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1130
 - ROAs total: 2488
 
-[0]: https://git.dn42.dev/dn42/registry/commit/755c45049778f3792b4b06c7e3e6b432c59edd5d
+[0]: https://git.dn42.dev/dn42/registry/commit/157ff8489e766687dd98f96f2946d94e432705ee
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
