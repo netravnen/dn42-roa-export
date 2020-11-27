@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 157ff8489e766687dd98f96f2946d94e432705ee
-Merge: 21755839 5cc2ee74
-Date:   2020-11-25 20:44:43 +0000
+Commit 05287222842093a1d070f43a4671027dabab5ec5
+Merge: da0d01e0 df808f95
+Date:   2020-11-26 21:51:59 +0000
 
-    Merge pull request 'Add hackint contact to AASG-DN42' (#316) from aasg-20201125/irc into master
+    Merge pull request 'Add SPACE55-MNT' (#318) from space55-20201126/addme into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1359
-- ROAs IPv6:  1131
-- ROAs total: 2490
+- ROAs IPv4:  1360
+- ROAs IPv6:  1133
+- ROAs total: 2493
 
-[0]: https://git.dn42.dev/dn42/registry/commit/157ff8489e766687dd98f96f2946d94e432705ee
+[0]: https://git.dn42.dev/dn42/registry/commit/05287222842093a1d070f43a4671027dabab5ec5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

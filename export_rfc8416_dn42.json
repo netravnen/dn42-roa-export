@@ -1723,6 +1723,13 @@
                 "mnt-by": "SARU-MNT"
             },
             {
+                "asn": 4242423341,
+                "prefix": "fd39:afba:d250::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SPACE55-MNT"
+            },
+            {
                 "asn": 4242423124,
                 "prefix": "fd39:b03e:6140:7ec1::/64",
                 "maxPrefixLength": 64,
@@ -6019,6 +6026,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DRATHIR-MNT"
+            },
+            {
+                "asn": 4242422866,
+                "prefix": "fdb8:d95e:191a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "OCEANLY-MNT"
             },
             {
                 "asn": 4242421098,
@@ -11794,6 +11808,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "X84-MNT"
+            },
+            {
+                "asn": 4242422866,
+                "prefix": "172.20.224.128/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "OCEANLY-MNT"
             },
             {
                 "asn": 4242422833,
