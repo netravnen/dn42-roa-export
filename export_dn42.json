@@ -4201,13 +4201,6 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
-            "asn": "AS4242423014",
-            "prefix": "fd60:aa43:907d::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
-        },
-        {
             "asn": "AS4242423852",
             "prefix": "fd62:172:23:125::/64",
             "maxLength": 64,
@@ -4542,6 +4535,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "XXSLDN-MNT"
+        },
+        {
+            "asn": "AS4242421225",
+            "prefix": "fd70:726f:662e::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MORIARTY-MNT"
         },
         {
             "asn": "AS4242423615",
@@ -9927,13 +9927,6 @@
             "mnt-by": "JANSSEN-MNT"
         },
         {
-            "asn": "AS4242421926",
-            "prefix": "172.20.138.0/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "ZHAOFENG-MNT"
-        },
-        {
             "asn": "AS4242423513",
             "prefix": "172.20.138.128/26",
             "maxLength": 28,
@@ -10170,13 +10163,6 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "RSDOHERTY-MNT"
-        },
-        {
-            "asn": "AS4242421926",
-            "prefix": "172.20.149.144/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "ZHAOFENG-MNT"
         },
         {
             "asn": "AS4242422102",
@@ -14492,7 +14478,7 @@
         },
         {
             "asn": "AS4242420180",
-            "prefix": "172.22.122.0/27",
+            "prefix": "172.22.122.0/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "GATUNO-MNT"
@@ -14545,13 +14531,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "GCC-MNT"
-        },
-        {
-            "asn": "AS4242423014",
-            "prefix": "172.22.124.16/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242423974",
@@ -17284,6 +17263,13 @@
             "mnt-by": "BLAZING-MNT"
         },
         {
+            "asn": "AS4242421225",
+            "prefix": "172.23.7.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MORIARTY-MNT"
+        },
+        {
             "asn": "AS4242421823",
             "prefix": "172.23.73.0/26",
             "maxLength": 28,
@@ -17453,8 +17439,8 @@
         }
     ],
     "metadata": {
-        "counts": 2493,
-        "generated": 1606504220,
-        "valid": 1606936220
+        "counts": 2491,
+        "generated": 1606540222,
+        "valid": 1606972222
     }
 }

@@ -4208,13 +4208,6 @@
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
-                "asn": 4242423014,
-                "prefix": "fd60:aa43:907d::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242423852,
                 "prefix": "fd62:172:23:125::/64",
                 "maxPrefixLength": 64,
@@ -4549,6 +4542,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "XXSLDN-MNT"
+            },
+            {
+                "asn": 4242421225,
+                "prefix": "fd70:726f:662e::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MORIARTY-MNT"
             },
             {
                 "asn": 4242423615,
@@ -9934,13 +9934,6 @@
                 "mnt-by": "JANSSEN-MNT"
             },
             {
-                "asn": 4242421926,
-                "prefix": "172.20.138.0/26",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "ZHAOFENG-MNT"
-            },
-            {
                 "asn": 4242423513,
                 "prefix": "172.20.138.128/26",
                 "maxPrefixLength": 28,
@@ -10177,13 +10170,6 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "RSDOHERTY-MNT"
-            },
-            {
-                "asn": 4242421926,
-                "prefix": "172.20.149.144/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "ZHAOFENG-MNT"
             },
             {
                 "asn": 4242422102,
@@ -14499,7 +14485,7 @@
             },
             {
                 "asn": 4242420180,
-                "prefix": "172.22.122.0/27",
+                "prefix": "172.22.122.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GATUNO-MNT"
@@ -14552,13 +14538,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GCC-MNT"
-            },
-            {
-                "asn": 4242423014,
-                "prefix": "172.22.124.16/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242423974,
@@ -17289,6 +17268,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BLAZING-MNT"
+            },
+            {
+                "asn": 4242421225,
+                "prefix": "172.23.7.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MORIARTY-MNT"
             },
             {
                 "asn": 4242421823,
