@@ -6616,6 +6616,13 @@
             "mnt-by": "NOCTURNO-MNT"
         },
         {
+            "asn": "AS4242423402",
+            "prefix": "fdcd:a61d:f378::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NABOUNO-MNT"
+        },
+        {
             "asn": "AS4242420944",
             "prefix": "fdcd:eb58:c24a:6798::/64",
             "maxLength": 64,
@@ -10130,6 +10137,13 @@
             "mnt-by": "TUX333-MNT"
         },
         {
+            "asn": "AS4242423402",
+            "prefix": "172.20.148.72/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "NABOUNO-MNT"
+        },
+        {
             "asn": "AS4242420316",
             "prefix": "172.20.148.80/28",
             "maxLength": 28,
@@ -10723,6 +10737,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ARITE-MNT"
+        },
+        {
+            "asn": "AS4242421302",
+            "prefix": "172.20.167.176/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "PIIRR-MNT"
         },
         {
             "asn": "AS4242421015",
@@ -17439,8 +17460,8 @@
         }
     ],
     "metadata": {
-        "counts": 2491,
-        "generated": 1606590615,
-        "valid": 1607022615
+        "counts": 2494,
+        "generated": 1606626620,
+        "valid": 1607058620
     }
 }
