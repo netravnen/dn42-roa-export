@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 6f5607c5585ea37fb83b82edb0863645f9ea20a5
-Merge: 68d2d6bf 6c83de09
-Date:   2020-11-28 21:41:06 +0000
+Commit 06dcd0092fe5a8a3a2a3c217feebc9276bfda808
+Merge: 6f5607c5 18a3d842
+Date:   2020-12-01 10:57:40 +0000
 
-    Merge pull request 'fix-infrastructure-objects: Don't assume /bin/bash to be present' (#321) from zhaofengli/registry:fix-bin-bash into master
+    Merge pull request 'AS4242422237: Update email address' (#325) from munsternet-20201130/contactchange into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1134
 - ROAs total: 2494
 
-[0]: https://git.dn42.dev/dn42/registry/commit/6f5607c5585ea37fb83b82edb0863645f9ea20a5
+[0]: https://git.dn42.dev/dn42/registry/commit/06dcd0092fe5a8a3a2a3c217feebc9276bfda808
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
