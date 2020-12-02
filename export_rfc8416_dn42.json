@@ -6938,13 +6938,6 @@
                 "mnt-by": "JOMAT-MNT"
             },
             {
-                "asn": 4242421231,
-                "prefix": "fdde:4869:4062::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "CAESIA-MNT"
-            },
-            {
                 "asn": 4242422204,
                 "prefix": "fdde:690a:20fc:39ff::/64",
                 "maxPrefixLength": 64,
@@ -10870,13 +10863,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JUMPNET-MNT"
-            },
-            {
-                "asn": 4242421231,
-                "prefix": "172.20.172.16/28",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "CAESIA-MNT"
             },
             {
                 "asn": 4242423999,
