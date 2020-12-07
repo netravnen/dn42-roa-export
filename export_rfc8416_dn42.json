@@ -6329,6 +6329,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421097,
+                "prefix": "fdc5:30f7:af0a::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "GFA-MNT"
+            },
+            {
                 "asn": 4242421238,
                 "prefix": "fdc5:7835:68c8::/48",
                 "maxPrefixLength": 48,
@@ -6733,6 +6740,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MODER-MNT"
+            },
+            {
+                "asn": 4242421208,
+                "prefix": "fdd2:a44d:1d67::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "CARAK-MNT"
             },
             {
                 "asn": 4242423322,
@@ -13714,6 +13728,13 @@
                 "mnt-by": "RHM-MNT"
             },
             {
+                "asn": 4242421097,
+                "prefix": "172.21.68.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GFA-MNT"
+            },
+            {
                 "asn": 4242423931,
                 "prefix": "172.21.69.0/24",
                 "maxPrefixLength": 28,
@@ -14790,6 +14811,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DOT-MNT"
+            },
+            {
+                "asn": 4242421208,
+                "prefix": "172.22.137.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CARAK-MNT"
             },
             {
                 "asn": 4242422647,
