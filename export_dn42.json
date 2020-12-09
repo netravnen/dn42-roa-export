@@ -5391,13 +5391,6 @@
             "mnt-by": "NARNIA-MNT"
         },
         {
-            "asn": "AS4242421775",
-            "prefix": "fd9c:cab6:54f3::/48",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "XS4ME-MNT"
-        },
-        {
             "asn": "AS4242421096",
             "prefix": "fd9d:5e08:b9f9::/48",
             "maxLength": 64,
@@ -13763,13 +13756,6 @@
             "mnt-by": "PONS-MNT"
         },
         {
-            "asn": "AS4242421775",
-            "prefix": "172.21.74.64/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "XS4ME-MNT"
-        },
-        {
             "asn": "AS4242422389",
             "prefix": "172.21.74.96/27",
             "maxLength": 28,
@@ -17474,8 +17460,8 @@
         }
     ],
     "metadata": {
-        "counts": 2496,
-        "generated": 1607512164,
-        "valid": 1607944164
+        "counts": 2494,
+        "generated": 1607540969,
+        "valid": 1607972969
     }
 }
