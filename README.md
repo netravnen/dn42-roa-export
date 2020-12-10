@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 64e1ab2d936839e3867957d3d21c2f68dfd3063b
-Merge: e24a5d09 b3835498
-Date:   2020-12-09 18:37:10 +0000
+Commit 396e45a9b2e5cc9cdc4404f3c99ea566aecf6111
+Merge: b0a192e8 69092bb7
+Date:   2020-12-10 16:01:20 +0000
 
-    Merge pull request 'goodby dn42' (#334) from xs4me-20201209/goodby-dn42 into master
+    Merge pull request 'squashed commit: Initial Registration' (#337) from lapisblue27-20201210/dn42reg into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1360
-- ROAs IPv6:  1134
-- ROAs total: 2494
+- ROAs IPv4:  1362
+- ROAs IPv6:  1136
+- ROAs total: 2498
 
-[0]: https://git.dn42.dev/dn42/registry/commit/64e1ab2d936839e3867957d3d21c2f68dfd3063b
+[0]: https://git.dn42.dev/dn42/registry/commit/396e45a9b2e5cc9cdc4404f3c99ea566aecf6111
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -596,6 +596,13 @@
             "mnt-by": "DREAMRY-MNT"
         },
         {
+            "asn": "AS4242422032",
+            "prefix": "fd0b:da1a:9768::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LAPISBLUE27-MNT"
+        },
+        {
             "asn": "AS4242421275",
             "prefix": "fd0c:70b0:1c7d::/48",
             "maxLength": 48,
@@ -1252,6 +1259,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "3STADT-MNT"
+        },
+        {
+            "asn": "AS4242421017",
+            "prefix": "fd22:7135:7c82::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DRMESSANO-MNT"
         },
         {
             "asn": "AS4242423073",
@@ -13819,6 +13833,13 @@
             "mnt-by": "LAGERTONNE-MNT"
         },
         {
+            "asn": "AS4242421017",
+            "prefix": "172.21.82.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DRMESSANO-MNT"
+        },
+        {
             "asn": "AS4242422381",
             "prefix": "172.21.84.0/27",
             "maxLength": 28,
@@ -15266,6 +15287,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "YUYAN-MNT"
+        },
+        {
+            "asn": "AS4242422032",
+            "prefix": "172.22.180.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LAPISBLUE27-MNT"
         },
         {
             "asn": "AS4242422322",
@@ -17460,8 +17488,8 @@
         }
     ],
     "metadata": {
-        "counts": 2494,
-        "generated": 1607598564,
-        "valid": 1608030564
+        "counts": 2498,
+        "generated": 1607627371,
+        "valid": 1608059371
     }
 }
