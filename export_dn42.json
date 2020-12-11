@@ -4838,6 +4838,13 @@
             "mnt-by": "INL-MNT"
         },
         {
+            "asn": "AS4242422205",
+            "prefix": "fd7e:8af4:39dd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LUCABER-MNT"
+        },
+        {
             "asn": "AS4242422144",
             "prefix": "fd7e:e43c:78d9::/48",
             "maxLength": 64,
@@ -14211,6 +14218,13 @@
             "mnt-by": "SHOGHI-MNT"
         },
         {
+            "asn": "AS4242421080",
+            "prefix": "172.22.108.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JLU5-MNT"
+        },
+        {
             "asn": "AS4242420077",
             "prefix": "172.22.110.0/27",
             "maxLength": 28,
@@ -16017,6 +16031,13 @@
             "mnt-by": "ARG-MNT"
         },
         {
+            "asn": "AS4242422205",
+            "prefix": "172.23.104.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LUCABER-MNT"
+        },
+        {
             "asn": "AS4242422387",
             "prefix": "172.23.109.0/26",
             "maxLength": 28,
@@ -17488,8 +17509,8 @@
         }
     ],
     "metadata": {
-        "counts": 2498,
-        "generated": 1607685013,
-        "valid": 1608117013
+        "counts": 2501,
+        "generated": 1607713826,
+        "valid": 1608145826
     }
 }
