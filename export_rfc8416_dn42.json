@@ -4467,6 +4467,13 @@
                 "mnt-by": "YUXANS-MNT"
             },
             {
+                "asn": 4242423927,
+                "prefix": "fd6a:b179:7a6b::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ALDRIC-MNT"
+            },
+            {
                 "asn": 4242421629,
                 "prefix": "fd6a:c707:c3c8:be2a::/64",
                 "maxPrefixLength": 64,
@@ -13726,6 +13733,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "P3BK4C-MNT"
+            },
+            {
+                "asn": 4242423927,
+                "prefix": "172.21.67.224/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "ALDRIC-MNT"
             },
             {
                 "asn": 4242420339,
