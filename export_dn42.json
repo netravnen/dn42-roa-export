@@ -16073,6 +16073,13 @@
             "mnt-by": "PHILCGN-MNT"
         },
         {
+            "asn": "AS4242423856",
+            "prefix": "172.23.109.168/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SCOOTERH928-MNT"
+        },
+        {
             "asn": "AS4242421423",
             "prefix": "172.23.109.96/27",
             "maxLength": 28,
@@ -17523,8 +17530,8 @@
         }
     ],
     "metadata": {
-        "counts": 2503,
-        "generated": 1607886623,
-        "valid": 1608318623
+        "counts": 2504,
+        "generated": 1607922617,
+        "valid": 1608354617
     }
 }

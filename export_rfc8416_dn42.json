@@ -16080,6 +16080,13 @@
                 "mnt-by": "PHILCGN-MNT"
             },
             {
+                "asn": 4242423856,
+                "prefix": "172.23.109.168/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SCOOTERH928-MNT"
+            },
+            {
                 "asn": 4242421423,
                 "prefix": "172.23.109.96/27",
                 "maxPrefixLength": 28,
