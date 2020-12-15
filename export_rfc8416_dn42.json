@@ -6644,6 +6644,13 @@
                 "mnt-by": "RG-MNT"
             },
             {
+                "asn": 4242423626,
+                "prefix": "fdcc:bb58:43b3::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SPACE24-MNT"
+            },
+            {
                 "asn": 4242422002,
                 "prefix": "fdcd:3682:1c17::/48",
                 "maxPrefixLength": 64,
@@ -7047,6 +7054,13 @@
                 "prefix": "fde0:105b:1d87::/48",
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 0,
+                "prefix": "fde0:93fa:7a0::/48",
+                "maxPrefixLength": 128,
+                "source": "DN42",
                 "mnt-by": "DN42-MNT"
             },
             {
@@ -16925,6 +16939,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "AFTBIT-MNT"
+            },
+            {
+                "asn": 4242423626,
+                "prefix": "172.23.222.160/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SPACE24-MNT"
             },
             {
                 "asn": 4242421907,
