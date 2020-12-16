@@ -7071,6 +7071,13 @@
             "mnt-by": "MOON-MNT"
         },
         {
+            "asn": "AS4242423913",
+            "prefix": "fde1:122:9322::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SOHA-MNT"
+        },
+        {
             "asn": "AS4242420901",
             "prefix": "fde1:cb02:bc2c::/48",
             "maxLength": 64,
@@ -17551,8 +17558,8 @@
         }
     ],
     "metadata": {
-        "counts": 2507,
-        "generated": 1608116965,
-        "valid": 1608548965
+        "counts": 2508,
+        "generated": 1608145772,
+        "valid": 1608577772
     }
 }

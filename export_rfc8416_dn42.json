@@ -7078,6 +7078,13 @@
                 "mnt-by": "MOON-MNT"
             },
             {
+                "asn": 4242423913,
+                "prefix": "fde1:122:9322::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SOHA-MNT"
+            },
+            {
                 "asn": 4242420901,
                 "prefix": "fde1:cb02:bc2c::/48",
                 "maxPrefixLength": 64,
