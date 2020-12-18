@@ -4908,6 +4908,13 @@
                 "mnt-by": "SUDOPARADISE-MNT"
             },
             {
+                "asn": 4242423350,
+                "prefix": "fd81:763a:ce02::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ZERTAP-MNT"
+            },
+            {
                 "asn": 4242421530,
                 "prefix": "fd81:c3c8:e9a2::/48",
                 "maxPrefixLength": 48,
@@ -12382,6 +12389,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HELCAR-MNT"
+            },
+            {
+                "asn": 4242423350,
+                "prefix": "172.20.28.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ZERTAP-MNT"
             },
             {
                 "asn": 4242423331,
