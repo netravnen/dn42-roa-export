@@ -7094,7 +7094,7 @@
         {
             "asn": "AS4242423913",
             "prefix": "fde1:122:9322::/48",
-            "maxLength": 48,
+            "maxLength": 60,
             "ta": "DN42",
             "mnt-by": "SOHA-MNT"
         },
@@ -16318,6 +16318,13 @@
             "mnt-by": "BAKABYTE-MNT"
         },
         {
+            "asn": "AS4242423913",
+            "prefix": "172.23.13.0/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SOHA-MNT"
+        },
+        {
             "asn": "AS4242422345",
             "prefix": "172.23.131.0/26",
             "maxLength": 28,
@@ -17600,8 +17607,8 @@
         }
     ],
     "metadata": {
-        "counts": 2514,
-        "generated": 1608318564,
-        "valid": 1608750564
+        "counts": 2515,
+        "generated": 1608354567,
+        "valid": 1608786567
     }
 }

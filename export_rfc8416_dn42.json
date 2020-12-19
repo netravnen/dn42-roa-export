@@ -7101,7 +7101,7 @@
             {
                 "asn": 4242423913,
                 "prefix": "fde1:122:9322::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 60,
                 "source": "DN42",
                 "mnt-by": "SOHA-MNT"
             },
@@ -16323,6 +16323,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BAKABYTE-MNT"
+            },
+            {
+                "asn": 4242423913,
+                "prefix": "172.23.13.0/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SOHA-MNT"
             },
             {
                 "asn": 4242422345,
