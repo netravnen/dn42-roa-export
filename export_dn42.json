@@ -7008,6 +7008,13 @@
             "mnt-by": "CODEHACK-MNT"
         },
         {
+            "asn": "AS4242420925",
+            "prefix": "fdde:c0de:925::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "YUETAU-MNT"
+        },
+        {
             "asn": "AS4242421555",
             "prefix": "fdde:dead:beef::/48",
             "maxLength": 48,
@@ -13819,6 +13826,13 @@
             "mnt-by": "GFA-MNT"
         },
         {
+            "asn": "AS4242420925",
+            "prefix": "172.21.68.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YUETAU-MNT"
+        },
+        {
             "asn": "AS4242423931",
             "prefix": "172.21.69.0/24",
             "maxLength": 28,
@@ -17607,8 +17621,8 @@
         }
     ],
     "metadata": {
-        "counts": 2515,
-        "generated": 1608721768,
-        "valid": 1609153768
+        "counts": 2517,
+        "generated": 1608750569,
+        "valid": 1609182569
     }
 }
