@@ -3732,6 +3732,13 @@
             "mnt-by": "DEPACH-MNT"
         },
         {
+            "asn": "AS4242423642",
+            "prefix": "fd45:61ab:1bf2:bf79::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SEEK42-MNT"
+        },
+        {
             "asn": "AS4242423620",
             "prefix": "fd46:972a:903b::/48",
             "maxLength": 64,
@@ -17621,8 +17628,8 @@
         }
     ],
     "metadata": {
-        "counts": 2517,
-        "generated": 1608786563,
-        "valid": 1609218563
+        "counts": 2518,
+        "generated": 1608808168,
+        "valid": 1609240168
     }
 }

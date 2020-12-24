@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 38243e6170636f1b964058ff31ae77237edf6e58
-Merge: ded1e62e 5722e641
-Date:   2020-12-23 18:57:27 +0000
+Commit 2567318c37adde42f422cde9df431cec18d42380
+Merge: 72ecf958 f75bbcef
+Date:   2020-12-24 08:38:29 +0000
 
-    Merge pull request 'Remove not inuse server and update IP's' (#357) from marshy/registry:master into master
+    Merge pull request 'Adding IPv6 for Seek42' (#358) from Chankster-20201224/addipv6 into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1372
-- ROAs IPv6:  1145
-- ROAs total: 2517
+- ROAs IPv6:  1146
+- ROAs total: 2518
 
-[0]: https://git.dn42.dev/dn42/registry/commit/38243e6170636f1b964058ff31ae77237edf6e58
+[0]: https://git.dn42.dev/dn42/registry/commit/2567318c37adde42f422cde9df431cec18d42380
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

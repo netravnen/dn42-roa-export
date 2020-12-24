@@ -3739,6 +3739,13 @@
                 "mnt-by": "DEPACH-MNT"
             },
             {
+                "asn": 4242423642,
+                "prefix": "fd45:61ab:1bf2:bf79::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SEEK42-MNT"
+            },
+            {
                 "asn": 4242423620,
                 "prefix": "fd46:972a:903b::/48",
                 "maxPrefixLength": 64,
