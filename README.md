@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 2567318c37adde42f422cde9df431cec18d42380
-Merge: 72ecf958 f75bbcef
-Date:   2020-12-24 08:38:29 +0000
+Commit 047352c14c00e1bd6a82a42f9266c0e5de38f2de
+Merge: 2567318c 7d0ffe34
+Date:   2020-12-24 20:28:13 +0000
 
-    Merge pull request 'Adding IPv6 for Seek42' (#358) from Chankster-20201224/addipv6 into master
+    Merge pull request 'Register AS4242422980' (#360) from YuutaW/registry:YuutaW-20201225/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1372
-- ROAs IPv6:  1146
-- ROAs total: 2518
+- ROAs IPv4:  1373
+- ROAs IPv6:  1147
+- ROAs total: 2520
 
-[0]: https://git.dn42.dev/dn42/registry/commit/2567318c37adde42f422cde9df431cec18d42380
+[0]: https://git.dn42.dev/dn42/registry/commit/047352c14c00e1bd6a82a42f9266c0e5de38f2de
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

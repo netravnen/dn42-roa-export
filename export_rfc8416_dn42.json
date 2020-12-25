@@ -1842,6 +1842,13 @@
                 "mnt-by": "SESHI-MNT"
             },
             {
+                "asn": 4242422980,
+                "prefix": "fd3f:a1f1:54ed::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YUUTAW-MNT"
+            },
+            {
                 "asn": 4242428989,
                 "prefix": "fd3f:e6b2:8a3e::/48",
                 "maxPrefixLength": 64,
@@ -16141,6 +16148,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LUCABER-MNT"
+            },
+            {
+                "asn": 4242422980,
+                "prefix": "172.23.105.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YUUTAW-MNT"
             },
             {
                 "asn": 4242422387,
