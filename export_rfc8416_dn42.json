@@ -8506,7 +8506,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201270008,
+                "asn": 4201270017,
                 "prefix": "10.127.4.0/24",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
