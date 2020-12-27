@@ -6959,6 +6959,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242422515",
+            "prefix": "fddc:3293:81a4::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ANYSERVICES-MNT"
+        },
+        {
             "asn": "AS4242421911",
             "prefix": "fddc:5f35:fd47::/48",
             "maxLength": 64,
@@ -17642,8 +17649,8 @@
         }
     ],
     "metadata": {
-        "counts": 2520,
-        "generated": 1609009766,
-        "valid": 1609441766
+        "counts": 2521,
+        "generated": 1609045767,
+        "valid": 1609477767
     }
 }

@@ -6966,6 +6966,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242422515,
+                "prefix": "fddc:3293:81a4::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ANYSERVICES-MNT"
+            },
+            {
                 "asn": 4242421911,
                 "prefix": "fddc:5f35:fd47::/48",
                 "maxPrefixLength": 64,
