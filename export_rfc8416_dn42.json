@@ -2143,6 +2143,13 @@
                 "mnt-by": "BURBLE-MNT"
             },
             {
+                "asn": 4242421288,
+                "prefix": "fd42:1919:810::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NICHOLASCW-MNT"
+            },
+            {
                 "asn": 4242421926,
                 "prefix": "fd42:1926:817::/48",
                 "maxPrefixLength": 64,
@@ -5760,6 +5767,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SOUTERRAIN-MNT"
+            },
+            {
+                "asn": 4242423917,
+                "prefix": "fda5:2522:729::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SNOC-MNT"
             },
             {
                 "asn": 4242422369,
@@ -11530,6 +11544,13 @@
                 "mnt-by": "PROTOCON-MNT"
             },
             {
+                "asn": 4242423917,
+                "prefix": "172.20.192.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SNOC-MNT"
+            },
+            {
                 "asn": 4242420115,
                 "prefix": "172.20.192.64/27",
                 "maxPrefixLength": 28,
@@ -12193,6 +12214,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DAYI-MNT"
+            },
+            {
+                "asn": 4242421288,
+                "prefix": "172.20.233.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NICHOLASCW-MNT"
             },
             {
                 "asn": 4242421555,
