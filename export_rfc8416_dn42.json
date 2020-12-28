@@ -6854,6 +6854,13 @@
                 "mnt-by": "ZZ-MNT"
             },
             {
+                "asn": 4242422339,
+                "prefix": "fdd4:23a3:9727::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NOCTIS-MNT"
+            },
+            {
                 "asn": 4242422801,
                 "prefix": "fdd4:42d8:c154::/48",
                 "maxPrefixLength": 64,
@@ -17310,6 +17317,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HIGHER-MNT"
+            },
+            {
+                "asn": 4242422339,
+                "prefix": "172.23.37.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NOCTIS-MNT"
             },
             {
                 "asn": 4242422950,

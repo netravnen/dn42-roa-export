@@ -6847,6 +6847,13 @@
             "mnt-by": "ZZ-MNT"
         },
         {
+            "asn": "AS4242422339",
+            "prefix": "fdd4:23a3:9727::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NOCTIS-MNT"
+        },
+        {
             "asn": "AS4242422801",
             "prefix": "fdd4:42d8:c154::/48",
             "maxLength": 64,
@@ -17305,6 +17312,13 @@
             "mnt-by": "HIGHER-MNT"
         },
         {
+            "asn": "AS4242422339",
+            "prefix": "172.23.37.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NOCTIS-MNT"
+        },
+        {
             "asn": "AS4242422950",
             "prefix": "172.23.38.160/27",
             "maxLength": 28,
@@ -17649,8 +17663,8 @@
         }
     ],
     "metadata": {
-        "counts": 2521,
-        "generated": 1609096164,
-        "valid": 1609528164
+        "counts": 2523,
+        "generated": 1609132168,
+        "valid": 1609564168
     }
 }
