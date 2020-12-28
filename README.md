@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 7c4feee76ee130d73c43fcb06f0124b92e00caf7
-Merge: 67ef8287 e996da3c
-Date:   2020-12-28 10:54:22 +0000
+Commit 9abfa56e5171936844b3d183b17938289758dc17
+Merge: 7c4feee7 b760c60d
+Date:   2020-12-28 12:40:25 +0000
 
-    Merge pull request 'Update contact and apply for new as AS4242423917' (#372) from supernoc-20201228/contact_update_and_new_as into master
+    Merge pull request 'Remove import/export attributes' (#373) from grawity-20201228/cleanup-impexp into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1151
 - ROAs total: 2527
 
-[0]: https://git.dn42.dev/dn42/registry/commit/7c4feee76ee130d73c43fcb06f0124b92e00caf7
+[0]: https://git.dn42.dev/dn42/registry/commit/9abfa56e5171936844b3d183b17938289758dc17
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
