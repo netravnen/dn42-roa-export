@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9abfa56e5171936844b3d183b17938289758dc17
-Merge: 7c4feee7 b760c60d
-Date:   2020-12-28 12:40:25 +0000
+Commit 13357136c57ef07f7fe1ba2d5f1559ae8da5c550
+Merge: 9abfa56e 942a4fb7
+Date:   2020-12-28 19:18:54 +0000
 
-    Merge pull request 'Remove import/export attributes' (#373) from grawity-20201228/cleanup-impexp into master
+    Merge pull request 'Changed max-length for IPv4/v6 routes' (#375) from tomkap-20201228/maxlength into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1151
 - ROAs total: 2527
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9abfa56e5171936844b3d183b17938289758dc17
+[0]: https://git.dn42.dev/dn42/registry/commit/13357136c57ef07f7fe1ba2d5f1559ae8da5c550
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

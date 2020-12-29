@@ -4350,7 +4350,7 @@
             {
                 "asn": 4242422092,
                 "prefix": "fd63:672f:38e7::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "P3BK4C-MNT"
             },
@@ -13856,7 +13856,7 @@
             {
                 "asn": 4242422092,
                 "prefix": "172.21.67.192/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "P3BK4C-MNT"
             },

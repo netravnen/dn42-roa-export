@@ -4343,7 +4343,7 @@
         {
             "asn": "AS4242422092",
             "prefix": "fd63:672f:38e7::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "P3BK4C-MNT"
         },
@@ -13849,7 +13849,7 @@
         {
             "asn": "AS4242422092",
             "prefix": "172.21.67.192/27",
-            "maxLength": 28,
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "P3BK4C-MNT"
         },
@@ -17692,7 +17692,7 @@
     ],
     "metadata": {
         "counts": 2527,
-        "generated": 1609182571,
-        "valid": 1609614571
+        "generated": 1609218569,
+        "valid": 1609650569
     }
 }
