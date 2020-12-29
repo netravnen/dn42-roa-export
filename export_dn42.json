@@ -869,6 +869,20 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS140936",
+            "prefix": "fd10:127:ee11::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242423088",
+            "prefix": "fd10:127:ee11::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270006",
             "prefix": "fd10:127:ffff:53::/64",
             "maxLength": 64,
@@ -17691,8 +17705,8 @@
         }
     ],
     "metadata": {
-        "counts": 2527,
-        "generated": 1609218569,
-        "valid": 1609650569
+        "counts": 2529,
+        "generated": 1609240169,
+        "valid": 1609672169
     }
 }
