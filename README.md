@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 15f9302045e06370d4f603113e8c1725c545954e
-Merge: 3b63bd07 1260eb58
-Date:   2020-12-29 19:08:52 +0000
+Commit 4c5bd0e2d569c6f1e4ce08336f7cb59c5920c111
+Merge: 15f93020 bc77eb10
+Date:   2020-12-29 19:14:11 +0000
 
-    Merge pull request 'AS4242420977: update dns servers and peering info' (#376) from Arnie97-20201229/update-nserver into master
+    Merge pull request 'register for AS, IPv4 and IPv6 blocks' (#377) from Misaka_0x34ca/registry:Misaka_0x34ca-20201229/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1376
-- ROAs IPv6:  1153
-- ROAs total: 2529
+- ROAs IPv4:  1377
+- ROAs IPv6:  1154
+- ROAs total: 2531
 
-[0]: https://git.dn42.dev/dn42/registry/commit/15f9302045e06370d4f603113e8c1725c545954e
+[0]: https://git.dn42.dev/dn42/registry/commit/4c5bd0e2d569c6f1e4ce08336f7cb59c5920c111
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -6231,6 +6231,13 @@
             "mnt-by": "GIMPYB-MNT"
         },
         {
+            "asn": "AS4242421032",
+            "prefix": "fdbd:8e82:8b88::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "RADIONOISE-MNT"
+        },
+        {
             "asn": "AS64892",
             "prefix": "fdbe:12d0:3d2::/64",
             "maxLength": 64,
@@ -16101,6 +16108,13 @@
             "mnt-by": "CREST-MNT"
         },
         {
+            "asn": "AS4242421032",
+            "prefix": "172.23.10.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RADIONOISE-MNT"
+        },
+        {
             "asn": "AS4242420980",
             "prefix": "172.23.100.0/25",
             "maxLength": 28,
@@ -17705,8 +17719,8 @@
         }
     ],
     "metadata": {
-        "counts": 2529,
-        "generated": 1609268970,
-        "valid": 1609700970
+        "counts": 2531,
+        "generated": 1609304969,
+        "valid": 1609736969
     }
 }
