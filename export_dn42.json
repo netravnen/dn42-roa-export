@@ -4117,6 +4117,13 @@
             "mnt-by": "R8-MNT"
         },
         {
+            "asn": "AS4242421226",
+            "prefix": "fd58:5a8d:4d3f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MURXMASTER-MNT"
+        },
+        {
             "asn": "AS4242420428",
             "prefix": "fd58:eb75:347d::/48",
             "maxLength": 64,
@@ -13280,6 +13287,13 @@
             "mnt-by": "DK6H05T-MNT"
         },
         {
+            "asn": "AS4242421226",
+            "prefix": "172.20.59.160/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "MURXMASTER-MNT"
+        },
+        {
             "asn": "AS4242423621",
             "prefix": "172.20.59.64/27",
             "maxLength": 28,
@@ -17719,8 +17733,8 @@
         }
     ],
     "metadata": {
-        "counts": 2531,
-        "generated": 1609304969,
-        "valid": 1609736969
+        "counts": 2533,
+        "generated": 1609326568,
+        "valid": 1609758568
     }
 }
