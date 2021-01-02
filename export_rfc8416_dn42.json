@@ -7708,6 +7708,13 @@
                 "mnt-by": "ZHIYUAN-MNT"
             },
             {
+                "asn": 4242421541,
+                "prefix": "fdf6:8994:e4d9::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "PELETHIEC-MNT"
+            },
+            {
                 "asn": 4242423906,
                 "prefix": "fdf7:17d5:de49:1000::/52",
                 "maxPrefixLength": 64,

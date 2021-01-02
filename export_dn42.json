@@ -7701,6 +7701,13 @@
             "mnt-by": "ZHIYUAN-MNT"
         },
         {
+            "asn": "AS4242421541",
+            "prefix": "fdf6:8994:e4d9::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "PELETHIEC-MNT"
+        },
+        {
             "asn": "AS4242423906",
             "prefix": "fdf7:17d5:de49:1000::/52",
             "maxLength": 64,
@@ -17733,8 +17740,8 @@
         }
     ],
     "metadata": {
-        "counts": 2533,
-        "generated": 1609528163,
-        "valid": 1609960163
+        "counts": 2534,
+        "generated": 1609564170,
+        "valid": 1609996170
     }
 }
