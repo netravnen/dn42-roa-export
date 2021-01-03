@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e4623c0f6737b719eb9319ecaa323e33928ece2f
-Merge: ed1c1292 ab151f5c
-Date:   2021-01-02 23:26:38 +0000
+Commit 5e92c5232b42eaa4510d1035c7ea101758ce1b4f
+Merge: e4623c0f 78c5d239
+Date:   2021-01-03 14:06:02 +0000
 
-    Merge pull request 'Added DNS for cperrin.dn42' (#384) from cperrin-20210102/added_dns into master
+    Merge pull request 'Change netname and descr.' (#385) from yukari-20210103/somechange into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1155
 - ROAs total: 2531
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e4623c0f6737b719eb9319ecaa323e33928ece2f
+[0]: https://git.dn42.dev/dn42/registry/commit/5e92c5232b42eaa4510d1035c7ea101758ce1b4f
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
