@@ -3781,6 +3781,13 @@
                 "mnt-by": "MARKR-MNT"
             },
             {
+                "asn": 4242422309,
+                "prefix": "fd46:a312:514a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LEOLEOASD-MNT"
+            },
+            {
                 "asn": 64613,
                 "prefix": "fd46:aa43::/32",
                 "maxPrefixLength": 64,
@@ -11570,6 +11577,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PROTOCON-MNT"
+            },
+            {
+                "asn": 4242422309,
+                "prefix": "172.20.192.0/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "LEOLEOASD-MNT"
             },
             {
                 "asn": 4242423917,
