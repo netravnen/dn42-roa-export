@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 5e92c5232b42eaa4510d1035c7ea101758ce1b4f
-Merge: e4623c0f 78c5d239
-Date:   2021-01-03 14:06:02 +0000
+Commit 6353693b8a6bd8e3aba1bff7116016ec7d749aff
+Merge: 5e92c523 df5d6bad
+Date:   2021-01-03 19:17:00 +0000
 
-    Merge pull request 'Change netname and descr.' (#385) from yukari-20210103/somechange into master
+    Merge pull request 'Adding yuetau.dn42 and update info' (#386) from yuetau-20210103/adding-domain-and-update-info into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1155
 - ROAs total: 2531
 
-[0]: https://git.dn42.dev/dn42/registry/commit/5e92c5232b42eaa4510d1035c7ea101758ce1b4f
+[0]: https://git.dn42.dev/dn42/registry/commit/6353693b8a6bd8e3aba1bff7116016ec7d749aff
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
