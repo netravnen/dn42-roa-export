@@ -7036,6 +7036,13 @@
                 "mnt-by": "XSE-MNT"
             },
             {
+                "asn": 4242423936,
+                "prefix": "fddd:20c2:cc1c::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DINGYX99-MNT"
+            },
+            {
                 "asn": 65026,
                 "prefix": "fddd:5d16:b5dd::/48",
                 "maxPrefixLength": 64,
@@ -17716,6 +17723,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BECKFAN-MNT"
+            },
+            {
+                "asn": 4242423936,
+                "prefix": "172.23.99.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DINGYX99-MNT"
             },
             {
                 "asn": 64654,
