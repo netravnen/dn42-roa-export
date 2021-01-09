@@ -5832,6 +5832,13 @@
             "mnt-by": "OXYGEN233-MNT"
         },
         {
+            "asn": "AS4242421510",
+            "prefix": "fda6:bf36:9b89::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "XAOTIC-MNT"
+        },
+        {
             "asn": "AS4242420469",
             "prefix": "fda7:a975:bfc2::/48",
             "maxLength": 64,
@@ -12259,7 +12266,7 @@
         },
         {
             "asn": "AS4242421288",
-            "prefix": "172.20.233.128/27",
+            "prefix": "172.20.233.128/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "NICHOLASCW-MNT"
@@ -17389,6 +17396,13 @@
             "mnt-by": "HIGHER-MNT"
         },
         {
+            "asn": "AS4242421510",
+            "prefix": "172.23.36.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "XAOTIC-MNT"
+        },
+        {
             "asn": "AS4242422339",
             "prefix": "172.23.37.0/27",
             "maxLength": 28,
@@ -17747,8 +17761,8 @@
         }
     ],
     "metadata": {
-        "counts": 2535,
-        "generated": 1610132966,
-        "valid": 1610564966
+        "counts": 2537,
+        "generated": 1610168971,
+        "valid": 1610600971
     }
 }

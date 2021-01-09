@@ -5839,6 +5839,13 @@
                 "mnt-by": "OXYGEN233-MNT"
             },
             {
+                "asn": 4242421510,
+                "prefix": "fda6:bf36:9b89::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "XAOTIC-MNT"
+            },
+            {
                 "asn": 4242420469,
                 "prefix": "fda7:a975:bfc2::/48",
                 "maxPrefixLength": 64,
@@ -12266,7 +12273,7 @@
             },
             {
                 "asn": 4242421288,
-                "prefix": "172.20.233.128/27",
+                "prefix": "172.20.233.128/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NICHOLASCW-MNT"
@@ -17394,6 +17401,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HIGHER-MNT"
+            },
+            {
+                "asn": 4242421510,
+                "prefix": "172.23.36.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "XAOTIC-MNT"
             },
             {
                 "asn": 4242422339,
