@@ -78,6 +78,13 @@
                 "mnt-by": "FXKR-MNT"
             },
             {
+                "asn": 4242422538,
+                "prefix": "fd00:4da1:c7fd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "EAB-MNT"
+            },
+            {
                 "asn": 4242422214,
                 "prefix": "fd00:58a8:7fb2::/48",
                 "maxPrefixLength": 48,

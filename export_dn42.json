@@ -71,6 +71,13 @@
             "mnt-by": "FXKR-MNT"
         },
         {
+            "asn": "AS4242422538",
+            "prefix": "fd00:4da1:c7fd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "EAB-MNT"
+        },
+        {
             "asn": "AS4242422214",
             "prefix": "fd00:58a8:7fb2::/48",
             "maxLength": 48,
@@ -17747,8 +17754,8 @@
         }
     ],
     "metadata": {
-        "counts": 2535,
-        "generated": 1610219369,
-        "valid": 1610651369
+        "counts": 2536,
+        "generated": 1610255371,
+        "valid": 1610687371
     }
 }
