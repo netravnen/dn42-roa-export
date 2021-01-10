@@ -5902,6 +5902,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242422619",
+            "prefix": "fda9:b90:2fab::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FRAINZ-MNT"
+        },
+        {
             "asn": "AS4242422058",
             "prefix": "fdaa:243c:4101::/48",
             "maxLength": 48,
@@ -17754,8 +17761,8 @@
         }
     ],
     "metadata": {
-        "counts": 2536,
-        "generated": 1610276976,
-        "valid": 1610708976
+        "counts": 2537,
+        "generated": 1610305771,
+        "valid": 1610737771
     }
 }

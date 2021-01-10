@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit df842cd1535feaf8eaef63c5d454effdcd9be57a
-Merge: 90e4b98a 5372b6ae
-Date:   2021-01-09 23:56:00 +0000
+Commit 8d4b64b44e5ba985455a8ecbadc9795398cdc5aa
+Merge: 7d657f9a 8c74dca8
+Date:   2021-01-10 13:02:30 +0000
 
-    Merge pull request 'register EAB' (#397) from SpenQ-20210108/register into master
+    Merge pull request 'Adding Keypin for DN42 CA' (#398) from owens-20210110/add-ca-keypin into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1378
-- ROAs IPv6:  1158
-- ROAs total: 2536
+- ROAs IPv6:  1159
+- ROAs total: 2537
 
-[0]: https://git.dn42.dev/dn42/registry/commit/df842cd1535feaf8eaef63c5d454effdcd9be57a
+[0]: https://git.dn42.dev/dn42/registry/commit/8d4b64b44e5ba985455a8ecbadc9795398cdc5aa
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

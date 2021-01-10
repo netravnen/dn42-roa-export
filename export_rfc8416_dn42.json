@@ -5909,6 +5909,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242422619,
+                "prefix": "fda9:b90:2fab::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FRAINZ-MNT"
+            },
+            {
                 "asn": 4242422058,
                 "prefix": "fdaa:243c:4101::/48",
                 "maxPrefixLength": 48,
