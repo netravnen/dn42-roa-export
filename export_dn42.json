@@ -36,13 +36,6 @@
             "mnt-by": "NIA-MNT"
         },
         {
-            "asn": "AS207268",
-            "prefix": "fd00:1926:817::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "NIA-MNT"
-        },
-        {
             "asn": "AS4242422761",
             "prefix": "fd00:1953:615::/48",
             "maxLength": 64,
@@ -10599,13 +10592,6 @@
             "mnt-by": "NIA-MNT"
         },
         {
-            "asn": "AS207268",
-            "prefix": "172.20.158.128/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "NIA-MNT"
-        },
-        {
             "asn": "AS4242423704",
             "prefix": "172.20.158.192/28",
             "maxLength": 28,
@@ -17761,8 +17747,8 @@
         }
     ],
     "metadata": {
-        "counts": 2537,
-        "generated": 1610363364,
-        "valid": 1610795364
+        "counts": 2535,
+        "generated": 1610392172,
+        "valid": 1610824172
     }
 }
