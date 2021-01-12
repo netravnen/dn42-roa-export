@@ -8086,6 +8086,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 203099,
+                "prefix": "fdff:8695:18b7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LOADFRONT-MNT"
+            },
+            {
                 "asn": 4242422341,
                 "prefix": "fdff:b02d:2ef7::/48",
                 "maxPrefixLength": 48,

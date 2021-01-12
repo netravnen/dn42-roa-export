@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 54cd549f0d989854d3cfb78a1795f428e17fd688
-Merge: 8d4b64b4 b335d78a
-Date:   2021-01-11 17:23:05 +0000
+Commit 641d470c13d69a1d7c183cd7b2a9dbe2980ea26e
+Merge: 54cd549f f1235629
+Date:   2021-01-12 13:25:22 +0000
 
-    Merge pull request 'Remove ipv4 ns server' (#399) from yukari-20210111/to-v6 into master
+    Merge pull request 'LoadFront joins DN42' (#400) from vroman-20210111/initial into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1377
-- ROAs IPv6:  1158
-- ROAs total: 2535
+- ROAs IPv6:  1159
+- ROAs total: 2536
 
-[0]: https://git.dn42.dev/dn42/registry/commit/54cd549f0d989854d3cfb78a1795f428e17fd688
+[0]: https://git.dn42.dev/dn42/registry/commit/641d470c13d69a1d7c183cd7b2a9dbe2980ea26e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

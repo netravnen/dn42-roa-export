@@ -8079,6 +8079,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS203099",
+            "prefix": "fdff:8695:18b7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LOADFRONT-MNT"
+        },
+        {
             "asn": "AS4242422341",
             "prefix": "fdff:b02d:2ef7::/48",
             "maxLength": 48,
@@ -17747,8 +17754,8 @@
         }
     ],
     "metadata": {
-        "counts": 2535,
-        "generated": 1610449765,
-        "valid": 1610881765
+        "counts": 2536,
+        "generated": 1610478571,
+        "valid": 1610910571
     }
 }
