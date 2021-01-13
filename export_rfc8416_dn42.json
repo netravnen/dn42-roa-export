@@ -3942,6 +3942,13 @@
                 "mnt-by": "TXC-MNT"
             },
             {
+                "asn": 4242420998,
+                "prefix": "fd50:1910:cda4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CLARISSA-MNT"
+            },
+            {
                 "asn": 4242423820,
                 "prefix": "fd50:3c8f:b8b1::/48",
                 "maxPrefixLength": 64,
@@ -10121,6 +10128,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JANSSEN-MNT"
+            },
+            {
+                "asn": 4242420998,
+                "prefix": "172.20.138.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CLARISSA-MNT"
             },
             {
                 "asn": 4242423513,

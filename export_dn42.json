@@ -3935,6 +3935,13 @@
             "mnt-by": "TXC-MNT"
         },
         {
+            "asn": "AS4242420998",
+            "prefix": "fd50:1910:cda4::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CLARISSA-MNT"
+        },
+        {
             "asn": "AS4242423820",
             "prefix": "fd50:3c8f:b8b1::/48",
             "maxLength": 64,
@@ -10114,6 +10121,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "JANSSEN-MNT"
+        },
+        {
+            "asn": "AS4242420998",
+            "prefix": "172.20.138.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CLARISSA-MNT"
         },
         {
             "asn": "AS4242423513",
@@ -17754,8 +17768,8 @@
         }
     ],
     "metadata": {
-        "counts": 2536,
-        "generated": 1610536165,
-        "valid": 1610968165
+        "counts": 2538,
+        "generated": 1610564971,
+        "valid": 1610996971
     }
 }
