@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0b87c7f121bb53afaf6ecb3f1e26317cacce590e
-Merge: 641d470c 0cd3fbfb
-Date:   2021-01-13 11:18:21 +0000
+Commit ea32e44dcd957c2b57882b186f331bfce74cb010
+Merge: 4f2d3c54 7958a874
+Date:   2021-01-14 12:41:50 +0000
 
-    Merge pull request 'initial: register Clarissa Core Network on AS4242420998' (#401) from clarissaau-20210113/initial into master
+    Merge pull request 'join AS4242422633' (#404) from eastbound-20210114/join into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1378
-- ROAs IPv6:  1160
-- ROAs total: 2538
+- ROAs IPv4:  1380
+- ROAs IPv6:  1162
+- ROAs total: 2542
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0b87c7f121bb53afaf6ecb3f1e26317cacce590e
+[0]: https://git.dn42.dev/dn42/registry/commit/ea32e44dcd957c2b57882b186f331bfce74cb010
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

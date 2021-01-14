@@ -3837,6 +3837,13 @@
             "mnt-by": "NEVERBEHAVE-MNT"
         },
         {
+            "asn": "AS4242422633",
+            "prefix": "fd4c:7750:c7e7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "EASTBOUND-MNT"
+        },
+        {
             "asn": "AS4242429946",
             "prefix": "fd4d:9197:24ee::/48",
             "maxLength": 64,
@@ -5389,6 +5396,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "RAED-MNT"
+        },
+        {
+            "asn": "AS4242423270",
+            "prefix": "fd96:70f6:b174::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS4242422231",
@@ -14932,6 +14946,13 @@
             "mnt-by": "XXSLDN-MNT"
         },
         {
+            "asn": "AS4242423270",
+            "prefix": "172.22.130.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TAAVI-MNT"
+        },
+        {
             "asn": "AS4242421166",
             "prefix": "172.22.131.32/27",
             "maxLength": 28,
@@ -17354,6 +17375,13 @@
             "mnt-by": "PSYKE-MNT"
         },
         {
+            "asn": "AS4242422633",
+            "prefix": "172.23.250.32/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "EASTBOUND-MNT"
+        },
+        {
             "asn": "AS4242423853",
             "prefix": "172.23.251.0/26",
             "maxLength": 28,
@@ -17768,8 +17796,8 @@
         }
     ],
     "metadata": {
-        "counts": 2538,
-        "generated": 1610622563,
-        "valid": 1611054563
+        "counts": 2542,
+        "generated": 1610651377,
+        "valid": 1611083377
     }
 }
