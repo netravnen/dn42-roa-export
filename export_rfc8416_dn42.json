@@ -638,6 +638,13 @@
                 "mnt-by": "ARGV-DN42-MNT"
             },
             {
+                "asn": 4242420651,
+                "prefix": "fd0e:3d8c:2dd6:8e6e::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MATTPROD-MNT"
+            },
+            {
                 "asn": 65134,
                 "prefix": "fd0e:8db3:d50a::/64",
                 "maxPrefixLength": 64,
@@ -13614,6 +13621,20 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TAYLES-MNT"
+            },
+            {
+                "asn": 4242420651,
+                "prefix": "172.21.106.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MATTPROD-MNT"
+            },
+            {
+                "asn": 4242420657,
+                "prefix": "172.21.106.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CONSOMA-MNT"
             },
             {
                 "asn": 4242423738,
