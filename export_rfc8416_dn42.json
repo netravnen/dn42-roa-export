@@ -15422,6 +15422,13 @@
                 "mnt-by": "CAP-MNT"
             },
             {
+                "asn": 4242420453,
+                "prefix": "172.22.160.48/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "DUCKSOFT-MNT"
+            },
+            {
                 "asn": 4242423601,
                 "prefix": "172.22.161.0/27",
                 "maxPrefixLength": 28,

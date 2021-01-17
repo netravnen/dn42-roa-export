@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit eb114e211bf15b514dd2241f6f4d42697e04c196
-Merge: 7641fc83 6f1f5b50
-Date:   2021-01-15 22:51:01 +0000
+Commit b3ecd4efa7f60e4018e4c3664d89c443364e3806
+Merge: ec5785cc 5bc8921b
+Date:   2021-01-16 22:49:58 +0000
 
-    Merge pull request 'ADD AS4242420657 CONSOMA-AS' (#412) from consoma/registry:CONSOMA-20210115/change into master
+    Merge pull request 'new as register: DUCKSOFT-AS' (#415) from DuckSoft/registry:ducksoft-20210116/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1382
+- ROAs IPv4:  1383
 - ROAs IPv6:  1163
-- ROAs total: 2545
+- ROAs total: 2546
 
-[0]: https://git.dn42.dev/dn42/registry/commit/eb114e211bf15b514dd2241f6f4d42697e04c196
+[0]: https://git.dn42.dev/dn42/registry/commit/b3ecd4efa7f60e4018e4c3664d89c443364e3806
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

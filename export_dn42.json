@@ -15415,6 +15415,13 @@
             "mnt-by": "CAP-MNT"
         },
         {
+            "asn": "AS4242420453",
+            "prefix": "172.22.160.48/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "DUCKSOFT-MNT"
+        },
+        {
             "asn": "AS4242423601",
             "prefix": "172.22.161.0/27",
             "maxLength": 28,
@@ -17817,8 +17824,8 @@
         }
     ],
     "metadata": {
-        "counts": 2545,
-        "generated": 1610824166,
-        "valid": 1611256166
+        "counts": 2546,
+        "generated": 1610860170,
+        "valid": 1611292170
     }
 }
