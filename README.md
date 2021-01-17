@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 42447259bb7f685c17779cb7d667eebe0ef4edcf
-Merge: ea5b2645 769bd35c
-Date:   2021-01-17 09:27:34 +0000
+Commit c33037e627eb9db689a7f4aff15df558a5b3d432
+Merge: a96aa936 ba07dd7c
+Date:   2021-01-17 18:04:17 +0000
 
-    Merge pull request 'Register yuuta.dn42 with rDNS' (#419) from YuutaW-20210117/dns into master
+    Merge pull request 'new ipv6 network' (#418) from scooterh928-20210117/newnet into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1383
-- ROAs IPv6:  1163
-- ROAs total: 2546
+- ROAs IPv6:  1164
+- ROAs total: 2547
 
-[0]: https://git.dn42.dev/dn42/registry/commit/42447259bb7f685c17779cb7d667eebe0ef4edcf
+[0]: https://git.dn42.dev/dn42/registry/commit/c33037e627eb9db689a7f4aff15df558a5b3d432
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

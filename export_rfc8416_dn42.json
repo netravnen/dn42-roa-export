@@ -1758,6 +1758,13 @@
                 "mnt-by": "QPLI920501-MNT"
             },
             {
+                "asn": 4242423856,
+                "prefix": "fd38:cfa3:7091::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SCOOTERH928-MNT"
+            },
+            {
                 "asn": 4242422439,
                 "prefix": "fd39:1c:2c1b::/48",
                 "maxPrefixLength": 64,
