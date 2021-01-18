@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit c33037e627eb9db689a7f4aff15df558a5b3d432
-Merge: a96aa936 ba07dd7c
-Date:   2021-01-17 18:04:17 +0000
+Commit 252ac75f78ba6bc37bdcd8e0ca2cf012fd31bcf5
+Merge: c52438f3 9055d9dc
+Date:   2021-01-18 08:25:51 +0000
 
-    Merge pull request 'new ipv6 network' (#418) from scooterh928-20210117/newnet into master
+    Merge pull request 'Added AS4242423938 (CLEMENTD-MNT)' (#424) from clementd-20210117/newnet into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1383
-- ROAs IPv6:  1164
-- ROAs total: 2547
+- ROAs IPv4:  1386
+- ROAs IPv6:  1165
+- ROAs total: 2551
 
-[0]: https://git.dn42.dev/dn42/registry/commit/c33037e627eb9db689a7f4aff15df558a5b3d432
+[0]: https://git.dn42.dev/dn42/registry/commit/252ac75f78ba6bc37bdcd8e0ca2cf012fd31bcf5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

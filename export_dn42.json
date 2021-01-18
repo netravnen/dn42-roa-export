@@ -540,6 +540,13 @@
             "mnt-by": "JERRY-MNT"
         },
         {
+            "asn": "AS4242423938",
+            "prefix": "fd08:66b0:3114:56dd::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "CLEMENTD-MNT"
+        },
+        {
             "asn": "AS4242423027",
             "prefix": "fd08:a855:d4c7::/48",
             "maxLength": 64,
@@ -3853,7 +3860,7 @@
         {
             "asn": "AS4242422633",
             "prefix": "fd4c:7750:c7e7::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "EASTBOUND-MNT"
         },
@@ -13553,6 +13560,20 @@
             "mnt-by": "SUNNET-MNT"
         },
         {
+            "asn": "AS4242423088",
+            "prefix": "172.21.100.16/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
+            "asn": "AS140936",
+            "prefix": "172.21.100.16/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
             "asn": "AS4242428988",
             "prefix": "172.21.100.32/27",
             "maxLength": 28,
@@ -15245,6 +15266,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "PDOSTAL-MNT"
+        },
+        {
+            "asn": "AS4242423938",
+            "prefix": "172.22.149.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CLEMENTD-MNT"
         },
         {
             "asn": "AS4242423225",
@@ -17411,8 +17439,8 @@
         },
         {
             "asn": "AS4242422633",
-            "prefix": "172.23.250.32/29",
-            "maxLength": 29,
+            "prefix": "172.23.250.32/27",
+            "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "EASTBOUND-MNT"
         },
@@ -17831,8 +17859,8 @@
         }
     ],
     "metadata": {
-        "counts": 2547,
-        "generated": 1610946564,
-        "valid": 1611378564
+        "counts": 2551,
+        "generated": 1610968170,
+        "valid": 1611400170
     }
 }
