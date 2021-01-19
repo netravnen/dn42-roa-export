@@ -1485,6 +1485,13 @@
             "mnt-by": "MOJO-MNT"
         },
         {
+            "asn": "AS4242420393",
+            "prefix": "fd27:3df4:67a1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GISCHELEMAN-MNT"
+        },
+        {
             "asn": "AS4242421938",
             "prefix": "fd28:4a00:7533::/48",
             "maxLength": 64,
@@ -15751,6 +15758,13 @@
             "mnt-by": "YI-MNT"
         },
         {
+            "asn": "AS4242420393",
+            "prefix": "172.22.189.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GISCHELEMAN-MNT"
+        },
+        {
             "asn": "AS4242421238",
             "prefix": "172.22.189.64/27",
             "maxLength": 28,
@@ -17873,8 +17887,8 @@
         }
     ],
     "metadata": {
-        "counts": 2553,
-        "generated": 1611032970,
-        "valid": 1611464970
+        "counts": 2555,
+        "generated": 1611054569,
+        "valid": 1611486569
     }
 }

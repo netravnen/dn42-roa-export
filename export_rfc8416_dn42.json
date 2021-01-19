@@ -1492,6 +1492,13 @@
                 "mnt-by": "MOJO-MNT"
             },
             {
+                "asn": 4242420393,
+                "prefix": "fd27:3df4:67a1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GISCHELEMAN-MNT"
+            },
+            {
                 "asn": 4242421938,
                 "prefix": "fd28:4a00:7533::/48",
                 "maxPrefixLength": 64,
@@ -15756,6 +15763,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "YI-MNT"
+            },
+            {
+                "asn": 4242420393,
+                "prefix": "172.22.189.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GISCHELEMAN-MNT"
             },
             {
                 "asn": 4242421238,
