@@ -7680,6 +7680,13 @@
                 "mnt-by": "RELIGHT-MNT"
             },
             {
+                "asn": 4242420617,
+                "prefix": "fdf0:e6e6:b56::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GPX-MNT"
+            },
+            {
                 "asn": 64895,
                 "prefix": "fdf1:621a:aca3::/48",
                 "maxPrefixLength": 64,
@@ -16340,7 +16347,7 @@
             },
             {
                 "asn": 4242422980,
-                "prefix": "172.23.105.0/27",
+                "prefix": "172.23.105.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "YUUTAW-MNT"
@@ -17534,6 +17541,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MNIHYC-MNT"
+            },
+            {
+                "asn": 4242420617,
+                "prefix": "172.23.4.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GPX-MNT"
             },
             {
                 "asn": 4242420515,

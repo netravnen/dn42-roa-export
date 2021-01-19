@@ -7673,6 +7673,13 @@
             "mnt-by": "RELIGHT-MNT"
         },
         {
+            "asn": "AS4242420617",
+            "prefix": "fdf0:e6e6:b56::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GPX-MNT"
+        },
+        {
             "asn": "AS64895",
             "prefix": "fdf1:621a:aca3::/48",
             "maxLength": 64,
@@ -16333,7 +16340,7 @@
         },
         {
             "asn": "AS4242422980",
-            "prefix": "172.23.105.0/27",
+            "prefix": "172.23.105.0/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "YUUTAW-MNT"
@@ -17529,6 +17536,13 @@
             "mnt-by": "MNIHYC-MNT"
         },
         {
+            "asn": "AS4242420617",
+            "prefix": "172.23.4.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GPX-MNT"
+        },
+        {
             "asn": "AS4242420515",
             "prefix": "172.23.40.0/25",
             "maxLength": 28,
@@ -17859,8 +17873,8 @@
         }
     ],
     "metadata": {
-        "counts": 2551,
-        "generated": 1610996965,
-        "valid": 1611428965
+        "counts": 2553,
+        "generated": 1611032970,
+        "valid": 1611464970
     }
 }
