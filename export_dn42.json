@@ -1821,6 +1821,13 @@
             "mnt-by": "REMI-MNT"
         },
         {
+            "asn": "AS4242420657",
+            "prefix": "fd3b:8e88:5c2e::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "CONSOMA-MNT"
+        },
+        {
             "asn": "AS4242423481",
             "prefix": "fd3b:ac17:d710::/48",
             "maxLength": 64,
@@ -17887,8 +17894,8 @@
         }
     ],
     "metadata": {
-        "counts": 2555,
-        "generated": 1611169764,
-        "valid": 1611601764
+        "counts": 2556,
+        "generated": 1611205771,
+        "valid": 1611637771
     }
 }
