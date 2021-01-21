@@ -5356,6 +5356,13 @@
                 "mnt-by": "FISCALCHEIS-MNT"
             },
             {
+                "asn": 4242423822,
+                "prefix": "fd93:feae:ea42::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "STEVEFAN1999-MNT"
+            },
+            {
                 "asn": 4242423238,
                 "prefix": "fd94:3e63:c202::/48",
                 "maxPrefixLength": 64,

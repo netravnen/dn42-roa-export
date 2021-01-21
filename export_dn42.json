@@ -5349,6 +5349,13 @@
             "mnt-by": "FISCALCHEIS-MNT"
         },
         {
+            "asn": "AS4242423822",
+            "prefix": "fd93:feae:ea42::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "STEVEFAN1999-MNT"
+        },
+        {
             "asn": "AS4242423238",
             "prefix": "fd94:3e63:c202::/48",
             "maxLength": 64,
@@ -17894,8 +17901,8 @@
         }
     ],
     "metadata": {
-        "counts": 2556,
-        "generated": 1611205771,
-        "valid": 1611637771
+        "counts": 2557,
+        "generated": 1611227368,
+        "valid": 1611659368
     }
 }
