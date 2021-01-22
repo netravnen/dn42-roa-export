@@ -4278,6 +4278,13 @@
                 "mnt-by": "FML-MNT"
             },
             {
+                "asn": 4242420320,
+                "prefix": "fd5d:ff5f:269f::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NUXIS-MNT"
+            },
+            {
                 "asn": 4242423331,
                 "prefix": "fd5e:6ea6:f0a1::/48",
                 "maxPrefixLength": 64,
@@ -14965,6 +14972,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JAYWIRE-MNT"
+            },
+            {
+                "asn": 4242420320,
+                "prefix": "172.22.128.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NUXIS-MNT"
             },
             {
                 "asn": 4242423266,
