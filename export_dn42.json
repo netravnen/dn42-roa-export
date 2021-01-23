@@ -2857,6 +2857,13 @@
             "mnt-by": "AOTOKI-MNT"
         },
         {
+            "asn": "AS4242421194",
+            "prefix": "fd42:5969:505::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LPV-MNT"
+        },
+        {
             "asn": "AS4242420666",
             "prefix": "fd42:5aaf:9fe8::/48",
             "maxLength": 64,
@@ -17697,6 +17704,13 @@
             "mnt-by": "LOINTAIN-MNT"
         },
         {
+            "asn": "AS4242421194",
+            "prefix": "172.23.59.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LPV-MNT"
+        },
+        {
             "asn": "AS4242423158",
             "prefix": "172.23.60.128/25",
             "maxLength": 28,
@@ -17915,8 +17929,8 @@
         }
     ],
     "metadata": {
-        "counts": 2559,
-        "generated": 1611342565,
-        "valid": 1611774565
+        "counts": 2561,
+        "generated": 1611378571,
+        "valid": 1611810571
     }
 }
