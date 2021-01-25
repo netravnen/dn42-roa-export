@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 112ef7f4b1a4bafa2989cb180fdc0c0956eee14d
-Merge: 7b4820ba6 d24bba32a
-Date:   2021-01-25 08:31:14 +0000
+Commit ac49e9379bd2ead3d46105166881a9604343f7cb
+Merge: 112ef7f4b 86c2b44c1
+Date:   2021-01-25 11:12:50 +0000
 
-    Merge pull request 'Returning AS213021 and AS4242423347 resources' (#444) from samip537-20210125/removing-as213021 into master
+    Merge pull request 'Update README to address permission denied errors' (#445) from burble-20210125/update-readme into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1170
 - ROAs total: 2560
 
-[0]: https://git.dn42.dev/dn42/registry/commit/112ef7f4b1a4bafa2989cb180fdc0c0956eee14d
+[0]: https://git.dn42.dev/dn42/registry/commit/ac49e9379bd2ead3d46105166881a9604343f7cb
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
