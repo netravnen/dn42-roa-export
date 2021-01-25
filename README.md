@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 1dc804e46ad437ca2da92fc0e9775fe607bdb910
-Merge: 440a9429e 0c126af79
-Date:   2021-01-24 18:46:19 +0000
+Commit 112ef7f4b1a4bafa2989cb180fdc0c0956eee14d
+Merge: 7b4820ba6 d24bba32a
+Date:   2021-01-25 08:31:14 +0000
 
-    Merge pull request 'Update as-set/AS4242421050:AS-TRANSIT' (#441) from Napsterbater-20210124/AS-Set into master
+    Merge pull request 'Returning AS213021 and AS4242423347 resources' (#444) from samip537-20210125/removing-as213021 into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1390
-- ROAs IPv6:  1171
-- ROAs total: 2561
+- ROAs IPv6:  1170
+- ROAs total: 2560
 
-[0]: https://git.dn42.dev/dn42/registry/commit/1dc804e46ad437ca2da92fc0e9775fe607bdb910
+[0]: https://git.dn42.dev/dn42/registry/commit/112ef7f4b1a4bafa2989cb180fdc0c0956eee14d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

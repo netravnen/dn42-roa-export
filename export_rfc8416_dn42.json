@@ -6000,13 +6000,6 @@
                 "mnt-by": "CAP-MNT"
             },
             {
-                "asn": 213021,
-                "prefix": "fdaa:d0e:147f::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "SM-MNT"
-            },
-            {
                 "asn": 4242423175,
                 "prefix": "fdaa:ff59:eb66::/48",
                 "maxPrefixLength": 64,
@@ -7162,6 +7155,13 @@
                 "mnt-by": "JOMAT-MNT"
             },
             {
+                "asn": 4242420707,
+                "prefix": "fdde:1e7e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "7MARCUS9-MNT"
+            },
+            {
                 "asn": 4242422204,
                 "prefix": "fdde:690a:20fc:39ff::/64",
                 "maxPrefixLength": 64,
@@ -8112,13 +8112,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "REWBYSOFT-MNT"
-            },
-            {
-                "asn": 4242423347,
-                "prefix": "fdfd:df:5b67::/48",
-                "maxPrefixLength": 56,
-                "source": "DN42",
-                "mnt-by": "SM-MNT"
             },
             {
                 "asn": 4242422050,
@@ -12594,6 +12587,13 @@
                 "mnt-by": "HELCAR-MNT"
             },
             {
+                "asn": 4242420707,
+                "prefix": "172.20.28.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "7MARCUS9-MNT"
+            },
+            {
                 "asn": 4242423350,
                 "prefix": "172.20.28.192/27",
                 "maxPrefixLength": 28,
@@ -14713,13 +14713,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JCAHILL-MNT"
-            },
-            {
-                "asn": 213021,
-                "prefix": "172.22.114.96/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "SM-MNT"
             },
             {
                 "asn": 4242421256,
