@@ -1884,6 +1884,13 @@
                 "mnt-by": "SESHI-MNT"
             },
             {
+                "asn": 4242420829,
+                "prefix": "fd3f:7adb:2f06:ee82::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "AVASQUEZT-MNT"
+            },
+            {
                 "asn": 4242422980,
                 "prefix": "fd3f:a1f1:54ed::/48",
                 "maxPrefixLength": 64,
@@ -11570,6 +11577,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LANAO-MNT"
+            },
+            {
+                "asn": 4242420829,
+                "prefix": "172.20.19.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "AVASQUEZT-MNT"
             },
             {
                 "asn": 4242423375,
