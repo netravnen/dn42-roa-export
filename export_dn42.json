@@ -4474,6 +4474,13 @@
             "mnt-by": "YUYUKO-MNT"
         },
         {
+            "asn": "AS17080",
+            "prefix": "fd66:b99:c0da::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "R-MNT"
+        },
+        {
             "asn": "AS4242423439",
             "prefix": "fd66:feed:beef::/48",
             "maxLength": 64,
@@ -10387,6 +10394,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "KLEEN-MNT"
+        },
+        {
+            "asn": "AS17080",
+            "prefix": "172.20.148.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "R-MNT"
         },
         {
             "asn": "AS4242421095",
@@ -17922,8 +17936,8 @@
         }
     ],
     "metadata": {
-        "counts": 2560,
-        "generated": 1611601770,
-        "valid": 1612033770
+        "counts": 2562,
+        "generated": 1611637768,
+        "valid": 1612069768
     }
 }

@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit ac49e9379bd2ead3d46105166881a9604343f7cb
-Merge: 112ef7f4b 86c2b44c1
-Date:   2021-01-25 11:12:50 +0000
+Commit e00ed5ce831c65e2b4d33ba80f8deb0cb98be80e
+Merge: ac49e9379 740d08851
+Date:   2021-01-25 19:52:56 +0000
 
-    Merge pull request 'Update README to address permission denied errors' (#445) from burble-20210125/update-readme into master
+    Merge pull request 'Register Chuunilab for DN42' (#446) from rqou-20210125/chuunilab into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1390
-- ROAs IPv6:  1170
-- ROAs total: 2560
+- ROAs IPv4:  1391
+- ROAs IPv6:  1171
+- ROAs total: 2562
 
-[0]: https://git.dn42.dev/dn42/registry/commit/ac49e9379bd2ead3d46105166881a9604343f7cb
+[0]: https://git.dn42.dev/dn42/registry/commit/e00ed5ce831c65e2b4d33ba80f8deb0cb98be80e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
