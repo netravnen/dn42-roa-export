@@ -526,6 +526,13 @@
                 "mnt-by": "REWBYSOFT-MNT"
             },
             {
+                "asn": 4242423197,
+                "prefix": "fd06:e881:5380::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SCIX-MNT"
+            },
+            {
                 "asn": 4242423468,
                 "prefix": "fd07:369:6502::/48",
                 "maxPrefixLength": 48,
@@ -4509,6 +4516,13 @@
                 "mnt-by": "THEPAFFY-MNT"
             },
             {
+                "asn": 4242421220,
+                "prefix": "fd67:24bd:a1ea::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LITSCHI-MNT"
+            },
+            {
                 "asn": 4242421109,
                 "prefix": "fd67:3cc6:16f5::/48",
                 "maxPrefixLength": 64,
@@ -5330,7 +5344,7 @@
             {
                 "asn": 4242421181,
                 "prefix": "fd91:9191:9191::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NEVLEZAY-MNT"
             },
@@ -17788,6 +17802,13 @@
                 "mnt-by": "ENKEL-MNT"
             },
             {
+                "asn": 4242421220,
+                "prefix": "172.23.73.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LITSCHI-MNT"
+            },
+            {
                 "asn": 4242422305,
                 "prefix": "172.23.76.0/26",
                 "maxPrefixLength": 28,
@@ -17933,6 +17954,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DINGYX99-MNT"
+            },
+            {
+                "asn": 4242423197,
+                "prefix": "172.23.99.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SCIX-MNT"
             },
             {
                 "asn": 64654,

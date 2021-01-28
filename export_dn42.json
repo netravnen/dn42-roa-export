@@ -519,6 +519,13 @@
             "mnt-by": "REWBYSOFT-MNT"
         },
         {
+            "asn": "AS4242423197",
+            "prefix": "fd06:e881:5380::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SCIX-MNT"
+        },
+        {
             "asn": "AS4242423468",
             "prefix": "fd07:369:6502::/48",
             "maxLength": 48,
@@ -4502,6 +4509,13 @@
             "mnt-by": "THEPAFFY-MNT"
         },
         {
+            "asn": "AS4242421220",
+            "prefix": "fd67:24bd:a1ea::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LITSCHI-MNT"
+        },
+        {
             "asn": "AS4242421109",
             "prefix": "fd67:3cc6:16f5::/48",
             "maxLength": 64,
@@ -5323,7 +5337,7 @@
         {
             "asn": "AS4242421181",
             "prefix": "fd91:9191:9191::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NEVLEZAY-MNT"
         },
@@ -17781,6 +17795,13 @@
             "mnt-by": "ENKEL-MNT"
         },
         {
+            "asn": "AS4242421220",
+            "prefix": "172.23.73.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LITSCHI-MNT"
+        },
+        {
             "asn": "AS4242422305",
             "prefix": "172.23.76.0/26",
             "maxLength": 28,
@@ -17928,6 +17949,13 @@
             "mnt-by": "DINGYX99-MNT"
         },
         {
+            "asn": "AS4242423197",
+            "prefix": "172.23.99.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SCIX-MNT"
+        },
+        {
             "asn": "AS64654",
             "prefix": "172.31.0.0/16",
             "maxLength": 32,
@@ -17950,8 +17978,8 @@
         }
     ],
     "metadata": {
-        "counts": 2564,
-        "generated": 1611774562,
-        "valid": 1612206562
+        "counts": 2568,
+        "generated": 1611810569,
+        "valid": 1612242569
     }
 }
