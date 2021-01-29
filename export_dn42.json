@@ -4523,6 +4523,13 @@
             "mnt-by": "ABSLIMIT-MNT"
         },
         {
+            "asn": "AS4242423767",
+            "prefix": "fd68:a3ea:7c9a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LAGERTONNE-MNT"
+        },
+        {
             "asn": "AS4242423969",
             "prefix": "fd68:beef:c0de::/48",
             "maxLength": 64,
@@ -14078,6 +14085,13 @@
             "mnt-by": "PF-MNT"
         },
         {
+            "asn": "AS4242423767",
+            "prefix": "172.21.74.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LAGERTONNE-MNT"
+        },
+        {
             "asn": "AS4242421301",
             "prefix": "172.21.74.32/28",
             "maxLength": 28,
@@ -17929,8 +17943,8 @@
         }
     ],
     "metadata": {
-        "counts": 2561,
-        "generated": 1611918568,
-        "valid": 1612350568
+        "counts": 2563,
+        "generated": 1611947367,
+        "valid": 1612379367
     }
 }
