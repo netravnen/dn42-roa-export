@@ -6812,6 +6812,13 @@
                 "mnt-by": "ZORKZOID-MNT"
             },
             {
+                "asn": 4242422992,
+                "prefix": "fdcc:3597:f3cf::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "EASTON-MNT"
+            },
+            {
                 "asn": 4242422441,
                 "prefix": "fdcc:60b6:2f38::/48",
                 "maxPrefixLength": 64,
@@ -11297,6 +11304,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SCUTTLEBUG-MNT"
+            },
+            {
+                "asn": 4242422992,
+                "prefix": "172.20.177.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "EASTON-MNT"
             },
             {
                 "asn": 4242422341,
