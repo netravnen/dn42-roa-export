@@ -5146,6 +5146,13 @@
                 "mnt-by": "SPENCERCW-MNT"
             },
             {
+                "asn": 4242422668,
+                "prefix": "fd86:82d7:b2e1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SH-MNT"
+            },
+            {
                 "asn": 65037,
                 "prefix": "fd86:b4dc:4b1e::/48",
                 "maxPrefixLength": 64,
@@ -7974,6 +7981,13 @@
                 "mnt-by": "PONS-MNT"
             },
             {
+                "asn": 4242421592,
+                "prefix": "fdfc:35df:d875::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CAMELUSFERUS-MNT"
+            },
+            {
                 "asn": 4242420020,
                 "prefix": "fdfc:3e4f:f3c0::/48",
                 "maxPrefixLength": 64,
@@ -9948,6 +9962,13 @@
                 "mnt-by": "X1A0-MNT"
             },
             {
+                "asn": 4242422668,
+                "prefix": "172.20.128.80/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SH-MNT"
+            },
+            {
                 "asn": 4242422202,
                 "prefix": "172.20.128.88/29",
                 "maxPrefixLength": 29,
@@ -10254,13 +10275,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HORP-MNT"
-            },
-            {
-                "asn": 4242421199,
-                "prefix": "172.20.14.16/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "TOMKEP-MNT"
             },
             {
                 "asn": 4242422700,
@@ -12881,13 +12895,6 @@
                 "mnt-by": "FUDNET-MNT"
             },
             {
-                "asn": 4242421199,
-                "prefix": "172.20.4.0/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "TOMKEP-MNT"
-            },
-            {
                 "asn": 4242420194,
                 "prefix": "172.20.4.112/28",
                 "maxPrefixLength": 28,
@@ -14356,6 +14363,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "OWENSRESEARCH-MNT"
+            },
+            {
+                "asn": 4242421592,
+                "prefix": "172.21.99.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CAMELUSFERUS-MNT"
             },
             {
                 "asn": 0,

@@ -5139,6 +5139,13 @@
             "mnt-by": "SPENCERCW-MNT"
         },
         {
+            "asn": "AS4242422668",
+            "prefix": "fd86:82d7:b2e1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SH-MNT"
+        },
+        {
             "asn": "AS65037",
             "prefix": "fd86:b4dc:4b1e::/48",
             "maxLength": 64,
@@ -7967,6 +7974,13 @@
             "mnt-by": "PONS-MNT"
         },
         {
+            "asn": "AS4242421592",
+            "prefix": "fdfc:35df:d875::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CAMELUSFERUS-MNT"
+        },
+        {
             "asn": "AS4242420020",
             "prefix": "fdfc:3e4f:f3c0::/48",
             "maxLength": 64,
@@ -9941,6 +9955,13 @@
             "mnt-by": "X1A0-MNT"
         },
         {
+            "asn": "AS4242422668",
+            "prefix": "172.20.128.80/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SH-MNT"
+        },
+        {
             "asn": "AS4242422202",
             "prefix": "172.20.128.88/29",
             "maxLength": 29,
@@ -10247,13 +10268,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HORP-MNT"
-        },
-        {
-            "asn": "AS4242421199",
-            "prefix": "172.20.14.16/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "TOMKEP-MNT"
         },
         {
             "asn": "AS4242422700",
@@ -12874,13 +12888,6 @@
             "mnt-by": "FUDNET-MNT"
         },
         {
-            "asn": "AS4242421199",
-            "prefix": "172.20.4.0/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "TOMKEP-MNT"
-        },
-        {
             "asn": "AS4242420194",
             "prefix": "172.20.4.112/28",
             "maxLength": 28,
@@ -14349,6 +14356,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "OWENSRESEARCH-MNT"
+        },
+        {
+            "asn": "AS4242421592",
+            "prefix": "172.21.99.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CAMELUSFERUS-MNT"
         },
         {
             "asn": "AS0",
@@ -17943,8 +17957,8 @@
         }
     ],
     "metadata": {
-        "counts": 2563,
-        "generated": 1612033764,
-        "valid": 1612465764
+        "counts": 2565,
+        "generated": 1612069769,
+        "valid": 1612501769
     }
 }

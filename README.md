@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0a68a120e580dfff4476650dc54fdea5c058a2f9
-Merge: e5894bac7 bf51a3bf4
-Date:   2021-01-29 16:28:43 +0000
+Commit 7902c6f268ff1b3d91dea71a766915ec4b2a9ace
+Merge: c465369d3 d752a2981
+Date:   2021-01-30 20:39:59 +0000
 
-    Merge pull request 'Add ORG-NLL including subnets' (#457) from lagertonne-20210129/add-neuland-labor into master
+    Merge pull request 'changed NS again (sorry)' (#466) from conorlburns-20210130/nameserver into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1389
-- ROAs IPv6:  1174
-- ROAs total: 2563
+- ROAs IPv6:  1176
+- ROAs total: 2565
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0a68a120e580dfff4476650dc54fdea5c058a2f9
+[0]: https://git.dn42.dev/dn42/registry/commit/7902c6f268ff1b3d91dea71a766915ec4b2a9ace
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
