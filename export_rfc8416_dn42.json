@@ -512,6 +512,13 @@
                 "mnt-by": "MUNSTERNET-MNT"
             },
             {
+                "asn": 4242420226,
+                "prefix": "fd05:a588:da19::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ILEMONRAIN-MNT"
+            },
+            {
                 "asn": 65026,
                 "prefix": "fd06:8187:fb00::/40",
                 "maxPrefixLength": 64,
@@ -17345,6 +17352,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MATTCODE-MNT"
+            },
+            {
+                "asn": 4242420226,
+                "prefix": "172.23.226.0/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "ILEMONRAIN-MNT"
             },
             {
                 "asn": 4242423921,
