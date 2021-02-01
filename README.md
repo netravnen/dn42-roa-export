@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit bf9ae2e887f8edfe15a80854abcf3919d6a86d73
-Merge: 83f424f10 8d36de966
-Date:   2021-01-31 09:31:32 +0000
+Commit 73105a3ffed0a1520cf80eb79776ad756b734684
+Merge: c763e023c b4cf5dee2
+Date:   2021-01-31 19:20:32 +0000
 
-    Merge pull request 'modified:   data/dns/scooter.dn42' (#468) from scooterh928-20210130/dnsupdate into master
+    Merge pull request 'request IP space and add pgp-fingerprint' (#467) from freeyoung/registry:kyon-20210130/addinetnum into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1390
-- ROAs IPv6:  1176
-- ROAs total: 2566
+- ROAs IPv4:  1391
+- ROAs IPv6:  1177
+- ROAs total: 2568
 
-[0]: https://git.dn42.dev/dn42/registry/commit/bf9ae2e887f8edfe15a80854abcf3919d6a86d73
+[0]: https://git.dn42.dev/dn42/registry/commit/73105a3ffed0a1520cf80eb79776ad756b734684
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

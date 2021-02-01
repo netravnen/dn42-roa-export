@@ -22,6 +22,13 @@
             "mnt-by": "JSANDERS-MNT"
         },
         {
+            "asn": "AS4242422900",
+            "prefix": "fd00:172:2334::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "KYON-MNT"
+        },
+        {
             "asn": "AS4242421470",
             "prefix": "fd00:191e:1470::/48",
             "maxLength": 48,
@@ -17550,6 +17557,13 @@
             "mnt-by": "BILL-MNT"
         },
         {
+            "asn": "AS4242422900",
+            "prefix": "172.23.34.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KYON-MNT"
+        },
+        {
             "asn": "AS4242423993",
             "prefix": "172.23.35.0/26",
             "maxLength": 28,
@@ -17964,8 +17978,8 @@
         }
     ],
     "metadata": {
-        "counts": 2566,
-        "generated": 1612120165,
-        "valid": 1612552165
+        "counts": 2568,
+        "generated": 1612156171,
+        "valid": 1612588171
     }
 }

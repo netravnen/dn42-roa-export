@@ -29,6 +29,13 @@
                 "mnt-by": "JSANDERS-MNT"
             },
             {
+                "asn": 4242422900,
+                "prefix": "fd00:172:2334::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "KYON-MNT"
+            },
+            {
                 "asn": 4242421470,
                 "prefix": "fd00:191e:1470::/48",
                 "maxPrefixLength": 48,
@@ -17555,6 +17562,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BILL-MNT"
+            },
+            {
+                "asn": 4242422900,
+                "prefix": "172.23.34.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KYON-MNT"
             },
             {
                 "asn": 4242423993,
