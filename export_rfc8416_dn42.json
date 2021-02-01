@@ -5237,6 +5237,13 @@
                 "mnt-by": "MITSUHA-MNT"
             },
             {
+                "asn": 4242423679,
+                "prefix": "fd88:ee35:b221::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SHEEPBREW-MNT"
+            },
+            {
                 "asn": 4242420604,
                 "prefix": "fd89:35db:fc0::/48",
                 "maxPrefixLength": 48,
@@ -16659,6 +16666,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LUCLU7-MNT"
+            },
+            {
+                "asn": 4242422772,
+                "prefix": "172.23.132.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BYTERAVEN-MNT"
             },
             {
                 "asn": 4242422231,
