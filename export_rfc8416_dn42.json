@@ -4215,6 +4215,13 @@
                 "mnt-by": "DARKIT-MNT"
             },
             {
+                "asn": 4242420946,
+                "prefix": "fd59:7dca:fcef::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "IOANGOGO-MNT"
+            },
+            {
                 "asn": 4242420980,
                 "prefix": "fd59:a9db:1a5e:670::/64",
                 "maxPrefixLength": 64,
@@ -17919,13 +17926,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MOECAST-MNT"
-            },
-            {
-                "asn": 4242422942,
-                "prefix": "172.23.9.32/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "YZITE-MNT"
             },
             {
                 "asn": 4242422189,

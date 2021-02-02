@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0bdaa499c3b164bb8824f8d8aae8397884db5405
-Merge: 653ac42d4 499a8ccf8
-Date:   2021-02-01 18:24:19 +0000
+Commit af6bc3441b36d4221801c9fac20e051237066f31
+Merge: f656a6f3e 2e41569ee
+Date:   2021-02-02 19:04:45 +0000
 
-    Merge pull request 'Keypin was wrong - oof' (#472) from conorlburns-20210201/keypin into master
+    Merge pull request 'get rid of YZITE IPv4 allocations' (#478) from zseri/registry:yzite into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1393
-- ROAs IPv6:  1179
+- ROAs IPv4:  1392
+- ROAs IPv6:  1180
 - ROAs total: 2572
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0bdaa499c3b164bb8824f8d8aae8397884db5405
+[0]: https://git.dn42.dev/dn42/registry/commit/af6bc3441b36d4221801c9fac20e051237066f31
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
