@@ -5118,6 +5118,13 @@
             "mnt-by": "DEN-MNT"
         },
         {
+            "asn": "AS4242423228",
+            "prefix": "fd84:fc6d:9cfb::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SCHWZR-MNT"
+        },
+        {
             "asn": "AS4242421009",
             "prefix": "fd85:1dea:2093::/48",
             "maxLength": 64,
@@ -7776,6 +7783,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "GPX-MNT"
+        },
+        {
+            "asn": "AS4242421269",
+            "prefix": "fdf1:3daf:c397::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LUYS-MNT"
         },
         {
             "asn": "AS64895",
@@ -13287,6 +13301,13 @@
             "mnt-by": "JAN-MNT"
         },
         {
+            "asn": "AS4242421269",
+            "prefix": "172.20.53.128/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LUYS-MNT"
+        },
+        {
             "asn": "AS4242420302",
             "prefix": "172.20.53.32/27",
             "maxLength": 28,
@@ -16472,6 +16493,13 @@
             "mnt-by": "SCOOTERH928-MNT"
         },
         {
+            "asn": "AS4242423228",
+            "prefix": "172.23.109.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SCHWZR-MNT"
+        },
+        {
             "asn": "AS4242421423",
             "prefix": "172.23.109.96/27",
             "maxLength": 28,
@@ -18006,8 +18034,8 @@
         }
     ],
     "metadata": {
-        "counts": 2572,
-        "generated": 1612292969,
-        "valid": 1612724969
+        "counts": 2576,
+        "generated": 1612328969,
+        "valid": 1612760969
     }
 }
