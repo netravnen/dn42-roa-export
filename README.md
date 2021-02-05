@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9a3a3a1f3c8eca2983ed2cb763d59e864dd99f15
-Merge: 0cac12128 649dc48b5
-Date:   2021-02-04 20:45:32 +0000
+Commit 0561bbe3d79d359cf70f8b6927bf7b99672aef9c
+Merge: 9a3a3a1f3 04c5635e2
+Date:   2021-02-05 08:25:58 +0000
 
-    Merge pull request 'Reg AS4242422330' (#487) from telecomadmin/registry:telecomadmin-20210202/reg into master
+    Merge pull request '4242421220: added dns and updated for reverse DNS and added remarks with peering policy' (#494) from litschi-20210204/dns into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1183
 - ROAs total: 2578
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9a3a3a1f3c8eca2983ed2cb763d59e864dd99f15
+[0]: https://git.dn42.dev/dn42/registry/commit/0561bbe3d79d359cf70f8b6927bf7b99672aef9c
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
