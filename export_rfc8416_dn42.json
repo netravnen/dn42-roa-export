@@ -4642,6 +4642,13 @@
                 "mnt-by": "ZERUKS-MNT"
             },
             {
+                "asn": 4242422330,
+                "prefix": "fd6b:79c1:f194::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TELECOMADMIN-MNT"
+            },
+            {
                 "asn": 4242421860,
                 "prefix": "fd6b:869c:c4a1::/48",
                 "maxPrefixLength": 64,
@@ -17618,6 +17625,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CIEL-MNT"
+            },
+            {
+                "asn": 4242422330,
+                "prefix": "172.23.32.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TELECOMADMIN-MNT"
             },
             {
                 "asn": 4242420803,
