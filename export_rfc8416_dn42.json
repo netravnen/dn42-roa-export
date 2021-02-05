@@ -1751,7 +1751,7 @@
                 "mnt-by": "OZARK-MNT"
             },
             {
-                "asn": 4242423747,
+                "asn": 141011,
                 "prefix": "fd37:3b3:cae6::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
@@ -2260,6 +2260,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "TAN-MNT"
+            },
+            {
+                "asn": 4242420217,
+                "prefix": "fd42:217:cafe::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NOYES-MNT"
             },
             {
                 "asn": 4242422107,
@@ -11565,6 +11572,13 @@
                 "mnt-by": "GDEV-MNT"
             },
             {
+                "asn": 4242423679,
+                "prefix": "172.20.184.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SHEEPBREW-MNT"
+            },
+            {
                 "asn": 4242421588,
                 "prefix": "172.20.186.0/24",
                 "maxPrefixLength": 28,
@@ -12137,6 +12151,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MOXI-MNT"
+            },
+            {
+                "asn": 4242420217,
+                "prefix": "172.20.217.0/24",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NOYES-MNT"
             },
             {
                 "asn": 4242421410,
@@ -14197,7 +14218,7 @@
                 "mnt-by": "CONREY-MNT"
             },
             {
-                "asn": 4242423747,
+                "asn": 141011,
                 "prefix": "172.21.75.64/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",

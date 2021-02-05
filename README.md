@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0561bbe3d79d359cf70f8b6927bf7b99672aef9c
-Merge: 9a3a3a1f3 04c5635e2
-Date:   2021-02-05 08:25:58 +0000
+Commit 32e1e535961775399fd1f4b809bca541570db501
+Merge: 9267e1007 284144042
+Date:   2021-02-05 16:50:51 +0000
 
-    Merge pull request '4242421220: added dns and updated for reverse DNS and added remarks with peering policy' (#494) from litschi-20210204/dns into master
+    Merge pull request 'add v4 route object' (#500) from sheepbrew-20210205/update_route into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1395
-- ROAs IPv6:  1183
-- ROAs total: 2578
+- ROAs IPv4:  1397
+- ROAs IPv6:  1184
+- ROAs total: 2581
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0561bbe3d79d359cf70f8b6927bf7b99672aef9c
+[0]: https://git.dn42.dev/dn42/registry/commit/32e1e535961775399fd1f4b809bca541570db501
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
