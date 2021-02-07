@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 32e1e535961775399fd1f4b809bca541570db501
-Merge: 9267e1007 284144042
-Date:   2021-02-05 16:50:51 +0000
+Commit 22e342782fad52b6cc4eb454bf47bee5ac4a4351
+Merge: cbfd79267 4e43fd8a9
+Date:   2021-02-06 22:58:26 +0000
 
-    Merge pull request 'add v4 route object' (#500) from sheepbrew-20210205/update_route into master
+    Merge pull request '20210206 - initial application of dn42 internet resources' (#502) from yellowlm-20210206/experimental-AS4242421228 into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1399
-- ROAs IPv6:  1186
-- ROAs total: 2585
+- ROAs IPv6:  1187
+- ROAs total: 2586
 
-[0]: https://git.dn42.dev/dn42/registry/commit/32e1e535961775399fd1f4b809bca541570db501
+[0]: https://git.dn42.dev/dn42/registry/commit/22e342782fad52b6cc4eb454bf47bee5ac4a4351
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

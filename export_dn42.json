@@ -1653,6 +1653,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421228",
+            "prefix": "fd30:fe56:7891::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "YELLOWLM-MNT"
+        },
+        {
             "asn": "AS4242422626",
             "prefix": "fd31:2352:60a9::/48",
             "maxLength": 64,
@@ -18097,8 +18104,8 @@
         }
     ],
     "metadata": {
-        "counts": 2585,
-        "generated": 1612638568,
-        "valid": 1613070568
+        "counts": 2586,
+        "generated": 1612674567,
+        "valid": 1613106567
     }
 }

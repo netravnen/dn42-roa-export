@@ -1660,6 +1660,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421228,
+                "prefix": "fd30:fe56:7891::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "YELLOWLM-MNT"
+            },
+            {
                 "asn": 4242422626,
                 "prefix": "fd31:2352:60a9::/48",
                 "maxPrefixLength": 64,
