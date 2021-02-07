@@ -743,21 +743,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201270005,
-                "prefix": "fd10:127:233:1c3a::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 141706,
-                "prefix": "fd10:127:233:1c3c::/64",
-                "maxPrefixLength": 64,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270005,
                 "prefix": "fd10:127:233:1c3c::/64",
                 "maxPrefixLength": 64,
                 "source": "NEONETWORK",
@@ -7883,6 +7869,13 @@
                 "mnt-by": "N0EMIS-MNT"
             },
             {
+                "asn": 4242420304,
+                "prefix": "fdf4:71a1:fc81::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "04DCO-MNT"
+            },
+            {
                 "asn": 4242420515,
                 "prefix": "fdf4:83f1:6f4f::/48",
                 "maxPrefixLength": 48,
@@ -8653,21 +8646,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201270005,
-                "prefix": "10.127.233.0/24",
-                "maxPrefixLength": 29,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
                 "asn": 141706,
-                "prefix": "10.127.234.0/24",
-                "maxPrefixLength": 29,
-                "source": "NEONETWORK",
-                "mnt-by": "DN42-MNT"
-            },
-            {
-                "asn": 4201270005,
                 "prefix": "10.127.234.0/24",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
@@ -15560,6 +15539,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "8FCDE-MNT"
+            },
+            {
+                "asn": 4242420304,
+                "prefix": "172.22.157.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "04DCO-MNT"
             },
             {
                 "asn": 4242423336,

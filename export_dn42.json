@@ -736,21 +736,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270005",
-            "prefix": "fd10:127:233:1c3a::/64",
-            "maxLength": 64,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS141706",
-            "prefix": "fd10:127:233:1c3c::/64",
-            "maxLength": 64,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4201270005",
             "prefix": "fd10:127:233:1c3c::/64",
             "maxLength": 64,
             "ta": "NEONETWORK",
@@ -7876,6 +7862,13 @@
             "mnt-by": "N0EMIS-MNT"
         },
         {
+            "asn": "AS4242420304",
+            "prefix": "fdf4:71a1:fc81::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "04DCO-MNT"
+        },
+        {
             "asn": "AS4242420515",
             "prefix": "fdf4:83f1:6f4f::/48",
             "maxLength": 48,
@@ -8646,21 +8639,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4201270005",
-            "prefix": "10.127.233.0/24",
-            "maxLength": 29,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS141706",
-            "prefix": "10.127.234.0/24",
-            "maxLength": 29,
-            "ta": "NEONETWORK",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4201270005",
             "prefix": "10.127.234.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
@@ -15555,6 +15534,13 @@
             "mnt-by": "8FCDE-MNT"
         },
         {
+            "asn": "AS4242420304",
+            "prefix": "172.22.157.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "04DCO-MNT"
+        },
+        {
             "asn": "AS4242423336",
             "prefix": "172.22.158.144/28",
             "maxLength": 28,
@@ -18104,8 +18090,8 @@
         }
     ],
     "metadata": {
-        "counts": 2586,
-        "generated": 1612696164,
-        "valid": 1613128164
+        "counts": 2584,
+        "generated": 1612724972,
+        "valid": 1613156972
     }
 }
