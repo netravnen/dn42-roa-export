@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit fcca1e26e134782f22f54bfb37a0ea1c0c462b43
-Merge: ea1b3e7a1 adfff0506
-Date:   2021-02-07 19:47:44 +0000
+Commit 22721ff2d977e700a7b3a2b3baa74b8619b1732d
+Merge: fcca1e26e 54694a222
+Date:   2021-02-08 08:32:00 +0000
 
-    Merge pull request 'new auth for my maintainer' (#506) from strehi-20210207/mntchange into master
+    Merge pull request 'initial configuration for HIVEMIND' (#507) from hivemind-20210207/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1399
-- ROAs IPv6:  1187
-- ROAs total: 2586
+- ROAs IPv4:  1400
+- ROAs IPv6:  1188
+- ROAs total: 2588
 
-[0]: https://git.dn42.dev/dn42/registry/commit/fcca1e26e134782f22f54bfb37a0ea1c0c462b43
+[0]: https://git.dn42.dev/dn42/registry/commit/22721ff2d977e700a7b3a2b3baa74b8619b1732d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

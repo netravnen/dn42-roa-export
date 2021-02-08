@@ -1163,6 +1163,13 @@
                 "mnt-by": "TOMBII-DN42-MNT"
             },
             {
+                "asn": 4242423505,
+                "prefix": "fd1a:747a:d030::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HIVEMIND-MNT"
+            },
+            {
                 "asn": 4242421401,
                 "prefix": "fd1a:91bf:fc44::/48",
                 "maxPrefixLength": 48,
@@ -17002,6 +17009,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HANLIN-MNT"
+            },
+            {
+                "asn": 4242423505,
+                "prefix": "172.23.163.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HIVEMIND-MNT"
             },
             {
                 "asn": 76160,
