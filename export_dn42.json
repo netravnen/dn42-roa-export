@@ -932,6 +932,13 @@
             "mnt-by": "JOSENG-MNT"
         },
         {
+            "asn": "AS4242421826",
+            "prefix": "fd10:a433:4b7d::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LSS233-MNT"
+        },
+        {
             "asn": "AS4242420809",
             "prefix": "fd10:f851:a513::/48",
             "maxLength": 64,
@@ -10424,6 +10431,13 @@
             "mnt-by": "LALAKIS-MNT"
         },
         {
+            "asn": "AS4242421826",
+            "prefix": "172.20.143.48/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LSS233-MNT"
+        },
+        {
             "asn": "AS4242423360",
             "prefix": "172.20.143.64/26",
             "maxLength": 28,
@@ -16052,7 +16066,7 @@
             "mnt-by": "HAX404-MNT"
         },
         {
-            "asn": "AS64638",
+            "asn": "AS4242421761",
             "prefix": "172.22.38.0/24",
             "maxLength": 28,
             "ta": "DN42",
@@ -18090,8 +18104,8 @@
         }
     ],
     "metadata": {
-        "counts": 2584,
-        "generated": 1612724972,
-        "valid": 1613156972
+        "counts": 2586,
+        "generated": 1612760971,
+        "valid": 1613192971
     }
 }
