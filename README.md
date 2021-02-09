@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 22721ff2d977e700a7b3a2b3baa74b8619b1732d
-Merge: fcca1e26e 54694a222
-Date:   2021-02-08 08:32:00 +0000
+Commit fb003d71b09731ca9603ad35adc9a0a726172f8b
+Merge: 22721ff2d 4c9abff55
+Date:   2021-02-09 10:21:32 +0000
 
-    Merge pull request 'initial configuration for HIVEMIND' (#507) from hivemind-20210207/register into master
+    Merge pull request 'AS4242422334 Created' (#510) from niconeikoworks/NiconeikoWorks-20210208:master into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1400
+- ROAs IPv4:  1401
 - ROAs IPv6:  1188
-- ROAs total: 2588
+- ROAs total: 2589
 
-[0]: https://git.dn42.dev/dn42/registry/commit/22721ff2d977e700a7b3a2b3baa74b8619b1732d
+[0]: https://git.dn42.dev/dn42/registry/commit/fb003d71b09731ca9603ad35adc9a0a726172f8b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

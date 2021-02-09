@@ -15674,6 +15674,13 @@
                 "mnt-by": "MARGAU-MNT"
             },
             {
+                "asn": 4242422334,
+                "prefix": "172.22.162.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NICONEIKOWORKS-MNT"
+            },
+            {
                 "asn": 4242422002,
                 "prefix": "172.22.163.0/24",
                 "maxPrefixLength": 28,
