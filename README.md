@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 205e63903784fceddb9efabdc76aae5accea4922
-Merge: fb003d71b 4771a73aa
-Date:   2021-02-10 18:58:42 +0000
+Commit 7183c1a0393ee8e2bb870f78f8b2be40826974c7
+Merge: 3a6ac53d7 15b15985a
+Date:   2021-02-11 13:57:25 +0000
 
-    Merge pull request 'squashed commit:Change AS remarks and fix rDNS name servers' (#511) from 04dco-20210209/infoandrdns into master
+    Merge pull request 'Updated as-set/AS4242421050:AS-TRANSIT' (#514) from Napsterbater-20210211/as-set into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1188
 - ROAs total: 2589
 
-[0]: https://git.dn42.dev/dn42/registry/commit/205e63903784fceddb9efabdc76aae5accea4922
+[0]: https://git.dn42.dev/dn42/registry/commit/7183c1a0393ee8e2bb870f78f8b2be40826974c7
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
