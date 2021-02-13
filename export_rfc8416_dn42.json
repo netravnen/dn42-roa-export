@@ -3081,13 +3081,6 @@
                 "mnt-by": "AIYION-MNT"
             },
             {
-                "asn": 4242420880,
-                "prefix": "fd42:8ffc:36a::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "MARROPAX-MNT"
-            },
-            {
                 "asn": 4242422548,
                 "prefix": "fd42:9478::/32",
                 "maxPrefixLength": 64,
@@ -8016,6 +8009,13 @@
                 "mnt-by": "JUE-MNT"
             },
             {
+                "asn": 4242422522,
+                "prefix": "fdfa:454b:e441::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "AM-MNT"
+            },
+            {
                 "asn": 4242420086,
                 "prefix": "fdfa:6eef:c3e2::/48",
                 "maxPrefixLength": 64,
@@ -9974,6 +9974,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "BISCUITTIN-MNT"
+            },
+            {
+                "asn": 4242422522,
+                "prefix": "172.20.12.152/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "AM-MNT"
             },
             {
                 "asn": 4242421470,
@@ -13845,13 +13852,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GIMPYB-MNT"
-            },
-            {
-                "asn": 4242420880,
-                "prefix": "172.21.106.96/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "MARROPAX-MNT"
             },
             {
                 "asn": 4242420721,
