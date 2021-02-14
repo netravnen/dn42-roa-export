@@ -1758,13 +1758,6 @@
                 "mnt-by": "ECOR-MNT"
             },
             {
-                "asn": 4242420270,
-                "prefix": "fd36:cf83:36bd::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "SNH-MNT"
-            },
-            {
                 "asn": 4242423783,
                 "prefix": "fd37:13a8:98d6::/48",
                 "maxPrefixLength": 64,
@@ -12144,13 +12137,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "INTERACTIVELABS-MNT"
-            },
-            {
-                "asn": 4242420270,
-                "prefix": "172.20.21.128/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "SNH-MNT"
             },
             {
                 "asn": 4242422024,

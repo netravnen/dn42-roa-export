@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit b5ccece0036715cbb9cbff7f2aebbfaade120ed6
-Merge: 49f8395ff 4492aede5
-Date:   2021-02-12 22:12:10 +0000
+Commit d809fb9aefe15df2ed9d4cffb41184df2df11e76
+Merge: b5ccece00 8983bb7d9
+Date:   2021-02-13 21:43:50 +0000
 
-    Merge pull request 'Remove references to AS4242420880 and MARROPAX-MNT as requested on the mailing list 09/02/2021' (#515) from burble-20210211/remove-AS4242420880 into master
+    Merge pull request 'Remove AS4242420270' (#519) from snh/registry:rm-as4242420270 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1401
-- ROAs IPv6:  1188
-- ROAs total: 2589
+- ROAs IPv4:  1400
+- ROAs IPv6:  1187
+- ROAs total: 2587
 
-[0]: https://git.dn42.dev/dn42/registry/commit/b5ccece0036715cbb9cbff7f2aebbfaade120ed6
+[0]: https://git.dn42.dev/dn42/registry/commit/d809fb9aefe15df2ed9d4cffb41184df2df11e76
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
