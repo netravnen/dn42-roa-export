@@ -5923,6 +5923,13 @@
             "mnt-by": "MORCK-MNT"
         },
         {
+            "asn": "AS4242420228",
+            "prefix": "fda3:ea2d:b60a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MAXC-MNT"
+        },
+        {
             "asn": "AS65200",
             "prefix": "fda4:1721:8450::/48",
             "maxLength": 64,
@@ -6278,6 +6285,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "MOT-MNT"
+        },
+        {
+            "asn": "AS4242421210",
+            "prefix": "fdb6:70fb:3966::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JASON-MNT"
         },
         {
             "asn": "AS4242420039",
@@ -14855,6 +14869,13 @@
             "mnt-by": "JCAHILL-MNT"
         },
         {
+            "asn": "AS4242420228",
+            "prefix": "172.22.114.96/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MAXC-MNT"
+        },
+        {
             "asn": "AS4242421256",
             "prefix": "172.22.115.0/25",
             "maxLength": 28,
@@ -15805,6 +15826,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "YUYAN-MNT"
+        },
+        {
+            "asn": "AS4242421210",
+            "prefix": "172.22.180.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JASON-MNT"
         },
         {
             "asn": "AS4242422032",
@@ -18132,8 +18160,8 @@
         }
     ],
     "metadata": {
-        "counts": 2590,
-        "generated": 1613387364,
-        "valid": 1613819364
+        "counts": 2594,
+        "generated": 1613416171,
+        "valid": 1613848171
     }
 }
