@@ -5881,6 +5881,13 @@
             "mnt-by": "PYROPETER-MNT"
         },
         {
+            "asn": "AS4242420261",
+            "prefix": "fda2:73ea:f77f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TAGLIO-MNT"
+        },
+        {
             "asn": "AS4242421407",
             "prefix": "fda3:7863:2204::/48",
             "maxLength": 64,
@@ -6159,6 +6166,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "IIIDEFIX-MNT"
+        },
+        {
+            "asn": "AS4242421198",
+            "prefix": "fdb1:8565:c849::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TOMKEP-MNT"
         },
         {
             "asn": "AS4242421552",
@@ -14470,6 +14484,13 @@
             "mnt-by": "CAMELUSFERUS-MNT"
         },
         {
+            "asn": "AS4242420261",
+            "prefix": "172.21.99.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TAGLIO-MNT"
+        },
+        {
             "asn": "AS0",
             "prefix": "172.21.99.32/27",
             "maxLength": 32,
@@ -18111,8 +18132,8 @@
         }
     ],
     "metadata": {
-        "counts": 2587,
-        "generated": 1613329765,
-        "valid": 1613761765
+        "counts": 2590,
+        "generated": 1613365768,
+        "valid": 1613797768
     }
 }
