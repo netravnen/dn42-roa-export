@@ -5874,6 +5874,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421602",
+            "prefix": "fda1:cb1b:7582::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TOON-MNT"
+        },
+        {
             "asn": "AS4242420812",
             "prefix": "fda1:d21:d67f::/48",
             "maxLength": 64,
@@ -6992,6 +6999,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "KIOUBIT-MNT"
+        },
+        {
+            "asn": "AS4242420405",
+            "prefix": "fdcf:cafe:eba::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "EBAN-MNT"
         },
         {
             "asn": "AS4242421508",
@@ -17032,6 +17046,13 @@
             "mnt-by": "FEINU-MNT"
         },
         {
+            "asn": "AS4242421602",
+            "prefix": "172.23.162.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TOON-MNT"
+        },
+        {
             "asn": "AS4242421200",
             "prefix": "172.23.163.0/27",
             "maxLength": 28,
@@ -18174,8 +18195,8 @@
         }
     ],
     "metadata": {
-        "counts": 2596,
-        "generated": 1613473770,
-        "valid": 1613905770
+        "counts": 2599,
+        "generated": 1613502580,
+        "valid": 1613934580
     }
 }

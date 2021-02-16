@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit a765e3d9caf7d4862645b7e33928f10e95d44340
-Merge: f6d8beec4 7f30c7b9a
-Date:   2021-02-16 08:28:18 +0000
+Commit 6227b1a3f35c2c966c2c7f344fa2d58be05c8a0b
+Merge: 41862017e 9d315dc01
+Date:   2021-02-16 15:08:12 +0000
 
-    Merge pull request 'AS4242420228: domain registration & update some attributes in maintained ASN and IPs' (#530) from MaxCHILLY-20210216/associate-dns-server into master
+    Merge pull request 'Register TOON-NET (AS4242421602)' (#520) from toon/registry:toon-20210213/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1404
-- ROAs IPv6:  1192
-- ROAs total: 2596
+- ROAs IPv4:  1405
+- ROAs IPv6:  1194
+- ROAs total: 2599
 
-[0]: https://git.dn42.dev/dn42/registry/commit/a765e3d9caf7d4862645b7e33928f10e95d44340
+[0]: https://git.dn42.dev/dn42/registry/commit/6227b1a3f35c2c966c2c7f344fa2d58be05c8a0b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
