@@ -5349,6 +5349,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421458,
+                "prefix": "fd8f:665e:49ae::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RAITO-MNT"
+            },
+            {
                 "asn": 4242423652,
                 "prefix": "fd8f:7f6d:be92:8716::/64",
                 "maxPrefixLength": 64,
@@ -6182,7 +6189,7 @@
                 "mnt-by": "IIIDEFIX-MNT"
             },
             {
-                "asn": 4242421198,
+                "asn": 4242421199,
                 "prefix": "fdb1:8565:c849::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
@@ -7260,7 +7267,7 @@
                 "mnt-by": "NIYAWE-MNT"
             },
             {
-                "asn": 4242421199,
+                "asn": 4242421198,
                 "prefix": "fddd:fdef:2ea1::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
@@ -15903,6 +15910,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TRIS-MNT"
+            },
+            {
+                "asn": 4242421458,
+                "prefix": "172.22.186.80/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RAITO-MNT"
             },
             {
                 "asn": 64787,

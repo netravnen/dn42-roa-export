@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9c0087ea5475bb170220804cef876fd52525d6ba
-Merge: ccde68e20 1879d4d6d
-Date:   2021-02-15 18:43:55 +0000
+Commit f6d8beec444823a059cf644c70afa3c582634942
+Merge: b739f1b90 68c61488e
+Date:   2021-02-15 21:17:07 +0000
 
-    Merge pull request 'initial registration: MAXNET Research Network (AS4242420228)' (#528) from MaxCHILLY-20210215/dn42registration into master
+    Merge pull request 'Fix swapped route origins.' (#529) from tomkep-20210215/fix-route-origins into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1403
-- ROAs IPv6:  1191
-- ROAs total: 2594
+- ROAs IPv4:  1404
+- ROAs IPv6:  1192
+- ROAs total: 2596
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9c0087ea5475bb170220804cef876fd52525d6ba
+[0]: https://git.dn42.dev/dn42/registry/commit/f6d8beec444823a059cf644c70afa3c582634942
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
