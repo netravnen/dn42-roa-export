@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit f6d8beec444823a059cf644c70afa3c582634942
-Merge: b739f1b90 68c61488e
-Date:   2021-02-15 21:17:07 +0000
+Commit a765e3d9caf7d4862645b7e33928f10e95d44340
+Merge: f6d8beec4 7f30c7b9a
+Date:   2021-02-16 08:28:18 +0000
 
-    Merge pull request 'Fix swapped route origins.' (#529) from tomkep-20210215/fix-route-origins into master
+    Merge pull request 'AS4242420228: domain registration & update some attributes in maintained ASN and IPs' (#530) from MaxCHILLY-20210216/associate-dns-server into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1192
 - ROAs total: 2596
 
-[0]: https://git.dn42.dev/dn42/registry/commit/f6d8beec444823a059cf644c70afa3c582634942
+[0]: https://git.dn42.dev/dn42/registry/commit/a765e3d9caf7d4862645b7e33928f10e95d44340
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
