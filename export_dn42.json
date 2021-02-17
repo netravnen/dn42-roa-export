@@ -4425,6 +4425,13 @@
             "mnt-by": "DONUTS-MNT"
         },
         {
+            "asn": "AS4242423315",
+            "prefix": "fd62:e667:840a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ZANE-MNT"
+        },
+        {
             "asn": "AS64654",
             "prefix": "fd63:1e39:6f73:2929::/64",
             "maxLength": 64,
@@ -15737,6 +15744,13 @@
             "mnt-by": "DRIXTER-MNT"
         },
         {
+            "asn": "AS4242423315",
+            "prefix": "172.22.167.64/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZANE-MNT"
+        },
+        {
             "asn": "AS64768",
             "prefix": "172.22.168.0/25",
             "maxLength": 28,
@@ -18195,8 +18209,8 @@
         }
     ],
     "metadata": {
-        "counts": 2599,
-        "generated": 1613502580,
-        "valid": 1613934580
+        "counts": 2601,
+        "generated": 1613538580,
+        "valid": 1613970580
     }
 }
