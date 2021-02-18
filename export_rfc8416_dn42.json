@@ -8289,6 +8289,13 @@
                 "mnt-by": "REWBYSOFT-MNT"
             },
             {
+                "asn": 4242421850,
+                "prefix": "fdfd:face:4ac3::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GULCGFO-MNT"
+            },
+            {
                 "asn": 4242422050,
                 "prefix": "fdfd:face:4ace:1::/64",
                 "maxPrefixLength": 64,
@@ -14510,6 +14517,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GERG-MNT"
+            },
+            {
+                "asn": 4242421850,
+                "prefix": "172.21.94.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GULCGFO-MNT"
             },
             {
                 "asn": 0,
