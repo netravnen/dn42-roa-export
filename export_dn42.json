@@ -4670,6 +4670,13 @@
             "mnt-by": "COOKIEFACTORY-MNT"
         },
         {
+            "asn": "AS4242423849",
+            "prefix": "fd6c:3444:4e30:2118::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "CLEMATIS-MNT"
+        },
+        {
             "asn": "AS4242423811",
             "prefix": "fd6c:6c65:7669::/48",
             "maxLength": 64,
@@ -7661,7 +7668,7 @@
         {
             "asn": "AS4242420565",
             "prefix": "fded:e0fd:5fe::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "E1MO-MNT"
         },
@@ -12428,7 +12435,7 @@
         {
             "asn": "AS4242420565",
             "prefix": "172.20.229.160/27",
-            "maxLength": 28,
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "E1MO-MNT"
         },
@@ -15926,6 +15933,13 @@
             "mnt-by": "SZB86-MNT"
         },
         {
+            "asn": "AS4242423849",
+            "prefix": "172.22.182.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CLEMATIS-MNT"
+        },
+        {
             "asn": "AS64784",
             "prefix": "172.22.184.0/24",
             "maxLength": 28,
@@ -18230,8 +18244,8 @@
         }
     ],
     "metadata": {
-        "counts": 2604,
-        "generated": 1613761770,
-        "valid": 1614193770
+        "counts": 2606,
+        "generated": 1613797771,
+        "valid": 1614229771
     }
 }
