@@ -5909,6 +5909,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421876,
+                "prefix": "fda1:ae59:6dd0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
                 "asn": 4242421602,
                 "prefix": "fda1:cb1b:7582::/48",
                 "maxPrefixLength": 48,
@@ -16372,6 +16379,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SECRETMINE-MNT"
+            },
+            {
+                "asn": 4242421876,
+                "prefix": "172.22.66.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
             },
             {
                 "asn": 4242420771,
