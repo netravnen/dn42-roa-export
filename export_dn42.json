@@ -1282,6 +1282,13 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
+            "asn": "AS4242421474",
+            "prefix": "fd21:4748:3647::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TONYZHAO-MNT"
+        },
+        {
             "asn": "AS4242421888",
             "prefix": "fd21:5c0c:9b7e::/48",
             "maxLength": 64,
@@ -6799,6 +6806,13 @@
         },
         {
             "asn": "AS140936",
+            "prefix": "fdc8:dc88:ee11::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
+            "asn": "AS38173",
             "prefix": "fdc8:dc88:ee11::/48",
             "maxLength": 64,
             "ta": "DN42",
@@ -13812,6 +13826,13 @@
             "mnt-by": "SUNNET-MNT"
         },
         {
+            "asn": "AS38173",
+            "prefix": "172.21.100.128/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
             "asn": "AS4242423088",
             "prefix": "172.21.100.16/29",
             "maxLength": 29,
@@ -13820,6 +13841,13 @@
         },
         {
             "asn": "AS140936",
+            "prefix": "172.21.100.16/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
+            "asn": "AS38173",
             "prefix": "172.21.100.16/29",
             "maxLength": 29,
             "ta": "DN42",
@@ -15497,6 +15525,20 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HESSENET-MNT"
+        },
+        {
+            "asn": "AS4242421474",
+            "prefix": "172.22.147.48/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TONYZHAO-MNT"
+        },
+        {
+            "asn": "AS4242421474",
+            "prefix": "172.22.147.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TONYZHAO-MNT"
         },
         {
             "asn": "AS4242423811",
@@ -18258,8 +18300,8 @@
         }
     ],
     "metadata": {
-        "counts": 2608,
-        "generated": 1613848163,
-        "valid": 1614280163
+        "counts": 2614,
+        "generated": 1613884172,
+        "valid": 1614316172
     }
 }

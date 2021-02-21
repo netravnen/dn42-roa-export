@@ -1289,6 +1289,13 @@
                 "mnt-by": "DUMMY-MNT"
             },
             {
+                "asn": 4242421474,
+                "prefix": "fd21:4748:3647::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TONYZHAO-MNT"
+            },
+            {
                 "asn": 4242421888,
                 "prefix": "fd21:5c0c:9b7e::/48",
                 "maxPrefixLength": 64,
@@ -6806,6 +6813,13 @@
             },
             {
                 "asn": 140936,
+                "prefix": "fdc8:dc88:ee11::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SUNNET-MNT"
+            },
+            {
+                "asn": 38173,
                 "prefix": "fdc8:dc88:ee11::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
@@ -13819,6 +13833,13 @@
                 "mnt-by": "SUNNET-MNT"
             },
             {
+                "asn": 38173,
+                "prefix": "172.21.100.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SUNNET-MNT"
+            },
+            {
                 "asn": 4242423088,
                 "prefix": "172.21.100.16/29",
                 "maxPrefixLength": 29,
@@ -13827,6 +13848,13 @@
             },
             {
                 "asn": 140936,
+                "prefix": "172.21.100.16/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SUNNET-MNT"
+            },
+            {
+                "asn": 38173,
                 "prefix": "172.21.100.16/29",
                 "maxPrefixLength": 29,
                 "source": "DN42",
@@ -15504,6 +15532,20 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HESSENET-MNT"
+            },
+            {
+                "asn": 4242421474,
+                "prefix": "172.22.147.48/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TONYZHAO-MNT"
+            },
+            {
+                "asn": 4242421474,
+                "prefix": "172.22.147.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TONYZHAO-MNT"
             },
             {
                 "asn": 4242423811,

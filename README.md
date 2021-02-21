@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 6354c4ee03923d43547fb696562469797932c208
-Merge: 5355f4ec9 32d8c31b7
-Date:   2021-02-19 21:52:58 +0000
+Commit ce500897594d87ccd1ffe9b3ee009a9d70679243
+Merge: d4d2bfbea 0a4aaaed6
+Date:   2021-02-20 20:51:40 +0000
 
-    Merge pull request 'Committer: clematis <clematis@agrimony.clemat.is>' (#537) from clematis-20210219/update into master
+    Merge pull request 'Register a new domain' (#542) from lss233-20210220/register-lss233.dn42 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1410
-- ROAs IPv6:  1198
-- ROAs total: 2608
+- ROAs IPv4:  1414
+- ROAs IPv6:  1200
+- ROAs total: 2614
 
-[0]: https://git.dn42.dev/dn42/registry/commit/6354c4ee03923d43547fb696562469797932c208
+[0]: https://git.dn42.dev/dn42/registry/commit/ce500897594d87ccd1ffe9b3ee009a9d70679243
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
