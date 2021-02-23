@@ -17670,8 +17670,8 @@
         },
         {
             "asn": "AS4242420226",
-            "prefix": "172.23.226.0/29",
-            "maxLength": 29,
+            "prefix": "172.23.226.0/27",
+            "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ILEMONRAIN-MNT"
         },
@@ -18315,7 +18315,7 @@
     ],
     "metadata": {
         "counts": 2616,
-        "generated": 1614020963,
-        "valid": 1614452963
+        "generated": 1614056969,
+        "valid": 1614488969
     }
 }

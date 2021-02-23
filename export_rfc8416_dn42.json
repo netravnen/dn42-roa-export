@@ -17677,8 +17677,8 @@
             },
             {
                 "asn": 4242420226,
-                "prefix": "172.23.226.0/29",
-                "maxPrefixLength": 29,
+                "prefix": "172.23.226.0/27",
+                "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ILEMONRAIN-MNT"
             },
