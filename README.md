@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit c81c3400f23dde26c37553311cc0edef168c9421
-Merge: e9cbdffc7 581caf21c
-Date:   2021-02-22 20:01:16 +0000
+Commit b96f8f37ac48cbb95ccd216df652b47fccc5cde0
+Merge: c81c3400f 89740e7da
+Date:   2021-02-23 09:36:19 +0000
 
-    Merge pull request 'Restart PR for fixing Sign Error' (#546) from ilemonrain-20210222/addnet-v2 into master
+    Merge pull request 'squashed commit:' (#547) from dumergurh-20210223/new into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1415
-- ROAs IPv6:  1201
-- ROAs total: 2616
+- ROAs IPv4:  1416
+- ROAs IPv6:  1202
+- ROAs total: 2618
 
-[0]: https://git.dn42.dev/dn42/registry/commit/c81c3400f23dde26c37553311cc0edef168c9421
+[0]: https://git.dn42.dev/dn42/registry/commit/b96f8f37ac48cbb95ccd216df652b47fccc5cde0
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

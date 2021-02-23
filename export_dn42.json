@@ -6245,6 +6245,13 @@
             "mnt-by": "ROUTEDBITS-MNT"
         },
         {
+            "asn": "AS4242422848",
+            "prefix": "fdb2:48f2:8ac5::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DUMERGURH-MNT"
+        },
+        {
             "asn": "AS4242423774",
             "prefix": "fdb2:520f:f4a7::/48",
             "maxLength": 64,
@@ -15177,6 +15184,13 @@
             "mnt-by": "GIGGA-MNT"
         },
         {
+            "asn": "AS4242422848",
+            "prefix": "172.22.125.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DUMERGURH-MNT"
+        },
+        {
             "asn": "AS4242422462",
             "prefix": "172.22.126.0/25",
             "maxLength": 28,
@@ -18314,8 +18328,8 @@
         }
     ],
     "metadata": {
-        "counts": 2616,
-        "generated": 1614056969,
-        "valid": 1614488969
+        "counts": 2618,
+        "generated": 1614078574,
+        "valid": 1614510574
     }
 }
