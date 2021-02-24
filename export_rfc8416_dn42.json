@@ -8086,6 +8086,13 @@
                 "mnt-by": "HCROSS-MNT"
             },
             {
+                "asn": 4242422004,
+                "prefix": "fdf9:2eea:f030::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "IWASINNAMUKNOW-MNT"
+            },
+            {
                 "asn": 64885,
                 "prefix": "fdf9:9417:5844::/64",
                 "maxPrefixLength": 64,

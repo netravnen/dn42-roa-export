@@ -8079,6 +8079,13 @@
             "mnt-by": "HCROSS-MNT"
         },
         {
+            "asn": "AS4242422004",
+            "prefix": "fdf9:2eea:f030::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "IWASINNAMUKNOW-MNT"
+        },
+        {
             "asn": "AS64885",
             "prefix": "fdf9:9417:5844::/64",
             "maxLength": 64,
@@ -18328,8 +18335,8 @@
         }
     ],
     "metadata": {
-        "counts": 2618,
-        "generated": 1614143368,
-        "valid": 1614575368
+        "counts": 2619,
+        "generated": 1614164971,
+        "valid": 1614596971
     }
 }
