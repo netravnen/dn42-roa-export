@@ -8121,6 +8121,13 @@
                 "mnt-by": "JAMESITS-MNT"
             },
             {
+                "asn": 4242423947,
+                "prefix": "fdfa:7906:8262::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SERNET-MNT"
+            },
+            {
                 "asn": 4242420416,
                 "prefix": "fdfa:8c85:5ca3::/48",
                 "maxPrefixLength": 64,
@@ -17632,6 +17639,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JOMAT-MNT"
+            },
+            {
+                "asn": 4242423947,
+                "prefix": "172.23.217.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SERNET-MNT"
             },
             {
                 "asn": 4242421588,
