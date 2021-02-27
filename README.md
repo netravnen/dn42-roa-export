@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit a2166ef18a003f82d857af43082ee92cbb63880e
-Merge: dd59ed2e2 dc189e659
-Date:   2021-02-26 20:02:17 +0000
+Commit 76ba5cec8e62a2a1f6b23198053f2081d41fd4ef
+Merge: 71bece814 8e02c1c1c
+Date:   2021-02-27 08:50:23 +0000
 
-    Merge pull request 'Add DS record for 04dco.dn42 and keypin to MNTER object.' (#554) from 04dco-20210226/dsandkeypin into master
+    Merge pull request 'Add AS4242421826 LSS233-MNT to AS-SET' (#556) from Napsterbater-20210227/AS-Set into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1204
 - ROAs total: 2621
 
-[0]: https://git.dn42.dev/dn42/registry/commit/a2166ef18a003f82d857af43082ee92cbb63880e
+[0]: https://git.dn42.dev/dn42/registry/commit/76ba5cec8e62a2a1f6b23198053f2081d41fd4ef
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
