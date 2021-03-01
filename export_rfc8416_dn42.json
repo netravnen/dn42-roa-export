@@ -1541,6 +1541,13 @@
                 "mnt-by": "BABBLE-MNT"
             },
             {
+                "asn": 4242421817,
+                "prefix": "fd28:cb8f:4c92::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "KSKB-MNT"
+            },
+            {
                 "asn": 4242423928,
                 "prefix": "fd29:612d:9dd1::/48",
                 "maxPrefixLength": 48,
@@ -16547,6 +16554,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BLACKHOLE-MNT"
+            },
+            {
+                "asn": 4242421817,
+                "prefix": "172.22.77.32/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KSKB-MNT"
             },
             {
                 "asn": 4242420630,
