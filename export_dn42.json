@@ -5524,6 +5524,13 @@
             "mnt-by": "SIRMYSTERION-MNT"
         },
         {
+            "asn": "AS4242422717",
+            "prefix": "fd94:dba8:42b0::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HUJK-MNT"
+        },
+        {
             "asn": "AS4242421008",
             "prefix": "fd94:e773:5413::/48",
             "maxLength": 64,
@@ -16416,6 +16423,13 @@
             "mnt-by": "DL-MNT"
         },
         {
+            "asn": "AS4242422717",
+            "prefix": "172.22.66.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HUJK-MNT"
+        },
+        {
             "asn": "AS4242420771",
             "prefix": "172.22.67.0/27",
             "maxLength": 28,
@@ -18363,8 +18377,8 @@
         }
     ],
     "metadata": {
-        "counts": 2623,
-        "generated": 1614625770,
-        "valid": 1615057770
+        "counts": 2625,
+        "generated": 1614661771,
+        "valid": 1615093771
     }
 }
