@@ -5608,13 +5608,6 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
-            "asn": "AS4242421126",
-            "prefix": "fd97:6b18:3cfa:2300::/56",
-            "maxLength": 64,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
-        },
-        {
             "asn": "AS4242420017",
             "prefix": "fd97:b8af:629c:7d45::/64",
             "maxLength": 64,
@@ -8086,6 +8079,13 @@
             "mnt-by": "Y525-MNT"
         },
         {
+            "asn": "AS4242420197",
+            "prefix": "fdf8:7e7f:d097::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "N0EMIS-MNT"
+        },
+        {
             "asn": "AS4242422005",
             "prefix": "fdf8:adff:47b9::/48",
             "maxLength": 64,
@@ -8095,7 +8095,7 @@
         {
             "asn": "AS4242422004",
             "prefix": "fdf9:2eea:f030::/48",
-            "maxLength": 48,
+            "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "IWASINNAMUKNOW-MNT"
         },
@@ -11521,13 +11521,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "VOXILITY-MNT"
-        },
-        {
-            "asn": "AS4242421126",
-            "prefix": "172.20.177.96/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242423238",
@@ -17733,7 +17726,7 @@
         },
         {
             "asn": "AS4242420226",
-            "prefix": "172.23.226.0/27",
+            "prefix": "172.23.226.0/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ILEMONRAIN-MNT"
@@ -18377,8 +18370,8 @@
         }
     ],
     "metadata": {
-        "counts": 2625,
-        "generated": 1614712163,
-        "valid": 1615144163
+        "counts": 2624,
+        "generated": 1614748172,
+        "valid": 1615180172
     }
 }

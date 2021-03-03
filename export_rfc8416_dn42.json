@@ -5615,13 +5615,6 @@
                 "mnt-by": "DUMMY-MNT"
             },
             {
-                "asn": 4242421126,
-                "prefix": "fd97:6b18:3cfa:2300::/56",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242420017,
                 "prefix": "fd97:b8af:629c:7d45::/64",
                 "maxPrefixLength": 64,
@@ -8093,6 +8086,13 @@
                 "mnt-by": "Y525-MNT"
             },
             {
+                "asn": 4242420197,
+                "prefix": "fdf8:7e7f:d097::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "N0EMIS-MNT"
+            },
+            {
                 "asn": 4242422005,
                 "prefix": "fdf8:adff:47b9::/48",
                 "maxPrefixLength": 64,
@@ -8102,7 +8102,7 @@
             {
                 "asn": 4242422004,
                 "prefix": "fdf9:2eea:f030::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "IWASINNAMUKNOW-MNT"
             },
@@ -11528,13 +11528,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VOXILITY-MNT"
-            },
-            {
-                "asn": 4242421126,
-                "prefix": "172.20.177.96/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242423238,
@@ -17740,7 +17733,7 @@
             },
             {
                 "asn": 4242420226,
-                "prefix": "172.23.226.0/27",
+                "prefix": "172.23.226.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ILEMONRAIN-MNT"

@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 4ce4579509b7f7b5d948e7f7958b2a63945bc1d9
-Merge: 39e644341 4e361c128
-Date:   2021-03-01 21:58:40 +0000
+Commit c8e80016a82070aaaf8629fac6ec8870fecc27ff
+Merge: 5e4d02deb 4071d04b0
+Date:   2021-03-02 19:53:42 +0000
 
-    Merge pull request 'Fix IPv6 address for j.delegation-servers.dn42 and remove hexanet instances' (#563) from jrb0001-20210301/delegation-servers into master
+    Merge pull request 'Add N0EMIS-NETWORK-CCCGOE' (#571) from n0emis-20210302/add-n0emis-cccgoe into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1419
+- ROAs IPv4:  1418
 - ROAs IPv6:  1206
-- ROAs total: 2625
+- ROAs total: 2624
 
-[0]: https://git.dn42.dev/dn42/registry/commit/4ce4579509b7f7b5d948e7f7958b2a63945bc1d9
+[0]: https://git.dn42.dev/dn42/registry/commit/c8e80016a82070aaaf8629fac6ec8870fecc27ff
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
