@@ -638,6 +638,13 @@
                 "mnt-by": "LAPISBLUE27-MNT"
             },
             {
+                "asn": 4242423371,
+                "prefix": "fd0c:62d:8e7::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BAT-MNT"
+            },
+            {
                 "asn": 4242421275,
                 "prefix": "fd0c:70b0:1c7d::/48",
                 "maxPrefixLength": 48,
@@ -14993,6 +15000,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BPEETERS-MNT"
+            },
+            {
+                "asn": 4242423371,
+                "prefix": "172.22.114.112/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BAT-MNT"
             },
             {
                 "asn": 4242420359,

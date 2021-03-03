@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit c8e80016a82070aaaf8629fac6ec8870fecc27ff
-Merge: 5e4d02deb 4071d04b0
-Date:   2021-03-02 19:53:42 +0000
+Commit 52a7c21df234fcf0ca8af7ed0d349b5a8fa0c1d1
+Merge: c8e80016a 4e9584f9c
+Date:   2021-03-03 18:53:18 +0000
 
-    Merge pull request 'Add N0EMIS-NETWORK-CCCGOE' (#571) from n0emis-20210302/add-n0emis-cccgoe into master
+    Merge pull request 'Add my AS' (#564) from bat/registry:add-as into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1418
-- ROAs IPv6:  1206
-- ROAs total: 2624
+- ROAs IPv4:  1419
+- ROAs IPv6:  1207
+- ROAs total: 2626
 
-[0]: https://git.dn42.dev/dn42/registry/commit/c8e80016a82070aaaf8629fac6ec8870fecc27ff
+[0]: https://git.dn42.dev/dn42/registry/commit/52a7c21df234fcf0ca8af7ed0d349b5a8fa0c1d1
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
