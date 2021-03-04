@@ -2131,7 +2131,7 @@
             {
                 "asn": 4242422464,
                 "prefix": "fd42:1145:1419::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MOE-MNT"
             },
@@ -5924,6 +5924,13 @@
             },
             {
                 "asn": 4242421876,
+                "prefix": "fda1:ae59:6dd0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
+                "asn": 211876,
                 "prefix": "fda1:ae59:6dd0::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
@@ -11917,7 +11924,7 @@
             {
                 "asn": 4242422464,
                 "prefix": "172.20.191.192/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "MOE-MNT"
             },
@@ -16431,6 +16438,13 @@
             },
             {
                 "asn": 4242421876,
+                "prefix": "172.22.66.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
+                "asn": 211876,
                 "prefix": "172.22.66.32/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
