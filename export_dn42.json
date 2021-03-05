@@ -4852,6 +4852,13 @@
             "mnt-by": "YANGFL-MNT"
         },
         {
+            "asn": "AS4242421459",
+            "prefix": "fd72:be29:7c:3b1c::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SANQUILMAS-MNT"
+        },
+        {
             "asn": "AS65152",
             "prefix": "fd73:111:e824::/48",
             "maxLength": 64,
@@ -18419,8 +18426,8 @@
         }
     ],
     "metadata": {
-        "counts": 2631,
-        "generated": 1614942566,
-        "valid": 1615374566
+        "counts": 2632,
+        "generated": 1614971368,
+        "valid": 1615403368
     }
 }
