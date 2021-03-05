@@ -5615,6 +5615,13 @@
                 "mnt-by": "EVILET-MNT"
             },
             {
+                "asn": 62396,
+                "prefix": "fd97:36:c802::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MFK-MNT"
+            },
+            {
                 "asn": 64697,
                 "prefix": "fd97:4c4e:9d26::/48",
                 "maxPrefixLength": 64,
@@ -8028,6 +8035,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ZHIYUAN-MNT"
+            },
+            {
+                "asn": 4242423410,
+                "prefix": "fdf6:774:73c3::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "WYCHLW-MNT"
             },
             {
                 "asn": 4242421541,
@@ -13222,6 +13236,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HASHQ-MNT"
+            },
+            {
+                "asn": 4242423410,
+                "prefix": "172.20.41.48/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WYCHLW-MNT"
             },
             {
                 "asn": 4242422100,
