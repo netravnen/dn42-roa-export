@@ -6896,6 +6896,13 @@
                 "mnt-by": "SIDEREAL-MNT"
             },
             {
+                "asn": 4242422526,
+                "prefix": "fdc9:83c1:d0ce::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ANILLC-MNT"
+            },
+            {
                 "asn": 4242420199,
                 "prefix": "fdc9:9999:9999:9900::/64",
                 "maxPrefixLength": 64,
@@ -15931,6 +15938,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZANE-MNT"
+            },
+            {
+                "asn": 4242422526,
+                "prefix": "172.22.167.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ANILLC-MNT"
             },
             {
                 "asn": 64768,
