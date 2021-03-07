@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 4537628ae9a77bf1820df69bf5802ac1aa48d47d
-Merge: 93db93658 f4f9bb589
-Date:   2021-03-06 23:30:03 +0000
+Commit 480b951e5b7548219999fc7081b243079aeec7ec
+Merge: 4537628ae d6438c13b
+Date:   2021-03-07 19:05:45 +0000
 
-    Merge pull request 'DL-MNT: added new member(s) to as-set; created new as-set and routing policy; moved member(s) to new as-set' (#587) from p0tat05-20210306/changes into master
+    Merge pull request 'Create AS-SET: AS4242420604:AS-DOWNSTREAM' (#581) from liangjw/registry:liangjw-20210304/create-as-set into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1212
 - ROAs total: 2634
 
-[0]: https://git.dn42.dev/dn42/registry/commit/4537628ae9a77bf1820df69bf5802ac1aa48d47d
+[0]: https://git.dn42.dev/dn42/registry/commit/480b951e5b7548219999fc7081b243079aeec7ec
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
