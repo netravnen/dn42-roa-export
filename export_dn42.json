@@ -1023,6 +1023,13 @@
             "mnt-by": "MOZZNET-MNT"
         },
         {
+            "asn": "AS4242423064",
+            "prefix": "fd13:5940::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NODEB-MNT"
+        },
+        {
             "asn": "AS4242421359",
             "prefix": "fd13:7744:b08d::/48",
             "maxLength": 48,
@@ -15793,6 +15800,13 @@
             "mnt-by": "8FCDE-MNT"
         },
         {
+            "asn": "AS4242423315",
+            "prefix": "172.22.157.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZANE-MNT"
+        },
+        {
             "asn": "AS4242420304",
             "prefix": "172.22.157.32/27",
             "maxLength": 28,
@@ -17079,6 +17093,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "BYTERAVEN-MNT"
+        },
+        {
+            "asn": "AS4242423064",
+            "prefix": "172.23.132.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NODEB-MNT"
         },
         {
             "asn": "AS4242422231",
@@ -18440,8 +18461,8 @@
         }
     ],
     "metadata": {
-        "counts": 2634,
-        "generated": 1615144170,
-        "valid": 1615576170
+        "counts": 2637,
+        "generated": 1615180170,
+        "valid": 1615612170
     }
 }
