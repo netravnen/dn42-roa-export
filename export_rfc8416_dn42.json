@@ -4600,6 +4600,13 @@
                 "mnt-by": "GMACHINE-MNT"
             },
             {
+                "asn": 4242423771,
+                "prefix": "fd67:f728:94ac::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JESS-SYS-MNT"
+            },
+            {
                 "asn": 4242423237,
                 "prefix": "fd68:6868:6868::/48",
                 "maxPrefixLength": 64,
@@ -17109,6 +17116,13 @@
                 "mnt-by": "NODEB-MNT"
             },
             {
+                "asn": 4242423771,
+                "prefix": "172.23.132.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JESS-SYS-MNT"
+            },
+            {
                 "asn": 4242422231,
                 "prefix": "172.23.133.0/24",
                 "maxPrefixLength": 28,
@@ -18122,6 +18136,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GPX-MNT"
+            },
+            {
+                "asn": 62396,
+                "prefix": "172.23.4.32/27",
+                "maxPrefixLength": 27,
+                "source": "DN42",
+                "mnt-by": "MFK-MNT"
             },
             {
                 "asn": 4242420515,
