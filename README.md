@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 6f3b0ec7c59c72c50b582d8232878e39da22b4d0
-Merge: 7f1a4cf9b 9221ee6e8
-Date:   2021-03-09 17:50:16 +0000
+Commit d86a64567cd8cb7c0f57e6f46affd1ece93fcbec
+Merge: 6f3b0ec7c 552d1caf4
+Date:   2021-03-10 17:58:19 +0000
 
-    Merge pull request 'Move acme.dn42 ownership to n0emis' (#602) from foxcpp-20210309/acme.dn42-giveup into master
+    Merge pull request 'join dn42' (#600) from turbofan-20210309/join into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1426
-- ROAs IPv6:  1214
-- ROAs total: 2640
+- ROAs IPv4:  1427
+- ROAs IPv6:  1215
+- ROAs total: 2642
 
-[0]: https://git.dn42.dev/dn42/registry/commit/6f3b0ec7c59c72c50b582d8232878e39da22b4d0
+[0]: https://git.dn42.dev/dn42/registry/commit/d86a64567cd8cb7c0f57e6f46affd1ece93fcbec
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

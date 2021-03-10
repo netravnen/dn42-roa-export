@@ -1583,6 +1583,13 @@
                 "mnt-by": "KIBO-MNT"
             },
             {
+                "asn": 4242423351,
+                "prefix": "fd2a:86c6:dbb7::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TURBOFAN-MNT"
+            },
+            {
                 "asn": 4242423008,
                 "prefix": "fd2a:8eb0:74bd::/48",
                 "maxPrefixLength": 64,
@@ -17492,6 +17499,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "INFTYLOOP-MNT"
+            },
+            {
+                "asn": 4242423351,
+                "prefix": "172.23.178.128/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "TURBOFAN-MNT"
             },
             {
                 "asn": 4242423267,
