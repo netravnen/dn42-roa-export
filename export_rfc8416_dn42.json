@@ -3466,6 +3466,13 @@
                 "mnt-by": "D3NETWORK-MNT"
             },
             {
+                "asn": 4242423240,
+                "prefix": "fd42:d3f7:97fa::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NUREX-MNT"
+            },
+            {
                 "asn": 4242422600,
                 "prefix": "fd42:d42:2706::/48",
                 "maxPrefixLength": 64,
@@ -13049,6 +13056,13 @@
                 "mnt-by": "BUDDY-MNT"
             },
             {
+                "asn": 4242423240,
+                "prefix": "172.20.32.144/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NUREX-MNT"
+            },
+            {
                 "asn": 4242420798,
                 "prefix": "172.20.32.16/28",
                 "maxPrefixLength": 28,
@@ -14734,13 +14748,6 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "LFRAM-MNT"
-            },
-            {
-                "asn": 4242422232,
-                "prefix": "172.21.99.96/27",
-                "maxPrefixLength": 28,
-                "source": "DN42",
-                "mnt-by": "NEVERBEHAVE-MNT"
             },
             {
                 "asn": 4242420101,
@@ -16857,6 +16864,13 @@
                 "mnt-by": "GNILEBEIN-MNT"
             },
             {
+                "asn": 4242420335,
+                "prefix": "172.23.104.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LARRY-MNT"
+            },
+            {
                 "asn": 4242420416,
                 "prefix": "172.23.104.32/27",
                 "maxPrefixLength": 28,
@@ -18073,6 +18087,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CIEL-MNT"
+            },
+            {
+                "asn": 4242422232,
+                "prefix": "172.23.3.128/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NEVERBEHAVE-MNT"
             },
             {
                 "asn": 4242422330,
