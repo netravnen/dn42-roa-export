@@ -7141,6 +7141,13 @@
                 "mnt-by": "LEOMUND-MNT"
             },
             {
+                "asn": 4242422021,
+                "prefix": "fdd0:448d:1447::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "YUEKIS-MNT"
+            },
+            {
                 "asn": 4242422077,
                 "prefix": "fdd0:77f2:44de::/48",
                 "maxPrefixLength": 64,
