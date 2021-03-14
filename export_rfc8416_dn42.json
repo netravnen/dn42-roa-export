@@ -6434,6 +6434,13 @@
                 "mnt-by": "DRATHIR-MNT"
             },
             {
+                "asn": 4242420406,
+                "prefix": "fdb8:90b8:5ba6:9d0d::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "KEVER-MNT"
+            },
+            {
                 "asn": 4242422866,
                 "prefix": "fdb8:d95e:191a::/48",
                 "maxPrefixLength": 48,
@@ -8126,6 +8133,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DRCAI-MNT"
+            },
+            {
+                "asn": 4242420335,
+                "prefix": "fdf7:e7a3:4888::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LARRY-MNT"
             },
             {
                 "asn": 4242420560,
@@ -10803,8 +10817,8 @@
             },
             {
                 "asn": 4242423124,
-                "prefix": "172.20.149.64/29",
-                "maxPrefixLength": 29,
+                "prefix": "172.20.149.64/27",
+                "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SZCZOT3K-MNT"
             },
@@ -13460,6 +13474,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HAHA-MNT"
+            },
+            {
+                "asn": 4242420406,
+                "prefix": "172.20.48.176/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KEVER-MNT"
             },
             {
                 "asn": 4242423774,

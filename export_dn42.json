@@ -6427,6 +6427,13 @@
             "mnt-by": "DRATHIR-MNT"
         },
         {
+            "asn": "AS4242420406",
+            "prefix": "fdb8:90b8:5ba6:9d0d::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "KEVER-MNT"
+        },
+        {
             "asn": "AS4242422866",
             "prefix": "fdb8:d95e:191a::/48",
             "maxLength": 48,
@@ -8119,6 +8126,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "DRCAI-MNT"
+        },
+        {
+            "asn": "AS4242420335",
+            "prefix": "fdf7:e7a3:4888::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LARRY-MNT"
         },
         {
             "asn": "AS4242420560",
@@ -10796,8 +10810,8 @@
         },
         {
             "asn": "AS4242423124",
-            "prefix": "172.20.149.64/29",
-            "maxLength": 29,
+            "prefix": "172.20.149.64/27",
+            "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "SZCZOT3K-MNT"
         },
@@ -13453,6 +13467,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HAHA-MNT"
+        },
+        {
+            "asn": "AS4242420406",
+            "prefix": "172.20.48.176/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KEVER-MNT"
         },
         {
             "asn": "AS4242423774",
@@ -18524,8 +18545,8 @@
         }
     ],
     "metadata": {
-        "counts": 2646,
-        "generated": 1615662563,
-        "valid": 1616094563
+        "counts": 2649,
+        "generated": 1615698569,
+        "valid": 1616130569
     }
 }
