@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 11838363edc7db666264a019c5a2bacef9d98a6c
-Merge: 96bfc4c9b 2af56e0c3
-Date:   2021-03-13 23:00:39 +0000
+Commit 91f7bb2a069e1623418bd2d6a543bdb547fc2be1
+Merge: 11838363e 6a14922cb
+Date:   2021-03-14 16:51:17 +0000
 
-    Merge pull request 'SZCZOT3K-DN42: expand 172.20.149.64/29 to 172.20.149.64/27' (#615) from Szczot3k-20210313/expandTheAlloc into master
+    Merge pull request 'Register BlueSys Network' (#616) from Bluemedia-20210314/join into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1430
-- ROAs IPv6:  1219
-- ROAs total: 2649
+- ROAs IPv4:  1431
+- ROAs IPv6:  1220
+- ROAs total: 2651
 
-[0]: https://git.dn42.dev/dn42/registry/commit/11838363edc7db666264a019c5a2bacef9d98a6c
+[0]: https://git.dn42.dev/dn42/registry/commit/91f7bb2a069e1623418bd2d6a543bdb547fc2be1
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

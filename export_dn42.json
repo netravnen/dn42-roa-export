@@ -4943,6 +4943,13 @@
             "mnt-by": "GIN42-MNT"
         },
         {
+            "asn": "AS4242423343",
+            "prefix": "fd75:eca7:b62a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BLUESYS-MNT"
+        },
+        {
             "asn": "AS4242423740",
             "prefix": "fd75:fd19:617d::/48",
             "maxLength": 48,
@@ -15996,6 +16003,13 @@
             "mnt-by": "ZANE-MNT"
         },
         {
+            "asn": "AS4242423343",
+            "prefix": "172.22.167.80/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BLUESYS-MNT"
+        },
+        {
             "asn": "AS4242422526",
             "prefix": "172.22.167.96/27",
             "maxLength": 28,
@@ -18545,8 +18559,8 @@
         }
     ],
     "metadata": {
-        "counts": 2649,
-        "generated": 1615720162,
-        "valid": 1616152162
+        "counts": 2651,
+        "generated": 1615748970,
+        "valid": 1616180970
     }
 }
