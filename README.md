@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 91f7bb2a069e1623418bd2d6a543bdb547fc2be1
-Merge: 11838363e 6a14922cb
-Date:   2021-03-14 16:51:17 +0000
+Commit 50bfb8dc642dec919436bd38114ed54157335c35
+Merge: 9b284273e 13cf123dd
+Date:   2021-03-15 20:29:54 +0000
 
-    Merge pull request 'Register BlueSys Network' (#616) from Bluemedia-20210314/join into master
+    Merge pull request 'Fixed max-length' (#620) from zane_reick-20210315/max-length-fix into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1431
-- ROAs IPv6:  1220
-- ROAs total: 2651
+- ROAs IPv4:  1426
+- ROAs IPv6:  1221
+- ROAs total: 2647
 
-[0]: https://git.dn42.dev/dn42/registry/commit/91f7bb2a069e1623418bd2d6a543bdb547fc2be1
+[0]: https://git.dn42.dev/dn42/registry/commit/50bfb8dc642dec919436bd38114ed54157335c35
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
