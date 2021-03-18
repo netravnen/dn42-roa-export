@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 50bfb8dc642dec919436bd38114ed54157335c35
-Merge: 9b284273e 13cf123dd
-Date:   2021-03-15 20:29:54 +0000
+Commit 1cd2455014c316dd300f9c2f56291fc3cde6f427
+Merge: e96e039f3 1a2e8b078
+Date:   2021-03-18 19:06:09 +0000
 
-    Merge pull request 'Fixed max-length' (#620) from zane_reick-20210315/max-length-fix into master
+    Merge pull request 'Modified nameservers' (#624) from nurex/registry:master into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1426
-- ROAs IPv6:  1221
-- ROAs total: 2647
+- ROAs IPv6:  1222
+- ROAs total: 2648
 
-[0]: https://git.dn42.dev/dn42/registry/commit/50bfb8dc642dec919436bd38114ed54157335c35
+[0]: https://git.dn42.dev/dn42/registry/commit/1cd2455014c316dd300f9c2f56291fc3cde6f427
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

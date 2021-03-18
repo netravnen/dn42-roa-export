@@ -4929,6 +4929,13 @@
             "mnt-by": "DYNOS01-MNT"
         },
         {
+            "asn": "AS4242421257",
+            "prefix": "fd74:f654:a9c6::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SXQ-MNT"
+        },
+        {
             "asn": "AS4242421297",
             "prefix": "fd75:77d4:482b::/48",
             "maxLength": 64,
@@ -18531,8 +18538,8 @@
         }
     ],
     "metadata": {
-        "counts": 2647,
-        "generated": 1616065763,
-        "valid": 1616497763
+        "counts": 2648,
+        "generated": 1616094576,
+        "valid": 1616526576
     }
 }

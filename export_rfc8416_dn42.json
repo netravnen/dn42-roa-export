@@ -4936,6 +4936,13 @@
                 "mnt-by": "DYNOS01-MNT"
             },
             {
+                "asn": 4242421257,
+                "prefix": "fd74:f654:a9c6::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SXQ-MNT"
+            },
+            {
                 "asn": 4242421297,
                 "prefix": "fd75:77d4:482b::/48",
                 "maxPrefixLength": 64,
