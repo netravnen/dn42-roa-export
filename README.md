@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 1cd2455014c316dd300f9c2f56291fc3cde6f427
-Merge: e96e039f3 1a2e8b078
-Date:   2021-03-18 19:06:09 +0000
+Commit aa4cc2c682951d19159c5b509acc276ab39aca5e
+Merge: 1cd245501 71fa28311
+Date:   2021-03-18 19:15:53 +0000
 
-    Merge pull request 'Modified nameservers' (#624) from nurex/registry:master into master
+    Merge pull request 'Remove AS4242421302' (#625) from piirr/registry:master into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1426
-- ROAs IPv6:  1222
-- ROAs total: 2648
+- ROAs IPv4:  1425
+- ROAs IPv6:  1221
+- ROAs total: 2646
 
-[0]: https://git.dn42.dev/dn42/registry/commit/1cd2455014c316dd300f9c2f56291fc3cde6f427
+[0]: https://git.dn42.dev/dn42/registry/commit/aa4cc2c682951d19159c5b509acc276ab39aca5e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

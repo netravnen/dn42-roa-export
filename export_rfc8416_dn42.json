@@ -7624,13 +7624,6 @@
                 "mnt-by": "JFRED-MNT"
             },
             {
-                "asn": 4242421302,
-                "prefix": "fde6:d41f:f139::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "PIIRR-MNT"
-            },
-            {
                 "asn": 4242422667,
                 "prefix": "fde6:e763:a0e6::/48",
                 "maxPrefixLength": 48,
@@ -11360,13 +11353,6 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ARITE-MNT"
-            },
-            {
-                "asn": 4242421302,
-                "prefix": "172.20.167.176/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "PIIRR-MNT"
             },
             {
                 "asn": 4242421015,
