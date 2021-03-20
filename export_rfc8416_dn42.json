@@ -7171,7 +7171,7 @@
             {
                 "asn": 4242422021,
                 "prefix": "fdd0:448d:1447::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "YUEKIS-MNT"
             },

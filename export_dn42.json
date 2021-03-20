@@ -7164,7 +7164,7 @@
         {
             "asn": "AS4242422021",
             "prefix": "fdd0:448d:1447::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "YUEKIS-MNT"
         },
@@ -18525,7 +18525,7 @@
     ],
     "metadata": {
         "counts": 2646,
-        "generated": 1616180963,
-        "valid": 1616612963
+        "generated": 1616216967,
+        "valid": 1616648967
     }
 }
