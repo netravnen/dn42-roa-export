@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 7ad4ce901da796a0a200107de0bc491da554797c
-Merge: 8de8804d9 9c9c472bc
-Date:   2021-03-20 20:37:53 +0000
+Commit e85b65f59c67543cf34b54be0c342b2727517e07
+Merge: 71f33096c bd257c237
+Date:   2021-03-22 18:15:51 +0000
 
-    Merge pull request 'DL-MNT: add new member(s) to as-set; modify remarks' (#627) from p0tat05-20210320/changes into master
+    Merge pull request 'Add MiaoTony's MeowNet.' (#632) from miaotony-20210321/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1425
-- ROAs IPv6:  1221
-- ROAs total: 2646
+- ROAs IPv4:  1427
+- ROAs IPv6:  1222
+- ROAs total: 2649
 
-[0]: https://git.dn42.dev/dn42/registry/commit/7ad4ce901da796a0a200107de0bc491da554797c
+[0]: https://git.dn42.dev/dn42/registry/commit/e85b65f59c67543cf34b54be0c342b2727517e07
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -386,6 +386,13 @@
                 "mnt-by": "KOODA-MNT"
             },
             {
+                "asn": 4242422688,
+                "prefix": "fd00:feed:ca7::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MIAOTONY-MNT"
+            },
+            {
                 "asn": 65502,
                 "prefix": "fd00:ffba:ffba::/64",
                 "maxPrefixLength": 64,
@@ -5981,14 +5988,14 @@
             {
                 "asn": 4242421876,
                 "prefix": "fda1:ae59:6dd0::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DL-MNT"
             },
             {
                 "asn": 211876,
                 "prefix": "fda1:ae59:6dd0::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DL-MNT"
             },
@@ -13343,6 +13350,13 @@
                 "mnt-by": "TOPSARUN-MNT"
             },
             {
+                "asn": 4242422239,
+                "prefix": "172.20.42.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ESONHUGH-MNT"
+            },
+            {
                 "asn": 4242420380,
                 "prefix": "172.20.44.0/28",
                 "maxPrefixLength": 28,
@@ -18304,6 +18318,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LPV-MNT"
+            },
+            {
+                "asn": 4242422688,
+                "prefix": "172.23.6.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MIAOTONY-MNT"
             },
             {
                 "asn": 4242423158,
