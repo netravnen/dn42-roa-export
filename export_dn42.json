@@ -5559,6 +5559,13 @@
             "mnt-by": "STEVEFAN1999-MNT"
         },
         {
+            "asn": "AS4242421930",
+            "prefix": "fd94:278b:14c8::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SPACEFOX-MNT"
+        },
+        {
             "asn": "AS4242423238",
             "prefix": "fd94:3e63:c202::/48",
             "maxLength": 64,
@@ -18397,6 +18404,13 @@
             "mnt-by": "FROGJIANG-MNT"
         },
         {
+            "asn": "AS4242421930",
+            "prefix": "172.23.78.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SPACEFOX-MNT"
+        },
+        {
             "asn": "AS4242422857",
             "prefix": "172.23.82.0/24",
             "maxLength": 28,
@@ -18545,8 +18559,8 @@
         }
     ],
     "metadata": {
-        "counts": 2649,
-        "generated": 1616440176,
-        "valid": 1616872176
+        "counts": 2651,
+        "generated": 1616476170,
+        "valid": 1616908170
     }
 }

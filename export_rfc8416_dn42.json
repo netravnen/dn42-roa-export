@@ -5566,6 +5566,13 @@
                 "mnt-by": "STEVEFAN1999-MNT"
             },
             {
+                "asn": 4242421930,
+                "prefix": "fd94:278b:14c8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SPACEFOX-MNT"
+            },
+            {
                 "asn": 4242423238,
                 "prefix": "fd94:3e63:c202::/48",
                 "maxPrefixLength": 64,
@@ -18402,6 +18409,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FROGJIANG-MNT"
+            },
+            {
+                "asn": 4242421930,
+                "prefix": "172.23.78.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SPACEFOX-MNT"
             },
             {
                 "asn": 4242422857,
