@@ -1282,6 +1282,13 @@
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
+                "asn": 4242420644,
+                "prefix": "fd1d:817:1926::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RINKOQWQ-MNT"
+            },
+            {
                 "asn": 4242420488,
                 "prefix": "fd1d:8832:3c69::/48",
                 "maxPrefixLength": 64,
@@ -4850,6 +4857,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "GERGERNET-MNT"
+            },
+            {
+                "asn": 4242422249,
+                "prefix": "fd71:297c:aac::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "PWDDING-MNT"
             },
             {
                 "asn": 4242423964,
@@ -11236,6 +11250,13 @@
                 "mnt-by": "PICOCLOUD-MNT"
             },
             {
+                "asn": 4242422249,
+                "prefix": "172.20.162.24/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "PWDDING-MNT"
+            },
+            {
                 "asn": 4242423964,
                 "prefix": "172.20.162.32/27",
                 "maxPrefixLength": 27,
@@ -16967,6 +16988,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "EPOCH-MNT"
+            },
+            {
+                "asn": 4242420644,
+                "prefix": "172.23.110.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RINKOQWQ-MNT"
             },
             {
                 "asn": 4242423231,
