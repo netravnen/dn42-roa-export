@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d28f579cb4ca476f055870aee3b58994b643f935
-Merge: 01bef2cca 6800463db
-Date:   2021-03-24 17:13:42 +0000
+Commit 723b7399106ba0571c96e85b839775a2116b7ee5
+Merge: b1d0c6321 fb437e5a3
+Date:   2021-03-24 20:44:59 +0000
 
-    Merge pull request 'Assign new AS' (#643) from KutouAkira-20210324/register into master
+    Merge pull request 'Add new GPG key for YUUTAW-MNT' (#645) from YuutaW-20210324/change_gpg into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1230
 - ROAs total: 2665
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d28f579cb4ca476f055870aee3b58994b643f935
+[0]: https://git.dn42.dev/dn42/registry/commit/723b7399106ba0571c96e85b839775a2116b7ee5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
