@@ -890,6 +890,27 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS211876",
+            "prefix": "fd10:127:aa66::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270021",
+            "prefix": "fd10:127:aa66::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421876",
+            "prefix": "fd10:127:aa66::/48",
+            "maxLength": 64,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270009",
             "prefix": "fd10:127:ec39::/48",
             "maxLength": 64,
@@ -7876,6 +7897,13 @@
             "mnt-by": "TRIS-MNT"
         },
         {
+            "asn": "AS4242420801",
+            "prefix": "fdee:eb2d:276a::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ZEPH-MNT"
+        },
+        {
             "asn": "AS4242422609",
             "prefix": "fdef:1337:b00b::/48",
             "maxLength": 64,
@@ -9040,6 +9068,27 @@
         {
             "asn": "AS4201270016",
             "prefix": "10.127.64.0/27",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS211876",
+            "prefix": "10.127.66.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4201270021",
+            "prefix": "10.127.66.0/24",
+            "maxLength": 29,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421876",
+            "prefix": "10.127.66.0/24",
             "maxLength": 29,
             "ta": "NEONETWORK",
             "mnt-by": "DN42-MNT"
@@ -15947,6 +15996,13 @@
             "mnt-by": "BLACKHOLETW-MNT"
         },
         {
+            "asn": "AS4242420801",
+            "prefix": "172.22.159.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZEPH-MNT"
+        },
+        {
             "asn": "AS4242420629",
             "prefix": "172.22.159.16/28",
             "maxLength": 28,
@@ -18587,8 +18643,8 @@
         }
     ],
     "metadata": {
-        "counts": 2655,
-        "generated": 1616511976,
-        "valid": 1616943976
+        "counts": 2663,
+        "generated": 1616602405,
+        "valid": 1617034405
     }
 }
