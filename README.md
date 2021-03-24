@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 92cac456480567b36c8c7806ebe7d7285959ce15
-Merge: 05902debd 65eaeb646
-Date:   2021-03-24 15:21:41 +0000
+Commit d28f579cb4ca476f055870aee3b58994b643f935
+Merge: 01bef2cca 6800463db
+Date:   2021-03-24 17:13:42 +0000
 
-    Merge pull request 'NEX-MNT: Add MNT Key Pin' (#641) from nex/registry:ca-pin into master
+    Merge pull request 'Assign new AS' (#643) from KutouAkira-20210324/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1434
-- ROAs IPv6:  1229
-- ROAs total: 2663
+- ROAs IPv4:  1435
+- ROAs IPv6:  1230
+- ROAs total: 2665
 
-[0]: https://git.dn42.dev/dn42/registry/commit/92cac456480567b36c8c7806ebe7d7285959ce15
+[0]: https://git.dn42.dev/dn42/registry/commit/d28f579cb4ca476f055870aee3b58994b643f935
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

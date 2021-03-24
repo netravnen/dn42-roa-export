@@ -1590,6 +1590,13 @@
             "mnt-by": "KSKB-MNT"
         },
         {
+            "asn": "AS4242422375",
+            "prefix": "fd28:d639:e958::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "KUTOUAKIRA-MNT"
+        },
+        {
             "asn": "AS4242423928",
             "prefix": "fd29:612d:9dd1::/48",
             "maxLength": 48,
@@ -12084,7 +12091,7 @@
         },
         {
             "asn": "AS4242422464",
-            "prefix": "172.20.191.192/27",
+            "prefix": "172.20.191.192/26",
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "MOE-MNT"
@@ -18467,6 +18474,13 @@
             "mnt-by": "LITSCHI-MNT"
         },
         {
+            "asn": "AS4242422375",
+            "prefix": "172.23.75.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KUTOUAKIRA-MNT"
+        },
+        {
             "asn": "AS4242422305",
             "prefix": "172.23.76.0/26",
             "maxLength": 28,
@@ -18643,8 +18657,8 @@
         }
     ],
     "metadata": {
-        "counts": 2663,
-        "generated": 1616602502,
-        "valid": 1617034502
+        "counts": 2665,
+        "generated": 1616606137,
+        "valid": 1617038137
     }
 }
