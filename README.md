@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 723b7399106ba0571c96e85b839775a2116b7ee5
-Merge: b1d0c6321 fb437e5a3
-Date:   2021-03-24 20:44:59 +0000
+Commit 3a8cad0edfbe3d8c13e3ffe68818c79b79a5153b
+Merge: 934def287 0f2e28f36
+Date:   2021-03-25 20:13:22 +0000
 
-    Merge pull request 'Add new GPG key for YUUTAW-MNT' (#645) from YuutaW-20210324/change_gpg into master
+    Merge pull request 'Add key pin for YUUTAW-MNT' (#646) from YuutaW-20210324/key_pin into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1435
-- ROAs IPv6:  1230
-- ROAs total: 2665
+- ROAs IPv4:  1436
+- ROAs IPv6:  1231
+- ROAs total: 2667
 
-[0]: https://git.dn42.dev/dn42/registry/commit/723b7399106ba0571c96e85b839775a2116b7ee5
+[0]: https://git.dn42.dev/dn42/registry/commit/3a8cad0edfbe3d8c13e3ffe68818c79b79a5153b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

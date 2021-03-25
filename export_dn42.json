@@ -6035,6 +6035,13 @@
             "mnt-by": "DL-MNT"
         },
         {
+            "asn": "AS4201270021",
+            "prefix": "fda1:ae59:6dd0::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
             "asn": "AS211876",
             "prefix": "fda1:ae59:6dd0::/48",
             "maxLength": 64,
@@ -16626,6 +16633,13 @@
             "mnt-by": "DL-MNT"
         },
         {
+            "asn": "AS4201270021",
+            "prefix": "172.22.66.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
             "asn": "AS211876",
             "prefix": "172.22.66.32/27",
             "maxLength": 28,
@@ -18657,8 +18671,8 @@
         }
     ],
     "metadata": {
-        "counts": 2665,
-        "generated": 1616699706,
-        "valid": 1617131706
+        "counts": 2667,
+        "generated": 1616703336,
+        "valid": 1617135336
     }
 }
