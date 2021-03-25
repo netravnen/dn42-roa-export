@@ -1135,6 +1135,13 @@
                 "mnt-by": "LANAO-MNT"
             },
             {
+                "asn": 4242420062,
+                "prefix": "fd16:f8dc:8ef::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PLETT-MNT"
+            },
+            {
                 "asn": 4242422227,
                 "prefix": "fd16:fb99:7f9b::/48",
                 "maxPrefixLength": 48,
@@ -5200,6 +5207,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DRIVERSP-MNT"
+            },
+            {
+                "asn": 4242420927,
+                "prefix": "fd80:96c2:e41e:3dcc::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LIKI4-MNT"
             },
             {
                 "asn": 4242422009,
@@ -14622,6 +14636,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZHYZ-MNT"
+            },
+            {
+                "asn": 4242420927,
+                "prefix": "172.21.77.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LIKI4-MNT"
             },
             {
                 "asn": 4242421500,
