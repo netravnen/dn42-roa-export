@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit c29f417b392e9a4fc4b0a5b6a2fcfb41864eeb9a
-Merge: 20898fb0a 985026bb2
-Date:   2021-03-25 20:19:13 +0000
+Commit 4a9e85d2f29e44b9cc1cbce8a3e21f829b721d3e
+Merge: 037d4a93c 43cba6b8b
+Date:   2021-03-27 18:57:04 +0000
 
-    Merge pull request 'register Liki4' (#648) from Liki4/registry:Liki4-20210325/register into master
+    Merge pull request 'Add new student and ASN 1192.' (#654) from gatuno-20210327/new_student into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1437
-- ROAs IPv6:  1233
-- ROAs total: 2670
+- ROAs IPv4:  1439
+- ROAs IPv6:  1235
+- ROAs total: 2674
 
-[0]: https://git.dn42.dev/dn42/registry/commit/c29f417b392e9a4fc4b0a5b6a2fcfb41864eeb9a
+[0]: https://git.dn42.dev/dn42/registry/commit/4a9e85d2f29e44b9cc1cbce8a3e21f829b721d3e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

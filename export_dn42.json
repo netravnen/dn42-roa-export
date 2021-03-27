@@ -1835,6 +1835,13 @@
             "mnt-by": "DANIMO-MNT"
         },
         {
+            "asn": "AS4242421192",
+            "prefix": "fd35:7250:d924::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242422575",
             "prefix": "fd36:92df:6a62:9df2::/64",
             "maxLength": 64,
@@ -5494,6 +5501,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242420540",
+            "prefix": "fd8f:4ef6:5402::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ALEXSTUDER-MNT"
         },
         {
             "asn": "AS4242421458",
@@ -11908,6 +11922,13 @@
             "mnt-by": "ELOKIANO-MNT"
         },
         {
+            "asn": "AS4242420540",
+            "prefix": "172.20.184.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ALEXSTUDER-MNT"
+        },
+        {
             "asn": "AS4242421788",
             "prefix": "172.20.184.160/28",
             "maxLength": 28,
@@ -12774,6 +12795,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "SAINTWOLF-MNT"
+        },
+        {
+            "asn": "AS4242421192",
+            "prefix": "172.20.232.128/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242420741",
@@ -18692,8 +18720,8 @@
         }
     ],
     "metadata": {
-        "counts": 2670,
-        "generated": 1616868904,
-        "valid": 1617300904
+        "counts": 2674,
+        "generated": 1616872542,
+        "valid": 1617304542
     }
 }
