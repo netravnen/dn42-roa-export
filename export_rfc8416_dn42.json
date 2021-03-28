@@ -5657,6 +5657,13 @@
                 "mnt-by": "S-MNT"
             },
             {
+                "asn": 4242423770,
+                "prefix": "fd94:556f:fbc5::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SERVERMADE-MNT"
+            },
+            {
                 "asn": 4242420312,
                 "prefix": "fd94:a80f:cd40::/48",
                 "maxPrefixLength": 48,
@@ -11577,6 +11584,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "JARRODCHRISTIANSEN-MNT"
+            },
+            {
+                "asn": 4242423770,
+                "prefix": "172.20.172.120/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SERVERMADE-MNT"
             },
             {
                 "asn": 4242420618,

@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 4a9e85d2f29e44b9cc1cbce8a3e21f829b721d3e
-Merge: 037d4a93c 43cba6b8b
-Date:   2021-03-27 18:57:04 +0000
+Commit 69562f5368dae069fdb2c26504e5105d604f1444
+Merge: 4a9e85d2f 03c1a63b1
+Date:   2021-03-27 23:33:22 +0000
 
-    Merge pull request 'Add new student and ASN 1192.' (#654) from gatuno-20210327/new_student into master
+    Merge pull request 'Create SERVERMADE-MNT and associated objects' (#657) from smade-20210327/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1439
-- ROAs IPv6:  1235
-- ROAs total: 2674
+- ROAs IPv4:  1440
+- ROAs IPv6:  1236
+- ROAs total: 2676
 
-[0]: https://git.dn42.dev/dn42/registry/commit/4a9e85d2f29e44b9cc1cbce8a3e21f829b721d3e
+[0]: https://git.dn42.dev/dn42/registry/commit/69562f5368dae069fdb2c26504e5105d604f1444
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
