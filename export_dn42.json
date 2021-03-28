@@ -1842,6 +1842,13 @@
             "mnt-by": "GATUNO-MNT"
         },
         {
+            "asn": "AS4242422006",
+            "prefix": "fd35:eeee:eeee::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "THINKINGNULL-MNT"
+        },
+        {
             "asn": "AS4242422575",
             "prefix": "fd36:92df:6a62:9df2::/64",
             "maxLength": 64,
@@ -4220,6 +4227,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "TCHEKDA-MNT"
+        },
+        {
+            "asn": "AS4242420229",
+            "prefix": "fd55:3eeb:fd5f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "JEYCE-MNT"
         },
         {
             "asn": "AS4242422410",
@@ -8413,6 +8427,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "DOXZ-MNT"
+        },
+        {
+            "asn": "AS4242423703",
+            "prefix": "fdfc:732b:1fa2::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "FMEPNET-MNT"
         },
         {
             "asn": "AS64871",
@@ -14582,6 +14603,13 @@
             "mnt-by": "ALDRIC-MNT"
         },
         {
+            "asn": "AS4242422093",
+            "prefix": "172.21.67.232/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "THATGUY-MNT"
+        },
+        {
             "asn": "AS4242420339",
             "prefix": "172.21.67.32/27",
             "maxLength": 28,
@@ -15350,6 +15378,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "LINUTUX-MNT"
+        },
+        {
+            "asn": "AS4242420229",
+            "prefix": "172.22.118.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JEYCE-MNT"
         },
         {
             "asn": "AS4242422235",
@@ -18278,6 +18313,13 @@
             "mnt-by": "NEVERBEHAVE-MNT"
         },
         {
+            "asn": "AS4242422006",
+            "prefix": "172.23.3.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "THINKINGNULL-MNT"
+        },
+        {
             "asn": "AS4242422330",
             "prefix": "172.23.32.0/27",
             "maxLength": 28,
@@ -18734,8 +18776,8 @@
         }
     ],
     "metadata": {
-        "counts": 2676,
-        "generated": 1616955304,
-        "valid": 1617387304
+        "counts": 2682,
+        "generated": 1616958942,
+        "valid": 1617390942
     }
 }
