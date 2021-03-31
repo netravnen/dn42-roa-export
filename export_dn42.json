@@ -5454,6 +5454,13 @@
             "mnt-by": "MOECAST-MNT"
         },
         {
+            "asn": "AS4242420604",
+            "prefix": "fd89:35db:fc1::/63",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MOECAST-MNT"
+        },
+        {
             "asn": "AS4242422942",
             "prefix": "fd89:aec1:ca45::/48",
             "maxLength": 64,
@@ -18686,7 +18693,14 @@
         {
             "asn": "AS4242420604",
             "prefix": "172.23.89.0/27",
-            "maxLength": 28,
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "MOECAST-MNT"
+        },
+        {
+            "asn": "AS4242420604",
+            "prefix": "172.23.89.240/28",
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "MOECAST-MNT"
         },
@@ -18776,8 +18790,8 @@
         }
     ],
     "metadata": {
-        "counts": 2682,
-        "generated": 1617210904,
-        "valid": 1617642904
+        "counts": 2684,
+        "generated": 1617214538,
+        "valid": 1617646538
     }
 }
