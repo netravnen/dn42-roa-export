@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8b13f8c3a640aa933dfbccd69a2fab5be256c660
-Merge: 22bd44085 a8ab6bbb9
-Date:   2021-03-31 17:52:27 +0000
+Commit 1ad0924d9f5a523c6d21e74673f73ded4df53961
+Merge: 3c2472585 e3dfa881a
+Date:   2021-04-02 18:52:28 +0000
 
-    Merge pull request 'Update aut-num and request address spaces for probe' (#660) from liangjw/registry:liangjw-20210328/update-info into master
+    Merge pull request 'registration by pppwaw' (#670) from pppwaw-20210402/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1444
-- ROAs IPv6:  1240
-- ROAs total: 2684
+- ROAs IPv4:  1447
+- ROAs IPv6:  1243
+- ROAs total: 2690
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8b13f8c3a640aa933dfbccd69a2fab5be256c660
+[0]: https://git.dn42.dev/dn42/registry/commit/1ad0924d9f5a523c6d21e74673f73ded4df53961
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

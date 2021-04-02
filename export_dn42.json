@@ -3970,6 +3970,13 @@
             "mnt-by": "LIBREHS-MNT"
         },
         {
+            "asn": "AS4242421306",
+            "prefix": "fd48:28ca:36b9::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "XINZHAO-MNT"
+        },
+        {
             "asn": "AS4242423328",
             "prefix": "fd48:f77d:8142::/48",
             "maxLength": 64,
@@ -4990,6 +4997,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "CZ5-MNT"
+        },
+        {
+            "asn": "AS4242422095",
+            "prefix": "fd73:9390:9fad::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ATOLRN-MNT"
         },
         {
             "asn": "AS4242423342",
@@ -6285,6 +6299,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "MISTERGEEK-MNT"
+        },
+        {
+            "asn": "AS4242422049",
+            "prefix": "fda8:391f:1052::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "PPPWAW-MNT"
         },
         {
             "asn": "AS4242423755",
@@ -14337,6 +14358,13 @@
             "mnt-by": "DRIVERSP-MNT"
         },
         {
+            "asn": "AS4242422049",
+            "prefix": "172.21.114.0/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PPPWAW-MNT"
+        },
+        {
             "asn": "AS4242421010",
             "prefix": "172.21.117.0/27",
             "maxLength": 28,
@@ -17585,6 +17613,13 @@
             "mnt-by": "TOON-MNT"
         },
         {
+            "asn": "AS4242422095",
+            "prefix": "172.23.162.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ATOLRN-MNT"
+        },
+        {
             "asn": "AS4242421200",
             "prefix": "172.23.163.0/27",
             "maxLength": 28,
@@ -18635,6 +18670,13 @@
             "mnt-by": "SPACEFOX-MNT"
         },
         {
+            "asn": "AS4242421306",
+            "prefix": "172.23.8.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "XINZHAO-MNT"
+        },
+        {
             "asn": "AS4242422857",
             "prefix": "172.23.82.0/24",
             "maxLength": 28,
@@ -18790,8 +18832,8 @@
         }
     ],
     "metadata": {
-        "counts": 2684,
-        "generated": 1617387304,
-        "valid": 1617819304
+        "counts": 2690,
+        "generated": 1617390939,
+        "valid": 1617822939
     }
 }

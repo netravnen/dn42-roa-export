@@ -3977,6 +3977,13 @@
                 "mnt-by": "LIBREHS-MNT"
             },
             {
+                "asn": 4242421306,
+                "prefix": "fd48:28ca:36b9::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "XINZHAO-MNT"
+            },
+            {
                 "asn": 4242423328,
                 "prefix": "fd48:f77d:8142::/48",
                 "maxPrefixLength": 64,
@@ -4997,6 +5004,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "CZ5-MNT"
+            },
+            {
+                "asn": 4242422095,
+                "prefix": "fd73:9390:9fad::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ATOLRN-MNT"
             },
             {
                 "asn": 4242423342,
@@ -6292,6 +6306,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "MISTERGEEK-MNT"
+            },
+            {
+                "asn": 4242422049,
+                "prefix": "fda8:391f:1052::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "PPPWAW-MNT"
             },
             {
                 "asn": 4242423755,
@@ -14344,6 +14365,13 @@
                 "mnt-by": "DRIVERSP-MNT"
             },
             {
+                "asn": 4242422049,
+                "prefix": "172.21.114.0/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PPPWAW-MNT"
+            },
+            {
                 "asn": 4242421010,
                 "prefix": "172.21.117.0/27",
                 "maxPrefixLength": 28,
@@ -17592,6 +17620,13 @@
                 "mnt-by": "TOON-MNT"
             },
             {
+                "asn": 4242422095,
+                "prefix": "172.23.162.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ATOLRN-MNT"
+            },
+            {
                 "asn": 4242421200,
                 "prefix": "172.23.163.0/27",
                 "maxPrefixLength": 28,
@@ -18640,6 +18675,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SPACEFOX-MNT"
+            },
+            {
+                "asn": 4242421306,
+                "prefix": "172.23.8.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "XINZHAO-MNT"
             },
             {
                 "asn": 4242422857,
