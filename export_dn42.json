@@ -6637,6 +6637,13 @@
             "mnt-by": "TIMWEB-MNT"
         },
         {
+            "asn": "AS141776",
+            "prefix": "fdbb:7278:face::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BAOSHUO-MNT"
+        },
+        {
             "asn": "AS4242420074",
             "prefix": "fdbb:8bb5:fb3d::/48",
             "maxLength": 48,
@@ -18341,6 +18348,13 @@
             "mnt-by": "EASTBOUND-MNT"
         },
         {
+            "asn": "AS141776",
+            "prefix": "172.23.250.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BAOSHUO-MNT"
+        },
+        {
             "asn": "AS4242423853",
             "prefix": "172.23.251.0/26",
             "maxLength": 28,
@@ -18740,6 +18754,13 @@
             "mnt-by": "BGP1-MNT"
         },
         {
+            "asn": "AS4242422386",
+            "prefix": "172.23.86.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JRONGBIN-MNT"
+        },
+        {
             "asn": "AS4242420205",
             "prefix": "172.23.88.0/24",
             "maxLength": 28,
@@ -18846,8 +18867,8 @@
         }
     ],
     "metadata": {
-        "counts": 2692,
-        "generated": 1617452103,
-        "valid": 1617884103
+        "counts": 2695,
+        "generated": 1617455740,
+        "valid": 1617887740
     }
 }

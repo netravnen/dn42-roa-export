@@ -6644,6 +6644,13 @@
                 "mnt-by": "TIMWEB-MNT"
             },
             {
+                "asn": 141776,
+                "prefix": "fdbb:7278:face::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
                 "asn": 4242420074,
                 "prefix": "fdbb:8bb5:fb3d::/48",
                 "maxPrefixLength": 48,
@@ -18348,6 +18355,13 @@
                 "mnt-by": "EASTBOUND-MNT"
             },
             {
+                "asn": 141776,
+                "prefix": "172.23.250.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
                 "asn": 4242423853,
                 "prefix": "172.23.251.0/26",
                 "maxPrefixLength": 28,
@@ -18745,6 +18759,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BGP1-MNT"
+            },
+            {
+                "asn": 4242422386,
+                "prefix": "172.23.86.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JRONGBIN-MNT"
             },
             {
                 "asn": 4242420205,
