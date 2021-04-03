@@ -8198,6 +8198,13 @@
                 "mnt-by": "EM0LAR-MNT"
             },
             {
+                "asn": 4242420976,
+                "prefix": "fdf3:d483:8617::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SERVERFUEL-MNT"
+            },
+            {
                 "asn": 4242420799,
                 "prefix": "fdf3:ff62:1c72::/48",
                 "maxPrefixLength": 48,
@@ -13285,6 +13292,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NUREX-MNT"
+            },
+            {
+                "asn": 4242420976,
+                "prefix": "172.20.32.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SERVERFUEL-MNT"
             },
             {
                 "asn": 4242420798,
