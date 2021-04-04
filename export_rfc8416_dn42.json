@@ -6896,6 +6896,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423151,
+                "prefix": "fdc4:b438:8c09::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ASHAW-MNT"
+            },
+            {
                 "asn": 64874,
                 "prefix": "fdc4:d762:2143::/48",
                 "maxPrefixLength": 64,
@@ -8630,6 +8637,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "REWBYSOFT-MNT"
+            },
+            {
+                "asn": 4242422386,
+                "prefix": "fdfd:e1f0:7019::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JRONGBIN-MNT"
             },
             {
                 "asn": 4242421850,
@@ -12837,6 +12851,13 @@
                 "maxPrefixLength": 25,
                 "source": "DN42",
                 "mnt-by": "NETRAVNEN-MNT"
+            },
+            {
+                "asn": 4242423151,
+                "prefix": "172.20.230.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ASHAW-MNT"
             },
             {
                 "asn": 4242420343,
