@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 864a26b55fbfa178576fc0d2f4e4bde220ad48d6
-Merge: c41a70567 089a30cbe
-Date:   2021-04-04 14:27:06 +0000
+Commit 8d6d2072d7dffa6787bd30025197aacc020983ed
+Merge: 864a26b55 a15ae5d86
+Date:   2021-04-04 15:41:09 +0000
 
-    Merge pull request 'BURBLE-MNT updates' (#680) from burble-20210404/burble-mnt-updates into master
+    Merge pull request 'Asking permission to add two /29 for two new datacenters.' (#672) from smade-20210402/add-two-datacenters into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1248
 - ROAs total: 2699
 
-[0]: https://git.dn42.dev/dn42/registry/commit/864a26b55fbfa178576fc0d2f4e4bde220ad48d6
+[0]: https://git.dn42.dev/dn42/registry/commit/8d6d2072d7dffa6787bd30025197aacc020983ed
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

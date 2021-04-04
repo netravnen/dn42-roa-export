@@ -11663,13 +11663,6 @@
             "mnt-by": "JARRODCHRISTIANSEN-MNT"
         },
         {
-            "asn": "AS4242423770",
-            "prefix": "172.20.172.120/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "SERVERMADE-MNT"
-        },
-        {
             "asn": "AS4242420618",
             "prefix": "172.20.172.128/28",
             "maxLength": 28,
@@ -15464,6 +15457,13 @@
             "mnt-by": "LINUTUX-MNT"
         },
         {
+            "asn": "AS4242423770",
+            "prefix": "172.22.118.128/27",
+            "maxLength": 27,
+            "ta": "DN42",
+            "mnt-by": "SERVERMADE-MNT"
+        },
+        {
             "asn": "AS4242420229",
             "prefix": "172.22.118.160/27",
             "maxLength": 28,
@@ -18896,7 +18896,7 @@
     ],
     "metadata": {
         "counts": 2699,
-        "generated": 1617549351,
-        "valid": 1617981351
+        "generated": 1617552937,
+        "valid": 1617984937
     }
 }
