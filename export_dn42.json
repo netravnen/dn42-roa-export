@@ -2787,6 +2787,13 @@
             "mnt-by": "BURBLE-MNT"
         },
         {
+            "asn": "AS4242422601",
+            "prefix": "fd42:4242:2601:ac12::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BURBLE-MNT"
+        },
+        {
             "asn": "AS0",
             "prefix": "fd42:4242:2601:ffff::/64",
             "maxLength": 128,
@@ -18888,8 +18895,8 @@
         }
     ],
     "metadata": {
-        "counts": 2698,
-        "generated": 1617545704,
-        "valid": 1617977704
+        "counts": 2699,
+        "generated": 1617549351,
+        "valid": 1617981351
     }
 }
