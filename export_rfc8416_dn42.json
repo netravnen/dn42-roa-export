@@ -8268,6 +8268,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423271,
+                "prefix": "fdf4:e251:75d9::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TAAVI-MNT"
+            },
+            {
                 "asn": 4242422712,
                 "prefix": "fdf5:b4f8:1e89::/48",
                 "maxPrefixLength": 64,
@@ -15767,6 +15774,13 @@
             {
                 "asn": 4242423270,
                 "prefix": "172.22.130.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TAAVI-MNT"
+            },
+            {
+                "asn": 4242423271,
+                "prefix": "172.22.131.128/28",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TAAVI-MNT"

@@ -8261,6 +8261,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423271",
+            "prefix": "fdf4:e251:75d9::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TAAVI-MNT"
+        },
+        {
             "asn": "AS4242422712",
             "prefix": "fdf5:b4f8:1e89::/48",
             "maxLength": 64,
@@ -15765,6 +15772,13 @@
             "mnt-by": "TAAVI-MNT"
         },
         {
+            "asn": "AS4242423271",
+            "prefix": "172.22.131.128/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TAAVI-MNT"
+        },
+        {
             "asn": "AS4242421166",
             "prefix": "172.22.131.32/27",
             "maxLength": 28,
@@ -18895,8 +18909,8 @@
         }
     ],
     "metadata": {
-        "counts": 2699,
-        "generated": 1617632103,
-        "valid": 1618064103
+        "counts": 2701,
+        "generated": 1617635741,
+        "valid": 1618067741
     }
 }
