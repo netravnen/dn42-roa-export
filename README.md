@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit db7b07c2f817ab556acf58507d9d9ca69092a869
-Merge: 8d6d2072d 6bf764c9a
-Date:   2021-04-05 14:43:17 +0000
+Commit 52757e552921f22bfbc8e49182ca2a2f3385142e
+Merge: 0e93d3d99 c078eb34f
+Date:   2021-04-06 08:49:14 +0000
 
-    Merge pull request 'TAAVI-MNT: register separate homenet asn' (#683) from taavi-20210405/homenet into master
+    Merge pull request 'DL-MNT: add new member(s) to as-set' (#686) from p0tat05-20210406/changes into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1452
-- ROAs IPv6:  1249
-- ROAs total: 2701
+- ROAs IPv4:  1453
+- ROAs IPv6:  1251
+- ROAs total: 2704
 
-[0]: https://git.dn42.dev/dn42/registry/commit/db7b07c2f817ab556acf58507d9d9ca69092a869
+[0]: https://git.dn42.dev/dn42/registry/commit/52757e552921f22bfbc8e49182ca2a2f3385142e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

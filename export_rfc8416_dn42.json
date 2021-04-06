@@ -2199,6 +2199,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420853,
+                "prefix": "fd42:10e3:10e8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JOSUAH-MNT"
+            },
+            {
                 "asn": 4242421130,
                 "prefix": "fd42:1130::/48",
                 "maxPrefixLength": 64,
@@ -3009,6 +3016,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "AOTOKI-MNT"
+            },
+            {
+                "asn": 4242423308,
+                "prefix": "fd42:5943:cafe::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TESTNET-MNT"
             },
             {
                 "asn": 4242421194,
@@ -18892,6 +18906,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SCIX-MNT"
+            },
+            {
+                "asn": 4242423308,
+                "prefix": "172.23.99.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TESTNET-MNT"
             },
             {
                 "asn": 64654,
