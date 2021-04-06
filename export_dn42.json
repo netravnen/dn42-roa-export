@@ -4873,6 +4873,13 @@
             "mnt-by": "SHOGHI-MNT"
         },
         {
+            "asn": "AS4242423033",
+            "prefix": "fd6e:4d9b:686e::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "QFW-MNT"
+        },
+        {
             "asn": "AS4242421589",
             "prefix": "fd6e:9f67:5d93::/48",
             "maxLength": 64,
@@ -18747,6 +18754,13 @@
             "mnt-by": "FROGJIANG-MNT"
         },
         {
+            "asn": "AS4242423033",
+            "prefix": "172.23.78.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "QFW-MNT"
+        },
+        {
             "asn": "AS4242421930",
             "prefix": "172.23.78.32/27",
             "maxLength": 28,
@@ -18930,8 +18944,8 @@
         }
     ],
     "metadata": {
-        "counts": 2704,
-        "generated": 1617736540,
-        "valid": 1618168540
+        "counts": 2706,
+        "generated": 1617740143,
+        "valid": 1618172143
     }
 }
