@@ -8212,6 +8212,13 @@
             "mnt-by": "CBS-MNT"
         },
         {
+            "asn": "AS4242423599",
+            "prefix": "fdf2:453f:2c7f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MLYY-MNT"
+        },
+        {
             "asn": "AS4242422017",
             "prefix": "fdf2:8800:6e97::/48",
             "maxLength": 64,
@@ -14092,13 +14099,6 @@
             "mnt-by": "ANDATCHE-MNT"
         },
         {
-            "asn": "AS4242421025",
-            "prefix": "172.20.6.112/29",
-            "maxLength": 29,
-            "ta": "DN42",
-            "mnt-by": "ICECAT-MNT"
-        },
-        {
             "asn": "AS4242422299",
             "prefix": "172.20.6.128/28",
             "maxLength": 28,
@@ -18628,6 +18628,13 @@
             "mnt-by": "ADAMG-MNT"
         },
         {
+            "asn": "AS4242423599",
+            "prefix": "172.23.48.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MLYY-MNT"
+        },
+        {
             "asn": "AS4242423740",
             "prefix": "172.23.5.0/27",
             "maxLength": 28,
@@ -18944,8 +18951,8 @@
         }
     ],
     "metadata": {
-        "counts": 2706,
-        "generated": 1617812103,
-        "valid": 1618244103
+        "counts": 2707,
+        "generated": 1617815737,
+        "valid": 1618247737
     }
 }

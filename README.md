@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 33948f03fafde155f35d6147171fdd96cfc10cca
-Merge: 7c7d312ad 42f5ab791
-Date:   2021-04-06 19:28:24 +0000
+Commit 1cd99645894a790bdb16edbd08e6eb44dba5a94e
+Merge: cf4004994 b2bdfe8ee
+Date:   2021-04-07 17:07:14 +0000
 
-    Merge pull request 'Updated peering info.' (#689) from smade-20210406/edit-contact-details into master
+    Merge pull request 'ip address return' (#693) from icecat/registry:icecat-20210407/delinetnum into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1454
-- ROAs IPv6:  1252
-- ROAs total: 2706
+- ROAs IPv6:  1253
+- ROAs total: 2707
 
-[0]: https://git.dn42.dev/dn42/registry/commit/33948f03fafde155f35d6147171fdd96cfc10cca
+[0]: https://git.dn42.dev/dn42/registry/commit/1cd99645894a790bdb16edbd08e6eb44dba5a94e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
