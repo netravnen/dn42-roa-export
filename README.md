@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 1cd99645894a790bdb16edbd08e6eb44dba5a94e
-Merge: cf4004994 b2bdfe8ee
-Date:   2021-04-07 17:07:14 +0000
+Commit e196f5c302aa79c2f9fb03a8e67cf7cfa65a6075
+Merge: 1cd996458 743fd507c
+Date:   2021-04-07 18:52:18 +0000
 
-    Merge pull request 'ip address return' (#693) from icecat/registry:icecat-20210407/delinetnum into master
+    Merge pull request 'Fix nameserver naming to work with pdns-recursor' (#695) from welterde-20210407/fixdns into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1253
 - ROAs total: 2707
 
-[0]: https://git.dn42.dev/dn42/registry/commit/1cd99645894a790bdb16edbd08e6eb44dba5a94e
+[0]: https://git.dn42.dev/dn42/registry/commit/e196f5c302aa79c2f9fb03a8e67cf7cfa65a6075
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
