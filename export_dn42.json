@@ -575,6 +575,13 @@
             "mnt-by": "CLEMENTD-MNT"
         },
         {
+            "asn": "AS4242421535",
+            "prefix": "fd08:93f3:b7eb::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "KAAASS-MNT"
+        },
+        {
             "asn": "AS4242423027",
             "prefix": "fd08:a855:d4c7::/48",
             "maxLength": 64,
@@ -3575,21 +3582,28 @@
             "prefix": "fd42:d42:d42:43::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS4242423723",
             "prefix": "fd42:d42:d42:43::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS4242422601",
             "prefix": "fd42:d42:d42:43::/64",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "TAAVI-MNT"
+        },
+        {
+            "asn": "AS4242423270",
+            "prefix": "fd42:d42:d42:43::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS64737",
@@ -11166,6 +11180,13 @@
             "mnt-by": "JD52RU-MNT"
         },
         {
+            "asn": "AS4242421535",
+            "prefix": "172.20.150.128/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KAAASS-MNT"
+        },
+        {
             "asn": "AS4242422240",
             "prefix": "172.20.150.32/27",
             "maxLength": 28,
@@ -13868,6 +13889,13 @@
             "mnt-by": "FNS-MNT"
         },
         {
+            "asn": "AS4242422021",
+            "prefix": "172.20.51.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YUEKIS-MNT"
+        },
+        {
             "asn": "AS4242421369",
             "prefix": "172.20.51.32/27",
             "maxLength": 28,
@@ -15076,21 +15104,28 @@
             "prefix": "172.22.0.43/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS4242423723",
             "prefix": "172.22.0.43/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS4242422601",
             "prefix": "172.22.0.43/32",
             "maxLength": 32,
             "ta": "DN42",
-            "mnt-by": "BURBLE-MNT"
+            "mnt-by": "TAAVI-MNT"
+        },
+        {
+            "asn": "AS4242423270",
+            "prefix": "172.22.0.43/32",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "TAAVI-MNT"
         },
         {
             "asn": "AS0",
@@ -18951,8 +18986,8 @@
         }
     ],
     "metadata": {
-        "counts": 2707,
-        "generated": 1617970504,
-        "valid": 1618402504
+        "counts": 2712,
+        "generated": 1617974139,
+        "valid": 1618406139
     }
 }

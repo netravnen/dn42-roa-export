@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e196f5c302aa79c2f9fb03a8e67cf7cfa65a6075
-Merge: 1cd996458 743fd507c
-Date:   2021-04-07 18:52:18 +0000
+Commit 8c64e02980f78dbbeab10862ed97cc722fd50294
+Merge: 94ec88d34 3e650c6f7
+Date:   2021-04-09 13:04:34 +0000
 
-    Merge pull request 'Fix nameserver naming to work with pdns-recursor' (#695) from welterde-20210407/fixdns into master
+    Merge pull request 'Register AS4242421535' (#701) from KAAAsS-20210409/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1454
-- ROAs IPv6:  1253
-- ROAs total: 2707
+- ROAs IPv4:  1457
+- ROAs IPv6:  1255
+- ROAs total: 2712
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e196f5c302aa79c2f9fb03a8e67cf7cfa65a6075
+[0]: https://git.dn42.dev/dn42/registry/commit/8c64e02980f78dbbeab10862ed97cc722fd50294
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
