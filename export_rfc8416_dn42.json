@@ -15009,6 +15009,13 @@
                 "mnt-by": "DROPBEAR-MNT"
             },
             {
+                "asn": 4242421018,
+                "prefix": "172.21.90.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YUN-MNT"
+            },
+            {
                 "asn": 4242422544,
                 "prefix": "172.21.92.0/27",
                 "maxPrefixLength": 28,

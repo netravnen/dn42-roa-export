@@ -15002,6 +15002,13 @@
             "mnt-by": "DROPBEAR-MNT"
         },
         {
+            "asn": "AS4242421018",
+            "prefix": "172.21.90.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YUN-MNT"
+        },
+        {
             "asn": "AS4242422544",
             "prefix": "172.21.92.0/27",
             "maxLength": 28,
@@ -18986,8 +18993,8 @@
         }
     ],
     "metadata": {
-        "counts": 2712,
-        "generated": 1618049704,
-        "valid": 1618481704
+        "counts": 2713,
+        "generated": 1618053339,
+        "valid": 1618485339
     }
 }
