@@ -6149,21 +6149,21 @@
             {
                 "asn": 4242421876,
                 "prefix": "fda1:ae59:6dd0::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "DL-MNT"
             },
             {
                 "asn": 4201270021,
                 "prefix": "fda1:ae59:6dd0::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "DL-MNT"
             },
             {
                 "asn": 211876,
                 "prefix": "fda1:ae59:6dd0::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "DL-MNT"
             },
