@@ -6539,6 +6539,13 @@
             "mnt-by": "JHE-MNT"
         },
         {
+            "asn": "AS4242423152",
+            "prefix": "fdb2:e864:673e::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TATK-MNT"
+        },
+        {
             "asn": "AS4242423759",
             "prefix": "fdb2:f582:b9d1::/48",
             "maxLength": 64,
@@ -15821,6 +15828,13 @@
             "mnt-by": "ECC83-MNT"
         },
         {
+            "asn": "AS4242423152",
+            "prefix": "172.22.129.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TATK-MNT"
+        },
+        {
             "asn": "AS4242423377",
             "prefix": "172.22.130.0/29",
             "maxLength": 29,
@@ -18993,8 +19007,8 @@
         }
     ],
     "metadata": {
-        "counts": 2713,
-        "generated": 1618247703,
-        "valid": 1618679703
+        "counts": 2715,
+        "generated": 1618251336,
+        "valid": 1618683336
     }
 }

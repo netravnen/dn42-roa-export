@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 2d3166f623f380b8bbdfb4737042a0b63a913d55
-Merge: 0a5492536 135ff30fa
-Date:   2021-04-12 07:48:17 +0000
+Commit 05bd9db80dc2e2189b2a2316801683f579a68bc6
+Merge: 606fefd38 b45ab89b6
+Date:   2021-04-12 17:33:44 +0000
 
-    Merge pull request 'change ssh key due to lost private key' (#713) from wp140z-20210411/sshkeychange into master
+    Merge pull request 'add nserver' (#714) from Anillc-20210412/addnserver into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1458
-- ROAs IPv6:  1255
-- ROAs total: 2713
+- ROAs IPv4:  1459
+- ROAs IPv6:  1256
+- ROAs total: 2715
 
-[0]: https://git.dn42.dev/dn42/registry/commit/2d3166f623f380b8bbdfb4737042a0b63a913d55
+[0]: https://git.dn42.dev/dn42/registry/commit/05bd9db80dc2e2189b2a2316801683f579a68bc6
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

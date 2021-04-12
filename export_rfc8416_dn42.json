@@ -6546,6 +6546,13 @@
                 "mnt-by": "JHE-MNT"
             },
             {
+                "asn": 4242423152,
+                "prefix": "fdb2:e864:673e::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TATK-MNT"
+            },
+            {
                 "asn": 4242423759,
                 "prefix": "fdb2:f582:b9d1::/48",
                 "maxPrefixLength": 64,
@@ -15826,6 +15833,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ECC83-MNT"
+            },
+            {
+                "asn": 4242423152,
+                "prefix": "172.22.129.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TATK-MNT"
             },
             {
                 "asn": 4242423377,
