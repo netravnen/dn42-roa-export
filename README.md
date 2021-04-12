@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0a54925361ebdb7e7a49ef01e540cfec9d29c94e
-Merge: bd6632665 e5ad28b21
-Date:   2021-04-11 18:28:42 +0000
+Commit 2d3166f623f380b8bbdfb4737042a0b63a913d55
+Merge: 0a5492536 135ff30fa
+Date:   2021-04-12 07:48:17 +0000
 
-    Merge pull request 'DL-MNT: add new member(s) to as-set; modify nameservers for fixmix.dn42; modify route6 max-length to prevent further spreading of ghost routes' (#711) from p0tat05-20210411/changes into master
+    Merge pull request 'change ssh key due to lost private key' (#713) from wp140z-20210411/sshkeychange into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1255
 - ROAs total: 2713
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0a54925361ebdb7e7a49ef01e540cfec9d29c94e
+[0]: https://git.dn42.dev/dn42/registry/commit/2d3166f623f380b8bbdfb4737042a0b63a913d55
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
