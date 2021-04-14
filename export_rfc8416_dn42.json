@@ -8485,6 +8485,13 @@
                 "mnt-by": "NJD-MNT"
             },
             {
+                "asn": 4242421202,
+                "prefix": "fdfa:fa6:d7a1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "YESTERDAY17-MNT"
+            },
+            {
                 "asn": 4242420115,
                 "prefix": "fdfb:4242:e10d::/48",
                 "maxPrefixLength": 64,
@@ -17800,6 +17807,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HIVEMIND-MNT"
+            },
+            {
+                "asn": 4242421202,
+                "prefix": "172.23.163.96/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YESTERDAY17-MNT"
             },
             {
                 "asn": 76160,
