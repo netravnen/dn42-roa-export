@@ -4049,7 +4049,7 @@
         {
             "asn": "AS4242423059",
             "prefix": "fd4b:bae2:2594::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "WP140Z-MNT"
         },
@@ -19008,7 +19008,7 @@
     ],
     "metadata": {
         "counts": 2715,
-        "generated": 1618384504,
-        "valid": 1618816504
+        "generated": 1618388136,
+        "valid": 1618820136
     }
 }

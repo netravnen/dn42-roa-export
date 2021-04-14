@@ -4056,7 +4056,7 @@
             {
                 "asn": 4242423059,
                 "prefix": "fd4b:bae2:2594::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "WP140Z-MNT"
             },
