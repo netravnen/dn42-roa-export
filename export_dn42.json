@@ -6728,6 +6728,13 @@
             "mnt-by": "GT-MNT"
         },
         {
+            "asn": "AS4242421240",
+            "prefix": "fdbc:db8d:b1cb::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MONICA-MNT"
+        },
+        {
             "asn": "AS4242422547",
             "prefix": "fdbc:f9dc:67ad::/48",
             "maxLength": 64,
@@ -12202,6 +12209,13 @@
             "mnt-by": "AVASQUEZT-MNT"
         },
         {
+            "asn": "AS4242421240",
+            "prefix": "172.20.19.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MONICA-MNT"
+        },
+        {
             "asn": "AS4242423375",
             "prefix": "172.20.19.32/27",
             "maxLength": 28,
@@ -14090,6 +14104,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "CHALLENE-MNT"
+        },
+        {
+            "asn": "AS4242423446",
+            "prefix": "172.20.59.112/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "TATERLI-MNT"
         },
         {
             "asn": "AS4242421514",
@@ -19021,8 +19042,8 @@
         }
     ],
     "metadata": {
-        "counts": 2717,
-        "generated": 1618391737,
-        "valid": 1618823737
+        "counts": 2720,
+        "generated": 1618395341,
+        "valid": 1618827341
     }
 }

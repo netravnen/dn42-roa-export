@@ -6735,6 +6735,13 @@
                 "mnt-by": "GT-MNT"
             },
             {
+                "asn": 4242421240,
+                "prefix": "fdbc:db8d:b1cb::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MONICA-MNT"
+            },
+            {
                 "asn": 4242422547,
                 "prefix": "fdbc:f9dc:67ad::/48",
                 "maxPrefixLength": 64,
@@ -12209,6 +12216,13 @@
                 "mnt-by": "AVASQUEZT-MNT"
             },
             {
+                "asn": 4242421240,
+                "prefix": "172.20.19.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MONICA-MNT"
+            },
+            {
                 "asn": 4242423375,
                 "prefix": "172.20.19.32/27",
                 "maxPrefixLength": 28,
@@ -14097,6 +14111,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CHALLENE-MNT"
+            },
+            {
+                "asn": 4242423446,
+                "prefix": "172.20.59.112/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "TATERLI-MNT"
             },
             {
                 "asn": 4242421514,
