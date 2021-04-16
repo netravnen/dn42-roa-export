@@ -9080,6 +9080,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242422464",
+            "prefix": "10.127.127.127/32",
+            "maxLength": 32,
+            "ta": "NEONETWORK",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4201270013",
             "prefix": "10.127.13.0/24",
             "maxLength": 29,
@@ -19049,8 +19056,8 @@
         }
     ],
     "metadata": {
-        "counts": 2721,
-        "generated": 1618542904,
-        "valid": 1618974904
+        "counts": 2722,
+        "generated": 1618546536,
+        "valid": 1618978536
     }
 }
