@@ -1415,6 +1415,13 @@
                 "mnt-by": "DRMESSANO-MNT"
             },
             {
+                "asn": 4242421701,
+                "prefix": "fd22:77ca:d9be::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "CDNET-MNT"
+            },
+            {
                 "asn": 4242423073,
                 "prefix": "fd22:ad17:8e8d::/48",
                 "maxPrefixLength": 52,
@@ -8275,6 +8282,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421042,
+                "prefix": "fdf3:37e1:8d2c::/48",
+                "maxPrefixLength": 56,
+                "source": "DN42",
+                "mnt-by": "ZOLFA-MNT"
+            },
+            {
                 "asn": 4242420215,
                 "prefix": "fdf3:bd28:d90b::/48",
                 "maxPrefixLength": 48,
@@ -13007,6 +13021,13 @@
                 "mnt-by": "GATUNO-MNT"
             },
             {
+                "asn": 4242421459,
+                "prefix": "172.20.232.136/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SANQUILMAS-MNT"
+            },
+            {
                 "asn": 4242420741,
                 "prefix": "172.20.232.32/27",
                 "maxPrefixLength": 28,
@@ -17121,6 +17142,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SKYNET-MNT"
+            },
+            {
+                "asn": 4242421701,
+                "prefix": "172.22.77.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CDNET-MNT"
             },
             {
                 "asn": 64692,
