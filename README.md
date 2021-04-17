@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 76f2b1bfbd76d1d4edbe8709fb8bb0c6912c2dd4
-Merge: 53fb53966 191106181
-Date:   2021-04-16 17:59:32 +0000
+Commit d36d16e98d72836f27cf792e5ad113b60ce3c77c
+Merge: 59ed10312 e4936e877
+Date:   2021-04-17 20:23:30 +0000
 
-    Merge pull request 'Register AS4242421701 CDNet-DN42' (#730) from dn42cdnet-20210416/registry into master
+    Merge pull request 'Update DS for lantian's IP blocks' (#733) from lantian-20210417/dnssec into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1262
 - ROAs total: 2727
 
-[0]: https://git.dn42.dev/dn42/registry/commit/76f2b1bfbd76d1d4edbe8709fb8bb0c6912c2dd4
+[0]: https://git.dn42.dev/dn42/registry/commit/d36d16e98d72836f27cf792e5ad113b60ce3c77c
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

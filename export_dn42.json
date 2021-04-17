@@ -14534,7 +14534,7 @@
         },
         {
             "asn": "AS4242422049",
-            "prefix": "172.21.114.0/28",
+            "prefix": "172.21.114.0/27",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "PPPWAW-MNT"
@@ -19092,7 +19092,7 @@
     ],
     "metadata": {
         "counts": 2727,
-        "generated": 1618690503,
-        "valid": 1619122503
+        "generated": 1618694139,
+        "valid": 1619126139
     }
 }

@@ -14541,7 +14541,7 @@
             },
             {
                 "asn": 4242422049,
-                "prefix": "172.21.114.0/28",
+                "prefix": "172.21.114.0/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PPPWAW-MNT"
