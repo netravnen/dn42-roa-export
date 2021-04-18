@@ -4425,7 +4425,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS135395",
+            "asn": "AS4242421353",
             "prefix": "fd5a:2663:7b48::/48",
             "maxLength": 64,
             "ta": "DN42",
@@ -13371,7 +13371,7 @@
             "mnt-by": "CARLOTRONICS-MNT"
         },
         {
-            "asn": "AS135395",
+            "asn": "AS4242421353",
             "prefix": "172.20.29.64/28",
             "maxLength": 28,
             "ta": "DN42",
@@ -19092,7 +19092,7 @@
     ],
     "metadata": {
         "counts": 2727,
-        "generated": 1618733704,
-        "valid": 1619165704
+        "generated": 1618737338,
+        "valid": 1619169338
     }
 }
