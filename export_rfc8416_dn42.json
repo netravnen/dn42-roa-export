@@ -14519,6 +14519,13 @@
                 "mnt-by": "SEEK42-MNT"
             },
             {
+                "asn": 4242420804,
+                "prefix": "172.21.112.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MASN-MNT"
+            },
+            {
                 "asn": 4242422911,
                 "prefix": "172.21.113.192/27",
                 "maxPrefixLength": 28,

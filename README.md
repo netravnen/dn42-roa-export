@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d0fa035214cd082dab259d3e0cdecabfdff04b71
-Merge: aab245da9 8a253c725
-Date:   2021-04-20 17:32:31 +0000
+Commit c4c7e980f35259faae319070e9dff526e9b72dc5
+Merge: d0fa03521 3412f46b0
+Date:   2021-04-21 08:45:53 +0000
 
-    Merge pull request 'Remove broken Nameservers for wiki.dn42' (#744) from Kioubit-20210420/wikidn42dns into master
+    Merge pull request 'Complete requirements for registry' (#741) from mariogar1979/registry:MARIOGAR1979-20210418/changes into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1465
+- ROAs IPv4:  1466
 - ROAs IPv6:  1262
-- ROAs total: 2727
+- ROAs total: 2728
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d0fa035214cd082dab259d3e0cdecabfdff04b71
+[0]: https://git.dn42.dev/dn42/registry/commit/c4c7e980f35259faae319070e9dff526e9b72dc5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

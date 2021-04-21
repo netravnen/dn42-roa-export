@@ -14512,6 +14512,13 @@
             "mnt-by": "SEEK42-MNT"
         },
         {
+            "asn": "AS4242420804",
+            "prefix": "172.21.112.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MASN-MNT"
+        },
+        {
             "asn": "AS4242422911",
             "prefix": "172.21.113.192/27",
             "maxLength": 28,
@@ -19091,8 +19098,8 @@
         }
     ],
     "metadata": {
-        "counts": 2727,
-        "generated": 1618992904,
-        "valid": 1619424904
+        "counts": 2728,
+        "generated": 1618996538,
+        "valid": 1619428538
     }
 }
