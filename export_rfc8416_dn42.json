@@ -5377,6 +5377,13 @@
                 "mnt-by": "DHE-MNT"
             },
             {
+                "asn": 4242420717,
+                "prefix": "fd83:b5b8:d749::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MADER-MNT"
+            },
+            {
                 "asn": 4242422690,
                 "prefix": "fd83:d1d1:2690::/48",
                 "maxPrefixLength": 64,
@@ -14482,6 +14489,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CONSOMA-MNT"
+            },
+            {
+                "asn": 4242420717,
+                "prefix": "172.21.106.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MADER-MNT"
             },
             {
                 "asn": 4242423738,
