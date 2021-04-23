@@ -3641,6 +3641,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421080",
+            "prefix": "fd42:d42:d42:53::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242420119",
             "prefix": "fd42:d42:d42:54::/64",
             "maxLength": 64,
@@ -4222,6 +4229,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421288",
+            "prefix": "fd51:2bb2:fd0d::/48",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242422718",
             "prefix": "fd51:2bb2:fd0d::/48",
             "maxLength": 64,
@@ -4307,6 +4321,13 @@
         },
         {
             "asn": "AS64654",
+            "prefix": "fd55:caa:bde3::/64",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421288",
             "prefix": "fd55:caa:bde3::/64",
             "maxLength": 64,
             "ta": "CHAOSVPN",
@@ -4615,6 +4636,13 @@
         },
         {
             "asn": "AS64654",
+            "prefix": "fd63:1e39:6f73:2929::/64",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421288",
             "prefix": "fd63:1e39:6f73:2929::/64",
             "maxLength": 64,
             "ta": "CHAOSVPN",
@@ -5958,6 +5986,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421288",
+            "prefix": "fd9d:5e08:b9f9:c3::/64",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242422718",
             "prefix": "fd9d:5e08:b9f9:c3::/64",
             "maxLength": 64,
@@ -7230,6 +7265,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421245",
+            "prefix": "fdca:d896:f837::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS65511",
@@ -8878,6 +8920,13 @@
         },
         {
             "asn": "AS64654",
+            "prefix": "10.100.0.0/14",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421288",
             "prefix": "10.100.0.0/14",
             "maxLength": 32,
             "ta": "DN42",
@@ -13033,6 +13082,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "SANQUILMAS-MNT"
+        },
+        {
+            "asn": "AS4242421245",
+            "prefix": "172.20.232.144/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
         },
         {
             "asn": "AS4242420741",
@@ -17228,6 +17284,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421080",
+            "prefix": "172.23.0.53/32",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242420123",
             "prefix": "172.23.0.80/32",
             "maxLength": 32,
@@ -19097,6 +19160,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421288",
+            "prefix": "172.31.0.0/16",
+            "maxLength": 32,
+            "ta": "DN42",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS4242422718",
             "prefix": "172.31.0.0/16",
             "maxLength": 32,
@@ -19112,8 +19182,8 @@
         }
     ],
     "metadata": {
-        "counts": 2730,
-        "generated": 1619172905,
-        "valid": 1619604905
+        "counts": 2740,
+        "generated": 1619176538,
+        "valid": 1619608538
     }
 }

@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 74d35f76d08ed912997a3c989257b5ce2a2e0375
-Merge: 379714eea 4df77938e
-Date:   2021-04-22 10:31:00 +0000
+Commit 39d6e26cd491df52cf3707cfba419db08830b13b
+Merge: 5820cff7b c18494285
+Date:   2021-04-23 10:34:41 +0000
 
-    Merge pull request 'add: Mader-20210421/register' (#747) from Mader-20210421/register into master
+    Merge pull request 'add AS4242421288 into ROA for interconnected with ChaosVPN' (#749) from nicholascw-20210422/add-chaosvpn-interconnect into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1467
-- ROAs IPv6:  1263
-- ROAs total: 2730
+- ROAs IPv4:  1471
+- ROAs IPv6:  1269
+- ROAs total: 2740
 
-[0]: https://git.dn42.dev/dn42/registry/commit/74d35f76d08ed912997a3c989257b5ce2a2e0375
+[0]: https://git.dn42.dev/dn42/registry/commit/39d6e26cd491df52cf3707cfba419db08830b13b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

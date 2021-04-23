@@ -3648,6 +3648,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421080,
+                "prefix": "fd42:d42:d42:53::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242420119,
                 "prefix": "fd42:d42:d42:54::/64",
                 "maxPrefixLength": 64,
@@ -4229,6 +4236,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421288,
+                "prefix": "fd51:2bb2:fd0d::/48",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242422718,
                 "prefix": "fd51:2bb2:fd0d::/48",
                 "maxPrefixLength": 64,
@@ -4314,6 +4328,13 @@
             },
             {
                 "asn": 64654,
+                "prefix": "fd55:caa:bde3::/64",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421288,
                 "prefix": "fd55:caa:bde3::/64",
                 "maxPrefixLength": 64,
                 "source": "CHAOSVPN",
@@ -4622,6 +4643,13 @@
             },
             {
                 "asn": 64654,
+                "prefix": "fd63:1e39:6f73:2929::/64",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421288,
                 "prefix": "fd63:1e39:6f73:2929::/64",
                 "maxPrefixLength": 64,
                 "source": "CHAOSVPN",
@@ -5965,6 +5993,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421288,
+                "prefix": "fd9d:5e08:b9f9:c3::/64",
+                "maxPrefixLength": 64,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242422718,
                 "prefix": "fd9d:5e08:b9f9:c3::/64",
                 "maxPrefixLength": 64,
@@ -7237,6 +7272,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421245,
+                "prefix": "fdca:d896:f837::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 65511,
@@ -8885,6 +8927,13 @@
             },
             {
                 "asn": 64654,
+                "prefix": "10.100.0.0/14",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421288,
                 "prefix": "10.100.0.0/14",
                 "maxPrefixLength": 32,
                 "source": "DN42",
@@ -13040,6 +13089,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "SANQUILMAS-MNT"
+            },
+            {
+                "asn": 4242421245,
+                "prefix": "172.20.232.144/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242420741,
@@ -17235,6 +17291,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242421080,
+                "prefix": "172.23.0.53/32",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242420123,
                 "prefix": "172.23.0.80/32",
                 "maxPrefixLength": 32,
@@ -19098,6 +19161,13 @@
             },
             {
                 "asn": 64654,
+                "prefix": "172.31.0.0/16",
+                "maxPrefixLength": 32,
+                "source": "DN42",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421288,
                 "prefix": "172.31.0.0/16",
                 "maxPrefixLength": 32,
                 "source": "DN42",
