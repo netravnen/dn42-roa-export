@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 39d6e26cd491df52cf3707cfba419db08830b13b
-Merge: 5820cff7b c18494285
-Date:   2021-04-23 10:34:41 +0000
+Commit e13aac6f1df691191d18c1851a180035ef4d420a
+Merge: 5e86de55c 115ed4e51
+Date:   2021-04-24 18:21:08 +0000
 
-    Merge pull request 'add AS4242421288 into ROA for interconnected with ChaosVPN' (#749) from nicholascw-20210422/add-chaosvpn-interconnect into master
+    Merge pull request 'Miscellaneous modifications' (#752) from p0tat05-20210424/changes into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1269
 - ROAs total: 2740
 
-[0]: https://git.dn42.dev/dn42/registry/commit/39d6e26cd491df52cf3707cfba419db08830b13b
+[0]: https://git.dn42.dev/dn42/registry/commit/e13aac6f1df691191d18c1851a180035ef4d420a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
