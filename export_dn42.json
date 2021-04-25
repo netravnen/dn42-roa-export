@@ -3088,6 +3088,34 @@
             "mnt-by": "LINUXGEMINI-MNT"
         },
         {
+            "asn": "AS64654",
+            "prefix": "fd42:64:654::/48",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421288",
+            "prefix": "fd42:64:654::/48",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242422718",
+            "prefix": "fd42:64:654::/48",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242422480",
+            "prefix": "fd42:64:654::/48",
+            "maxLength": 64,
+            "ta": "CHAOSVPN",
+            "mnt-by": "DN42-MNT"
+        },
+        {
             "asn": "AS64686",
             "prefix": "fd42:64:686::/48",
             "maxLength": 64,
@@ -19182,8 +19210,8 @@
         }
     ],
     "metadata": {
-        "counts": 2740,
-        "generated": 1619374504,
-        "valid": 1619806504
+        "counts": 2744,
+        "generated": 1619378138,
+        "valid": 1619810138
     }
 }
