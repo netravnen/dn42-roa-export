@@ -3109,27 +3109,6 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242421288",
-            "prefix": "fd42:64:654::/48",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "fd42:64:654::/48",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
-            "prefix": "fd42:64:654::/48",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS64686",
             "prefix": "fd42:64:686::/48",
             "maxLength": 64,
@@ -4278,27 +4257,6 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242421288",
-            "prefix": "fd51:2bb2:fd0d::/48",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "fd51:2bb2:fd0d::/48",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
-            "prefix": "fd51:2bb2:fd0d::/48",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
             "asn": "AS4242421717",
             "prefix": "fd51:b39d:249f::/48",
             "maxLength": 64,
@@ -4370,27 +4328,6 @@
         },
         {
             "asn": "AS64654",
-            "prefix": "fd55:caa:bde3::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242421288",
-            "prefix": "fd55:caa:bde3::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "fd55:caa:bde3::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
             "prefix": "fd55:caa:bde3::/64",
             "maxLength": 64,
             "ta": "CHAOSVPN",
@@ -4685,27 +4622,6 @@
         },
         {
             "asn": "AS64654",
-            "prefix": "fd63:1e39:6f73:2929::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242421288",
-            "prefix": "fd63:1e39:6f73:2929::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "fd63:1e39:6f73:2929::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
             "prefix": "fd63:1e39:6f73:2929::/64",
             "maxLength": 64,
             "ta": "CHAOSVPN",
@@ -6029,27 +5945,6 @@
         },
         {
             "asn": "AS64654",
-            "prefix": "fd9d:5e08:b9f9:c3::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242421288",
-            "prefix": "fd9d:5e08:b9f9:c3::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "fd9d:5e08:b9f9:c3::/64",
-            "maxLength": 64,
-            "ta": "CHAOSVPN",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
             "prefix": "fd9d:5e08:b9f9:c3::/64",
             "maxLength": 64,
             "ta": "CHAOSVPN",
@@ -8975,21 +8870,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242421288",
-            "prefix": "10.100.0.0/14",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "10.100.0.0/14",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
+            "asn": "AS",
             "prefix": "10.100.0.0/14",
             "maxLength": 32,
             "ta": "DN42",
@@ -19230,21 +19111,7 @@
             "mnt-by": "DN42-MNT"
         },
         {
-            "asn": "AS4242421288",
-            "prefix": "172.31.0.0/16",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422718",
-            "prefix": "172.31.0.0/16",
-            "maxLength": 32,
-            "ta": "DN42",
-            "mnt-by": "DN42-MNT"
-        },
-        {
-            "asn": "AS4242422480",
+            "asn": "AS",
             "prefix": "172.31.0.0/16",
             "maxLength": 32,
             "ta": "DN42",
@@ -19252,8 +19119,8 @@
         }
     ],
     "metadata": {
-        "counts": 2750,
-        "generated": 1619543738,
-        "valid": 1619975738
+        "counts": 2731,
+        "generated": 1619547338,
+        "valid": 1619979338
     }
 }
