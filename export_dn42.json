@@ -3837,6 +3837,13 @@
             "mnt-by": "COMPUGLOBAL-MNT"
         },
         {
+            "asn": "AS4242422457",
+            "prefix": "fd42:defe:c8ed::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ASTROANAX-MNT"
+        },
+        {
             "asn": "AS64773",
             "prefix": "fd42:df42::/48",
             "maxLength": 64,
@@ -14645,6 +14652,13 @@
             "mnt-by": "MASN-MNT"
         },
         {
+            "asn": "AS4242422457",
+            "prefix": "172.21.112.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ASTROANAX-MNT"
+        },
+        {
             "asn": "AS4242422911",
             "prefix": "172.21.113.192/27",
             "maxLength": 28,
@@ -19238,8 +19252,8 @@
         }
     ],
     "metadata": {
-        "counts": 2748,
-        "generated": 1619540105,
-        "valid": 1619972105
+        "counts": 2750,
+        "generated": 1619543738,
+        "valid": 1619975738
     }
 }

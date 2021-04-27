@@ -3844,6 +3844,13 @@
                 "mnt-by": "COMPUGLOBAL-MNT"
             },
             {
+                "asn": 4242422457,
+                "prefix": "fd42:defe:c8ed::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ASTROANAX-MNT"
+            },
+            {
                 "asn": 64773,
                 "prefix": "fd42:df42::/48",
                 "maxPrefixLength": 64,
@@ -14650,6 +14657,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MASN-MNT"
+            },
+            {
+                "asn": 4242422457,
+                "prefix": "172.21.112.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ASTROANAX-MNT"
             },
             {
                 "asn": 4242422911,
