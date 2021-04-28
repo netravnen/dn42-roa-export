@@ -323,6 +323,13 @@
                 "mnt-by": "LOSER-MNT"
             },
             {
+                "asn": 4242422896,
+                "prefix": "fd00:caca:caca::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JLXIP-MNT"
+            },
+            {
                 "asn": 4242423420,
                 "prefix": "fd00:cafe:1337::/48",
                 "maxPrefixLength": 64,
@@ -17436,6 +17443,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SCHWZR-MNT"
+            },
+            {
+                "asn": 4242422896,
+                "prefix": "172.23.109.224/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "JLXIP-MNT"
             },
             {
                 "asn": 4242421423,
