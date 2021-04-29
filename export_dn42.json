@@ -5356,6 +5356,13 @@
             "mnt-by": "DJARNER-MNT"
         },
         {
+            "asn": "AS4242420833",
+            "prefix": "fd82:88be:b7f3::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DGT-MNT"
+        },
+        {
             "asn": "AS4242421983",
             "prefix": "fd83:1110:6556::/48",
             "maxLength": 64,
@@ -19133,8 +19140,8 @@
         }
     ],
     "metadata": {
-        "counts": 2733,
-        "generated": 1619702103,
-        "valid": 1620134103
+        "counts": 2734,
+        "generated": 1619705740,
+        "valid": 1620137740
     }
 }

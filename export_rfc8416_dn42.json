@@ -5363,6 +5363,13 @@
                 "mnt-by": "DJARNER-MNT"
             },
             {
+                "asn": 4242420833,
+                "prefix": "fd82:88be:b7f3::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DGT-MNT"
+            },
+            {
                 "asn": 4242421983,
                 "prefix": "fd83:1110:6556::/48",
                 "maxPrefixLength": 64,
