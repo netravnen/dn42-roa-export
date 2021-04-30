@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9bd3e5c9aab60f6651328c757427e5fa6a658bd4
-Merge: cafc58fd0 99f4ff86f
-Date:   2021-04-30 13:41:53 +0000
+Commit 1ba1cc4628e1027e2f1b652182a1b84921b291d6
+Merge: 9bd3e5c9a 55490c566
+Date:   2021-04-30 20:15:00 +0000
 
-    Merge pull request 'set max-length to 29 in lucaber ipv4 route' (#763) from lucaber-20210429/maxlength into master
+    Merge pull request 'Register AS4242421801' (#764) from vvidic-20210429/join into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1471
-- ROAs IPv6:  1263
-- ROAs total: 2734
+- ROAs IPv4:  1472
+- ROAs IPv6:  1264
+- ROAs total: 2736
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9bd3e5c9aab60f6651328c757427e5fa6a658bd4
+[0]: https://git.dn42.dev/dn42/registry/commit/1ba1cc4628e1027e2f1b652182a1b84921b291d6
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

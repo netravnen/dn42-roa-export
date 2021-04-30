@@ -4978,6 +4978,13 @@
             "mnt-by": "GERGERNET-MNT"
         },
         {
+            "asn": "AS4242421801",
+            "prefix": "fd70:eaeb:5c1e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "VVIDIC-MNT"
+        },
+        {
             "asn": "AS4242422249",
             "prefix": "fd71:297c:aac::/48",
             "maxLength": 64,
@@ -14554,6 +14561,13 @@
             "mnt-by": "ASTROANAX-MNT"
         },
         {
+            "asn": "AS4242421801",
+            "prefix": "172.21.112.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VVIDIC-MNT"
+        },
+        {
             "asn": "AS4242422911",
             "prefix": "172.21.113.192/27",
             "maxLength": 28,
@@ -19140,8 +19154,8 @@
         }
     ],
     "metadata": {
-        "counts": 2734,
-        "generated": 1619810105,
-        "valid": 1620242105
+        "counts": 2736,
+        "generated": 1619813737,
+        "valid": 1620245737
     }
 }
