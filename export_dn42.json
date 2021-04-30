@@ -17398,7 +17398,7 @@
         {
             "asn": "AS4242422205",
             "prefix": "172.23.104.96/27",
-            "maxLength": 28,
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "LUCABER-MNT"
         },
@@ -19141,7 +19141,7 @@
     ],
     "metadata": {
         "counts": 2734,
-        "generated": 1619788504,
-        "valid": 1620220504
+        "generated": 1619792138,
+        "valid": 1620224138
     }
 }

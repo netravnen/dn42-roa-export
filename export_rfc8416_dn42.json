@@ -17405,7 +17405,7 @@
             {
                 "asn": 4242422205,
                 "prefix": "172.23.104.96/27",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "LUCABER-MNT"
             },
