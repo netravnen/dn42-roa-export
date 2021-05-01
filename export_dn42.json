@@ -4866,6 +4866,13 @@
             "mnt-by": "COOKIEFACTORY-MNT"
         },
         {
+            "asn": "AS4242421311",
+            "prefix": "fd6b:d585:9b1e:d775::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "N4GI0S-MNT"
+        },
+        {
             "asn": "AS4242423849",
             "prefix": "fd6c:3444:4e30:2118::/64",
             "maxLength": 64,
@@ -17067,6 +17074,13 @@
             "mnt-by": "HUJK-MNT"
         },
         {
+            "asn": "AS4242421311",
+            "prefix": "172.22.66.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "N4GI0S-MNT"
+        },
+        {
             "asn": "AS4242420771",
             "prefix": "172.22.67.0/27",
             "maxLength": 28,
@@ -19168,8 +19182,8 @@
         }
     ],
     "metadata": {
-        "counts": 2738,
-        "generated": 1619903704,
-        "valid": 1620335704
+        "counts": 2740,
+        "generated": 1619907335,
+        "valid": 1620339335
     }
 }

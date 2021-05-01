@@ -4873,6 +4873,13 @@
                 "mnt-by": "COOKIEFACTORY-MNT"
             },
             {
+                "asn": 4242421311,
+                "prefix": "fd6b:d585:9b1e:d775::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "N4GI0S-MNT"
+            },
+            {
                 "asn": 4242423849,
                 "prefix": "fd6c:3444:4e30:2118::/64",
                 "maxPrefixLength": 64,
@@ -17072,6 +17079,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HUJK-MNT"
+            },
+            {
+                "asn": 4242421311,
+                "prefix": "172.22.66.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "N4GI0S-MNT"
             },
             {
                 "asn": 4242420771,
