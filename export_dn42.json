@@ -470,6 +470,13 @@
             "mnt-by": "GOFORCEX-MNT"
         },
         {
+            "asn": "AS4242420245",
+            "prefix": "fd02:2d97:1ccf::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MYL7-MNT"
+        },
+        {
             "asn": "AS4242420309",
             "prefix": "fd03:4de4:6baa::/48",
             "maxLength": 64,
@@ -15443,6 +15450,13 @@
             "mnt-by": "SHOGHI-MNT"
         },
         {
+            "asn": "AS4242420245",
+            "prefix": "172.22.107.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MYL7-MNT"
+        },
+        {
             "asn": "AS4242421080",
             "prefix": "172.22.108.0/26",
             "maxLength": 28,
@@ -19182,8 +19196,8 @@
         }
     ],
     "metadata": {
-        "counts": 2740,
-        "generated": 1619986504,
-        "valid": 1620418504
+        "counts": 2742,
+        "generated": 1619990136,
+        "valid": 1620422136
     }
 }
