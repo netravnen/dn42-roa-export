@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 3a1d2fd0f7c827f5727457a02690cfe42b7beb5e
-Merge: 2fa067c4c edc2b158b
-Date:   2021-05-03 19:01:07 +0000
+Commit 7a8f2205d1527763175e7970f7984f98a64890c5
+Merge: a2d4db400 946b126ce
+Date:   2021-05-03 19:53:45 +0000
 
-    Merge pull request 'added nserver to n4gi0s addresses' (#771) from n4gi0s/registry:master into master
+    Merge pull request 'Add bluemedia.dn42 and corresponding nameserver' (#776) from Bluemedia-20210503/register_domain into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1267
 - ROAs total: 2742
 
-[0]: https://git.dn42.dev/dn42/registry/commit/3a1d2fd0f7c827f5727457a02690cfe42b7beb5e
+[0]: https://git.dn42.dev/dn42/registry/commit/7a8f2205d1527763175e7970f7984f98a64890c5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
