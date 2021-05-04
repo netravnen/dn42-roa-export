@@ -6693,6 +6693,13 @@
             "mnt-by": "KEVER-MNT"
         },
         {
+            "asn": "AS4242423724",
+            "prefix": "fdb8:946a:bc01::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HINATAKATO-MNT"
+        },
+        {
             "asn": "AS4242422866",
             "prefix": "fdb8:d95e:191a::/48",
             "maxLength": 48,
@@ -18369,6 +18376,13 @@
             "mnt-by": "NCON-MNT"
         },
         {
+            "asn": "AS4242423724",
+            "prefix": "172.23.215.224/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "HINATAKATO-MNT"
+        },
+        {
             "asn": "AS4242421978",
             "prefix": "172.23.215.96/27",
             "maxLength": 28,
@@ -19203,8 +19217,8 @@
         }
     ],
     "metadata": {
-        "counts": 2743,
-        "generated": 1620159304,
-        "valid": 1620591304
+        "counts": 2745,
+        "generated": 1620162942,
+        "valid": 1620594942
     }
 }
