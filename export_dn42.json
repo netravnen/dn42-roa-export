@@ -17963,6 +17963,13 @@
             "mnt-by": "ATOLRN-MNT"
         },
         {
+            "asn": "AS4242423937",
+            "prefix": "172.23.162.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GHASTINGS-MNT"
+        },
+        {
             "asn": "AS4242421200",
             "prefix": "172.23.163.0/27",
             "maxLength": 28,
@@ -19217,8 +19224,8 @@
         }
     ],
     "metadata": {
-        "counts": 2745,
-        "generated": 1620231304,
-        "valid": 1620663304
+        "counts": 2746,
+        "generated": 1620234940,
+        "valid": 1620666940
     }
 }

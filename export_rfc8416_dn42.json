@@ -17970,6 +17970,13 @@
                 "mnt-by": "ATOLRN-MNT"
             },
             {
+                "asn": 4242423937,
+                "prefix": "172.23.162.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GHASTINGS-MNT"
+            },
+            {
                 "asn": 4242421200,
                 "prefix": "172.23.163.0/27",
                 "maxPrefixLength": 28,
