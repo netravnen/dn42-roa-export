@@ -18391,8 +18391,8 @@
             },
             {
                 "asn": 4242423724,
-                "prefix": "172.23.215.224/29",
-                "maxPrefixLength": 29,
+                "prefix": "172.23.215.224/27",
+                "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HINATAKATO-MNT"
             },

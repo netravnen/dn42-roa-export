@@ -18384,8 +18384,8 @@
         },
         {
             "asn": "AS4242423724",
-            "prefix": "172.23.215.224/29",
-            "maxLength": 29,
+            "prefix": "172.23.215.224/27",
+            "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "HINATAKATO-MNT"
         },
@@ -19225,7 +19225,7 @@
     ],
     "metadata": {
         "counts": 2746,
-        "generated": 1620292504,
-        "valid": 1620724504
+        "generated": 1620296136,
+        "valid": 1620728136
     }
 }
