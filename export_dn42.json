@@ -14274,6 +14274,13 @@
             "mnt-by": "ANDATCHE-MNT"
         },
         {
+            "asn": "AS4242422865",
+            "prefix": "172.20.6.112/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SUBUK-MNT"
+        },
+        {
             "asn": "AS4242422299",
             "prefix": "172.20.6.128/28",
             "maxLength": 28,
@@ -19224,8 +19231,8 @@
         }
     ],
     "metadata": {
-        "counts": 2746,
-        "generated": 1620371703,
-        "valid": 1620803703
+        "counts": 2747,
+        "generated": 1620375339,
+        "valid": 1620807339
     }
 }

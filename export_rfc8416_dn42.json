@@ -14281,6 +14281,13 @@
                 "mnt-by": "ANDATCHE-MNT"
             },
             {
+                "asn": 4242422865,
+                "prefix": "172.20.6.112/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "SUBUK-MNT"
+            },
+            {
                 "asn": 4242422299,
                 "prefix": "172.20.6.128/28",
                 "maxPrefixLength": 28,
