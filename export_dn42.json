@@ -5727,6 +5727,13 @@
             "mnt-by": "NEVLEZAY-MNT"
         },
         {
+            "asn": "AS4242420449",
+            "prefix": "fd91:a6bc:1969::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YELLOWCAT-MNT"
+        },
+        {
             "asn": "AS4242421169",
             "prefix": "fd91:de6e:e51d::/48",
             "maxLength": 64,
@@ -19230,6 +19237,13 @@
             "mnt-by": "DINGYX99-MNT"
         },
         {
+            "asn": "AS4242420449",
+            "prefix": "172.23.99.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YELLOWCAT-MNT"
+        },
+        {
             "asn": "AS4242423197",
             "prefix": "172.23.99.32/27",
             "maxLength": 28,
@@ -19259,8 +19273,8 @@
         }
     ],
     "metadata": {
-        "counts": 2751,
-        "generated": 1620494103,
-        "valid": 1620926103
+        "counts": 2753,
+        "generated": 1620497737,
+        "valid": 1620929737
     }
 }
