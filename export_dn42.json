@@ -64,6 +64,13 @@
             "mnt-by": "CLOUDFILES-MNT"
         },
         {
+            "asn": "AS4242421472",
+            "prefix": "fd00:4861:636b::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HACKFRONT-MNT"
+        },
+        {
             "asn": "AS64833",
             "prefix": "fd00:490:cb2d::/52",
             "maxLength": 64,
@@ -1976,7 +1983,7 @@
         },
         {
             "asn": "AS4242423124",
-            "prefix": "fd39:b03e:6140:7ec1::/64",
+            "prefix": "fd39:b03e:6140::/48",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "SZCZOT3K-MNT"
@@ -6411,6 +6418,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "DE-LEBHERZ-MNT"
+        },
+        {
+            "asn": "AS4242423309",
+            "prefix": "fda8:6b5c:e372::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TOMDANG-MNT"
         },
         {
             "asn": "AS4242420305",
@@ -17991,6 +18005,13 @@
             "mnt-by": "HFULLER-MNT"
         },
         {
+            "asn": "AS4242423309",
+            "prefix": "172.23.163.160/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TOMDANG-MNT"
+        },
+        {
             "asn": "AS4242423941",
             "prefix": "172.23.163.192/26",
             "maxLength": 28,
@@ -18024,6 +18045,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "NICODUCK-MNT"
+        },
+        {
+            "asn": "AS4242421472",
+            "prefix": "172.23.167.0/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HACKFRONT-MNT"
         },
         {
             "asn": "AS4242423924",
@@ -19231,8 +19259,8 @@
         }
     ],
     "metadata": {
-        "counts": 2747,
-        "generated": 1620458104,
-        "valid": 1620890104
+        "counts": 2751,
+        "generated": 1620462054,
+        "valid": 1620894054
     }
 }
