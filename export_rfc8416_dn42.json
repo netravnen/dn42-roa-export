@@ -4733,6 +4733,13 @@
                 "mnt-by": "R-MNT"
             },
             {
+                "asn": 4242420407,
+                "prefix": "fd66:e907:881c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HAYWO-MNT"
+            },
+            {
                 "asn": 4242423439,
                 "prefix": "fd66:feed:beef::/48",
                 "maxPrefixLength": 64,
@@ -11864,6 +11871,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "JARRODCHRISTIANSEN-MNT"
+            },
+            {
+                "asn": 4242420407,
+                "prefix": "172.20.172.120/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "HAYWO-MNT"
             },
             {
                 "asn": 4242420618,
