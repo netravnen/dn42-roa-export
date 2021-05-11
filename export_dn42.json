@@ -5944,6 +5944,13 @@
             "mnt-by": "VILLISEK-MNT"
         },
         {
+            "asn": "AS4242422390",
+            "prefix": "fd98:78d2:f8eb::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BEYERM-MNT"
+        },
+        {
             "asn": "AS4242422647",
             "prefix": "fd98:de34:62e8::/48",
             "maxLength": 48,
@@ -19287,8 +19294,8 @@
         }
     ],
     "metadata": {
-        "counts": 2755,
-        "generated": 1620720905,
-        "valid": 1621152905
+        "counts": 2756,
+        "generated": 1620724538,
+        "valid": 1621156538
     }
 }

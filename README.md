@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8dc52429e6aae09358607c26d17a3f933104e03a
-Merge: 937e523b8 e3678dc32
-Date:   2021-05-10 16:24:07 +0000
+Commit 87e86a7d3ffea092a412d28c2f71a9c3ee81586e
+Merge: 8dc52429e 48f1b7d84
+Date:   2021-05-11 08:52:50 +0000
 
-    Merge pull request 'Initial setup for HayWo' (#791) from HayWo-20210510/join into master
+    Merge pull request 'register beyerm @ dn42' (#793) from beyerm-20210510/register into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1482
-- ROAs IPv6:  1273
-- ROAs total: 2755
+- ROAs IPv6:  1274
+- ROAs total: 2756
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8dc52429e6aae09358607c26d17a3f933104e03a
+[0]: https://git.dn42.dev/dn42/registry/commit/87e86a7d3ffea092a412d28c2f71a9c3ee81586e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

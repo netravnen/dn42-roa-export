@@ -5951,6 +5951,13 @@
                 "mnt-by": "VILLISEK-MNT"
             },
             {
+                "asn": 4242422390,
+                "prefix": "fd98:78d2:f8eb::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BEYERM-MNT"
+            },
+            {
                 "asn": 4242422647,
                 "prefix": "fd98:de34:62e8::/48",
                 "maxPrefixLength": 48,
