@@ -6749,6 +6749,13 @@
             "mnt-by": "MNAGEL-MNT"
         },
         {
+            "asn": "AS4242423115",
+            "prefix": "fdb9:af86:5168::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DAVIDWANG-MNT"
+        },
+        {
             "asn": "AS4242423866",
             "prefix": "fdb9:fff1:dbbf::/48",
             "maxLength": 64,
@@ -18719,6 +18726,13 @@
             "mnt-by": "HEY-MNT"
         },
         {
+            "asn": "AS4242423115",
+            "prefix": "172.23.241.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DAVIDWANG-MNT"
+        },
+        {
             "asn": "AS76175",
             "prefix": "172.23.245.0/24",
             "maxLength": 28,
@@ -19294,8 +19308,8 @@
         }
     ],
     "metadata": {
-        "counts": 2756,
-        "generated": 1620818104,
-        "valid": 1621250104
+        "counts": 2758,
+        "generated": 1620821739,
+        "valid": 1621253739
     }
 }
