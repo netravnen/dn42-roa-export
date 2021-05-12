@@ -6442,8 +6442,8 @@
         },
         {
             "asn": "AS4242423309",
-            "prefix": "fda8:6b5c:e372::/48",
-            "maxLength": 64,
+            "prefix": "fda8:6b5c:e370::/44",
+            "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "TOMDANG-MNT"
         },
@@ -18041,7 +18041,7 @@
         },
         {
             "asn": "AS4242423309",
-            "prefix": "172.23.163.160/28",
+            "prefix": "172.23.163.160/27",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "TOMDANG-MNT"
@@ -19309,7 +19309,7 @@
     ],
     "metadata": {
         "counts": 2758,
-        "generated": 1620836104,
-        "valid": 1621268104
+        "generated": 1620839745,
+        "valid": 1621271745
     }
 }

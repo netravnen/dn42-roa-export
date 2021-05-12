@@ -6449,8 +6449,8 @@
             },
             {
                 "asn": 4242423309,
-                "prefix": "fda8:6b5c:e372::/48",
-                "maxPrefixLength": 64,
+                "prefix": "fda8:6b5c:e370::/44",
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "TOMDANG-MNT"
             },
@@ -18048,7 +18048,7 @@
             },
             {
                 "asn": 4242423309,
-                "prefix": "172.23.163.160/28",
+                "prefix": "172.23.163.160/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TOMDANG-MNT"
