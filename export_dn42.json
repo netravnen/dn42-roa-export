@@ -8856,6 +8856,13 @@
             "mnt-by": "ARENDTSEN-MNT"
         },
         {
+            "asn": "AS4242422030",
+            "prefix": "fdfe:2803:3a37::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "AKANET-MNT"
+        },
+        {
             "asn": "AS4242421788",
             "prefix": "fdfe:b58d:7621::/48",
             "maxLength": 64,
@@ -19076,6 +19083,13 @@
             "mnt-by": "BLAZING-MNT"
         },
         {
+            "asn": "AS4242422030",
+            "prefix": "172.23.69.0/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AKANET-MNT"
+        },
+        {
             "asn": "AS4242421225",
             "prefix": "172.23.7.0/27",
             "maxLength": 28,
@@ -19315,8 +19329,8 @@
         }
     ],
     "metadata": {
-        "counts": 2759,
-        "generated": 1621016104,
-        "valid": 1621448104
+        "counts": 2761,
+        "generated": 1621019742,
+        "valid": 1621451742
     }
 }
