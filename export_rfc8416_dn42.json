@@ -8898,6 +8898,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423622,
+                "prefix": "fdff:74f:e962::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TAILSNET-MNT"
+            },
+            {
                 "asn": 203099,
                 "prefix": "fdff:8695:18b7::/48",
                 "maxPrefixLength": 48,

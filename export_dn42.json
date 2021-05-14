@@ -8891,6 +8891,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423622",
+            "prefix": "fdff:74f:e962::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TAILSNET-MNT"
+        },
+        {
             "asn": "AS203099",
             "prefix": "fdff:8695:18b7::/48",
             "maxLength": 48,
@@ -19308,8 +19315,8 @@
         }
     ],
     "metadata": {
-        "counts": 2758,
-        "generated": 1621001705,
-        "valid": 1621433705
+        "counts": 2759,
+        "generated": 1621005338,
+        "valid": 1621437338
     }
 }
