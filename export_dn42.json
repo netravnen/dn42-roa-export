@@ -14435,6 +14435,13 @@
             "mnt-by": "HENOKV-MNT"
         },
         {
+            "asn": "AS4242422822",
+            "prefix": "172.20.62.128/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "TECHBUTTS-MNT"
+        },
+        {
             "asn": "AS4242422019",
             "prefix": "172.20.62.32/29",
             "maxLength": 29,
@@ -19350,8 +19357,8 @@
         }
     ],
     "metadata": {
-        "counts": 2764,
-        "generated": 1621113304,
-        "valid": 1621545304
+        "counts": 2765,
+        "generated": 1621116938,
+        "valid": 1621548938
     }
 }
