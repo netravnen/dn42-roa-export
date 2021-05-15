@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 3d1483746f8d80abf7a01b64710bef8ad830f795
-Merge: 7923468ee 7f6972e7a
-Date:   2021-05-15 17:32:53 +0000
+Commit d0efac397e8312740313f40cfe64a0f9154d1823
+Merge: 3d1483746 47706cc5c
+Date:   2021-05-15 18:30:01 +0000
 
-    Merge pull request 'Update E-mail and Authentication' (#804) from Kioubit-20210515/contact_data_update into master
+    Merge pull request 'Register an asn, apply for 172.21.82.32_29 as a dn42 private network' (#803) from imwww-20210515/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1485
-- ROAs IPv6:  1277
-- ROAs total: 2762
+- ROAs IPv4:  1486
+- ROAs IPv6:  1278
+- ROAs total: 2764
 
-[0]: https://git.dn42.dev/dn42/registry/commit/3d1483746f8d80abf7a01b64710bef8ad830f795
+[0]: https://git.dn42.dev/dn42/registry/commit/d0efac397e8312740313f40cfe64a0f9154d1823
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -1268,6 +1268,13 @@
                 "mnt-by": "BISCUITTIN-MNT"
             },
             {
+                "asn": 4242421822,
+                "prefix": "fd19:361e:b053::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "IMWWW-MNT"
+            },
+            {
                 "asn": 4242423850,
                 "prefix": "fd19:d101:719a::/48",
                 "maxPrefixLength": 64,
@@ -15140,6 +15147,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DRMESSANO-MNT"
+            },
+            {
+                "asn": 4242421822,
+                "prefix": "172.21.82.32/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "IMWWW-MNT"
             },
             {
                 "asn": 4242422092,
