@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit dd9461e0728103f9c0f8888e7fb381840944d6f1
-Merge: b7f9173f2 91591ac91
-Date:   2021-05-14 18:28:11 +0000
+Commit d65ad095f522e97b6baf0fe4fabeffd70627cdd1
+Merge: dd9461e07 221318683
+Date:   2021-05-15 08:21:45 +0000
 
-    Merge pull request 'Register AS4242422030' (#799) from akane-20210514/register into master
+    Merge pull request 'Add signing script' (#770) from burble-20210502/signing-script into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1277
 - ROAs total: 2761
 
-[0]: https://git.dn42.dev/dn42/registry/commit/dd9461e0728103f9c0f8888e7fb381840944d6f1
+[0]: https://git.dn42.dev/dn42/registry/commit/d65ad095f522e97b6baf0fe4fabeffd70627cdd1
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
