@@ -1265,7 +1265,7 @@
             "prefix": "fd19:d101:719a::/48",
             "maxLength": 64,
             "ta": "DN42",
-            "mnt-by": "XINYUAN-MNT"
+            "mnt-by": "TONYLEE-MNT"
         },
         {
             "asn": "AS4242420321",
@@ -4672,7 +4672,7 @@
         {
             "asn": "AS4242422092",
             "prefix": "fd63:672f:38e7::/48",
-            "maxLength": 64,
+            "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "P3BK4C-MNT"
         },
@@ -12598,7 +12598,7 @@
             "prefix": "172.20.198.0/26",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "XINYUAN-MNT"
+            "mnt-by": "TONYLEE-MNT"
         },
         {
             "asn": "AS4242423991",
@@ -14969,7 +14969,7 @@
         {
             "asn": "AS4242422092",
             "prefix": "172.21.67.192/27",
-            "maxLength": 29,
+            "maxLength": 27,
             "ta": "DN42",
             "mnt-by": "P3BK4C-MNT"
         },
@@ -15133,6 +15133,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "DRMESSANO-MNT"
+        },
+        {
+            "asn": "AS4242422092",
+            "prefix": "172.21.83.0/27",
+            "maxLength": 27,
+            "ta": "DN42",
+            "mnt-by": "P3BK4C-MNT"
         },
         {
             "asn": "AS4242422381",
@@ -19329,8 +19336,8 @@
         }
     ],
     "metadata": {
-        "counts": 2761,
-        "generated": 1621073704,
-        "valid": 1621505704
+        "counts": 2762,
+        "generated": 1621077338,
+        "valid": 1621509338
     }
 }

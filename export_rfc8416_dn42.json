@@ -1272,7 +1272,7 @@
                 "prefix": "fd19:d101:719a::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
-                "mnt-by": "XINYUAN-MNT"
+                "mnt-by": "TONYLEE-MNT"
             },
             {
                 "asn": 4242420321,
@@ -4679,7 +4679,7 @@
             {
                 "asn": 4242422092,
                 "prefix": "fd63:672f:38e7::/48",
-                "maxPrefixLength": 64,
+                "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "P3BK4C-MNT"
             },
@@ -12605,7 +12605,7 @@
                 "prefix": "172.20.198.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "XINYUAN-MNT"
+                "mnt-by": "TONYLEE-MNT"
             },
             {
                 "asn": 4242423991,
@@ -14976,7 +14976,7 @@
             {
                 "asn": 4242422092,
                 "prefix": "172.21.67.192/27",
-                "maxPrefixLength": 29,
+                "maxPrefixLength": 27,
                 "source": "DN42",
                 "mnt-by": "P3BK4C-MNT"
             },
@@ -15140,6 +15140,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DRMESSANO-MNT"
+            },
+            {
+                "asn": 4242422092,
+                "prefix": "172.21.83.0/27",
+                "maxPrefixLength": 27,
+                "source": "DN42",
+                "mnt-by": "P3BK4C-MNT"
             },
             {
                 "asn": 4242422381,
