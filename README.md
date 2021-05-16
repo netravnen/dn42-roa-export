@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 0b7565b4c3fbc0939427ad2b6db8a92c43cb6d1c
-Merge: 37be27b8e 7b69e7f56
-Date:   2021-05-16 04:50:17 +0000
+Commit fd81e7ab73a8b73364c7822fe43b22481b9945ce
+Merge: 0b7565b4c 0d959853f
+Date:   2021-05-16 12:50:15 +0000
 
-    Merge pull request 'Add AS-SET' (#807) from sunaihui-20210516/test into master
+    Merge pull request 'registered naivetomcat.dn42 domain' (#805) from tomdang-20210515/modify-name-server into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1278
 - ROAs total: 2766
 
-[0]: https://git.dn42.dev/dn42/registry/commit/0b7565b4c3fbc0939427ad2b6db8a92c43cb6d1c
+[0]: https://git.dn42.dev/dn42/registry/commit/fd81e7ab73a8b73364c7822fe43b22481b9945ce
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
