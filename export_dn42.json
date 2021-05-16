@@ -16647,6 +16647,13 @@
             "mnt-by": "NICONEIKOWORKS-MNT"
         },
         {
+            "asn": "AS4242423724",
+            "prefix": "172.22.162.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HINATAKATO-MNT"
+        },
+        {
             "asn": "AS4242422002",
             "prefix": "172.22.163.0/24",
             "maxLength": 28,
@@ -19357,8 +19364,8 @@
         }
     ],
     "metadata": {
-        "counts": 2765,
-        "generated": 1621138504,
-        "valid": 1621570504
+        "counts": 2766,
+        "generated": 1621142134,
+        "valid": 1621574134
     }
 }
