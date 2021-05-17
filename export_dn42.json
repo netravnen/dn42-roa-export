@@ -8387,6 +8387,13 @@
             "mnt-by": "ZOLFA-MNT"
         },
         {
+            "asn": "AS4242423881",
+            "prefix": "fdf3:5237:bf63::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PAKTOSAN-MNT"
+        },
+        {
             "asn": "AS4242420215",
             "prefix": "fdf3:bd28:d90b::/48",
             "maxLength": 48,
@@ -19364,8 +19371,8 @@
         }
     ],
     "metadata": {
-        "counts": 2766,
-        "generated": 1621260905,
-        "valid": 1621692905
+        "counts": 2767,
+        "generated": 1621264535,
+        "valid": 1621696535
     }
 }
