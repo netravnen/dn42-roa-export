@@ -4943,6 +4943,13 @@
             "mnt-by": "MANI-MNT"
         },
         {
+            "asn": "AS4242423380",
+            "prefix": "fd6d:a81f:f2da:c11d::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ROLAND-MNT"
+        },
+        {
             "asn": "AS4242421913",
             "prefix": "fd6e:3ad1:1722::/48",
             "maxLength": 48,
@@ -19371,8 +19378,8 @@
         }
     ],
     "metadata": {
-        "counts": 2767,
-        "generated": 1621318504,
-        "valid": 1621750504
+        "counts": 2768,
+        "generated": 1621322135,
+        "valid": 1621754135
     }
 }

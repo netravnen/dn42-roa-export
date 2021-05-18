@@ -4950,6 +4950,13 @@
                 "mnt-by": "MANI-MNT"
             },
             {
+                "asn": 4242423380,
+                "prefix": "fd6d:a81f:f2da:c11d::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ROLAND-MNT"
+            },
+            {
                 "asn": 4242421913,
                 "prefix": "fd6e:3ad1:1722::/48",
                 "maxPrefixLength": 48,
