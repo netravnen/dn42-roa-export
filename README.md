@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8b96b02aa4c2f02b3a3e64c8458bc76596b6345c
-Merge: 3239e39a9 9fe2cb9a9
-Date:   2021-05-18 20:35:26 +0000
+Commit dd0959e45f8ca01e03b7f98d5cda9108424088e9
+Merge: 8b96b02aa 7c9fc2806
+Date:   2021-05-19 18:58:55 +0000
 
-    Merge pull request 'AS4242422575: update set and ASN objects' (#811) from androw-20210518/update into master
+    Merge pull request 'Add missing auth to FSNX-MNT' (#812) from chromicant-20210519/fixreg into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1280
 - ROAs total: 2768
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8b96b02aa4c2f02b3a3e64c8458bc76596b6345c
+[0]: https://git.dn42.dev/dn42/registry/commit/dd0959e45f8ca01e03b7f98d5cda9108424088e9
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
