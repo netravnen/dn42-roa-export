@@ -4481,6 +4481,13 @@
             "mnt-by": "HERTZ-MNT"
         },
         {
+            "asn": "AS4242420306",
+            "prefix": "fd5b:4834:643a:7c41::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "1AGO-MNT"
+        },
+        {
             "asn": "AS4242423321",
             "prefix": "fd5b:a2c5:fe5c::/48",
             "maxLength": 64,
@@ -16892,6 +16899,13 @@
             "mnt-by": "DW-MNT"
         },
         {
+            "asn": "AS4242420306",
+            "prefix": "172.22.186.112/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "1AGO-MNT"
+        },
+        {
             "asn": "AS4242422855",
             "prefix": "172.22.186.32/27",
             "maxLength": 28,
@@ -19406,8 +19420,8 @@
         }
     ],
     "metadata": {
-        "counts": 2772,
-        "generated": 1621523705,
-        "valid": 1621955705
+        "counts": 2774,
+        "generated": 1621527339,
+        "valid": 1621959339
     }
 }

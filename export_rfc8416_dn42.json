@@ -4488,6 +4488,13 @@
                 "mnt-by": "HERTZ-MNT"
             },
             {
+                "asn": 4242420306,
+                "prefix": "fd5b:4834:643a:7c41::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "1AGO-MNT"
+            },
+            {
                 "asn": 4242423321,
                 "prefix": "fd5b:a2c5:fe5c::/48",
                 "maxPrefixLength": 64,
@@ -16897,6 +16904,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DW-MNT"
+            },
+            {
+                "asn": 4242420306,
+                "prefix": "172.22.186.112/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "1AGO-MNT"
             },
             {
                 "asn": 4242422855,
