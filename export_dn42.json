@@ -5559,6 +5559,13 @@
             "mnt-by": "HANLIN-MNT"
         },
         {
+            "asn": "AS4242420344",
+            "prefix": "fd88:28f7:a86d::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NWNTEK-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd88:2e46:4b1c:5988::/64",
             "maxLength": 64,
@@ -17676,6 +17683,13 @@
             "mnt-by": "RINKOQWQ-MNT"
         },
         {
+            "asn": "AS4242420344",
+            "prefix": "172.23.110.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NWNTEK-MNT"
+        },
+        {
             "asn": "AS4242423231",
             "prefix": "172.23.111.0/27",
             "maxLength": 28,
@@ -19392,8 +19406,8 @@
         }
     ],
     "metadata": {
-        "counts": 2770,
-        "generated": 1621505704,
-        "valid": 1621937704
+        "counts": 2772,
+        "generated": 1621509336,
+        "valid": 1621941336
     }
 }
