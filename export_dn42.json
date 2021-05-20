@@ -3445,6 +3445,13 @@
             "mnt-by": "YUYAN-MNT"
         },
         {
+            "asn": "AS4242421123",
+            "prefix": "fd42:babe:cafe::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NEO-MNT"
+        },
+        {
             "asn": "AS4242420124",
             "prefix": "fd42:bad:a55::/48",
             "maxLength": 64,
@@ -19385,8 +19392,8 @@
         }
     ],
     "metadata": {
-        "counts": 2769,
-        "generated": 1621494933,
-        "valid": 1621926933
+        "counts": 2770,
+        "generated": 1621498537,
+        "valid": 1621930537
     }
 }

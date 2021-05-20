@@ -3452,6 +3452,13 @@
                 "mnt-by": "YUYAN-MNT"
             },
             {
+                "asn": 4242421123,
+                "prefix": "fd42:babe:cafe::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NEO-MNT"
+            },
+            {
                 "asn": 4242420124,
                 "prefix": "fd42:bad:a55::/48",
                 "maxPrefixLength": 64,

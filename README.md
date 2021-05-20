@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit a420f0a1ad20c71869833dfacd5759ebfbf7226e
-Merge: 572595cf9 16036529a
-Date:   2021-05-20 06:59:35 +0000
+Commit 53049e6817332cae6d89bba45e337622d317d151
+Merge: a420f0a1a ba1dab13f
+Date:   2021-05-20 07:26:59 +0000
 
-    Merge pull request 'Add IPv4 allocation to FSNX-NET' (#813) from chromicant-20210519/ipv4alloc into master
+    Merge pull request 'update data/person/NEO-DN42' (#814) from mayli/registry:mayli-20210519/update into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1489
-- ROAs IPv6:  1280
-- ROAs total: 2769
+- ROAs IPv6:  1281
+- ROAs total: 2770
 
-[0]: https://git.dn42.dev/dn42/registry/commit/a420f0a1ad20c71869833dfacd5759ebfbf7226e
+[0]: https://git.dn42.dev/dn42/registry/commit/53049e6817332cae6d89bba45e337622d317d151
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
