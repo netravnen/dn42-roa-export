@@ -16899,6 +16899,13 @@
             "mnt-by": "RAITO-MNT"
         },
         {
+            "asn": "AS4242423969",
+            "prefix": "172.22.186.96/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FSNX-MNT"
+        },
+        {
             "asn": "AS64787",
             "prefix": "172.22.187.0/24",
             "maxLength": 28,
@@ -19378,8 +19385,8 @@
         }
     ],
     "metadata": {
-        "counts": 2768,
-        "generated": 1621491304,
-        "valid": 1621923304
+        "counts": 2769,
+        "generated": 1621494933,
+        "valid": 1621926933
     }
 }

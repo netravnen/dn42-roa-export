@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit dd0959e45f8ca01e03b7f98d5cda9108424088e9
-Merge: 8b96b02aa 7c9fc2806
-Date:   2021-05-19 18:58:55 +0000
+Commit a420f0a1ad20c71869833dfacd5759ebfbf7226e
+Merge: 572595cf9 16036529a
+Date:   2021-05-20 06:59:35 +0000
 
-    Merge pull request 'Add missing auth to FSNX-MNT' (#812) from chromicant-20210519/fixreg into master
+    Merge pull request 'Add IPv4 allocation to FSNX-NET' (#813) from chromicant-20210519/ipv4alloc into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1488
+- ROAs IPv4:  1489
 - ROAs IPv6:  1280
-- ROAs total: 2768
+- ROAs total: 2769
 
-[0]: https://git.dn42.dev/dn42/registry/commit/dd0959e45f8ca01e03b7f98d5cda9108424088e9
+[0]: https://git.dn42.dev/dn42/registry/commit/a420f0a1ad20c71869833dfacd5759ebfbf7226e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

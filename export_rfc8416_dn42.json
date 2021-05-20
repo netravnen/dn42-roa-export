@@ -16906,6 +16906,13 @@
                 "mnt-by": "RAITO-MNT"
             },
             {
+                "asn": 4242423969,
+                "prefix": "172.22.186.96/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FSNX-MNT"
+            },
+            {
                 "asn": 64787,
                 "prefix": "172.22.187.0/24",
                 "maxPrefixLength": 28,
