@@ -1401,6 +1401,13 @@
             "mnt-by": "MAX-MNT"
         },
         {
+            "asn": "AS4242423646",
+            "prefix": "fd20:3f3a:6046::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GUSTAVO6046-MNT"
+        },
+        {
             "asn": "AS4242421976",
             "prefix": "fd20:bdda:5df0::/48",
             "maxLength": 64,
@@ -16353,6 +16360,13 @@
             "mnt-by": "RADIOGUY-MNT"
         },
         {
+            "asn": "AS4242423646",
+            "prefix": "172.22.144.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GUSTAVO6046-MNT"
+        },
+        {
             "asn": "AS4242423973",
             "prefix": "172.22.146.0/25",
             "maxLength": 28,
@@ -19420,8 +19434,8 @@
         }
     ],
     "metadata": {
-        "counts": 2774,
-        "generated": 1621620905,
-        "valid": 1622052905
+        "counts": 2776,
+        "generated": 1621624537,
+        "valid": 1622056537
     }
 }
