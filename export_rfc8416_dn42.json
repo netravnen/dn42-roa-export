@@ -5370,6 +5370,13 @@
                 "mnt-by": "TUX333-MNT"
             },
             {
+                "asn": 204446,
+                "prefix": "fd80:443f:c80c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HELLOMOUSE-MNT"
+            },
+            {
                 "asn": 4242421010,
                 "prefix": "fd80:8787::/48",
                 "maxPrefixLength": 64,
@@ -6847,6 +6854,13 @@
                 "mnt-by": "BAOSHUO-MNT"
             },
             {
+                "asn": 4242420247,
+                "prefix": "fdbb:7278:face::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
                 "asn": 4242420074,
                 "prefix": "fdbb:8bb5:fb3d::/48",
                 "maxPrefixLength": 48,
@@ -8210,6 +8224,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "PEER-MNT"
+            },
+            {
+                "asn": 4242422421,
+                "prefix": "fdee:b795:404::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JEDAYOSHI-MNT"
             },
             {
                 "asn": 4242422502,
@@ -16983,6 +17004,13 @@
                 "mnt-by": "NIRVANET-MNT"
             },
             {
+                "asn": 204446,
+                "prefix": "172.22.188.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HELLOMOUSE-MNT"
+            },
+            {
                 "asn": 4242421166,
                 "prefix": "172.22.189.0/26",
                 "maxPrefixLength": 28,
@@ -18895,6 +18923,13 @@
             },
             {
                 "asn": 141776,
+                "prefix": "172.23.250.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
+                "asn": 4242420247,
                 "prefix": "172.23.250.64/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
