@@ -64,6 +64,13 @@
             "mnt-by": "CLOUDFILES-MNT"
         },
         {
+            "asn": "AS4242423710",
+            "prefix": "fd00:46c5:1654::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LINGXUN-MNT"
+        },
+        {
             "asn": "AS4242421472",
             "prefix": "fd00:4861:636b::/48",
             "maxLength": 48,
@@ -19377,6 +19384,13 @@
             "mnt-by": "MOECAST-MNT"
         },
         {
+            "asn": "AS4242423710",
+            "prefix": "172.23.9.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LINGXUN-MNT"
+        },
+        {
             "asn": "AS4242422189",
             "prefix": "172.23.91.0/25",
             "maxLength": 28,
@@ -19469,8 +19483,8 @@
         }
     ],
     "metadata": {
-        "counts": 2781,
-        "generated": 1621786504,
-        "valid": 1622218504
+        "counts": 2783,
+        "generated": 1621790133,
+        "valid": 1622222133
     }
 }

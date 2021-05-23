@@ -71,6 +71,13 @@
                 "mnt-by": "CLOUDFILES-MNT"
             },
             {
+                "asn": 4242423710,
+                "prefix": "fd00:46c5:1654::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LINGXUN-MNT"
+            },
+            {
                 "asn": 4242421472,
                 "prefix": "fd00:4861:636b::/48",
                 "maxPrefixLength": 48,
@@ -19382,6 +19389,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "MOECAST-MNT"
+            },
+            {
+                "asn": 4242423710,
+                "prefix": "172.23.9.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LINGXUN-MNT"
             },
             {
                 "asn": 4242422189,
