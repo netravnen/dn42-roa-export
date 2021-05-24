@@ -708,6 +708,13 @@
                 "mnt-by": "ARGV-DN42-MNT"
             },
             {
+                "asn": 64654,
+                "prefix": null,
+                "maxPrefixLength": 112,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 64663,
                 "prefix": "fd0d:7f0:3003::/48",
                 "maxPrefixLength": 64,
@@ -960,6 +967,27 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 141776,
+                "prefix": "fd10:127:9898::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4201270017,
+                "prefix": "fd10:127:9898::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420247,
+                "prefix": "fd10:127:9898::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 211876,
                 "prefix": "fd10:127:aa66::/48",
                 "maxPrefixLength": 64,
@@ -983,6 +1011,13 @@
             {
                 "asn": 4201270022,
                 "prefix": "fd10:127:ba7e::/48",
+                "maxPrefixLength": 64,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422526,
+                "prefix": "fd10:127:cc::/48",
                 "maxPrefixLength": 64,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
@@ -9080,6 +9115,20 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 64654,
+                "prefix": "10.100.232.0/21",
+                "maxPrefixLength": 24,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242421288,
+                "prefix": "10.100.232.0/21",
+                "maxPrefixLength": 24,
+                "source": "CHAOSVPN",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 65527,
                 "prefix": "10.109.0.0/16",
                 "maxPrefixLength": 28,
@@ -9346,6 +9395,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242422526,
+                "prefix": "10.127.20.0/24",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4242422189,
                 "prefix": "10.127.21.0/24",
                 "maxPrefixLength": 29,
@@ -9502,6 +9558,27 @@
             {
                 "asn": 4201270004,
                 "prefix": "10.127.56.0/24",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 141776,
+                "prefix": "10.127.60.0/24",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4201270017,
+                "prefix": "10.127.60.0/24",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420247,
+                "prefix": "10.127.60.0/24",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
