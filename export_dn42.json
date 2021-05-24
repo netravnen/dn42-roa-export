@@ -1982,6 +1982,13 @@
             "mnt-by": "QPLI920501-MNT"
         },
         {
+            "asn": "AS4242421469",
+            "prefix": "fd37:c7f3:5bf7::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JHEWITT-MNT"
+        },
+        {
             "asn": "AS4242423856",
             "prefix": "fd38:cfa3:7091::/48",
             "maxLength": 48,
@@ -17921,6 +17928,13 @@
             "mnt-by": "SOHA-MNT"
         },
         {
+            "asn": "AS4242421469",
+            "prefix": "172.23.13.8/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "JHEWITT-MNT"
+        },
+        {
             "asn": "AS4242422345",
             "prefix": "172.23.131.0/26",
             "maxLength": 28,
@@ -19483,8 +19497,8 @@
         }
     ],
     "metadata": {
-        "counts": 2783,
-        "generated": 1621840504,
-        "valid": 1622272504
+        "counts": 2785,
+        "generated": 1621844134,
+        "valid": 1622276134
     }
 }
