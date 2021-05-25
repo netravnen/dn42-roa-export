@@ -4313,6 +4313,13 @@
             "mnt-by": "THEQ-MNT"
         },
         {
+            "asn": "AS4242421964",
+            "prefix": "fd4f:b934:7802::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SPF-MNT"
+        },
+        {
             "asn": "AS4242423883",
             "prefix": "fd4f:c7fd:f1ea::/48",
             "maxLength": 48,
@@ -7153,6 +7160,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421509",
+            "prefix": "fdc3:c927:4566::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "THEOTHERTOM-MNT"
         },
         {
             "asn": "AS4242423151",
@@ -19574,8 +19588,8 @@
         }
     ],
     "metadata": {
-        "counts": 2796,
-        "generated": 1621923304,
-        "valid": 1622355304
+        "counts": 2798,
+        "generated": 1621926937,
+        "valid": 1622358937
     }
 }
