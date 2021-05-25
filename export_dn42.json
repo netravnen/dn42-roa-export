@@ -7813,6 +7813,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423695",
+            "prefix": "fddb:b75:2bc::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MSC-MNT"
+        },
+        {
             "asn": "AS4242422515",
             "prefix": "fddc:3293:81a4::/48",
             "maxLength": 64,
@@ -15240,6 +15247,13 @@
             "mnt-by": "PONS-MNT"
         },
         {
+            "asn": "AS4242423695",
+            "prefix": "172.21.74.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MSC-MNT"
+        },
+        {
             "asn": "AS4242422389",
             "prefix": "172.21.74.96/27",
             "maxLength": 28,
@@ -18971,6 +18985,13 @@
             "mnt-by": "PATRYK-MNT"
         },
         {
+            "asn": "AS4242421964",
+            "prefix": "172.23.24.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SPF-MNT"
+        },
+        {
             "asn": "AS4242420525",
             "prefix": "172.23.240.32/27",
             "maxLength": 28,
@@ -19588,8 +19609,8 @@
         }
     ],
     "metadata": {
-        "counts": 2798,
-        "generated": 1621973704,
-        "valid": 1622405704
+        "counts": 2801,
+        "generated": 1621977339,
+        "valid": 1622409339
     }
 }

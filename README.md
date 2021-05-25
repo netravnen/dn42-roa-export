@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit cdf1a67b92b1112fa16d7d52777cc450f6ab7095
-Merge: e5aa1d9a5 997b752a5
-Date:   2021-05-25 07:09:50 +0000
+Commit d239333f0231ab260303500aa0b36ebbf6461e7a
+Merge: d0e0eca2d d4bfbf2c3
+Date:   2021-05-25 20:34:16 +0000
 
-    Merge pull request 'Add first objects for Southparkfan' (#829) from southparkfan-20210524/firstchange into master
+    Merge pull request 'Register 172.23.24.32/27 for Southparkfan' (#832) from southparkfan-20210525/addipv4 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1503
-- ROAs IPv6:  1295
-- ROAs total: 2798
+- ROAs IPv4:  1505
+- ROAs IPv6:  1296
+- ROAs total: 2801
 
-[0]: https://git.dn42.dev/dn42/registry/commit/cdf1a67b92b1112fa16d7d52777cc450f6ab7095
+[0]: https://git.dn42.dev/dn42/registry/commit/d239333f0231ab260303500aa0b36ebbf6461e7a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
