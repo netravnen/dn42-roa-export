@@ -6098,6 +6098,13 @@
             "mnt-by": "LYREX-MNT"
         },
         {
+            "asn": "AS4242420413",
+            "prefix": "fd9b:3774:d2fa::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MADDNESS-MNT"
+        },
+        {
             "asn": "AS4242423012",
             "prefix": "fd9b:37f7:faf7::/48",
             "maxLength": 48,
@@ -19293,6 +19300,13 @@
             "mnt-by": "ROBOBO-MNT"
         },
         {
+            "asn": "AS4242420413",
+            "prefix": "172.23.5.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MADDNESS-MNT"
+        },
+        {
             "asn": "AS4242423925",
             "prefix": "172.23.50.0/26",
             "maxLength": 28,
@@ -19616,8 +19630,8 @@
         }
     ],
     "metadata": {
-        "counts": 2802,
-        "generated": 1622016904,
-        "valid": 1622448904
+        "counts": 2804,
+        "generated": 1622020535,
+        "valid": 1622452535
     }
 }
