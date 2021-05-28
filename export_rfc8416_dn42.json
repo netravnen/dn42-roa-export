@@ -540,6 +540,13 @@
                 "mnt-by": "TYLER-MNT"
             },
             {
+                "asn": 4242421963,
+                "prefix": "fd05:64c0:fa21::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LACERTAE-MNT"
+            },
+            {
                 "asn": 4242422237,
                 "prefix": "fd05:a2d1:a767::/48",
                 "maxPrefixLength": 48,
@@ -10898,6 +10905,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "COMPUGLOBAL-MNT"
+            },
+            {
+                "asn": 4242421963,
+                "prefix": "172.20.128.104/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "LACERTAE-MNT"
             },
             {
                 "asn": 4242420977,
