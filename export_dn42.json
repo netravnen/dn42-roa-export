@@ -4229,6 +4229,13 @@
             "mnt-by": "NEVERBEHAVE-MNT"
         },
         {
+            "asn": "AS4242422352",
+            "prefix": "fd4c:6516:94e0::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BEEGEEPEE-MNT"
+        },
+        {
             "asn": "AS4242422633",
             "prefix": "fd4c:7750:c7e7::/48",
             "maxLength": 64,
@@ -14092,6 +14099,13 @@
             "mnt-by": "XICON-MNT"
         },
         {
+            "asn": "AS4242422352",
+            "prefix": "172.20.45.80/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BEEGEEPEE-MNT"
+        },
+        {
             "asn": "AS4242422600",
             "prefix": "172.20.46.0/26",
             "maxLength": 28,
@@ -19658,8 +19672,8 @@
         }
     ],
     "metadata": {
-        "counts": 2808,
-        "generated": 1622304929,
-        "valid": 1622736929
+        "counts": 2810,
+        "generated": 1622308535,
+        "valid": 1622740535
     }
 }
