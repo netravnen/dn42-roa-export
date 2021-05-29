@@ -1415,6 +1415,13 @@
             "mnt-by": "GOTROOT-MNT"
         },
         {
+            "asn": "AS4242420601",
+            "prefix": "fd1d:60e1:88fa::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LAEVATEIN-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd1d:62fd:3f4c:a247::/64",
             "maxLength": 64,
@@ -15513,6 +15520,13 @@
             "mnt-by": "OKASHI-MNT"
         },
         {
+            "asn": "AS4242420601",
+            "prefix": "172.21.92.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LAEVATEIN-MNT"
+        },
+        {
             "asn": "AS4242421020",
             "prefix": "172.21.93.0/27",
             "maxLength": 28,
@@ -19644,8 +19658,8 @@
         }
     ],
     "metadata": {
-        "counts": 2806,
-        "generated": 1622301304,
-        "valid": 1622733304
+        "counts": 2808,
+        "generated": 1622304929,
+        "valid": 1622736929
     }
 }
