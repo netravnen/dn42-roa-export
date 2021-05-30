@@ -6189,6 +6189,13 @@
             "mnt-by": "BAUDLORD-MNT"
         },
         {
+            "asn": "AS4242423352",
+            "prefix": "fd9e:bcbd:88::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "KEVIN335200-MNT"
+        },
+        {
             "asn": "AS4242422251",
             "prefix": "fd9e:e609:dde2::/48",
             "maxLength": 48,
@@ -13966,6 +13973,13 @@
             "mnt-by": "FUDNET-MNT"
         },
         {
+            "asn": "AS4242423352",
+            "prefix": "172.20.4.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KEVIN335200-MNT"
+        },
+        {
             "asn": "AS4242420194",
             "prefix": "172.20.4.112/28",
             "maxLength": 28,
@@ -19672,8 +19686,8 @@
         }
     ],
     "metadata": {
-        "counts": 2810,
-        "generated": 1622398504,
-        "valid": 1622830504
+        "counts": 2812,
+        "generated": 1622402129,
+        "valid": 1622834129
     }
 }
