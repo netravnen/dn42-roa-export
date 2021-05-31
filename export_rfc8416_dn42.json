@@ -6994,6 +6994,13 @@
                 "mnt-by": "MONICA-MNT"
             },
             {
+                "asn": 4242422553,
+                "prefix": "fdbc:f9dc:332::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "RIP-MNT"
+            },
+            {
                 "asn": 4242422547,
                 "prefix": "fdbc:f9dc:67ad::/48",
                 "maxPrefixLength": 64,
@@ -17933,6 +17940,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RINKOQWQ-MNT"
+            },
+            {
+                "asn": 4242422553,
+                "prefix": "172.23.110.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RIP-MNT"
             },
             {
                 "asn": 4242420344,

@@ -6987,6 +6987,13 @@
             "mnt-by": "MONICA-MNT"
         },
         {
+            "asn": "AS4242422553",
+            "prefix": "fdbc:f9dc:332::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "RIP-MNT"
+        },
+        {
             "asn": "AS4242422547",
             "prefix": "fdbc:f9dc:67ad::/48",
             "maxLength": 64,
@@ -17928,6 +17935,13 @@
             "mnt-by": "RINKOQWQ-MNT"
         },
         {
+            "asn": "AS4242422553",
+            "prefix": "172.23.110.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RIP-MNT"
+        },
+        {
             "asn": "AS4242420344",
             "prefix": "172.23.110.96/27",
             "maxLength": 28,
@@ -19686,8 +19700,8 @@
         }
     ],
     "metadata": {
-        "counts": 2812,
-        "generated": 1622445304,
-        "valid": 1622877304
+        "counts": 2814,
+        "generated": 1622448931,
+        "valid": 1622880931
     }
 }
