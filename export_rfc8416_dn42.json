@@ -6693,6 +6693,13 @@
                 "mnt-by": "LDG1-MNT"
             },
             {
+                "asn": 4242422256,
+                "prefix": "fdad:baa4:7742::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "AFILINI-MNT"
+            },
+            {
                 "asn": 4242420769,
                 "prefix": "fdae:43fb:3ab7::/48",
                 "maxPrefixLength": 48,
@@ -16232,6 +16239,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DUMERGURH-MNT"
+            },
+            {
+                "asn": 4242422256,
+                "prefix": "172.22.125.32/27",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "AFILINI-MNT"
             },
             {
                 "asn": 4242422462,
