@@ -8107,6 +8107,13 @@
                 "mnt-by": "PESCO-MNT"
             },
             {
+                "asn": 4242420955,
+                "prefix": "fde4:486f:416f::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NUEVO-MNT"
+            },
+            {
                 "asn": 65527,
                 "prefix": "fde6:36fc:c985::/64",
                 "maxPrefixLength": 64,
@@ -12536,6 +12543,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JOSEPHB-MNT"
+            },
+            {
+                "asn": 4242420955,
+                "prefix": "172.20.184.240/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NUEVO-MNT"
             },
             {
                 "asn": 4242423884,
