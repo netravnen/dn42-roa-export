@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit bb6baf540a59a8e7674c0f1589cecedeb03ec876
-Merge: f787b45a1 3cd32c624
-Date:   2021-06-03 23:58:44 +0000
+Commit 6fb82e0c9bde5b4868851d945fff91008739db84
+Merge: 929c44ba6 131705fa4
+Date:   2021-06-04 09:53:45 +0000
 
-    Merge pull request 'Add hackfront.dn42 and add keypin to HACKFRONT-MNT' (#847) from Hackfront-20210602/add-dns into master
+    Merge pull request 'Register afilini.dn42' (#854) from afilini-20210603/register-afilini.dn42 into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1304
 - ROAs total: 2818
 
-[0]: https://git.dn42.dev/dn42/registry/commit/bb6baf540a59a8e7674c0f1589cecedeb03ec876
+[0]: https://git.dn42.dev/dn42/registry/commit/6fb82e0c9bde5b4868851d945fff91008739db84
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
