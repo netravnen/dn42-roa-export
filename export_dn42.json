@@ -8758,6 +8758,13 @@
             "mnt-by": "HCROSS-MNT"
         },
         {
+            "asn": "AS4242420290",
+            "prefix": "fdf8:f2e5:897e::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "P1MNL-MNT"
+        },
+        {
             "asn": "AS4242422004",
             "prefix": "fdf9:2eea:f030::/48",
             "maxLength": 56,
@@ -11983,6 +11990,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "TSYMQ00-MNT"
+        },
+        {
+            "asn": "AS4242420290",
+            "prefix": "172.20.164.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "P1MNL-MNT"
         },
         {
             "asn": "AS4242420256",
@@ -19742,8 +19756,8 @@
         }
     ],
     "metadata": {
-        "counts": 2820,
-        "generated": 1622837704,
-        "valid": 1623269704
+        "counts": 2822,
+        "generated": 1622841330,
+        "valid": 1623273330
     }
 }
