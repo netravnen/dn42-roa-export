@@ -4544,6 +4544,13 @@
             "mnt-by": "IOANGOGO-MNT"
         },
         {
+            "asn": "AS4242421561",
+            "prefix": "fd59:8614:e4d::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MAXIMEHL-MNT"
+        },
+        {
             "asn": "AS4242420980",
             "prefix": "fd59:a9db:1a5e:670::/64",
             "maxLength": 64,
@@ -17557,6 +17564,13 @@
             "mnt-by": "CCCHB-NETGROUP-MNT"
         },
         {
+            "asn": "AS4242421561",
+            "prefix": "172.22.73.0/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MAXIMEHL-MNT"
+        },
+        {
             "asn": "AS4242423742",
             "prefix": "172.22.73.128/27",
             "maxLength": 28,
@@ -19728,8 +19742,8 @@
         }
     ],
     "metadata": {
-        "counts": 2818,
-        "generated": 1622801730,
-        "valid": 1623233730
+        "counts": 2820,
+        "generated": 1622805328,
+        "valid": 1623237328
     }
 }
