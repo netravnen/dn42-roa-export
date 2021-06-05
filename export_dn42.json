@@ -2185,6 +2185,13 @@
             "mnt-by": "NOP-MNT"
         },
         {
+            "asn": "AS4242422186",
+            "prefix": "fd40:964:86::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "XIAOIT-MNT"
+        },
+        {
             "asn": "AS4242420216",
             "prefix": "fd40:aac4:93b0::/48",
             "maxLength": 48,
@@ -15485,6 +15492,13 @@
             "mnt-by": "KUGATSU-MNT"
         },
         {
+            "asn": "AS4242422186",
+            "prefix": "172.21.86.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "XIAOIT-MNT"
+        },
+        {
             "asn": "AS4242420571",
             "prefix": "172.21.87.128/25",
             "maxLength": 28,
@@ -19756,8 +19770,8 @@
         }
     ],
     "metadata": {
-        "counts": 2822,
-        "generated": 1622902504,
-        "valid": 1623334504
+        "counts": 2824,
+        "generated": 1622906129,
+        "valid": 1623338129
     }
 }
