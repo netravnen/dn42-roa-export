@@ -4201,6 +4201,13 @@
             "mnt-by": "8FCDE-MNT"
         },
         {
+            "asn": "AS4242420288",
+            "prefix": "fd49:277:42::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "IWARP-MNT"
+        },
+        {
             "asn": "AS4242420737",
             "prefix": "fd49:5b5:b737::/48",
             "maxLength": 48,
@@ -4577,6 +4584,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "HERTZ-MNT"
+        },
+        {
+            "asn": "AS4242422165",
+            "prefix": "fd5a:9fd:324f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "AVEN-MNT"
         },
         {
             "asn": "AS4242420306",
@@ -17144,6 +17158,13 @@
             "mnt-by": "LAPISBLUE27-MNT"
         },
         {
+            "asn": "AS4242422165",
+            "prefix": "172.22.181.144/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AVEN-MNT"
+        },
+        {
             "asn": "AS4242422322",
             "prefix": "172.22.181.192/27",
             "maxLength": 28,
@@ -19482,6 +19503,13 @@
             "mnt-by": "MIAOTONY-MNT"
         },
         {
+            "asn": "AS4242420288",
+            "prefix": "172.23.60.0/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IWARP-MNT"
+        },
+        {
             "asn": "AS4242423158",
             "prefix": "172.23.60.128/25",
             "maxLength": 28,
@@ -19770,8 +19798,8 @@
         }
     ],
     "metadata": {
-        "counts": 2824,
-        "generated": 1622978104,
-        "valid": 1623410104
+        "counts": 2828,
+        "generated": 1622981733,
+        "valid": 1623413733
     }
 }
