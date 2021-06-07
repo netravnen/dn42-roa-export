@@ -1128,6 +1128,13 @@
             "mnt-by": "CAXAP-MNT"
         },
         {
+            "asn": "AS4242420213",
+            "prefix": "fd11:acac:961d::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "THOMAS405-MNT"
+        },
+        {
             "asn": "AS4242420160",
             "prefix": "fd11:ee7a:93aa::/48",
             "maxLength": 64,
@@ -4472,6 +4479,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "ZENITHAL-MNT"
+        },
+        {
+            "asn": "AS4242421377",
+            "prefix": "fd55:ab27:becc::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "THELASTFREEDOM-MNT"
         },
         {
             "asn": "AS64654",
@@ -17718,6 +17732,13 @@
             "mnt-by": "XNG-MNT"
         },
         {
+            "asn": "AS4242420213",
+            "prefix": "172.22.76.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "THOMAS405-MNT"
+        },
+        {
             "asn": "AS4242422547",
             "prefix": "172.22.76.96/27",
             "maxLength": 28,
@@ -19496,6 +19517,13 @@
             "mnt-by": "LOINTAIN-MNT"
         },
         {
+            "asn": "AS4242422411",
+            "prefix": "172.23.59.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FCI001-MNT"
+        },
+        {
             "asn": "AS4242421194",
             "prefix": "172.23.59.64/27",
             "maxLength": 28,
@@ -19613,6 +19641,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "QFW-MNT"
+        },
+        {
+            "asn": "AS4242421377",
+            "prefix": "172.23.78.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "THELASTFREEDOM-MNT"
         },
         {
             "asn": "AS4242421930",
@@ -19805,8 +19840,8 @@
         }
     ],
     "metadata": {
-        "counts": 2829,
-        "generated": 1623050103,
-        "valid": 1623482103
+        "counts": 2834,
+        "generated": 1623053733,
+        "valid": 1623485733
     }
 }
