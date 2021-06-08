@@ -8751,6 +8751,13 @@
                 "mnt-by": "WEITI-MNT"
             },
             {
+                "asn": 4242421305,
+                "prefix": "fdf7:7895:dd71::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242421518,
                 "prefix": "fdf7:bca:c983::/48",
                 "maxPrefixLength": 64,
@@ -13499,6 +13506,13 @@
             {
                 "asn": 4242421245,
                 "prefix": "172.20.232.144/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
+                "asn": 4242421305,
+                "prefix": "172.20.232.152/29",
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "GATUNO-MNT"
