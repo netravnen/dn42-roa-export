@@ -1730,6 +1730,13 @@
             "mnt-by": "VICTORROMAN-MNT"
         },
         {
+            "asn": "AS4242422401",
+            "prefix": "fd26:d901:bd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MIDAUTUMNMOON-MNT"
+        },
+        {
             "asn": "AS4242420342",
             "prefix": "fd27:2313:eee5::/48",
             "maxLength": 64,
@@ -19692,6 +19699,13 @@
             "mnt-by": "XINZHAO-MNT"
         },
         {
+            "asn": "AS4242422401",
+            "prefix": "172.23.8.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MIDAUTUMNMOON-MNT"
+        },
+        {
             "asn": "AS4242422857",
             "prefix": "172.23.82.0/24",
             "maxLength": 28,
@@ -19868,8 +19882,8 @@
         }
     ],
     "metadata": {
-        "counts": 2838,
-        "generated": 1623176104,
-        "valid": 1623608104
+        "counts": 2840,
+        "generated": 1623179732,
+        "valid": 1623611732
     }
 }
