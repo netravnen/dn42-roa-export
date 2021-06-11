@@ -19447,6 +19447,13 @@
                 "mnt-by": "MFK-MNT"
             },
             {
+                "asn": 4242422889,
+                "prefix": "172.23.4.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WZQ-MNT"
+            },
+            {
                 "asn": 4242420515,
                 "prefix": "172.23.40.0/25",
                 "maxPrefixLength": 28,

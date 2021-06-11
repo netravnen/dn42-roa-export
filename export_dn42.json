@@ -19440,6 +19440,13 @@
             "mnt-by": "MFK-MNT"
         },
         {
+            "asn": "AS4242422889",
+            "prefix": "172.23.4.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WZQ-MNT"
+        },
+        {
             "asn": "AS4242420515",
             "prefix": "172.23.40.0/25",
             "maxLength": 28,
@@ -19896,8 +19903,8 @@
         }
     ],
     "metadata": {
-        "counts": 2842,
-        "generated": 1623410104,
-        "valid": 1623842104
+        "counts": 2843,
+        "generated": 1623413731,
+        "valid": 1623845731
     }
 }
