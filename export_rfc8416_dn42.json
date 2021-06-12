@@ -1489,7 +1489,7 @@
                 "prefix": "fd1f:ce1e:ff42::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
-                "mnt-by": "MAX-MNT"
+                "mnt-by": "NETALI-MNT"
             },
             {
                 "asn": 4242423646,
@@ -4244,6 +4244,13 @@
             },
             {
                 "asn": 4242420288,
+                "prefix": "fd49:277:42::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "IWARP-MNT"
+            },
+            {
+                "asn": 4201270030,
                 "prefix": "fd49:277:42::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
@@ -7594,6 +7601,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "HEXA-MNT"
+            },
+            {
+                "asn": 4242422411,
+                "prefix": "fdcb:b595:2ddf::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "FCI001-MNT"
             },
             {
                 "asn": 4242423963,
@@ -19602,6 +19616,13 @@
             },
             {
                 "asn": 4242420288,
+                "prefix": "172.23.60.0/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "IWARP-MNT"
+            },
+            {
+                "asn": 4201270030,
                 "prefix": "172.23.60.0/25",
                 "maxPrefixLength": 28,
                 "source": "DN42",

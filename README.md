@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit b2cc8231787c7d1050ee25d651242d87bc629ab8
-Merge: 3d1c5f772 800283f31
-Date:   2021-06-11 11:38:53 +0000
+Commit 45ec563214fd15a37c9e0c09bf685f6d46a00e55
+Merge: 2312a965d 73572b944
+Date:   2021-06-12 18:53:51 +0000
 
-    Merge pull request 'add an email' (#876) from kskb-20210608/update into master
+    Merge pull request 'Allow NeoNetwork AS4201270030 to announce my prefixes' (#883) from crewmate-20210612/allow-neo into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1527
-- ROAs IPv6:  1316
-- ROAs total: 2843
+- ROAs IPv4:  1528
+- ROAs IPv6:  1318
+- ROAs total: 2846
 
-[0]: https://git.dn42.dev/dn42/registry/commit/b2cc8231787c7d1050ee25d651242d87bc629ab8
+[0]: https://git.dn42.dev/dn42/registry/commit/45ec563214fd15a37c9e0c09bf685f6d46a00e55
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
