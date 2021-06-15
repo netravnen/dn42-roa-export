@@ -7225,6 +7225,13 @@
             "mnt-by": "TSYS-MNT"
         },
         {
+            "asn": "AS4242422810",
+            "prefix": "fdc1:e70f:34b0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PRESENTMONKEY-MNT"
+        },
+        {
             "asn": "AS4242422713",
             "prefix": "fdc2:1708:72bc::/48",
             "maxLength": 64,
@@ -19811,6 +19818,13 @@
             "mnt-by": "BGP1-MNT"
         },
         {
+            "asn": "AS4242422810",
+            "prefix": "172.23.84.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PRESENTMONKEY-MNT"
+        },
+        {
             "asn": "AS4242422386",
             "prefix": "172.23.86.0/27",
             "maxLength": 28,
@@ -19938,8 +19952,8 @@
         }
     ],
     "metadata": {
-        "counts": 2848,
-        "generated": 1623741304,
-        "valid": 1624173304
+        "counts": 2850,
+        "generated": 1623744929,
+        "valid": 1624176929
     }
 }

@@ -7232,6 +7232,13 @@
                 "mnt-by": "TSYS-MNT"
             },
             {
+                "asn": 4242422810,
+                "prefix": "fdc1:e70f:34b0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PRESENTMONKEY-MNT"
+            },
+            {
                 "asn": 4242422713,
                 "prefix": "fdc2:1708:72bc::/48",
                 "maxPrefixLength": 64,
@@ -19816,6 +19823,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BGP1-MNT"
+            },
+            {
+                "asn": 4242422810,
+                "prefix": "172.23.84.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PRESENTMONKEY-MNT"
             },
             {
                 "asn": 4242422386,
