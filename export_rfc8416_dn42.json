@@ -18328,7 +18328,7 @@
             },
             {
                 "asn": 4242421469,
-                "prefix": "172.23.13.8/29",
+                "prefix": "172.23.13.32/27",
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "JHEWITT-MNT"

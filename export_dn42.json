@@ -18321,7 +18321,7 @@
         },
         {
             "asn": "AS4242421469",
-            "prefix": "172.23.13.8/29",
+            "prefix": "172.23.13.32/27",
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "JHEWITT-MNT"
@@ -19953,7 +19953,7 @@
     ],
     "metadata": {
         "counts": 2850,
-        "generated": 1623827704,
-        "valid": 1624259704
+        "generated": 1623831338,
+        "valid": 1624263338
     }
 }
