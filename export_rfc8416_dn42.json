@@ -8044,6 +8044,13 @@
                 "mnt-by": "7MARCUS9-MNT"
             },
             {
+                "asn": 4242421231,
+                "prefix": "fdde:4869:4062::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CAESIA-MNT"
+            },
+            {
                 "asn": 4242422204,
                 "prefix": "fdde:690a:20fc:39ff::/64",
                 "maxPrefixLength": 64,
