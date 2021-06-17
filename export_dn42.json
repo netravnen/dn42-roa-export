@@ -3565,7 +3565,14 @@
         },
         {
             "asn": "AS4242421123",
-            "prefix": "fd42:babe:cafe::/48",
+            "prefix": "fd42:babe:caf0::/44",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NEO-MNT"
+        },
+        {
+            "asn": "AS4242421121",
+            "prefix": "fd42:babe:caf0::/44",
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NEO-MNT"
@@ -19959,8 +19966,8 @@
         }
     ],
     "metadata": {
-        "counts": 2851,
-        "generated": 1623914105,
-        "valid": 1624346105
+        "counts": 2852,
+        "generated": 1623917733,
+        "valid": 1624349733
     }
 }

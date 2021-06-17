@@ -3572,7 +3572,14 @@
             },
             {
                 "asn": 4242421123,
-                "prefix": "fd42:babe:cafe::/48",
+                "prefix": "fd42:babe:caf0::/44",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NEO-MNT"
+            },
+            {
+                "asn": 4242421121,
+                "prefix": "fd42:babe:caf0::/44",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NEO-MNT"
