@@ -6714,6 +6714,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242423940,
+                "prefix": "fda9:a0e2:ea98::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RVB-MNT"
+            },
+            {
                 "asn": 4242422619,
                 "prefix": "fda9:b90:2fab::/48",
                 "maxPrefixLength": 48,
@@ -17543,6 +17550,13 @@
                 "mnt-by": "CREST-MNT"
             },
             {
+                "asn": 4242423940,
+                "prefix": "172.22.255.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RVB-MNT"
+            },
+            {
                 "asn": 64626,
                 "prefix": "172.22.26.0/23",
                 "maxPrefixLength": 28,
@@ -19305,6 +19319,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PATRYK-MNT"
+            },
+            {
+                "asn": 4242423812,
+                "prefix": "172.23.24.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FWLB-MNT"
             },
             {
                 "asn": 4242421964,

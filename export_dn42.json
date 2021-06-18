@@ -6707,6 +6707,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242423940",
+            "prefix": "fda9:a0e2:ea98::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RVB-MNT"
+        },
+        {
             "asn": "AS4242422619",
             "prefix": "fda9:b90:2fab::/48",
             "maxLength": 48,
@@ -17536,6 +17543,13 @@
             "mnt-by": "CREST-MNT"
         },
         {
+            "asn": "AS4242423940",
+            "prefix": "172.22.255.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "RVB-MNT"
+        },
+        {
             "asn": "AS64626",
             "prefix": "172.22.26.0/23",
             "maxLength": 28,
@@ -19300,6 +19314,13 @@
             "mnt-by": "PATRYK-MNT"
         },
         {
+            "asn": "AS4242423812",
+            "prefix": "172.23.24.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FWLB-MNT"
+        },
+        {
             "asn": "AS4242421964",
             "prefix": "172.23.24.32/27",
             "maxLength": 28,
@@ -19980,8 +20001,8 @@
         }
     ],
     "metadata": {
-        "counts": 2854,
-        "generated": 1624036505,
-        "valid": 1624468505
+        "counts": 2857,
+        "generated": 1624040162,
+        "valid": 1624472162
     }
 }
