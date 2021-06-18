@@ -6329,6 +6329,13 @@
             "mnt-by": "TBSPACE-MNT"
         },
         {
+            "asn": "AS4242420439",
+            "prefix": "fda0:3d4f:a414::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DAVIDNULLSWORTH-MNT"
+        },
+        {
             "asn": "AS65397",
             "prefix": "fda0:747e:ab29:209::/64",
             "maxLength": 64,
@@ -17753,6 +17760,13 @@
             "mnt-by": "HPP-MNT"
         },
         {
+            "asn": "AS4242420439",
+            "prefix": "172.22.73.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DAVIDNULLSWORTH-MNT"
+        },
+        {
             "asn": "AS4242420189",
             "prefix": "172.22.73.32/27",
             "maxLength": 28,
@@ -19966,8 +19980,8 @@
         }
     ],
     "metadata": {
-        "counts": 2852,
-        "generated": 1624004105,
-        "valid": 1624436105
+        "counts": 2854,
+        "generated": 1624007731,
+        "valid": 1624439731
     }
 }
