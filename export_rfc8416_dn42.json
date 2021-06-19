@@ -13196,6 +13196,13 @@
                 "mnt-by": "ANA-MNT"
             },
             {
+                "asn": 4242423247,
+                "prefix": "172.20.204.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "EXILE-MNT"
+            },
+            {
                 "asn": 4242421049,
                 "prefix": "172.20.204.192/26",
                 "maxPrefixLength": 28,

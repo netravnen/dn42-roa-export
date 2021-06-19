@@ -13189,6 +13189,13 @@
             "mnt-by": "ANA-MNT"
         },
         {
+            "asn": "AS4242423247",
+            "prefix": "172.20.204.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "EXILE-MNT"
+        },
+        {
             "asn": "AS4242421049",
             "prefix": "172.20.204.192/26",
             "maxLength": 28,
@@ -20001,8 +20008,8 @@
         }
     ],
     "metadata": {
-        "counts": 2857,
-        "generated": 1624097704,
-        "valid": 1624529704
+        "counts": 2858,
+        "generated": 1624101330,
+        "valid": 1624533330
     }
 }
