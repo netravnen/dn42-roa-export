@@ -9801,6 +9801,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4201270012,
+                "prefix": "10.127.5.16/28",
+                "maxPrefixLength": 29,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
                 "asn": 4201270004,
                 "prefix": "10.127.56.0/24",
                 "maxPrefixLength": 29,
