@@ -2248,6 +2248,13 @@
             "mnt-by": "NOP-MNT"
         },
         {
+            "asn": "AS4242422817",
+            "prefix": "fd40:c2c9:e640::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NEKONEKONYA-MNT"
+        },
+        {
             "asn": "AS4242421955",
             "prefix": "fd40:cc1e:c0de::/48",
             "maxLength": 64,
@@ -15989,6 +15996,13 @@
             "mnt-by": "DGHUBBLE-MNT"
         },
         {
+            "asn": "AS4242422817",
+            "prefix": "172.22.101.64/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NEKONEKONYA-MNT"
+        },
+        {
             "asn": "AS4242427877",
             "prefix": "172.22.101.80/28",
             "maxLength": 28,
@@ -20015,8 +20029,8 @@
         }
     ],
     "metadata": {
-        "counts": 2859,
-        "generated": 1624299306,
-        "valid": 1624731306
+        "counts": 2861,
+        "generated": 1624302930,
+        "valid": 1624734930
     }
 }

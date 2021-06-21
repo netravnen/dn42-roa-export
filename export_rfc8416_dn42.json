@@ -2255,6 +2255,13 @@
                 "mnt-by": "NOP-MNT"
             },
             {
+                "asn": 4242422817,
+                "prefix": "fd40:c2c9:e640::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "NEKONEKONYA-MNT"
+            },
+            {
                 "asn": 4242421955,
                 "prefix": "fd40:cc1e:c0de::/48",
                 "maxPrefixLength": 64,
@@ -15994,6 +16001,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DGHUBBLE-MNT"
+            },
+            {
+                "asn": 4242422817,
+                "prefix": "172.22.101.64/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NEKONEKONYA-MNT"
             },
             {
                 "asn": 4242427877,
