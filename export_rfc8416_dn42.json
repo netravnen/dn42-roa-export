@@ -6602,6 +6602,13 @@
                 "mnt-by": "SNOC-MNT"
             },
             {
+                "asn": 4242420688,
+                "prefix": "fda5:a8a8:9989::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MATWOLF-MNT"
+            },
+            {
                 "asn": 4242422369,
                 "prefix": "fda5:ac02:e120::/48",
                 "maxPrefixLength": 48,
@@ -13908,6 +13915,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZERTAP-MNT"
+            },
+            {
+                "asn": 4242420688,
+                "prefix": "172.20.28.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MATWOLF-MNT"
             },
             {
                 "asn": 4242423331,
