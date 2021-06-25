@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 165a87286d27dc3da62036d2d5147d28f938cbae
-Merge: f1ecad7ec 0654d4952
-Date:   2021-06-23 11:27:20 +0000
+Commit 5208863285ed4b5fbae74c29a547e1b8dc2995b8
+Merge: 165a87286 b12d63aeb
+Date:   2021-06-25 08:08:55 +0000
 
-    Merge pull request 'Register: MATWOLF-MNT, AS-MATWOLF-DN42, MATWOLF-DN42, fda5:a8a8:9989::_48, 172.20.28.224_27' (#897) from Matwolf-20210622/registration into master
+    Merge pull request 'Register AS, ORG, MNT, PERSON, INETNUM, INET6NUM, ROUTE, ROUTE6' (#899) from thomas.mazaud-20210624/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1537
-- ROAs IPv6:  1326
-- ROAs total: 2863
+- ROAs IPv4:  1538
+- ROAs IPv6:  1327
+- ROAs total: 2865
 
-[0]: https://git.dn42.dev/dn42/registry/commit/165a87286d27dc3da62036d2d5147d28f938cbae
+[0]: https://git.dn42.dev/dn42/registry/commit/5208863285ed4b5fbae74c29a547e1b8dc2995b8
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

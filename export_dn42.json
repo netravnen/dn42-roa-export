@@ -4880,6 +4880,13 @@
             "mnt-by": "P3BK4C-MNT"
         },
         {
+            "asn": "AS4242421422",
+            "prefix": "fd63:770:4242::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SOCIALEO-MNT"
+        },
+        {
             "asn": "AS4242420316",
             "prefix": "fd63:b0d8:696e::/48",
             "maxLength": 48,
@@ -15681,6 +15688,13 @@
             "mnt-by": "XIAOIT-MNT"
         },
         {
+            "asn": "AS4242421422",
+            "prefix": "172.21.87.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SOCIALEO-MNT"
+        },
+        {
             "asn": "AS4242420571",
             "prefix": "172.21.87.128/25",
             "maxLength": 28,
@@ -20043,8 +20057,8 @@
         }
     ],
     "metadata": {
-        "counts": 2863,
-        "generated": 1624605304,
-        "valid": 1625037304
+        "counts": 2865,
+        "generated": 1624608929,
+        "valid": 1625040929
     }
 }

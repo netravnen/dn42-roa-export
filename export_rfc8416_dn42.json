@@ -4887,6 +4887,13 @@
                 "mnt-by": "P3BK4C-MNT"
             },
             {
+                "asn": 4242421422,
+                "prefix": "fd63:770:4242::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SOCIALEO-MNT"
+            },
+            {
                 "asn": 4242420316,
                 "prefix": "fd63:b0d8:696e::/48",
                 "maxPrefixLength": 48,
@@ -15686,6 +15693,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "XIAOIT-MNT"
+            },
+            {
+                "asn": 4242421422,
+                "prefix": "172.21.87.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SOCIALEO-MNT"
             },
             {
                 "asn": 4242420571,
