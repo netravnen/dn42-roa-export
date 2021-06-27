@@ -673,6 +673,13 @@
             "mnt-by": "DREAMRY-MNT"
         },
         {
+            "asn": "AS4242422478",
+            "prefix": "fd0b:c5a0:371::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "INVARION-MNT"
+        },
+        {
             "asn": "AS4242422032",
             "prefix": "fd0b:da1a:9768::/48",
             "maxLength": 48,
@@ -13000,6 +13007,13 @@
             "mnt-by": "SNOC-MNT"
         },
         {
+            "asn": "AS4242422478",
+            "prefix": "172.20.192.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "INVARION-MNT"
+        },
+        {
             "asn": "AS4242420115",
             "prefix": "172.20.192.64/27",
             "maxLength": 28,
@@ -20127,8 +20141,8 @@
         }
     ],
     "metadata": {
-        "counts": 2875,
-        "generated": 1624824930,
-        "valid": 1625256930
+        "counts": 2877,
+        "generated": 1624828535,
+        "valid": 1625260535
     }
 }
