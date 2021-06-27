@@ -4796,6 +4796,13 @@
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
+                "asn": 4242420639,
+                "prefix": "fd60:3124:f80c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MYON-MNT"
+            },
+            {
                 "asn": 4242423852,
                 "prefix": "fd62:172:23:125::/64",
                 "maxPrefixLength": 64,
@@ -8679,6 +8686,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "LUYS-MNT"
+            },
+            {
+                "asn": 4242422479,
+                "prefix": "fdf1:5237:dd::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "THUNFISCH-MNT"
             },
             {
                 "asn": 64895,
@@ -17333,6 +17347,13 @@
                 "mnt-by": "ITUNALI-MNT"
             },
             {
+                "asn": 4242420639,
+                "prefix": "172.22.177.80/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MYON-MNT"
+            },
+            {
                 "asn": 4242422292,
                 "prefix": "172.22.180.0/26",
                 "maxPrefixLength": 28,
@@ -18836,6 +18857,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SKYWARS-MNT"
+            },
+            {
+                "asn": 4242422479,
+                "prefix": "172.23.177.0/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "THUNFISCH-MNT"
             },
             {
                 "asn": 4242420414,
