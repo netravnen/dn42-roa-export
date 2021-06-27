@@ -2115,6 +2115,13 @@
             "mnt-by": "TRACE-MNT"
         },
         {
+            "asn": "AS4242423668",
+            "prefix": "fd3a:b115:b1ed::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BASTELFREAK-MNT"
+        },
+        {
             "asn": "AS4242423055",
             "prefix": "fd3b:1784:edbb::/48",
             "maxLength": 64,
@@ -6273,6 +6280,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420860",
+            "prefix": "fd9d:7372:f0d0::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BANDONGA-MNT"
+        },
+        {
             "asn": "AS4242422833",
             "prefix": "fd9d:d085:ba76::/48",
             "maxLength": 48,
@@ -8049,6 +8063,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242420284",
+            "prefix": "fddd:9d4f:8420::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SNAILZ-MNT"
         },
         {
             "asn": "AS4242421119",
@@ -12538,6 +12559,13 @@
             "mnt-by": "VOXILITY-MNT"
         },
         {
+            "asn": "AS4242420284",
+            "prefix": "172.20.177.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SNAILZ-MNT"
+        },
+        {
             "asn": "AS4242423238",
             "prefix": "172.20.178.0/27",
             "maxLength": 28,
@@ -13852,6 +13880,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "WEEJITS-MNT"
+        },
+        {
+            "asn": "AS4242423668",
+            "prefix": "172.20.246.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BASTELFREAK-MNT"
         },
         {
             "asn": "AS4242420630",
@@ -15595,6 +15630,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ZHYZ-MNT"
+        },
+        {
+            "asn": "AS4242420860",
+            "prefix": "172.21.77.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BANDONGA-MNT"
         },
         {
             "asn": "AS4242420927",
@@ -20085,8 +20127,8 @@
         }
     ],
     "metadata": {
-        "counts": 2869,
-        "generated": 1624821304,
-        "valid": 1625253304
+        "counts": 2875,
+        "generated": 1624824930,
+        "valid": 1625256930
     }
 }

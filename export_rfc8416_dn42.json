@@ -2122,6 +2122,13 @@
                 "mnt-by": "TRACE-MNT"
             },
             {
+                "asn": 4242423668,
+                "prefix": "fd3a:b115:b1ed::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BASTELFREAK-MNT"
+            },
+            {
                 "asn": 4242423055,
                 "prefix": "fd3b:1784:edbb::/48",
                 "maxPrefixLength": 64,
@@ -6280,6 +6287,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420860,
+                "prefix": "fd9d:7372:f0d0::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BANDONGA-MNT"
+            },
+            {
                 "asn": 4242422833,
                 "prefix": "fd9d:d085:ba76::/48",
                 "maxPrefixLength": 48,
@@ -8056,6 +8070,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242420284,
+                "prefix": "fddd:9d4f:8420::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SNAILZ-MNT"
             },
             {
                 "asn": 4242421119,
@@ -12545,6 +12566,13 @@
                 "mnt-by": "VOXILITY-MNT"
             },
             {
+                "asn": 4242420284,
+                "prefix": "172.20.177.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SNAILZ-MNT"
+            },
+            {
                 "asn": 4242423238,
                 "prefix": "172.20.178.0/27",
                 "maxPrefixLength": 28,
@@ -13859,6 +13887,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "WEEJITS-MNT"
+            },
+            {
+                "asn": 4242423668,
+                "prefix": "172.20.246.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BASTELFREAK-MNT"
             },
             {
                 "asn": 4242420630,
@@ -15602,6 +15637,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZHYZ-MNT"
+            },
+            {
+                "asn": 4242420860,
+                "prefix": "172.21.77.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BANDONGA-MNT"
             },
             {
                 "asn": 4242420927,
