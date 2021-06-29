@@ -1352,6 +1352,13 @@
                 "mnt-by": "CLEMENT-MNT"
             },
             {
+                "asn": 4242421810,
+                "prefix": "fd18:6e18:2d15::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242421550,
                 "prefix": "fd19:11ec:bed7::/48",
                 "maxPrefixLength": 48,
@@ -7736,6 +7743,13 @@
                 "mnt-by": "SPACE24-MNT"
             },
             {
+                "asn": 4242421330,
+                "prefix": "fdcc:f090:ab75::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
                 "asn": 4242422002,
                 "prefix": "fdcd:3682:1c17::/48",
                 "maxPrefixLength": 64,
@@ -13688,6 +13702,20 @@
             {
                 "asn": 4242421305,
                 "prefix": "172.20.232.152/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
+                "asn": 4242421810,
+                "prefix": "172.20.232.160/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "GATUNO-MNT"
+            },
+            {
+                "asn": 4242421330,
+                "prefix": "172.20.232.168/29",
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "GATUNO-MNT"
