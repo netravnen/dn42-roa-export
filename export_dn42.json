@@ -5041,6 +5041,13 @@
             "mnt-by": "FSNX-MNT"
         },
         {
+            "asn": "AS4242421366",
+            "prefix": "fd68:c13a:2df3::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242423759",
             "prefix": "fd68:ea13:20f::/48",
             "maxLength": 64,
@@ -13728,6 +13735,13 @@
             "mnt-by": "GATUNO-MNT"
         },
         {
+            "asn": "AS4242421366",
+            "prefix": "172.20.232.176/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "GATUNO-MNT"
+        },
+        {
             "asn": "AS4242420741",
             "prefix": "172.20.232.32/27",
             "maxLength": 28,
@@ -20183,8 +20197,8 @@
         }
     ],
     "metadata": {
-        "counts": 2883,
-        "generated": 1625069704,
-        "valid": 1625501704
+        "counts": 2885,
+        "generated": 1625073329,
+        "valid": 1625505329
     }
 }
