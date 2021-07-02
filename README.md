@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit bf8fc8daac49e897307cb023b2213dc253fbee7d
-Merge: 20d3a321d 320300a18
-Date:   2021-06-30 16:57:35 +0000
+Commit 3e9a987c0f9be089bffa3c1ab7f7fbf4858b1f0b
+Merge: bad05f108 2d02a342e
+Date:   2021-07-02 07:57:03 +0000
 
-    Merge pull request 'New student.' (#912) from gatuno-20210630/new_student into master
+    Merge pull request 'plasma: add auth to my mnt from webinterface and change/add dns' (#915) from plasma-20210701/add_auth into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1337
 - ROAs total: 2885
 
-[0]: https://git.dn42.dev/dn42/registry/commit/bf8fc8daac49e897307cb023b2213dc253fbee7d
+[0]: https://git.dn42.dev/dn42/registry/commit/3e9a987c0f9be089bffa3c1ab7f7fbf4858b1f0b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
