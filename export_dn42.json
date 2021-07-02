@@ -6644,6 +6644,13 @@
             "mnt-by": "SOUTERRAIN-MNT"
         },
         {
+            "asn": "AS4242421587",
+            "prefix": "fda4:fb6e:a084::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DEVBEN-MNT"
+        },
+        {
             "asn": "AS4242423917",
             "prefix": "fda5:2522:729::/48",
             "maxLength": 64,
@@ -13077,6 +13084,13 @@
             "mnt-by": "GXA-MNT"
         },
         {
+            "asn": "AS4242421587",
+            "prefix": "172.20.195.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DEVBEN-MNT"
+        },
+        {
             "asn": "AS4242421979",
             "prefix": "172.20.195.128/27",
             "maxLength": 28,
@@ -15875,13 +15889,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ERINN-MNT"
-        },
-        {
-            "asn": "AS4242421587",
-            "prefix": "172.21.89.192/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "DEVBEN-MNT"
         },
         {
             "asn": "AS4242421994",
@@ -20197,8 +20204,8 @@
         }
     ],
     "metadata": {
-        "counts": 2885,
-        "generated": 1625253305,
-        "valid": 1625685305
+        "counts": 2886,
+        "generated": 1625256929,
+        "valid": 1625688929
     }
 }
