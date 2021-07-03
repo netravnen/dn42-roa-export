@@ -2990,6 +2990,13 @@
                 "mnt-by": "HANKB-MNT"
             },
             {
+                "asn": 4242422322,
+                "prefix": "fd42:4242:2322::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "PLASMATRIX-MNT"
+            },
+            {
                 "asn": 4242420510,
                 "prefix": "fd42:4242:23::/48",
                 "maxPrefixLength": 64,

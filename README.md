@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 048e6076853faf4517ca3884b84279e202421a47
-Merge: 9f34b504c 81138b045
-Date:   2021-07-03 10:56:14 +0000
+Commit 9b098aa41b51fe80f078ae8e8c73cfe14922f8f3
+Merge: 048e60768 51db4adee
+Date:   2021-07-03 19:58:15 +0000
 
-    Merge pull request 'reclaim KEISI-MNT' (#918) from keisisqrl-20210702/reclaim into master
+    Merge pull request 'plasma: add ipv6 - fd42:4242:2322::/48' (#923) from plasma-20210703/add_ipv6_too into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1548
-- ROAs IPv6:  1338
-- ROAs total: 2886
+- ROAs IPv6:  1339
+- ROAs total: 2887
 
-[0]: https://git.dn42.dev/dn42/registry/commit/048e6076853faf4517ca3884b84279e202421a47
+[0]: https://git.dn42.dev/dn42/registry/commit/9b098aa41b51fe80f078ae8e8c73cfe14922f8f3
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

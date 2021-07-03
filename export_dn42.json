@@ -2983,6 +2983,13 @@
             "mnt-by": "HANKB-MNT"
         },
         {
+            "asn": "AS4242422322",
+            "prefix": "fd42:4242:2322::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "PLASMATRIX-MNT"
+        },
+        {
             "asn": "AS4242420510",
             "prefix": "fd42:4242:23::/48",
             "maxLength": 64,
@@ -20204,8 +20211,8 @@
         }
     ],
     "metadata": {
-        "counts": 2886,
-        "generated": 1625339705,
-        "valid": 1625771705
+        "counts": 2887,
+        "generated": 1625343327,
+        "valid": 1625775327
     }
 }
