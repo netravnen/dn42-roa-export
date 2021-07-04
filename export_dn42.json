@@ -2010,6 +2010,13 @@
             "mnt-by": "LALAKIS-MNT"
         },
         {
+            "asn": "AS4242422273",
+            "prefix": "fd33:2dd3:9870::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HRNZ-MNT"
+        },
+        {
             "asn": "AS4242421243",
             "prefix": "fd33:9493:a6ed::/48",
             "maxLength": 64,
@@ -19972,6 +19979,13 @@
             "mnt-by": "KUTOUAKIRA-MNT"
         },
         {
+            "asn": "AS4242422273",
+            "prefix": "172.23.75.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HRNZ-MNT"
+        },
+        {
             "asn": "AS4242422305",
             "prefix": "172.23.76.0/26",
             "maxLength": 28,
@@ -20211,8 +20225,8 @@
         }
     ],
     "metadata": {
-        "counts": 2887,
-        "generated": 1625418904,
-        "valid": 1625850904
+        "counts": 2889,
+        "generated": 1625422531,
+        "valid": 1625854531
     }
 }
