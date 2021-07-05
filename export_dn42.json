@@ -2992,7 +2992,7 @@
         {
             "asn": "AS4242422322",
             "prefix": "fd42:4242:2322::/48",
-            "maxLength": 64,
+            "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "PLASMATRIX-MNT"
         },
@@ -20226,7 +20226,7 @@
     ],
     "metadata": {
         "counts": 2889,
-        "generated": 1625505304,
-        "valid": 1625937304
+        "generated": 1625508932,
+        "valid": 1625940932
     }
 }
