@@ -2479,6 +2479,13 @@
                 "mnt-by": "JPLITZA-MNT"
             },
             {
+                "asn": 4242422696,
+                "prefix": "fd42:1337:2511::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LUKAS2511-MNT"
+            },
+            {
                 "asn": 4242421441,
                 "prefix": "fd42:1441:1441::/48",
                 "maxPrefixLength": 64,
@@ -19326,6 +19333,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SERNET-MNT"
+            },
+            {
+                "asn": 4242422696,
+                "prefix": "172.23.217.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LUKAS2511-MNT"
             },
             {
                 "asn": 4242421588,
