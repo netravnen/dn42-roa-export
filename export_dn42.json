@@ -666,6 +666,13 @@
             "mnt-by": "HONDA-MNT"
         },
         {
+            "asn": "AS4242422116",
+            "prefix": "fd0b:1aae:3130::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "COKEMINE-MNT"
+        },
+        {
             "asn": "AS205532",
             "prefix": "fd0b:4340:a0::/48",
             "maxLength": 48,
@@ -18222,6 +18229,13 @@
             "mnt-by": "RADIONOISE-MNT"
         },
         {
+            "asn": "AS4242422116",
+            "prefix": "172.23.10.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "COKEMINE-MNT"
+        },
+        {
             "asn": "AS4242420980",
             "prefix": "172.23.100.0/25",
             "maxLength": 28,
@@ -20239,8 +20253,8 @@
         }
     ],
     "metadata": {
-        "counts": 2891,
-        "generated": 1625580905,
-        "valid": 1626012905
+        "counts": 2893,
+        "generated": 1625584531,
+        "valid": 1626016531
     }
 }
