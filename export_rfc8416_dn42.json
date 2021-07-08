@@ -4289,7 +4289,7 @@
                 "prefix": "fd46:aa43::/32",
                 "maxPrefixLength": 64,
                 "source": "DN42",
-                "mnt-by": "LIFEDIO-MNT"
+                "mnt-by": "GURUCAMP-GB-MNT"
             },
             {
                 "asn": 4242421037,
@@ -13424,7 +13424,21 @@
                 "prefix": "172.20.208.0/24",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "LIFEDIO-MNT"
+                "mnt-by": "GURUCAMP-GB-MNT"
+            },
+            {
+                "asn": 64613,
+                "prefix": "172.20.208.0/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GURUCAMP-GB-MNT"
+            },
+            {
+                "asn": 64613,
+                "prefix": "172.20.208.128/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "GURUCAMP-GB-MNT"
             },
             {
                 "asn": 4242420215,

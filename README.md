@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 1fa1554b939c1933040f686f81a0644b972a8d2d
-Merge: b02bf5cce fd3365ead
-Date:   2021-07-07 04:55:15 +0000
+Commit 8768f403fa5bbce40a7a55174363d52d4a9d128b
+Merge: b7d95b520 431109f1e
+Date:   2021-07-08 09:14:31 +0000
 
-    Merge pull request 'RADIONOISE-MNT: Add MNT Key Pin & ssh key' (#932) from Misaka_0x34ca/registry:Misaka_0x34ca/add-mnt-key-pin-and-ssh-key into master
+    Merge pull request 'add ssh-auth to n0emis' (#934) from n0emis-20210707/add-ssh-key into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1551
+- ROAs IPv4:  1553
 - ROAs IPv6:  1342
-- ROAs total: 2893
+- ROAs total: 2895
 
-[0]: https://git.dn42.dev/dn42/registry/commit/1fa1554b939c1933040f686f81a0644b972a8d2d
+[0]: https://git.dn42.dev/dn42/registry/commit/8768f403fa5bbce40a7a55174363d52d4a9d128b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
