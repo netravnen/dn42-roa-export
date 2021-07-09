@@ -477,6 +477,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420385",
+            "prefix": "fd01:7223:3232::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "E396-MNT"
+        },
+        {
             "asn": "AS4242421719",
             "prefix": "fd02:152e:d070::/48",
             "maxLength": 48,
@@ -2841,6 +2848,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "SIS-MNT"
+        },
+        {
+            "asn": "AS4242420577",
+            "prefix": "fd42:2a2b:acf1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MASSAR-MNT"
         },
         {
             "asn": "AS4242420870",
@@ -11642,6 +11656,13 @@
             "mnt-by": "CORESTORAGE-MNT"
         },
         {
+            "asn": "AS4242420577",
+            "prefix": "172.20.142.64/27",
+            "maxLength": 27,
+            "ta": "DN42",
+            "mnt-by": "MASSAR-MNT"
+        },
+        {
             "asn": "AS4242421120",
             "prefix": "172.20.142.96/27",
             "maxLength": 28,
@@ -19699,6 +19720,13 @@
             "mnt-by": "TELECOMADMIN-MNT"
         },
         {
+            "asn": "AS4242420385",
+            "prefix": "172.23.32.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "E396-MNT"
+        },
+        {
             "asn": "AS4242420803",
             "prefix": "172.23.33.0/26",
             "maxLength": 28,
@@ -20267,8 +20295,8 @@
         }
     ],
     "metadata": {
-        "counts": 2895,
-        "generated": 1625854505,
-        "valid": 1626286505
+        "counts": 2899,
+        "generated": 1625858136,
+        "valid": 1626290136
     }
 }

@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8768f403fa5bbce40a7a55174363d52d4a9d128b
-Merge: b7d95b520 431109f1e
-Date:   2021-07-08 09:14:31 +0000
+Commit b1573aecd4254ec17b8a1dcbe079dec7f597a875
+Merge: cb6c22155 cef16243f
+Date:   2021-07-09 18:45:20 +0000
 
-    Merge pull request 'add ssh-auth to n0emis' (#934) from n0emis-20210707/add-ssh-key into master
+    Merge pull request 'Getting Started - Join DN42 by adding objects' (#936) from jeroen-20210709/join into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1553
-- ROAs IPv6:  1342
-- ROAs total: 2895
+- ROAs IPv4:  1555
+- ROAs IPv6:  1344
+- ROAs total: 2899
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8768f403fa5bbce40a7a55174363d52d4a9d128b
+[0]: https://git.dn42.dev/dn42/registry/commit/b1573aecd4254ec17b8a1dcbe079dec7f597a875
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
