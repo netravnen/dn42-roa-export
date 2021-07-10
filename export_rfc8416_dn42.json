@@ -20042,6 +20042,27 @@
                 "mnt-by": "ERI-MNT"
             },
             {
+                "asn": 4242421876,
+                "prefix": "172.23.66.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
+                "asn": 4201270021,
+                "prefix": "172.23.66.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
+                "asn": 211876,
+                "prefix": "172.23.66.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
                 "asn": 4242420022,
                 "prefix": "172.23.67.0/25",
                 "maxPrefixLength": 28,

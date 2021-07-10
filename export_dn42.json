@@ -20035,6 +20035,27 @@
             "mnt-by": "ERI-MNT"
         },
         {
+            "asn": "AS4242421876",
+            "prefix": "172.23.66.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
+            "asn": "AS4201270021",
+            "prefix": "172.23.66.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
+            "asn": "AS211876",
+            "prefix": "172.23.66.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
             "asn": "AS4242420022",
             "prefix": "172.23.67.0/25",
             "maxLength": 28,
@@ -20323,8 +20344,8 @@
         }
     ],
     "metadata": {
-        "counts": 2903,
-        "generated": 1625926532,
-        "valid": 1626358532
+        "counts": 2906,
+        "generated": 1625930131,
+        "valid": 1626362131
     }
 }
