@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e415f7146cfd44067fb81a534865846d18c4fe4b
-Merge: c8a01704d 49e89f216
-Date:   2021-07-10 10:48:13 +0000
+Commit c59bd90692ccbeba6eb6038497f2dd3facb47c84
+Merge: e415f7146 659469c1b
+Date:   2021-07-10 14:10:33 +0000
 
-    Merge pull request 'Initial User' (#943) from punknium-20210710/init-user into master
+    Merge pull request 'Update .drone.yml and sign-my-commit script ahead of pipeline updates.' (#945) from burble-20210710/update-sigs into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1345
 - ROAs total: 2903
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e415f7146cfd44067fb81a534865846d18c4fe4b
+[0]: https://git.dn42.dev/dn42/registry/commit/c59bd90692ccbeba6eb6038497f2dd3facb47c84
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
