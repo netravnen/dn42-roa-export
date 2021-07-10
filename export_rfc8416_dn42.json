@@ -9213,6 +9213,13 @@
                 "mnt-by": "ERINN-MNT"
             },
             {
+                "asn": 4242421425,
+                "prefix": "fdfd:470:b85d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PUNKNIUM-MNT"
+            },
+            {
                 "asn": 4242421994,
                 "prefix": "fdfd:6b61:7431::/48",
                 "maxPrefixLength": 64,
@@ -14232,6 +14239,13 @@
                 "mnt-by": "IMIR-MNT"
             },
             {
+                "asn": 4242420921,
+                "prefix": "172.20.31.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KZHAO921-MNT"
+            },
+            {
                 "asn": 4242423733,
                 "prefix": "172.20.32.0/28",
                 "maxPrefixLength": 28,
@@ -14538,6 +14552,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FRALINSKY-MNT"
+            },
+            {
+                "asn": 4242421425,
+                "prefix": "172.20.44.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PUNKNIUM-MNT"
             },
             {
                 "asn": 4242421341,
@@ -15861,6 +15882,13 @@
                 "maxPrefixLength": 27,
                 "source": "DN42",
                 "mnt-by": "P3BK4C-MNT"
+            },
+            {
+                "asn": 4242420192,
+                "prefix": "172.21.83.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KEISI-MNT"
             },
             {
                 "asn": 4242422381,
