@@ -8261,6 +8261,13 @@
                 "mnt-by": "KANA-MNT"
             },
             {
+                "asn": 4242422658,
+                "prefix": "fddf:7034:311d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SYNK-MNT"
+            },
+            {
                 "asn": 65064,
                 "prefix": "fddf::/48",
                 "maxPrefixLength": 64,
@@ -13145,6 +13152,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GXA-MNT"
+            },
+            {
+                "asn": 4242422658,
+                "prefix": "172.20.194.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SYNK-MNT"
             },
             {
                 "asn": 4242421587,
