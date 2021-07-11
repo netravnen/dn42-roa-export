@@ -2241,6 +2241,13 @@
                 "mnt-by": "PACKETFRAME-MNT"
             },
             {
+                "asn": 4242422595,
+                "prefix": "fd3e:9ee2:ae0::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "IKS-MNT"
+            },
+            {
                 "asn": 4242420721,
                 "prefix": "fd3e:d065:66fd::/48",
                 "maxPrefixLength": 64,
@@ -6831,6 +6838,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422035,
+                "prefix": "fda9:952:9bd::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LOPPERMANN-MNT"
             },
             {
                 "asn": 4242423940,
@@ -15170,6 +15184,13 @@
                 "mnt-by": "HENOKV-MNT"
             },
             {
+                "asn": 4242422595,
+                "prefix": "172.20.62.64/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "IKS-MNT"
+            },
+            {
                 "asn": 4242422002,
                 "prefix": "172.20.63.0/24",
                 "maxPrefixLength": 28,
@@ -17233,6 +17254,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RAPPET-MNT"
+            },
+            {
+                "asn": 4242422035,
+                "prefix": "172.22.151.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LOPPERMANN-MNT"
             },
             {
                 "asn": 4242423882,
