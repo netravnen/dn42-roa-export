@@ -4621,6 +4621,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420921",
+            "prefix": "fd55:ed26:611::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "KZHAO921-MNT"
+        },
+        {
             "asn": "AS4242420810",
             "prefix": "fd56:4147:5545::/48",
             "maxLength": 64,
@@ -20386,8 +20393,8 @@
         }
     ],
     "metadata": {
-        "counts": 2912,
-        "generated": 1626074105,
-        "valid": 1626506105
+        "counts": 2913,
+        "generated": 1626077730,
+        "valid": 1626509730
     }
 }

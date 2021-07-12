@@ -4628,6 +4628,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420921,
+                "prefix": "fd55:ed26:611::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "KZHAO921-MNT"
+            },
+            {
                 "asn": 4242420810,
                 "prefix": "fd56:4147:5545::/48",
                 "maxPrefixLength": 64,
