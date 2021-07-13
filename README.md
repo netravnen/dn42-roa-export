@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit a3e6ca81717ef454ddb21134257dddf46c01a291
-Merge: 37cf70816 24d40985e
-Date:   2021-07-13 07:28:39 +0000
+Commit 3bea746d8973b1fc4f033fb3a210f9a1520e50a9
+Merge: a3e6ca817 283077368
+Date:   2021-07-13 14:02:52 +0000
 
-    Merge pull request 'Add NOINK' (#955) from him411-20210713/register into master
+    Merge pull request 'add Esonhugh Domain name & reverse dns with ipv6 allocation' (#951) from esonhugh/registry:master into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1565
-- ROAs IPv6:  1350
-- ROAs total: 2915
+- ROAs IPv6:  1351
+- ROAs total: 2916
 
-[0]: https://git.dn42.dev/dn42/registry/commit/a3e6ca81717ef454ddb21134257dddf46c01a291
+[0]: https://git.dn42.dev/dn42/registry/commit/3bea746d8973b1fc4f033fb3a210f9a1520e50a9
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
