@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 37cf7081657f473629a15db1c214af7c214f26f5
-Merge: eab3c4219 ece3ecc20
-Date:   2021-07-12 07:26:23 +0000
+Commit a3e6ca81717ef454ddb21134257dddf46c01a291
+Merge: 37cf70816 24d40985e
+Date:   2021-07-13 07:28:39 +0000
 
-    Merge pull request 'Use UTC date for branch naming' (#953) from kzhao921-20210712/readme-date into master
+    Merge pull request 'Add NOINK' (#955) from him411-20210713/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1564
-- ROAs IPv6:  1349
-- ROAs total: 2913
+- ROAs IPv4:  1565
+- ROAs IPv6:  1350
+- ROAs total: 2915
 
-[0]: https://git.dn42.dev/dn42/registry/commit/37cf7081657f473629a15db1c214af7c214f26f5
+[0]: https://git.dn42.dev/dn42/registry/commit/a3e6ca81717ef454ddb21134257dddf46c01a291
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

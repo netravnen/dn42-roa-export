@@ -43,6 +43,13 @@
             "mnt-by": "NIA-MNT"
         },
         {
+            "asn": "AS4242421661",
+            "prefix": "fd00:1949:1001::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NOINK-MNT"
+        },
+        {
             "asn": "AS4242422761",
             "prefix": "fd00:1953:615::/48",
             "maxLength": 64,
@@ -19986,6 +19993,13 @@
             "mnt-by": "MLYY-MNT"
         },
         {
+            "asn": "AS4242421661",
+            "prefix": "172.23.49.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NOINK-MNT"
+        },
+        {
             "asn": "AS4242423740",
             "prefix": "172.23.5.0/27",
             "maxLength": 28,
@@ -20393,8 +20407,8 @@
         }
     ],
     "metadata": {
-        "counts": 2913,
-        "generated": 1626160503,
-        "valid": 1626592503
+        "counts": 2915,
+        "generated": 1626164131,
+        "valid": 1626596131
     }
 }
