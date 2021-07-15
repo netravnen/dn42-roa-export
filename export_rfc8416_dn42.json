@@ -19763,14 +19763,14 @@
             },
             {
                 "asn": 141776,
-                "prefix": "172.23.250.64/27",
+                "prefix": "172.23.250.64/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BAOSHUO-MNT"
             },
             {
                 "asn": 4242420247,
-                "prefix": "172.23.250.64/27",
+                "prefix": "172.23.250.64/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BAOSHUO-MNT"

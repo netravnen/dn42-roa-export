@@ -19756,14 +19756,14 @@
         },
         {
             "asn": "AS141776",
-            "prefix": "172.23.250.64/27",
+            "prefix": "172.23.250.64/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
         },
         {
             "asn": "AS4242420247",
-            "prefix": "172.23.250.64/27",
+            "prefix": "172.23.250.64/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
@@ -20415,7 +20415,7 @@
     ],
     "metadata": {
         "counts": 2916,
-        "generated": 1626333304,
-        "valid": 1626765304
+        "generated": 1626336933,
+        "valid": 1626768933
     }
 }
