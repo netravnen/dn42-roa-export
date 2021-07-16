@@ -8954,6 +8954,13 @@
             "mnt-by": "TAAVI-MNT"
         },
         {
+            "asn": "AS4242421967",
+            "prefix": "fdf4:f031:64d8::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SAKRIKO-MNT"
+        },
+        {
             "asn": "AS4242422712",
             "prefix": "fdf5:b4f8:1e89::/48",
             "maxLength": 64,
@@ -20428,8 +20435,8 @@
         }
     ],
     "metadata": {
-        "counts": 2918,
-        "generated": 1626466506,
-        "valid": 1626898506
+        "counts": 2919,
+        "generated": 1626470133,
+        "valid": 1626902133
     }
 }

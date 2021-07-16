@@ -8961,6 +8961,13 @@
                 "mnt-by": "TAAVI-MNT"
             },
             {
+                "asn": 4242421967,
+                "prefix": "fdf4:f031:64d8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SAKRIKO-MNT"
+            },
+            {
                 "asn": 4242422712,
                 "prefix": "fdf5:b4f8:1e89::/48",
                 "maxPrefixLength": 64,
