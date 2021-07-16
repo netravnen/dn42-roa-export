@@ -8135,6 +8135,13 @@
                 "mnt-by": "BLEEN-MNT"
             },
             {
+                "asn": 4242423361,
+                "prefix": "fdda:bccd:70e1::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ARIELS-MNT"
+            },
+            {
                 "asn": 4242420567,
                 "prefix": "fdda:eafa:15ce::/48",
                 "maxPrefixLength": 64,
@@ -17044,6 +17051,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DELEGAO-MNT"
+            },
+            {
+                "asn": 4242423361,
+                "prefix": "172.22.135.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ARIELS-MNT"
             },
             {
                 "asn": 4242422137,
