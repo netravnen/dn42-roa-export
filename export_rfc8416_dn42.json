@@ -8926,6 +8926,13 @@
                 "mnt-by": "N0EMIS-MNT"
             },
             {
+                "asn": 4242422423,
+                "prefix": "fdf4:37e:100::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "INDIGO-MNT"
+            },
+            {
                 "asn": 4242420304,
                 "prefix": "fdf4:71a1:fc81::/48",
                 "maxPrefixLength": 64,
@@ -19361,6 +19368,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ERITAP-MNT"
+            },
+            {
+                "asn": 4242422423,
+                "prefix": "172.23.2.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "INDIGO-MNT"
             },
             {
                 "asn": 4242421271,

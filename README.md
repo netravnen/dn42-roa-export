@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 5525105451f12a9c2d9d5eeec0b2c9abb32da9d8
-Merge: 353925e78 0e6e313ee
-Date:   2021-07-16 20:36:27 +0000
+Commit 9aa272a3249bb463e45bf80155afad400a8d6f6e
+Merge: 552510545 b0b0f15fe
+Date:   2021-07-17 06:33:10 +0000
 
-    Merge pull request 'add SAKRIKO-MNT data' (#960) from 206PartialContent-20210715/newreg into master
+    Merge pull request 'Register No42 organisation and experimental networks' (#961) from indigo-20210716/new-registration into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1566
-- ROAs IPv6:  1353
-- ROAs total: 2919
+- ROAs IPv4:  1567
+- ROAs IPv6:  1354
+- ROAs total: 2921
 
-[0]: https://git.dn42.dev/dn42/registry/commit/5525105451f12a9c2d9d5eeec0b2c9abb32da9d8
+[0]: https://git.dn42.dev/dn42/registry/commit/9aa272a3249bb463e45bf80155afad400a8d6f6e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
