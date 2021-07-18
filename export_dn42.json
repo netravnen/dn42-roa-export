@@ -1765,6 +1765,13 @@
             "mnt-by": "SNAPSERV-MNT"
         },
         {
+            "asn": "AS4242422488",
+            "prefix": "fd25:d00:a93::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BOBGOESTOMARS-MNT"
+        },
+        {
             "asn": "AS4242423303",
             "prefix": "fd26:13ad:1cb6::/48",
             "maxLength": 48,
@@ -12006,6 +12013,13 @@
             "mnt-by": "KAAASS-MNT"
         },
         {
+            "asn": "AS4242422488",
+            "prefix": "172.20.150.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BOBGOESTOMARS-MNT"
+        },
+        {
             "asn": "AS4242422240",
             "prefix": "172.20.150.32/27",
             "maxLength": 28,
@@ -20449,8 +20463,8 @@
         }
     ],
     "metadata": {
-        "counts": 2921,
-        "generated": 1626614104,
-        "valid": 1627046104
+        "counts": 2923,
+        "generated": 1626617780,
+        "valid": 1627049780
     }
 }

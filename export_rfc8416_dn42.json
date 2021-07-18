@@ -1772,6 +1772,13 @@
                 "mnt-by": "SNAPSERV-MNT"
             },
             {
+                "asn": 4242422488,
+                "prefix": "fd25:d00:a93::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BOBGOESTOMARS-MNT"
+            },
+            {
                 "asn": 4242423303,
                 "prefix": "fd26:13ad:1cb6::/48",
                 "maxPrefixLength": 48,
@@ -12011,6 +12018,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "KAAASS-MNT"
+            },
+            {
+                "asn": 4242422488,
+                "prefix": "172.20.150.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BOBGOESTOMARS-MNT"
             },
             {
                 "asn": 4242422240,
