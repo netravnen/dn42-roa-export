@@ -12209,6 +12209,13 @@
                 "mnt-by": "TEEED-MNT"
             },
             {
+                "asn": 4242423703,
+                "prefix": "172.20.159.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FMEPNET-MNT"
+            },
+            {
                 "asn": 4242423520,
                 "prefix": "172.20.159.32/27",
                 "maxPrefixLength": 28,
