@@ -5923,6 +5923,13 @@
                 "mnt-by": "FRYGUY-MNT"
             },
             {
+                "asn": 4242421920,
+                "prefix": "fd88:bdbd:8c4b::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CON-MNT"
+            },
+            {
                 "asn": 4242420112,
                 "prefix": "fd88:c7e:c7b7::/48",
                 "maxPrefixLength": 48,
@@ -16899,6 +16906,13 @@
                 "mnt-by": "DANN-MNT"
             },
             {
+                "asn": 4242421920,
+                "prefix": "172.22.128.48/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CON-MNT"
+            },
+            {
                 "asn": 4242420553,
                 "prefix": "172.22.128.64/28",
                 "maxPrefixLength": 28,
@@ -17835,6 +17849,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GISCHELEMAN-MNT"
+            },
+            {
+                "asn": 4242423186,
+                "prefix": "172.22.189.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JONES-MNT"
             },
             {
                 "asn": 4242421238,

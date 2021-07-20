@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 3b5a4e12c18ebbefbebd0378f582da9e5dd58541
-Merge: 1510d6cfe ce6d050d4
-Date:   2021-07-19 14:54:19 +0000
+Commit 1aea5af634770331e61b99fd78ceb3bbb99d92a3
+Merge: c04914c6c b33984f64
+Date:   2021-07-20 14:51:16 +0000
 
-    Merge pull request 'Add ip4 addresses for my network' (#966) from fmeppo-20210719/fmepnet4 into master
+    Merge pull request 'Added AS4242421920.' (#969) from con-20210720/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1569
-- ROAs IPv6:  1355
-- ROAs total: 2924
+- ROAs IPv4:  1571
+- ROAs IPv6:  1356
+- ROAs total: 2927
 
-[0]: https://git.dn42.dev/dn42/registry/commit/3b5a4e12c18ebbefbebd0378f582da9e5dd58541
+[0]: https://git.dn42.dev/dn42/registry/commit/1aea5af634770331e61b99fd78ceb3bbb99d92a3
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
