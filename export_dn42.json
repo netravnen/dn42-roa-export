@@ -5356,6 +5356,13 @@
             "mnt-by": "VVIDIC-MNT"
         },
         {
+            "asn": "AS4242422895",
+            "prefix": "fd71:244:9983::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WINTERFOX-MNT"
+        },
+        {
             "asn": "AS4242422249",
             "prefix": "fd71:297c:aac::/48",
             "maxLength": 64,
@@ -5410,6 +5417,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "SANQUILMAS-MNT"
+        },
+        {
+            "asn": "AS4242421618",
+            "prefix": "fd72:d0d0:6e0b::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "VOOLIK-MNT"
         },
         {
             "asn": "AS65152",
@@ -19279,6 +19293,13 @@
             "mnt-by": "TRUNET-MNT"
         },
         {
+            "asn": "AS4242422895",
+            "prefix": "172.23.183.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WINTERFOX-MNT"
+        },
+        {
             "asn": "AS4242420184",
             "prefix": "172.23.184.0/23",
             "maxLength": 28,
@@ -20224,6 +20245,13 @@
             "mnt-by": "MORIARTY-MNT"
         },
         {
+            "asn": "AS4242421618",
+            "prefix": "172.23.7.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VOOLIK-MNT"
+        },
+        {
             "asn": "AS4242421823",
             "prefix": "172.23.73.0/26",
             "maxLength": 28,
@@ -20491,8 +20519,8 @@
         }
     ],
     "metadata": {
-        "counts": 2927,
-        "generated": 1626855304,
-        "valid": 1627287304
+        "counts": 2931,
+        "generated": 1626858933,
+        "valid": 1627290933
     }
 }

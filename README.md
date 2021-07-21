@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 7a6b81e71e80581d5c28c4c50fbf21d14c0378ff
-Merge: 1aea5af63 b3ef5f3a8
-Date:   2021-07-21 04:07:12 +0000
+Commit 3f41e3495ee850facbfb5b7c45b856d643c624f9
+Merge: 3ca129972 6a0763fd4
+Date:   2021-07-21 08:26:43 +0000
 
-    Merge pull request 'change max-length for fd42:1919:810::/48' (#972) from nicholascw-20210721/change-max-length into master
+    Merge pull request 'Register' (#971) from WinterFox-20210721/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1571
-- ROAs IPv6:  1356
-- ROAs total: 2927
+- ROAs IPv4:  1573
+- ROAs IPv6:  1358
+- ROAs total: 2931
 
-[0]: https://git.dn42.dev/dn42/registry/commit/7a6b81e71e80581d5c28c4c50fbf21d14c0378ff
+[0]: https://git.dn42.dev/dn42/registry/commit/3f41e3495ee850facbfb5b7c45b856d643c624f9
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
