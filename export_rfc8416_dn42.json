@@ -2607,7 +2607,7 @@
             {
                 "asn": 4242421288,
                 "prefix": "fd42:1919:810::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NICHOLASCW-MNT"
             },

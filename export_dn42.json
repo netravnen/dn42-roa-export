@@ -2600,7 +2600,7 @@
         {
             "asn": "AS4242421288",
             "prefix": "fd42:1919:810::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NICHOLASCW-MNT"
         },
@@ -20492,7 +20492,7 @@
     ],
     "metadata": {
         "counts": 2927,
-        "generated": 1626837306,
-        "valid": 1627269306
+        "generated": 1626840935,
+        "valid": 1627272935
     }
 }
