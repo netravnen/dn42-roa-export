@@ -1562,6 +1562,13 @@
                 "mnt-by": "TONYZHAO-MNT"
             },
             {
+                "asn": 4242420615,
+                "prefix": "fd21:4a1d:5885::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DZIRTT-MNT"
+            },
+            {
                 "asn": 4242421888,
                 "prefix": "fd21:5c0c:9b7e::/48",
                 "maxPrefixLength": 64,
@@ -2253,6 +2260,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "PACKETFRAME-MNT"
+            },
+            {
+                "asn": 4242423433,
+                "prefix": "fd3d:f4df:d0f4::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SPARROWHE-MNT"
             },
             {
                 "asn": 4242422595,
@@ -18320,6 +18334,13 @@
                 "mnt-by": "THOMAS405-MNT"
             },
             {
+                "asn": 4242423433,
+                "prefix": "172.22.76.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SPARROWHE-MNT"
+            },
+            {
                 "asn": 4242422547,
                 "prefix": "172.22.76.96/27",
                 "maxPrefixLength": 28,
@@ -20523,6 +20544,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TESTNET-MNT"
+            },
+            {
+                "asn": 4242420615,
+                "prefix": "172.23.99.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DZIRTT-MNT"
             },
             {
                 "asn": 64654,
