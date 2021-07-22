@@ -9199,6 +9199,13 @@
             "mnt-by": "FC-MNT"
         },
         {
+            "asn": "AS4242423699",
+            "prefix": "fdfb:d500:a158::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TSINGYAO-MNT"
+        },
+        {
             "asn": "AS4242420041",
             "prefix": "fdfb:df0c:c64::/48",
             "maxLength": 64,
@@ -17389,6 +17396,13 @@
             "mnt-by": "PRAUSCHER-MNT"
         },
         {
+            "asn": "AS4242423699",
+            "prefix": "172.22.155.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TSINGYAO-MNT"
+        },
+        {
             "asn": "AS4242421219",
             "prefix": "172.22.156.0/25",
             "maxLength": 28,
@@ -20519,8 +20533,8 @@
         }
     ],
     "metadata": {
-        "counts": 2931,
-        "generated": 1626941705,
-        "valid": 1627373705
+        "counts": 2933,
+        "generated": 1626945371,
+        "valid": 1627377371
     }
 }
