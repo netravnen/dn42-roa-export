@@ -9073,6 +9073,13 @@
             "mnt-by": "GATUNO-MNT"
         },
         {
+            "asn": "AS4242420521",
+            "prefix": "fdf7:a7f0:7ed::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BATNZ-MNT"
+        },
+        {
             "asn": "AS4242421518",
             "prefix": "fdf7:bca:c983::/48",
             "maxLength": 64,
@@ -19426,6 +19433,13 @@
             "mnt-by": "JUNICAST-MNT"
         },
         {
+            "asn": "AS4242420521",
+            "prefix": "172.23.193.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BATNZ-MNT"
+        },
+        {
             "asn": "AS64623",
             "prefix": "172.23.194.0/23",
             "maxLength": 28,
@@ -20575,8 +20589,8 @@
         }
     ],
     "metadata": {
-        "counts": 2939,
-        "generated": 1627028104,
-        "valid": 1627460104
+        "counts": 2941,
+        "generated": 1627031732,
+        "valid": 1627463732
     }
 }

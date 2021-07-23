@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit ea5fa16317e71ded7e9fab150a041e2e00ea4a26
-Merge: ba98d841c 49ee4dae3
-Date:   2021-07-23 04:29:57 +0000
+Commit f64e212450c8b0145798fa0d2e623f3cca239f27
+Merge: cb36c46e2 4fcd80177
+Date:   2021-07-23 09:01:16 +0000
 
-    Merge pull request 'Add domain' (#979) from WinterFox-20210722/domain into master
+    Merge pull request 'Fix fmt-my-stuff to work with paths that contain spaces.' (#981) from BaTnz-20210723/fix-fmt-my-stuff-2 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1577
-- ROAs IPv6:  1362
-- ROAs total: 2939
+- ROAs IPv4:  1578
+- ROAs IPv6:  1363
+- ROAs total: 2941
 
-[0]: https://git.dn42.dev/dn42/registry/commit/ea5fa16317e71ded7e9fab150a041e2e00ea4a26
+[0]: https://git.dn42.dev/dn42/registry/commit/f64e212450c8b0145798fa0d2e623f3cca239f27
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
