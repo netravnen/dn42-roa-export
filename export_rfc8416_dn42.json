@@ -8709,6 +8709,13 @@
                 "mnt-by": "JEDAYOSHI-MNT"
             },
             {
+                "asn": 4242420026,
+                "prefix": "fdee:ba42:7e41::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SIAL-MNT"
+            },
+            {
                 "asn": 4242422502,
                 "prefix": "fdee:d21b:6b8b::/48",
                 "maxPrefixLength": 48,
@@ -14685,6 +14692,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "FRALINSKY-MNT"
+            },
+            {
+                "asn": 4242420026,
+                "prefix": "172.20.44.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SIAL-MNT"
             },
             {
                 "asn": 4242421425,
