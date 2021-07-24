@@ -6350,6 +6350,13 @@
                 "mnt-by": "POMOKE-MNT"
             },
             {
+                "asn": 4242421380,
+                "prefix": "fd98:e7e5:7d1b::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ALEXCUI-MNT"
+            },
+            {
                 "asn": 4242423759,
                 "prefix": "fd99:4d80:d90c::/48",
                 "maxPrefixLength": 64,
@@ -16974,6 +16981,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LLRZ-MNT"
+            },
+            {
+                "asn": 4242421380,
+                "prefix": "172.22.128.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ALEXCUI-MNT"
             },
             {
                 "asn": 4242421702,

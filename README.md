@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 6ec5de3827bebe15b21737538b52f9ad0bd5402b
-Merge: f64e21245 7173f3e3b
-Date:   2021-07-23 13:29:37 +0000
+Commit e94d8a6ba7ca30fdf794861aa10c12e15df7ab24
+Merge: 6ec5de382 6fcaf610a
+Date:   2021-07-24 06:28:24 +0000
 
-    Merge pull request 'Fix typo' (#967) from fooker/registry:pr-maglab-typo into master
+    Merge pull request 'Register a new member.' (#984) from alexcui/registry:alexcui-20210723/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1578
-- ROAs IPv6:  1363
-- ROAs total: 2941
+- ROAs IPv4:  1579
+- ROAs IPv6:  1364
+- ROAs total: 2943
 
-[0]: https://git.dn42.dev/dn42/registry/commit/6ec5de3827bebe15b21737538b52f9ad0bd5402b
+[0]: https://git.dn42.dev/dn42/registry/commit/e94d8a6ba7ca30fdf794861aa10c12e15df7ab24
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
