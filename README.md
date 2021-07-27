@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e36d3a292989e0eee31bd3e891e09f2c6299a6e1
-Merge: 766ec8c92 dff87548f
-Date:   2021-07-27 14:42:53 +0000
+Commit bb3e7cee37c2a4d976f4b5454dc27fcad5a23d93
+Merge: e36d3a292 8db06cce5
+Date:   2021-07-27 18:45:14 +0000
 
-    Merge pull request 'reg domain: sparrowhe.dn42' (#986) from sparrowhe-20210726/regDomain into master
+    Merge pull request 'ORG-RZL: assign IPv6 space fd4e:a4d9:1add::/48' (#989) from hax404/registry:rzl-ipv6 into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1580
-- ROAs IPv6:  1365
-- ROAs total: 2945
+- ROAs IPv6:  1366
+- ROAs total: 2946
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e36d3a292989e0eee31bd3e891e09f2c6299a6e1
+[0]: https://git.dn42.dev/dn42/registry/commit/bb3e7cee37c2a4d976f4b5454dc27fcad5a23d93
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -4460,6 +4460,13 @@
                 "mnt-by": "RAITO-MNT"
             },
             {
+                "asn": 64636,
+                "prefix": "fd4e:a4d9:1add::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "HAX404-MNT"
+            },
+            {
                 "asn": 4242420017,
                 "prefix": "fd4e:adda:1964:e293::/64",
                 "maxPrefixLength": 64,

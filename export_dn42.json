@@ -4453,6 +4453,13 @@
             "mnt-by": "RAITO-MNT"
         },
         {
+            "asn": "AS64636",
+            "prefix": "fd4e:a4d9:1add::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HAX404-MNT"
+        },
+        {
             "asn": "AS4242420017",
             "prefix": "fd4e:adda:1964:e293::/64",
             "maxLength": 64,
@@ -20617,8 +20624,8 @@
         }
     ],
     "metadata": {
-        "counts": 2945,
-        "generated": 1627409705,
-        "valid": 1627841705
+        "counts": 2946,
+        "generated": 1627413331,
+        "valid": 1627845331
     }
 }
