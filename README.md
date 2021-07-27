@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit bb3e7cee37c2a4d976f4b5454dc27fcad5a23d93
-Merge: e36d3a292 8db06cce5
-Date:   2021-07-27 18:45:14 +0000
+Commit a486641a52fa57f48f1b0e3f45caab5f16a3cd85
+Merge: bb3e7cee3 015536eef
+Date:   2021-07-27 19:15:32 +0000
 
-    Merge pull request 'ORG-RZL: assign IPv6 space fd4e:a4d9:1add::/48' (#989) from hax404/registry:rzl-ipv6 into master
+    Merge pull request 're-order squash-my-commit script to count commits before rebasing' (#990) from burble-20210727/fix-smc-script into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1366
 - ROAs total: 2946
 
-[0]: https://git.dn42.dev/dn42/registry/commit/bb3e7cee37c2a4d976f4b5454dc27fcad5a23d93
+[0]: https://git.dn42.dev/dn42/registry/commit/a486641a52fa57f48f1b0e3f45caab5f16a3cd85
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
