@@ -9164,6 +9164,13 @@
             "mnt-by": "HCROSS-MNT"
         },
         {
+            "asn": "AS4242420880",
+            "prefix": "fdf8:c69:cc49::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HAGRID-MNT"
+        },
+        {
             "asn": "AS4242420290",
             "prefix": "fdf8:f2e5:897e::/48",
             "maxLength": 48,
@@ -19727,6 +19734,13 @@
             "mnt-by": "RDBCN-MNT"
         },
         {
+            "asn": "AS4242420880",
+            "prefix": "172.23.223.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HAGRID-MNT"
+        },
+        {
             "asn": "AS4242423794",
             "prefix": "172.23.223.96/27",
             "maxLength": 28,
@@ -20624,8 +20638,8 @@
         }
     ],
     "metadata": {
-        "counts": 2946,
-        "generated": 1627503303,
-        "valid": 1627935303
+        "counts": 2948,
+        "generated": 1627506932,
+        "valid": 1627938932
     }
 }

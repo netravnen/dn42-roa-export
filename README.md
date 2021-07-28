@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit a486641a52fa57f48f1b0e3f45caab5f16a3cd85
-Merge: bb3e7cee3 015536eef
-Date:   2021-07-27 19:15:32 +0000
+Commit a05b155cf10536c63eb9123629f265fffca10327
+Merge: a486641a5 7673e097b
+Date:   2021-07-28 20:18:51 +0000
 
-    Merge pull request 're-order squash-my-commit script to count commits before rebasing' (#990) from burble-20210727/fix-smc-script into master
+    Merge pull request 'AS4242420880 Initial registration' (#987) from embargo-20210726/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1580
-- ROAs IPv6:  1366
-- ROAs total: 2946
+- ROAs IPv4:  1581
+- ROAs IPv6:  1367
+- ROAs total: 2948
 
-[0]: https://git.dn42.dev/dn42/registry/commit/a486641a52fa57f48f1b0e3f45caab5f16a3cd85
+[0]: https://git.dn42.dev/dn42/registry/commit/a05b155cf10536c63eb9123629f265fffca10327
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
