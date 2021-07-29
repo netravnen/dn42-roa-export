@@ -6035,6 +6035,13 @@
                 "mnt-by": "PSM-MNT"
             },
             {
+                "asn": 4242420939,
+                "prefix": "fd8c:3466:b93d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MROETHKE-MNT"
+            },
+            {
                 "asn": 4242421789,
                 "prefix": "fd8c:fa9a:4b4a::/48",
                 "maxPrefixLength": 48,
