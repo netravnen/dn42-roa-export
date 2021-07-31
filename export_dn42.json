@@ -6861,6 +6861,13 @@
             "mnt-by": "TYLER-MNT"
         },
         {
+            "asn": "AS4242423877",
+            "prefix": "fda7:d989:67d3::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SAKURA-MNT"
+        },
+        {
             "asn": "AS4242423211",
             "prefix": "fda7:e8fa:a57f::/48",
             "maxLength": 64,
@@ -14169,6 +14176,13 @@
             "mnt-by": "AURORA-MNT"
         },
         {
+            "asn": "AS4242423877",
+            "prefix": "172.20.237.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SAKURA-MNT"
+        },
+        {
             "asn": "AS4242422357",
             "prefix": "172.20.238.0/27",
             "maxLength": 28,
@@ -20645,8 +20659,8 @@
         }
     ],
     "metadata": {
-        "counts": 2949,
-        "generated": 1627762504,
-        "valid": 1628194504
+        "counts": 2951,
+        "generated": 1627766131,
+        "valid": 1628198131
     }
 }

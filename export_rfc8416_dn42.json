@@ -6868,6 +6868,13 @@
                 "mnt-by": "TYLER-MNT"
             },
             {
+                "asn": 4242423877,
+                "prefix": "fda7:d989:67d3::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SAKURA-MNT"
+            },
+            {
                 "asn": 4242423211,
                 "prefix": "fda7:e8fa:a57f::/48",
                 "maxPrefixLength": 64,
@@ -14174,6 +14181,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "AURORA-MNT"
+            },
+            {
+                "asn": 4242423877,
+                "prefix": "172.20.237.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SAKURA-MNT"
             },
             {
                 "asn": 4242422357,
