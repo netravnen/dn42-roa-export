@@ -316,6 +316,13 @@
                 "mnt-by": "BT709-MNT"
             },
             {
+                "asn": 4242421512,
+                "prefix": "fd00:bab6:bca1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "KF-MNT"
+            },
+            {
                 "asn": 31867,
                 "prefix": "fd00:bad:a55::/48",
                 "maxPrefixLength": 64,
