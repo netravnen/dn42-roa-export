@@ -8296,6 +8296,13 @@
                 "mnt-by": "TBSO-MNT"
             },
             {
+                "asn": 4242423477,
+                "prefix": "fddd:c100:ac0a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "STORMYS-MNT"
+            },
+            {
                 "asn": 4242421312,
                 "prefix": "fddd:ed3:375e::/48",
                 "maxPrefixLength": 64,
@@ -20194,6 +20201,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "GIN42-MNT"
+            },
+            {
+                "asn": 4242423477,
+                "prefix": "172.23.43.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "STORMYS-MNT"
             },
             {
                 "asn": 4242420134,
