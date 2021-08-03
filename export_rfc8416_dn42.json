@@ -4810,6 +4810,13 @@
                 "mnt-by": "AVEN-MNT"
             },
             {
+                "asn": 4242422691,
+                "prefix": "fd5a:e2fd:a040::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "IGONICNET-MNT"
+            },
+            {
                 "asn": 4242420306,
                 "prefix": "fd5b:4834:643a:7c41::/64",
                 "maxPrefixLength": 64,
@@ -15714,6 +15721,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TIMK-MNT"
+            },
+            {
+                "asn": 4242422691,
+                "prefix": "172.21.121.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "IGONICNET-MNT"
             },
             {
                 "asn": 4242422228,
