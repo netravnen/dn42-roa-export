@@ -715,6 +715,13 @@
             "mnt-by": "LAPISBLUE27-MNT"
         },
         {
+            "asn": "AS210969",
+            "prefix": "fd0b:fad4:fff6::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TNKOCH-MNT"
+        },
+        {
             "asn": "AS4242423371",
             "prefix": "fd0c:62d:8e7::/48",
             "maxLength": 64,
@@ -13315,6 +13322,13 @@
             "mnt-by": "SNOC-MNT"
         },
         {
+            "asn": "AS210969",
+            "prefix": "172.20.192.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TNKOCH-MNT"
+        },
+        {
             "asn": "AS4242422478",
             "prefix": "172.20.192.32/27",
             "maxLength": 28,
@@ -20694,8 +20708,8 @@
         }
     ],
     "metadata": {
-        "counts": 2956,
-        "generated": 1628061304,
-        "valid": 1628493304
+        "counts": 2958,
+        "generated": 1628064931,
+        "valid": 1628496931
     }
 }

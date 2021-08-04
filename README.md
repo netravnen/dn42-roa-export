@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 6a162a390e0d0c2287532ef625bafbd1c2446dfa
-Merge: 449def0f0 c03ed33b5
-Date:   2021-08-03 07:17:16 +0000
+Commit 29a9607feeed7a1840b8ac2149f6344192d9b1ad
+Merge: a062d693d 00fa7b7fb
+Date:   2021-08-04 08:09:52 +0000
 
-    Merge pull request 'AS4242422691 initial registration' (#1005) from igonicnet-20210802/register into master
+    Merge pull request 'jerry: change auth and as-name' (#1009) from JerryXiao-20210804/patch-1 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1584
-- ROAs IPv6:  1372
-- ROAs total: 2956
+- ROAs IPv4:  1585
+- ROAs IPv6:  1373
+- ROAs total: 2958
 
-[0]: https://git.dn42.dev/dn42/registry/commit/6a162a390e0d0c2287532ef625bafbd1c2446dfa
+[0]: https://git.dn42.dev/dn42/registry/commit/29a9607feeed7a1840b8ac2149f6344192d9b1ad
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
