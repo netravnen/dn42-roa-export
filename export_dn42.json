@@ -710,7 +710,7 @@
         {
             "asn": "AS4242422032",
             "prefix": "fd0b:da1a:9768::/48",
-            "maxLength": 48,
+            "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "LAPISBLUE27-MNT"
         },
@@ -20709,7 +20709,7 @@
     ],
     "metadata": {
         "counts": 2958,
-        "generated": 1628090105,
-        "valid": 1628522105
+        "generated": 1628093728,
+        "valid": 1628525728
     }
 }

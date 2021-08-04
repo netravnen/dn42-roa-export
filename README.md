@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 29a9607feeed7a1840b8ac2149f6344192d9b1ad
-Merge: a062d693d 00fa7b7fb
-Date:   2021-08-04 08:09:52 +0000
+Commit 10f0c6da92a122b8cb9f9ac9874fa38ecd850bdd
+Merge: 29a9607fe 0310f3c80
+Date:   2021-08-04 15:37:47 +0000
 
-    Merge pull request 'jerry: change auth and as-name' (#1009) from JerryXiao-20210804/patch-1 into master
+    Merge pull request 'squashed commit: change ipv6 max length from 48 to 56' (#1010) from lapisblue27-20210804/change_maxlen_for_v6 into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1373
 - ROAs total: 2958
 
-[0]: https://git.dn42.dev/dn42/registry/commit/29a9607feeed7a1840b8ac2149f6344192d9b1ad
+[0]: https://git.dn42.dev/dn42/registry/commit/10f0c6da92a122b8cb9f9ac9874fa38ecd850bdd
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
