@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 2a5ff47c82964d993d844e44c2c094b71bb42e58
-Merge: 9a47ded37 921466a61
-Date:   2021-08-05 12:21:01 +0000
+Commit 0fb4f801436893898ed04837df23b7ec1a0210e3
+Merge: 2a5ff47c8 d4ee76b8b
+Date:   2021-08-05 14:23:09 +0000
 
-    Merge pull request 'add WIKIBAO AS4242421088' (#1012) from wikibao-20210805/dev into master
+    Merge pull request 'fix typo in filename from PR968' (#1015) from burble-20210805/fix-PR-968 into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1587
-- ROAs IPv6:  1375
-- ROAs total: 2962
+- ROAs IPv6:  1376
+- ROAs total: 2963
 
-[0]: https://git.dn42.dev/dn42/registry/commit/2a5ff47c82964d993d844e44c2c094b71bb42e58
+[0]: https://git.dn42.dev/dn42/registry/commit/0fb4f801436893898ed04837df23b7ec1a0210e3
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -6875,6 +6875,13 @@
             "mnt-by": "OXYGEN233-MNT"
         },
         {
+            "asn": "AS4242423186",
+            "prefix": "fda6:ad1f:9aa1::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "JONES-MNT"
+        },
+        {
             "asn": "AS4242421510",
             "prefix": "fda6:bf36:9b89::/48",
             "maxLength": 48,
@@ -20736,8 +20743,8 @@
         }
     ],
     "metadata": {
-        "counts": 2962,
-        "generated": 1628172905,
-        "valid": 1628604905
+        "counts": 2963,
+        "generated": 1628176533,
+        "valid": 1628608533
     }
 }
