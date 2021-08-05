@@ -1401,6 +1401,13 @@
             "mnt-by": "GATUNO-MNT"
         },
         {
+            "asn": "AS4242421908",
+            "prefix": "fd18:a20:2b25::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DIYPIANDCO-MNT"
+        },
+        {
             "asn": "AS4242421550",
             "prefix": "fd19:11ec:bed7::/48",
             "maxLength": 48,
@@ -7318,14 +7325,21 @@
         {
             "asn": "AS141776",
             "prefix": "fdbb:7278:face::/48",
-            "maxLength": 48,
+            "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
         },
         {
             "asn": "AS4242420247",
             "prefix": "fdbb:7278:face::/48",
-            "maxLength": 48,
+            "maxLength": 56,
+            "ta": "DN42",
+            "mnt-by": "BAOSHUO-MNT"
+        },
+        {
+            "asn": "AS4201270017",
+            "prefix": "fdbb:7278:face::/48",
+            "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
         },
@@ -19468,6 +19482,13 @@
             "mnt-by": "CHILLONETWORK-MNT"
         },
         {
+            "asn": "AS4242421908",
+            "prefix": "172.23.182.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DIYPIANDCO-MNT"
+        },
+        {
             "asn": "AS4242423275",
             "prefix": "172.23.183.16/29",
             "maxLength": 29,
@@ -20071,6 +20092,13 @@
         },
         {
             "asn": "AS4242420247",
+            "prefix": "172.23.250.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "BAOSHUO-MNT"
+        },
+        {
+            "asn": "AS4201270017",
             "prefix": "172.23.250.64/26",
             "maxLength": 28,
             "ta": "DN42",
@@ -20743,8 +20771,8 @@
         }
     ],
     "metadata": {
-        "counts": 2963,
-        "generated": 1628176533,
-        "valid": 1628608533
+        "counts": 2967,
+        "generated": 1628180136,
+        "valid": 1628612136
     }
 }

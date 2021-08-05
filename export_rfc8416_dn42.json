@@ -1408,6 +1408,13 @@
                 "mnt-by": "GATUNO-MNT"
             },
             {
+                "asn": 4242421908,
+                "prefix": "fd18:a20:2b25::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DIYPIANDCO-MNT"
+            },
+            {
                 "asn": 4242421550,
                 "prefix": "fd19:11ec:bed7::/48",
                 "maxPrefixLength": 48,
@@ -7325,14 +7332,21 @@
             {
                 "asn": 141776,
                 "prefix": "fdbb:7278:face::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "BAOSHUO-MNT"
             },
             {
                 "asn": 4242420247,
                 "prefix": "fdbb:7278:face::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
+                "asn": 4201270017,
+                "prefix": "fdbb:7278:face::/48",
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "BAOSHUO-MNT"
             },
@@ -19475,6 +19489,13 @@
                 "mnt-by": "CHILLONETWORK-MNT"
             },
             {
+                "asn": 4242421908,
+                "prefix": "172.23.182.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DIYPIANDCO-MNT"
+            },
+            {
                 "asn": 4242423275,
                 "prefix": "172.23.183.16/29",
                 "maxPrefixLength": 29,
@@ -20078,6 +20099,13 @@
             },
             {
                 "asn": 4242420247,
+                "prefix": "172.23.250.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
+                "asn": 4201270017,
                 "prefix": "172.23.250.64/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
