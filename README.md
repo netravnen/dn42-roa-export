@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 10f0c6da92a122b8cb9f9ac9874fa38ecd850bdd
-Merge: 29a9607fe 0310f3c80
-Date:   2021-08-04 15:37:47 +0000
+Commit 2a5ff47c82964d993d844e44c2c094b71bb42e58
+Merge: 9a47ded37 921466a61
+Date:   2021-08-05 12:21:01 +0000
 
-    Merge pull request 'squashed commit: change ipv6 max length from 48 to 56' (#1010) from lapisblue27-20210804/change_maxlen_for_v6 into master
+    Merge pull request 'add WIKIBAO AS4242421088' (#1012) from wikibao-20210805/dev into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1585
-- ROAs IPv6:  1373
-- ROAs total: 2958
+- ROAs IPv4:  1587
+- ROAs IPv6:  1375
+- ROAs total: 2962
 
-[0]: https://git.dn42.dev/dn42/registry/commit/10f0c6da92a122b8cb9f9ac9874fa38ecd850bdd
+[0]: https://git.dn42.dev/dn42/registry/commit/2a5ff47c82964d993d844e44c2c094b71bb42e58
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

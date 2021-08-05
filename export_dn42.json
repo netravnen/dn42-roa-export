@@ -5055,6 +5055,13 @@
             "mnt-by": "CYPHERPUNK-MNT"
         },
         {
+            "asn": "AS4242421298",
+            "prefix": "fd64:1430:d42a::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "AYAHUASEC-MNT"
+        },
+        {
             "asn": "AS4242423400",
             "prefix": "fd64:cafe:cafe::/48",
             "maxLength": 64,
@@ -5620,6 +5627,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JONATHAN-FERGUSON-MNT"
+        },
+        {
+            "asn": "AS4242421088",
+            "prefix": "fd7a:2af9:2828::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WIKIBAO-MNT"
         },
         {
             "asn": "AS4242421974",
@@ -15611,6 +15625,13 @@
             "mnt-by": "SESHI-MNT"
         },
         {
+            "asn": "AS4242421298",
+            "prefix": "172.21.110.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AYAHUASEC-MNT"
+        },
+        {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
             "maxLength": 28,
@@ -18327,6 +18348,13 @@
             "mnt-by": "IMLONGHAO-MNT"
         },
         {
+            "asn": "AS4242421088",
+            "prefix": "172.22.68.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WIKIBAO-MNT"
+        },
+        {
             "asn": "AS76198",
             "prefix": "172.22.70.0/24",
             "maxLength": 28,
@@ -20708,8 +20736,8 @@
         }
     ],
     "metadata": {
-        "counts": 2958,
-        "generated": 1628165704,
-        "valid": 1628597704
+        "counts": 2962,
+        "generated": 1628169333,
+        "valid": 1628601333
     }
 }
