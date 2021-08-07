@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit fb9d510b00aa1ec59bcf5f36df9631f768d8ec3a
-Merge: b21cb924c 2f513674d
-Date:   2021-08-05 16:05:14 +0000
+Commit ace51e1c03e999d8dc8b61eeeaf91c848e3180a6
+Merge: d8d5b64ee 7a8c5b69c
+Date:   2021-08-07 18:14:23 +0000
 
-    Merge pull request 'Update Baoshuo Network' (#1014) from renbaoshuo-20210805/update into master
+    Merge pull request 'Initial registration' (#1019) from Yadomin/registry:yadomin-2021-08-07/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1589
-- ROAs IPv6:  1378
-- ROAs total: 2967
+- ROAs IPv4:  1590
+- ROAs IPv6:  1380
+- ROAs total: 2970
 
-[0]: https://git.dn42.dev/dn42/registry/commit/fb9d510b00aa1ec59bcf5f36df9631f768d8ec3a
+[0]: https://git.dn42.dev/dn42/registry/commit/ace51e1c03e999d8dc8b61eeeaf91c848e3180a6
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

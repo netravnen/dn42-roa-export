@@ -1779,6 +1779,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242421720",
+            "prefix": "fd25:a1e5:bee4::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "JOELH-MNT"
+        },
+        {
             "asn": "AS4242420751",
             "prefix": "fd25:ae36:d470::/48",
             "maxLength": 64,
@@ -6756,6 +6763,13 @@
             "mnt-by": "TAGLIO-MNT"
         },
         {
+            "asn": "AS4242423032",
+            "prefix": "fda2:776d:5c5c::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "YADOMIN-MNT"
+        },
+        {
             "asn": "AS4242421407",
             "prefix": "fda3:7863:2204::/48",
             "maxLength": 64,
@@ -7325,21 +7339,21 @@
         {
             "asn": "AS141776",
             "prefix": "fdbb:7278:face::/48",
-            "maxLength": 56,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
         },
         {
             "asn": "AS4242420247",
             "prefix": "fdbb:7278:face::/48",
-            "maxLength": 56,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
         },
         {
             "asn": "AS4201270017",
             "prefix": "fdbb:7278:face::/48",
-            "maxLength": 56,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "BAOSHUO-MNT"
         },
@@ -17382,6 +17396,13 @@
             "mnt-by": "FCON-MNT"
         },
         {
+            "asn": "AS4242423032",
+            "prefix": "172.22.142.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YADOMIN-MNT"
+        },
+        {
             "asn": "AS4242420143",
             "prefix": "172.22.143.0/24",
             "maxLength": 28,
@@ -20771,8 +20792,8 @@
         }
     ],
     "metadata": {
-        "counts": 2967,
-        "generated": 1628356504,
-        "valid": 1628788504
+        "counts": 2970,
+        "generated": 1628360132,
+        "valid": 1628792132
     }
 }
