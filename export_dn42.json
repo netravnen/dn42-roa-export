@@ -6077,6 +6077,13 @@
             "mnt-by": "PSM-MNT"
         },
         {
+            "asn": "AS4242420760",
+            "prefix": "fd8a:fc0c:5707::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "EVONET-MNT"
+        },
+        {
             "asn": "AS4242420939",
             "prefix": "fd8c:3466:b93d::/48",
             "maxLength": 48,
@@ -18425,6 +18432,13 @@
             "mnt-by": "ERIC-MNT"
         },
         {
+            "asn": "AS4242420760",
+            "prefix": "172.22.73.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "EVONET-MNT"
+        },
+        {
             "asn": "AS4242422378",
             "prefix": "172.22.73.16/28",
             "maxLength": 28,
@@ -20792,8 +20806,8 @@
         }
     ],
     "metadata": {
-        "counts": 2970,
-        "generated": 1628360132,
-        "valid": 1628792132
+        "counts": 2972,
+        "generated": 1628363731,
+        "valid": 1628795731
     }
 }

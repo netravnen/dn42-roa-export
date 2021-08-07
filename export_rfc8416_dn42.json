@@ -6084,6 +6084,13 @@
                 "mnt-by": "PSM-MNT"
             },
             {
+                "asn": 4242420760,
+                "prefix": "fd8a:fc0c:5707::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "EVONET-MNT"
+            },
+            {
                 "asn": 4242420939,
                 "prefix": "fd8c:3466:b93d::/48",
                 "maxPrefixLength": 48,
@@ -18430,6 +18437,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ERIC-MNT"
+            },
+            {
+                "asn": 4242420760,
+                "prefix": "172.22.73.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "EVONET-MNT"
             },
             {
                 "asn": 4242422378,
