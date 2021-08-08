@@ -8240,6 +8240,13 @@
             "mnt-by": "MIKI-MNT"
         },
         {
+            "asn": "AS4242421610",
+            "prefix": "fdd8:56ab:1866::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DOCTOR-MNT"
+        },
+        {
             "asn": "AS4242423621",
             "prefix": "fdd8:da7b:92f5::/48",
             "maxLength": 64,
@@ -17207,6 +17214,13 @@
             "mnt-by": "TAAVI-MNT"
         },
         {
+            "asn": "AS4242421610",
+            "prefix": "172.22.130.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DOCTOR-MNT"
+        },
+        {
             "asn": "AS4242423271",
             "prefix": "172.22.131.128/28",
             "maxLength": 28,
@@ -20806,8 +20820,8 @@
         }
     ],
     "metadata": {
-        "counts": 2972,
-        "generated": 1628442905,
-        "valid": 1628874905
+        "counts": 2974,
+        "generated": 1628446530,
+        "valid": 1628878530
     }
 }
