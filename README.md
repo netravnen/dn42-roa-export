@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9a0231beda55e8925fe0a09b3adad6535f665a76
-Merge: 1e023148a f48ccba2b
-Date:   2021-08-09 12:45:28 +0000
+Commit 1e4bc1ed7fdfde0072fe26043f8cfaf5843c899f
+Merge: 9a0231bed 5952c8981
+Date:   2021-08-09 14:23:12 +0000
 
-    Merge pull request 'Update Baoshuo DN42 Network IPv6 Block' (#1021) from renbaoshuo-20210808/ipv6 into master
+    Merge pull request 'Add ssh auth to ROBOBO-MNT' (#1025) from robobo/registry:robobo-20210809/add-ssh-auth into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1383
 - ROAs total: 2976
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9a0231beda55e8925fe0a09b3adad6535f665a76
+[0]: https://git.dn42.dev/dn42/registry/commit/1e4bc1ed7fdfde0072fe26043f8cfaf5843c899f
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
