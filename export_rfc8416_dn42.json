@@ -3144,6 +3144,27 @@
                 "mnt-by": "ICARUSTECH-MNT"
             },
             {
+                "asn": 141776,
+                "prefix": "fd42:4242:247::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
+                "asn": 4242420247,
+                "prefix": "fd42:4242:247::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
+                "asn": 4201270017,
+                "prefix": "fd42:4242:247::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "BAOSHUO-MNT"
+            },
+            {
                 "asn": 4242422499,
                 "prefix": "fd42:4242:2499::/48",
                 "maxPrefixLength": 64,
@@ -7356,27 +7377,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TIMWEB-MNT"
-            },
-            {
-                "asn": 141776,
-                "prefix": "fdbb:7278:face::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BAOSHUO-MNT"
-            },
-            {
-                "asn": 4242420247,
-                "prefix": "fdbb:7278:face::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BAOSHUO-MNT"
-            },
-            {
-                "asn": 4201270017,
-                "prefix": "fdbb:7278:face::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "BAOSHUO-MNT"
             },
             {
                 "asn": 4242420074,
