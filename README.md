@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 1e4bc1ed7fdfde0072fe26043f8cfaf5843c899f
-Merge: 9a0231bed 5952c8981
-Date:   2021-08-09 14:23:12 +0000
+Commit de5e2b2f64e2422fb965be35b535e0c52c4b1f2e
+Merge: 1e4bc1ed7 c6767586c
+Date:   2021-08-11 04:02:40 +0000
 
-    Merge pull request 'Add ssh auth to ROBOBO-MNT' (#1025) from robobo/registry:robobo-20210809/add-ssh-auth into master
+    Merge pull request 'squashed commit:' (#1028) from Sunbread-20210810/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1593
-- ROAs IPv6:  1383
-- ROAs total: 2976
+- ROAs IPv4:  1594
+- ROAs IPv6:  1384
+- ROAs total: 2978
 
-[0]: https://git.dn42.dev/dn42/registry/commit/1e4bc1ed7fdfde0072fe26043f8cfaf5843c899f
+[0]: https://git.dn42.dev/dn42/registry/commit/de5e2b2f64e2422fb965be35b535e0c52c4b1f2e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

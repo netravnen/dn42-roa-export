@@ -1317,6 +1317,13 @@
             "mnt-by": "LUKKIE-MNT"
         },
         {
+            "asn": "AS4242420924",
+            "prefix": "fd15:9060:9d42::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SUNBREAD-MNT"
+        },
+        {
             "asn": "AS4242420640",
             "prefix": "fd15:9ed:b71d::/48",
             "maxLength": 48,
@@ -15464,6 +15471,13 @@
             "mnt-by": "TECHBUTTS-MNT"
         },
         {
+            "asn": "AS4242420924",
+            "prefix": "172.20.62.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SUNBREAD-MNT"
+        },
+        {
             "asn": "AS4242422019",
             "prefix": "172.20.62.32/29",
             "maxLength": 29,
@@ -20834,8 +20848,8 @@
         }
     ],
     "metadata": {
-        "counts": 2976,
-        "generated": 1628651704,
-        "valid": 1629083704
+        "counts": 2978,
+        "generated": 1628655331,
+        "valid": 1629087331
     }
 }
