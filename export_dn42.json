@@ -722,6 +722,13 @@
             "mnt-by": "TNKOCH-MNT"
         },
         {
+            "asn": "AS4242422259",
+            "prefix": "fd0b:fad4:fff6::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TNKOCH-MNT"
+        },
+        {
             "asn": "AS4242423371",
             "prefix": "fd0c:62d:8e7::/48",
             "maxLength": 64,
@@ -13420,6 +13427,13 @@
             "mnt-by": "TNKOCH-MNT"
         },
         {
+            "asn": "AS4242422259",
+            "prefix": "172.20.192.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TNKOCH-MNT"
+        },
+        {
             "asn": "AS4242422478",
             "prefix": "172.20.192.32/27",
             "maxLength": 28,
@@ -20862,8 +20876,8 @@
         }
     ],
     "metadata": {
-        "counts": 2980,
-        "generated": 1628666105,
-        "valid": 1629098105
+        "counts": 2982,
+        "generated": 1628669736,
+        "valid": 1629101736
     }
 }

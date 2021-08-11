@@ -729,6 +729,13 @@
                 "mnt-by": "TNKOCH-MNT"
             },
             {
+                "asn": 4242422259,
+                "prefix": "fd0b:fad4:fff6::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TNKOCH-MNT"
+            },
+            {
                 "asn": 4242423371,
                 "prefix": "fd0c:62d:8e7::/48",
                 "maxPrefixLength": 64,
@@ -13421,6 +13428,13 @@
             },
             {
                 "asn": 210969,
+                "prefix": "172.20.192.192/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TNKOCH-MNT"
+            },
+            {
+                "asn": 4242422259,
                 "prefix": "172.20.192.192/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
