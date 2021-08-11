@@ -3221,6 +3221,20 @@
                 "mnt-by": "PDOSTAL-MNT"
             },
             {
+                "asn": 4242423699,
+                "prefix": "fd42:4242:3699::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TSINGYAO-MNT"
+            },
+            {
+                "asn": 4201270099,
+                "prefix": "fd42:4242:3699::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TSINGYAO-MNT"
+            },
+            {
                 "asn": 4242423775,
                 "prefix": "fd42:4242:3775::/48",
                 "maxPrefixLength": 64,
@@ -9379,13 +9393,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "FC-MNT"
-            },
-            {
-                "asn": 4242423699,
-                "prefix": "fdfb:d500:a158::/48",
-                "maxPrefixLength": 64,
-                "source": "DN42",
-                "mnt-by": "TSINGYAO-MNT"
             },
             {
                 "asn": 4242420041,
@@ -17656,6 +17663,13 @@
             },
             {
                 "asn": 4242423699,
+                "prefix": "172.22.155.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TSINGYAO-MNT"
+            },
+            {
+                "asn": 4201270099,
                 "prefix": "172.22.155.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
