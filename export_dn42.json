@@ -729,6 +729,13 @@
             "mnt-by": "TNKOCH-MNT"
         },
         {
+            "asn": "AS4242422808",
+            "prefix": "fd0c:3cf7:8002::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SNOW-MNT"
+        },
+        {
             "asn": "AS4242423371",
             "prefix": "fd0c:62d:8e7::/48",
             "maxLength": 64,
@@ -18243,6 +18250,13 @@
             "mnt-by": "JONATHAN-FERGUSON-MNT"
         },
         {
+            "asn": "AS4242422808",
+            "prefix": "172.22.247.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SNOW-MNT"
+        },
+        {
             "asn": "AS4242423993",
             "prefix": "172.22.252.160/27",
             "maxLength": 28,
@@ -20883,8 +20897,8 @@
         }
     ],
     "metadata": {
-        "counts": 2983,
-        "generated": 1628860536,
-        "valid": 1629292536
+        "counts": 2985,
+        "generated": 1628864132,
+        "valid": 1629296132
     }
 }
