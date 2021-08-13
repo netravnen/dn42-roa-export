@@ -19538,6 +19538,13 @@
                 "mnt-by": "SKYWARS-MNT"
             },
             {
+                "asn": 4242420602,
+                "prefix": "172.23.173.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "STEVENSUN-MNT"
+            },
+            {
                 "asn": 4242422479,
                 "prefix": "172.23.177.0/28",
                 "maxPrefixLength": 28,

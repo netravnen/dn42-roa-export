@@ -19531,6 +19531,13 @@
             "mnt-by": "SKYWARS-MNT"
         },
         {
+            "asn": "AS4242420602",
+            "prefix": "172.23.173.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "STEVENSUN-MNT"
+        },
+        {
             "asn": "AS4242422479",
             "prefix": "172.23.177.0/28",
             "maxLength": 28,
@@ -20876,8 +20883,8 @@
         }
     ],
     "metadata": {
-        "counts": 2982,
-        "generated": 1628856905,
-        "valid": 1629288905
+        "counts": 2983,
+        "generated": 1628860536,
+        "valid": 1629292536
     }
 }
