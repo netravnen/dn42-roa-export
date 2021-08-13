@@ -6476,6 +6476,13 @@
                 "mnt-by": "VILLISEK-MNT"
             },
             {
+                "asn": 142642,
+                "prefix": "fd98:7769:12c8::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ACE-MNT"
+            },
+            {
                 "asn": 4242422390,
                 "prefix": "fd98:78d2:f8eb::/48",
                 "maxPrefixLength": 48,
@@ -20656,6 +20663,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HRNZ-MNT"
+            },
+            {
+                "asn": 142642,
+                "prefix": "172.23.75.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ACE-MNT"
             },
             {
                 "asn": 4242422305,
