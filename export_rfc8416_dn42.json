@@ -1709,6 +1709,13 @@
                 "mnt-by": "CLOUDYSKIES-MNT"
             },
             {
+                "asn": 4242423669,
+                "prefix": "fd23:15eb:6969::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FOXXX0-MNT"
+            },
+            {
                 "asn": 4242423929,
                 "prefix": "fd23:1d71:dd17::/48",
                 "maxPrefixLength": 48,
@@ -17947,6 +17954,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "QINLONG-MNT"
+            },
+            {
+                "asn": 4242423669,
+                "prefix": "172.22.169.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FOXXX0-MNT"
             },
             {
                 "asn": 4242423337,
