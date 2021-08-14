@@ -1436,6 +1436,13 @@
             "mnt-by": "DIYPIANDCO-MNT"
         },
         {
+            "asn": "AS4242421902",
+            "prefix": "fd18:a623:e3a5::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DPOQUET-MNT"
+        },
+        {
             "asn": "AS4242421550",
             "prefix": "fd19:11ec:bed7::/48",
             "maxLength": 48,
@@ -13504,6 +13511,13 @@
             "mnt-by": "MDUCHARME-MNT"
         },
         {
+            "asn": "AS4242421902",
+            "prefix": "172.20.195.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DPOQUET-MNT"
+        },
+        {
             "asn": "AS4242421221",
             "prefix": "172.20.195.64/28",
             "maxLength": 28,
@@ -20911,8 +20925,8 @@
         }
     ],
     "metadata": {
-        "counts": 2987,
-        "generated": 1628910906,
-        "valid": 1629342906
+        "counts": 2989,
+        "generated": 1628914530,
+        "valid": 1629346530
     }
 }
