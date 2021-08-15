@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 8e658c913b5bef347ac275b7bab512c0efb0dcd7
-Merge: 857772344 f0a3366f0
-Date:   2021-08-14 22:44:08 +0000
+Commit 578b8479f9f377dda4161367401ad8daf456d78a
+Merge: 090748606 313612909
+Date:   2021-08-15 14:56:47 +0000
 
-    Merge pull request 'squashed commit:' (#1048) from jastrup-20210814/updates-to-bitbakers into master
+    Merge pull request 'add new AS210903 and update Tsingyao Network' (#1050) from tsingyao-20210815/update into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1601
-- ROAs IPv6:  1390
-- ROAs total: 2991
+- ROAs IPv4:  1602
+- ROAs IPv6:  1391
+- ROAs total: 2993
 
-[0]: https://git.dn42.dev/dn42/registry/commit/8e658c913b5bef347ac275b7bab512c0efb0dcd7
+[0]: https://git.dn42.dev/dn42/registry/commit/578b8479f9f377dda4161367401ad8daf456d78a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

@@ -3263,6 +3263,13 @@
                 "mnt-by": "TSINGYAO-MNT"
             },
             {
+                "asn": 210903,
+                "prefix": "fd42:4242:3699::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TSINGYAO-MNT"
+            },
+            {
                 "asn": 4242423775,
                 "prefix": "fd42:4242:3775::/48",
                 "maxPrefixLength": 64,
@@ -17719,6 +17726,13 @@
             },
             {
                 "asn": 4201270099,
+                "prefix": "172.22.155.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TSINGYAO-MNT"
+            },
+            {
+                "asn": 210903,
                 "prefix": "172.22.155.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",

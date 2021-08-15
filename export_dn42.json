@@ -3256,6 +3256,13 @@
             "mnt-by": "TSINGYAO-MNT"
         },
         {
+            "asn": "AS210903",
+            "prefix": "fd42:4242:3699::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TSINGYAO-MNT"
+        },
+        {
             "asn": "AS4242423775",
             "prefix": "fd42:4242:3775::/48",
             "maxLength": 64,
@@ -17718,6 +17725,13 @@
             "mnt-by": "TSINGYAO-MNT"
         },
         {
+            "asn": "AS210903",
+            "prefix": "172.22.155.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TSINGYAO-MNT"
+        },
+        {
             "asn": "AS4242421219",
             "prefix": "172.22.156.0/25",
             "maxLength": 28,
@@ -20939,8 +20953,8 @@
         }
     ],
     "metadata": {
-        "counts": 2991,
-        "generated": 1629036904,
-        "valid": 1629468904
+        "counts": 2993,
+        "generated": 1629040530,
+        "valid": 1629472530
     }
 }
