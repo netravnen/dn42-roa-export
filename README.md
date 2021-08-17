@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit edabc1cc4983dc98a6cd168bc0fc5681fe599e17
-Merge: 578b8479f e49390c32
-Date:   2021-08-17 08:50:46 +0000
+Commit 9809be56dab4681a761cc1e1a837457382774bd8
+Merge: edabc1cc4 63175f32e
+Date:   2021-08-17 09:47:10 +0000
 
-    Merge pull request 'Add qlex network' (#1032) from qlex-20210812/create into master
+    Merge pull request 'added reverse dns' (#1052) from peer1ng-20210816/reverseip into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1392
 - ROAs total: 2994
 
-[0]: https://git.dn42.dev/dn42/registry/commit/edabc1cc4983dc98a6cd168bc0fc5681fe599e17
+[0]: https://git.dn42.dev/dn42/registry/commit/9809be56dab4681a761cc1e1a837457382774bd8
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
