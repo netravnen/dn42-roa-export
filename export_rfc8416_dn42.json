@@ -6665,6 +6665,13 @@
                 "mnt-by": "WFK-MNT"
             },
             {
+                "asn": 4242420795,
+                "prefix": "fd9f:59a6:30da::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MILKFISH-MNT"
+            },
+            {
                 "asn": 4242423514,
                 "prefix": "fda0:23:1f05:1::/64",
                 "maxPrefixLength": 64,
@@ -6834,6 +6841,13 @@
             },
             {
                 "asn": 4201270021,
+                "prefix": "fda1:ae59:6dd0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
+                "asn": 17830,
                 "prefix": "fda1:ae59:6dd0::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
@@ -13560,6 +13574,13 @@
                 "mnt-by": "LOSTSERVER-MNT"
             },
             {
+                "asn": 4242420795,
+                "prefix": "172.20.195.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MILKFISH-MNT"
+            },
+            {
                 "asn": 4242422247,
                 "prefix": "172.20.197.160/28",
                 "maxPrefixLength": 28,
@@ -18509,6 +18530,13 @@
                 "mnt-by": "DL-MNT"
             },
             {
+                "asn": 17830,
+                "prefix": "172.22.66.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
                 "asn": 211876,
                 "prefix": "172.22.66.32/27",
                 "maxPrefixLength": 28,
@@ -20645,6 +20673,13 @@
             },
             {
                 "asn": 4201270021,
+                "prefix": "172.23.66.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DL-MNT"
+            },
+            {
+                "asn": 17830,
                 "prefix": "172.23.66.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",

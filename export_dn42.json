@@ -6658,6 +6658,13 @@
             "mnt-by": "WFK-MNT"
         },
         {
+            "asn": "AS4242420795",
+            "prefix": "fd9f:59a6:30da::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MILKFISH-MNT"
+        },
+        {
             "asn": "AS4242423514",
             "prefix": "fda0:23:1f05:1::/64",
             "maxLength": 64,
@@ -6827,6 +6834,13 @@
         },
         {
             "asn": "AS4201270021",
+            "prefix": "fda1:ae59:6dd0::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
+            "asn": "AS17830",
             "prefix": "fda1:ae59:6dd0::/48",
             "maxLength": 48,
             "ta": "DN42",
@@ -13553,6 +13567,13 @@
             "mnt-by": "LOSTSERVER-MNT"
         },
         {
+            "asn": "AS4242420795",
+            "prefix": "172.20.195.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MILKFISH-MNT"
+        },
+        {
             "asn": "AS4242422247",
             "prefix": "172.20.197.160/28",
             "maxLength": 28,
@@ -18502,6 +18523,13 @@
             "mnt-by": "DL-MNT"
         },
         {
+            "asn": "AS17830",
+            "prefix": "172.22.66.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
             "asn": "AS211876",
             "prefix": "172.22.66.32/27",
             "maxLength": 28,
@@ -20644,6 +20672,13 @@
             "mnt-by": "DL-MNT"
         },
         {
+            "asn": "AS17830",
+            "prefix": "172.23.66.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DL-MNT"
+        },
+        {
             "asn": "AS211876",
             "prefix": "172.23.66.0/26",
             "maxLength": 28,
@@ -20960,8 +20995,8 @@
         }
     ],
     "metadata": {
-        "counts": 2994,
-        "generated": 1629224106,
-        "valid": 1629656106
+        "counts": 2999,
+        "generated": 1629227732,
+        "valid": 1629659732
     }
 }
