@@ -2647,6 +2647,13 @@
             "mnt-by": "4A6F-MNT"
         },
         {
+            "asn": "AS4242421806",
+            "prefix": "fd42:1806:1806::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "QLEX-MNT"
+        },
+        {
             "asn": "AS4242420119",
             "prefix": "fd42:180:3de0:100::/60",
             "maxLength": 64,
@@ -20953,8 +20960,8 @@
         }
     ],
     "metadata": {
-        "counts": 2993,
-        "generated": 1629188105,
-        "valid": 1629620105
+        "counts": 2994,
+        "generated": 1629191732,
+        "valid": 1629623732
     }
 }

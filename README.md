@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 578b8479f9f377dda4161367401ad8daf456d78a
-Merge: 090748606 313612909
-Date:   2021-08-15 14:56:47 +0000
+Commit edabc1cc4983dc98a6cd168bc0fc5681fe599e17
+Merge: 578b8479f e49390c32
+Date:   2021-08-17 08:50:46 +0000
 
-    Merge pull request 'add new AS210903 and update Tsingyao Network' (#1050) from tsingyao-20210815/update into master
+    Merge pull request 'Add qlex network' (#1032) from qlex-20210812/create into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1602
-- ROAs IPv6:  1391
-- ROAs total: 2993
+- ROAs IPv6:  1392
+- ROAs total: 2994
 
-[0]: https://git.dn42.dev/dn42/registry/commit/578b8479f9f377dda4161367401ad8daf456d78a
+[0]: https://git.dn42.dev/dn42/registry/commit/edabc1cc4983dc98a6cd168bc0fc5681fe599e17
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

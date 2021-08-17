@@ -2654,6 +2654,13 @@
                 "mnt-by": "4A6F-MNT"
             },
             {
+                "asn": 4242421806,
+                "prefix": "fd42:1806:1806::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "QLEX-MNT"
+            },
+            {
                 "asn": 4242420119,
                 "prefix": "fd42:180:3de0:100::/60",
                 "maxPrefixLength": 64,
