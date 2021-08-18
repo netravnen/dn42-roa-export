@@ -1464,6 +1464,13 @@
                 "mnt-by": "BISCUITTIN-MNT"
             },
             {
+                "asn": 4242420588,
+                "prefix": "fd19:3474:7628::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "0X6-MNT"
+            },
+            {
                 "asn": 4242421822,
                 "prefix": "fd19:361e:b053::/48",
                 "maxPrefixLength": 64,
@@ -19046,6 +19053,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RIP-MNT"
+            },
+            {
+                "asn": 4242420588,
+                "prefix": "172.23.110.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "0X6-MNT"
             },
             {
                 "asn": 4242420344,

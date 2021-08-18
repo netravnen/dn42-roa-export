@@ -1457,6 +1457,13 @@
             "mnt-by": "BISCUITTIN-MNT"
         },
         {
+            "asn": "AS4242420588",
+            "prefix": "fd19:3474:7628::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "0X6-MNT"
+        },
+        {
             "asn": "AS4242421822",
             "prefix": "fd19:361e:b053::/48",
             "maxLength": 64,
@@ -19041,6 +19048,13 @@
             "mnt-by": "RIP-MNT"
         },
         {
+            "asn": "AS4242420588",
+            "prefix": "172.23.110.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "0X6-MNT"
+        },
+        {
             "asn": "AS4242420344",
             "prefix": "172.23.110.96/27",
             "maxLength": 28,
@@ -20995,8 +21009,8 @@
         }
     ],
     "metadata": {
-        "counts": 2999,
-        "generated": 1629310506,
-        "valid": 1629742506
+        "counts": 3001,
+        "generated": 1629314132,
+        "valid": 1629746132
     }
 }
