@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e2d7c3d3c5f459c5faeddab1af8965ab08d2f9be
-Merge: 806790689 9af29311f
-Date:   2021-08-19 09:17:06 +0000
+Commit 1d418227485637e616d3752504e5ac47baa3884d
+Merge: e2d7c3d3c 6d7515781
+Date:   2021-08-19 17:26:50 +0000
 
-    Merge pull request 'Add AS4242420460' (#1056) from JcdeA-20210819/create into master
+    Merge pull request 'Update squash-my-commits script' (#1060) from burble-20210819/fix-squash-script into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1397
 - ROAs total: 3002
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e2d7c3d3c5f459c5faeddab1af8965ab08d2f9be
+[0]: https://git.dn42.dev/dn42/registry/commit/1d418227485637e616d3752504e5ac47baa3884d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
