@@ -9542,6 +9542,13 @@
                 "mnt-by": "KIOUBIT-MNT"
             },
             {
+                "asn": 4242420460,
+                "prefix": "fdfc:f2:54cd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JCDEA-MNT"
+            },
+            {
                 "asn": 4242420165,
                 "prefix": "fdfd:1651:65:f398::/64",
                 "maxPrefixLength": 64,
