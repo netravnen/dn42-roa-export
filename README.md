@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 23d3db40974bd908b93526fd8c223d6fe1a18647
-Merge: 8bd731d77 8b9215fba
-Date:   2021-08-20 19:58:19 +0000
+Commit 94ae9377ad3be94c0bc5cefc1ad97cf6e9c4145d
+Merge: 96888f5e4 27010064d
+Date:   2021-08-21 20:23:43 +0000
 
-    Merge pull request 'Add ORG-ARCHLINUX-USERS' (#1059) from bastelfreak-20210819/add-archlinux-org into master
+    Merge pull request 'add AS4242420826' (#1062) from dgy-20210820/registry into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1605
-- ROAs IPv6:  1398
-- ROAs total: 3003
+- ROAs IPv4:  1607
+- ROAs IPv6:  1399
+- ROAs total: 3006
 
-[0]: https://git.dn42.dev/dn42/registry/commit/23d3db40974bd908b93526fd8c223d6fe1a18647
+[0]: https://git.dn42.dev/dn42/registry/commit/94ae9377ad3be94c0bc5cefc1ad97cf6e9c4145d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

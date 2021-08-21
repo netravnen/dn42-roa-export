@@ -1240,6 +1240,13 @@
             "mnt-by": "CAXAP-MNT"
         },
         {
+            "asn": "AS4242420826",
+            "prefix": "fd11:552f:74db::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DGY-MNT"
+        },
+        {
             "asn": "AS4242420213",
             "prefix": "fd11:acac:961d::/48",
             "maxLength": 64,
@@ -19846,6 +19853,13 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
+            "asn": "AS4242420826",
+            "prefix": "172.23.196.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DGY-MNT"
+        },
+        {
             "asn": "AS4242423303",
             "prefix": "172.23.197.0/25",
             "maxLength": 28,
@@ -20257,6 +20271,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "FWLB-MNT"
+        },
+        {
+            "asn": "AS4242420460",
+            "prefix": "172.23.24.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "JCDEA-MNT"
         },
         {
             "asn": "AS4242421964",
@@ -21023,8 +21044,8 @@
         }
     ],
     "metadata": {
-        "counts": 3003,
-        "generated": 1629576905,
-        "valid": 1630008905
+        "counts": 3006,
+        "generated": 1629580530,
+        "valid": 1630012530
     }
 }
