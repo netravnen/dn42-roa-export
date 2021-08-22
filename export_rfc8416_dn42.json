@@ -71,6 +71,13 @@
                 "mnt-by": "BOLD-MNT"
             },
             {
+                "asn": 4242420323,
+                "prefix": "fd00:1999:323::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CHESSKUO-MNT"
+            },
+            {
                 "asn": 4242423348,
                 "prefix": "fd00:4242:3348::/48",
                 "maxPrefixLength": 64,
@@ -20950,6 +20957,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JRONGBIN-MNT"
+            },
+            {
+                "asn": 4242420323,
+                "prefix": "172.23.87.0/25",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHESSKUO-MNT"
             },
             {
                 "asn": 4242420205,
