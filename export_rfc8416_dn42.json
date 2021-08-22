@@ -260,6 +260,13 @@
                 "mnt-by": "AIRGAPPED-MNT"
             },
             {
+                "asn": 4242422263,
+                "prefix": "fd00:8ccf:b2f2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "AZUKI-MNT"
+            },
+            {
                 "asn": 4242429990,
                 "prefix": "fd00:9990::/48",
                 "maxPrefixLength": 64,
@@ -18108,6 +18115,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JOMAT-MNT"
+            },
+            {
+                "asn": 4242422263,
+                "prefix": "172.22.177.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "AZUKI-MNT"
             },
             {
                 "asn": 4242421977,
