@@ -3473,6 +3473,13 @@
             "mnt-by": "OO11-MNT"
         },
         {
+            "asn": "AS4242423577",
+            "prefix": "fd42:4cd6:34ef::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CYL-MNT"
+        },
+        {
             "asn": "AS4242422428",
             "prefix": "fd42:4dd0:ff00::/48",
             "maxLength": 64,
@@ -16325,6 +16332,13 @@
             "mnt-by": "SIEMIR-MNT"
         },
         {
+            "asn": "AS4242423577",
+            "prefix": "172.21.79.64/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CYL-MNT"
+        },
+        {
             "asn": "AS4242420186",
             "prefix": "172.21.79.80/28",
             "maxLength": 28,
@@ -21086,8 +21100,8 @@
         }
     ],
     "metadata": {
-        "counts": 3012,
-        "generated": 1629699304,
-        "valid": 1630131304
+        "counts": 3014,
+        "generated": 1629702931,
+        "valid": 1630134931
     }
 }
