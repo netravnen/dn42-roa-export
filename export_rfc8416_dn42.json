@@ -9598,6 +9598,13 @@
                 "mnt-by": "ZAICA-MNT"
             },
             {
+                "asn": 4242422246,
+                "prefix": "fdfd:22:46::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "VENTILAAR-MNT"
+            },
+            {
                 "asn": 4242422284,
                 "prefix": "fdfd:25fe:c901::/48",
                 "maxPrefixLength": 64,
@@ -18640,6 +18647,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZEYPHROS-MNT"
+            },
+            {
+                "asn": 4242422246,
+                "prefix": "172.22.67.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "VENTILAAR-MNT"
             },
             {
                 "asn": 4242421888,
