@@ -260,13 +260,6 @@
             "mnt-by": "AIRGAPPED-MNT"
         },
         {
-            "asn": "AS4242422263",
-            "prefix": "fd00:8ccf:b2f2::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "AZUKI-MNT"
-        },
-        {
             "asn": "AS4242429990",
             "prefix": "fd00:9990::/48",
             "maxLength": 64,
@@ -18145,13 +18138,6 @@
             "mnt-by": "JOMAT-MNT"
         },
         {
-            "asn": "AS4242422263",
-            "prefix": "172.22.177.0/26",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "AZUKI-MNT"
-        },
-        {
             "asn": "AS4242421977",
             "prefix": "172.22.177.64/28",
             "maxLength": 28,
@@ -19624,7 +19610,7 @@
         {
             "asn": "AS4242423505",
             "prefix": "172.23.163.64/27",
-            "maxLength": 28,
+            "maxLength": 27,
             "ta": "DN42",
             "mnt-by": "HIVEMIND-MNT"
         },
@@ -21135,8 +21121,8 @@
         }
     ],
     "metadata": {
-        "counts": 3019,
-        "generated": 1629814531,
-        "valid": 1630246531
+        "counts": 3017,
+        "generated": 1629818141,
+        "valid": 1630250141
     }
 }
