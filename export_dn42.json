@@ -771,6 +771,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242420249",
+            "prefix": "fd0c:d28c:fbc9::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ITY-MNT"
+        },
+        {
             "asn": "AS64663",
             "prefix": "fd0d:138:9006::/48",
             "maxLength": 64,
@@ -20371,6 +20378,13 @@
             "mnt-by": "DAVIDWANG-MNT"
         },
         {
+            "asn": "AS4242420249",
+            "prefix": "172.23.242.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ITY-MNT"
+        },
+        {
             "asn": "AS76175",
             "prefix": "172.23.245.0/24",
             "maxLength": 28,
@@ -21121,8 +21135,8 @@
         }
     ],
     "metadata": {
-        "counts": 3017,
-        "generated": 1629810904,
-        "valid": 1630242904
+        "counts": 3019,
+        "generated": 1629814531,
+        "valid": 1630246531
     }
 }

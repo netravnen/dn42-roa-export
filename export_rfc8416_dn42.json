@@ -778,6 +778,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420249,
+                "prefix": "fd0c:d28c:fbc9::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ITY-MNT"
+            },
+            {
                 "asn": 64663,
                 "prefix": "fd0d:138:9006::/48",
                 "maxPrefixLength": 64,
@@ -20376,6 +20383,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DAVIDWANG-MNT"
+            },
+            {
+                "asn": 4242420249,
+                "prefix": "172.23.242.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ITY-MNT"
             },
             {
                 "asn": 76175,
