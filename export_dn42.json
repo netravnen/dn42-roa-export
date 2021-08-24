@@ -21043,6 +21043,13 @@
             "mnt-by": "FLORZ-MNT"
         },
         {
+            "asn": "AS4242422680",
+            "prefix": "172.23.93.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TIANICE-MNT"
+        },
+        {
             "asn": "AS4242420101",
             "prefix": "172.23.96.0/24",
             "maxLength": 28,
@@ -21114,8 +21121,8 @@
         }
     ],
     "metadata": {
-        "counts": 3016,
-        "generated": 1629771306,
-        "valid": 1630203306
+        "counts": 3017,
+        "generated": 1629774931,
+        "valid": 1630206931
     }
 }
