@@ -8163,6 +8163,13 @@
                 "mnt-by": "NABOUNO-MNT"
             },
             {
+                "asn": 4242421464,
+                "prefix": "fdcd:c2da:c2c4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "AIBO-MNT"
+            },
+            {
                 "asn": 4242420944,
                 "prefix": "fdcd:eb58:c24a:6798::/64",
                 "maxPrefixLength": 64,

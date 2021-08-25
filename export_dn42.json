@@ -8156,6 +8156,13 @@
             "mnt-by": "NABOUNO-MNT"
         },
         {
+            "asn": "AS4242421464",
+            "prefix": "fdcd:c2da:c2c4::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "AIBO-MNT"
+        },
+        {
             "asn": "AS4242420944",
             "prefix": "fdcd:eb58:c24a:6798::/64",
             "maxLength": 64,
@@ -21121,8 +21128,8 @@
         }
     ],
     "metadata": {
-        "counts": 3017,
-        "generated": 1629872105,
-        "valid": 1630304105
+        "counts": 3018,
+        "generated": 1629875729,
+        "valid": 1630307729
     }
 }
