@@ -1653,6 +1653,13 @@
                 "mnt-by": "UNICORN-MNT"
             },
             {
+                "asn": 4242422252,
+                "prefix": "fd1d:d8fe:568d::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TOTORO-MNT"
+            },
+            {
                 "asn": 4242421307,
                 "prefix": "fd1f:ce1e:ff42::/48",
                 "maxPrefixLength": 48,
@@ -21055,6 +21062,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LINGXUN-MNT"
+            },
+            {
+                "asn": 4242422252,
+                "prefix": "172.23.90.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TOTORO-MNT"
             },
             {
                 "asn": 4242422189,

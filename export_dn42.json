@@ -1646,6 +1646,13 @@
             "mnt-by": "UNICORN-MNT"
         },
         {
+            "asn": "AS4242422252",
+            "prefix": "fd1d:d8fe:568d::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "TOTORO-MNT"
+        },
+        {
             "asn": "AS4242421307",
             "prefix": "fd1f:ce1e:ff42::/48",
             "maxLength": 48,
@@ -21050,6 +21057,13 @@
             "mnt-by": "LINGXUN-MNT"
         },
         {
+            "asn": "AS4242422252",
+            "prefix": "172.23.90.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "TOTORO-MNT"
+        },
+        {
             "asn": "AS4242422189",
             "prefix": "172.23.91.0/25",
             "maxLength": 28,
@@ -21156,8 +21170,8 @@
         }
     ],
     "metadata": {
-        "counts": 3022,
-        "generated": 1629897336,
-        "valid": 1630329336
+        "counts": 3024,
+        "generated": 1629900934,
+        "valid": 1630332934
     }
 }
