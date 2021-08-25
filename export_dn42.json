@@ -1282,6 +1282,13 @@
             "mnt-by": "TRRUNDE-MNT"
         },
         {
+            "asn": "AS4242423660",
+            "prefix": "fd11:f391:702c::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "NCDWLQ-MNT"
+        },
+        {
             "asn": "AS4242423209",
             "prefix": "fd12:9554:7f59::/48",
             "maxLength": 64,
@@ -2106,6 +2113,13 @@
             "maxLength": 64,
             "ta": "ICVPN",
             "mnt-by": "DN42-MNT"
+        },
+        {
+            "asn": "AS4242421060",
+            "prefix": "fd30:b2d5:2c7::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DADAFOX-MNT"
         },
         {
             "asn": "AS4242421228",
@@ -15877,6 +15891,13 @@
             "mnt-by": "AYAHUASEC-MNT"
         },
         {
+            "asn": "AS4242421060",
+            "prefix": "172.21.110.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DADAFOX-MNT"
+        },
+        {
             "asn": "AS4242420155",
             "prefix": "172.21.111.0/24",
             "maxLength": 28,
@@ -16449,6 +16470,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "XIAOIT-MNT"
+        },
+        {
+            "asn": "AS4242423660",
+            "prefix": "172.21.86.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NCDWLQ-MNT"
         },
         {
             "asn": "AS4242421422",
@@ -21128,8 +21156,8 @@
         }
     ],
     "metadata": {
-        "counts": 3018,
-        "generated": 1629893705,
-        "valid": 1630325705
+        "counts": 3022,
+        "generated": 1629897336,
+        "valid": 1630329336
     }
 }
