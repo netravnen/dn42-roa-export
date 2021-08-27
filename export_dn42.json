@@ -17263,6 +17263,13 @@
             "mnt-by": "GCC-MNT"
         },
         {
+            "asn": "AS4242421903",
+            "prefix": "172.22.124.32/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WILL-MNT"
+        },
+        {
             "asn": "AS4242423974",
             "prefix": "172.22.125.0/28",
             "maxLength": 28,
@@ -21170,8 +21177,8 @@
         }
     ],
     "metadata": {
-        "counts": 3024,
-        "generated": 1630095343,
-        "valid": 1630527343
+        "counts": 3025,
+        "generated": 1630098929,
+        "valid": 1630530929
     }
 }

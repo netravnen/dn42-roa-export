@@ -17270,6 +17270,13 @@
                 "mnt-by": "GCC-MNT"
             },
             {
+                "asn": 4242421903,
+                "prefix": "172.22.124.32/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WILL-MNT"
+            },
+            {
                 "asn": 4242423974,
                 "prefix": "172.22.125.0/28",
                 "maxPrefixLength": 28,
