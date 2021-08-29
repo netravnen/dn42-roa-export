@@ -1310,6 +1310,13 @@
                 "mnt-by": "SENAO-MNT"
             },
             {
+                "asn": 4242422343,
+                "prefix": "fd12:cf2b:497a::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ABUDU-MNT"
+            },
+            {
                 "asn": 4242422843,
                 "prefix": "fd12:dbe1:d36c::/48",
                 "maxPrefixLength": 48,
@@ -1476,13 +1483,6 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "CLEMENT-MNT"
-            },
-            {
-                "asn": 4242421810,
-                "prefix": "fd18:6e18:2d15::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242421908,
@@ -2234,13 +2234,6 @@
                 "mnt-by": "DANIMO-MNT"
             },
             {
-                "asn": 4242421192,
-                "prefix": "fd35:7250:d924::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242422006,
                 "prefix": "fd35:eeee:eeee::/48",
                 "maxPrefixLength": 64,
@@ -2379,6 +2372,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SPIELWIESE-MNT"
+            },
+            {
+                "asn": 4242421795,
+                "prefix": "fd3c:6c1c:dff6::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JOKO-MNT"
             },
             {
                 "asn": 4242421942,
@@ -5363,13 +5363,6 @@
                 "mnt-by": "FSNX-MNT"
             },
             {
-                "asn": 4242421366,
-                "prefix": "fd68:c13a:2df3::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242423759,
                 "prefix": "fd68:ea13:20f::/48",
                 "maxPrefixLength": 64,
@@ -6390,6 +6383,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422188,
+                "prefix": "fd92:6a0d:ea38::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JUREGRINFFIN-MNT"
             },
             {
                 "asn": 4242422018,
@@ -8072,13 +8072,6 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4242421245,
-                "prefix": "fdca:d896:f837::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 65511,
                 "prefix": "fdca:ffee:8::/64",
                 "maxPrefixLength": 64,
@@ -8161,13 +8154,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SPACE24-MNT"
-            },
-            {
-                "asn": 4242421330,
-                "prefix": "fdcc:f090:ab75::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242422002,
@@ -9386,13 +9372,6 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "WEITI-MNT"
-            },
-            {
-                "asn": 4242421305,
-                "prefix": "fdf7:7895:dd71::/48",
-                "maxPrefixLength": 48,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
             },
             {
                 "asn": 4242420521,
@@ -14302,55 +14281,6 @@
                 "mnt-by": "SAINTWOLF-MNT"
             },
             {
-                "asn": 4242421192,
-                "prefix": "172.20.232.128/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
-                "asn": 4242421459,
-                "prefix": "172.20.232.136/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "SANQUILMAS-MNT"
-            },
-            {
-                "asn": 4242421245,
-                "prefix": "172.20.232.144/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
-                "asn": 4242421305,
-                "prefix": "172.20.232.152/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
-                "asn": 4242421810,
-                "prefix": "172.20.232.160/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
-                "asn": 4242421330,
-                "prefix": "172.20.232.168/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
-                "asn": 4242421366,
-                "prefix": "172.20.232.176/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "GATUNO-MNT"
-            },
-            {
                 "asn": 4242420741,
                 "prefix": "172.20.232.32/27",
                 "maxPrefixLength": 28,
@@ -16505,6 +16435,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NCDWLQ-MNT"
+            },
+            {
+                "asn": 4242422343,
+                "prefix": "172.21.86.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ABUDU-MNT"
             },
             {
                 "asn": 4242421422,
@@ -20278,6 +20215,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DKJOKER-MNT"
+            },
+            {
+                "asn": 4242422188,
+                "prefix": "172.23.231.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JUREGRINFFIN-MNT"
             },
             {
                 "asn": 4242422244,
