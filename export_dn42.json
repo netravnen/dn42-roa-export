@@ -6081,7 +6081,7 @@
             "prefix": "fd85:7370:a8a1::/48",
             "maxLength": 48,
             "ta": "DN42",
-            "mnt-by": "WILL-MNT"
+            "mnt-by": "NEV-MNT"
         },
         {
             "asn": "AS4242420823",
@@ -8644,6 +8644,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "SYNK-MNT"
+        },
+        {
+            "asn": "AS4242421903",
+            "prefix": "fddf:86ed:37cc::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "WILL-MNT"
         },
         {
             "asn": "AS65064",
@@ -16161,7 +16168,7 @@
             "prefix": "172.21.65.96/27",
             "maxLength": 28,
             "ta": "DN42",
-            "mnt-by": "WILL-MNT"
+            "mnt-by": "NEV-MNT"
         },
         {
             "asn": "AS4242421224",
@@ -20581,6 +20588,13 @@
             "mnt-by": "NOCTIS-MNT"
         },
         {
+            "asn": "AS4242421464",
+            "prefix": "172.23.37.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AIBO-MNT"
+        },
+        {
             "asn": "AS4242422950",
             "prefix": "172.23.38.160/27",
             "maxLength": 28,
@@ -21191,8 +21205,8 @@
         }
     ],
     "metadata": {
-        "counts": 3027,
-        "generated": 1630242904,
-        "valid": 1630674904
+        "counts": 3029,
+        "generated": 1630246530,
+        "valid": 1630678530
     }
 }

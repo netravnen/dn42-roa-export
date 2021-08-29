@@ -6088,7 +6088,7 @@
                 "prefix": "fd85:7370:a8a1::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
-                "mnt-by": "WILL-MNT"
+                "mnt-by": "NEV-MNT"
             },
             {
                 "asn": 4242420823,
@@ -8651,6 +8651,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "SYNK-MNT"
+            },
+            {
+                "asn": 4242421903,
+                "prefix": "fddf:86ed:37cc::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "WILL-MNT"
             },
             {
                 "asn": 65064,
@@ -16168,7 +16175,7 @@
                 "prefix": "172.21.65.96/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "WILL-MNT"
+                "mnt-by": "NEV-MNT"
             },
             {
                 "asn": 4242421224,
@@ -20586,6 +20593,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "NOCTIS-MNT"
+            },
+            {
+                "asn": 4242421464,
+                "prefix": "172.23.37.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "AIBO-MNT"
             },
             {
                 "asn": 4242422950,
