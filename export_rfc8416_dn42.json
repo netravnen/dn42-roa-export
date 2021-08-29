@@ -8534,6 +8534,13 @@
                 "mnt-by": "TBSO-MNT"
             },
             {
+                "asn": 4242422840,
+                "prefix": "fddd:ac53:f33f::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JCAHILL-MNT"
+            },
+            {
                 "asn": 4242423477,
                 "prefix": "fddd:c100:ac0a::/48",
                 "maxPrefixLength": 48,

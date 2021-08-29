@@ -8527,6 +8527,13 @@
             "mnt-by": "TBSO-MNT"
         },
         {
+            "asn": "AS4242422840",
+            "prefix": "fddd:ac53:f33f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "JCAHILL-MNT"
+        },
+        {
             "asn": "AS4242423477",
             "prefix": "fddd:c100:ac0a::/48",
             "maxLength": 48,
@@ -21149,8 +21156,8 @@
         }
     ],
     "metadata": {
-        "counts": 3021,
-        "generated": 1630268132,
-        "valid": 1630700132
+        "counts": 3022,
+        "generated": 1630271730,
+        "valid": 1630703730
     }
 }
