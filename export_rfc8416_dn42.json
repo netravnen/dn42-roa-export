@@ -8849,6 +8849,13 @@
                 "mnt-by": "MONOXANE-MNT"
             },
             {
+                "asn": 4242422775,
+                "prefix": "fdea:1aa5:fe0::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LUKAS-MNT"
+            },
+            {
                 "asn": 4242420149,
                 "prefix": "fdea:1d13:b804::/48",
                 "maxPrefixLength": 64,
@@ -20866,6 +20873,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "AKANET-MNT"
+            },
+            {
+                "asn": 4242422775,
+                "prefix": "172.23.69.16/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LUKAS-MNT"
             },
             {
                 "asn": 4242421225,
