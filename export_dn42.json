@@ -8835,6 +8835,34 @@
             "mnt-by": "NOPE-MNT"
         },
         {
+            "asn": "AS4242421352",
+            "prefix": "fde8:f055:f055::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HAMMYNET-MNT"
+        },
+        {
+            "asn": "AS4242420343",
+            "prefix": "fde8:f055:f055::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HAMMYNET-MNT"
+        },
+        {
+            "asn": "AS4242420769",
+            "prefix": "fde8:f055:f055::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HAMMYNET-MNT"
+        },
+        {
+            "asn": "AS4242420460",
+            "prefix": "fde8:f055:f055::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "HAMMYNET-MNT"
+        },
+        {
             "asn": "AS4242420175",
             "prefix": "fde9:7fb8:427f::/48",
             "maxLength": 48,
@@ -21163,8 +21191,8 @@
         }
     ],
     "metadata": {
-        "counts": 3023,
-        "generated": 1630332906,
-        "valid": 1630764906
+        "counts": 3027,
+        "generated": 1630336532,
+        "valid": 1630768532
     }
 }
