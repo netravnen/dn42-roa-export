@@ -20819,6 +20819,13 @@
             "mnt-by": "DL-MNT"
         },
         {
+            "asn": "AS4242420601",
+            "prefix": "172.23.66.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LAEVATEIN-MNT"
+        },
+        {
             "asn": "AS4242420022",
             "prefix": "172.23.67.0/25",
             "maxLength": 28,
@@ -21156,8 +21163,8 @@
         }
     ],
     "metadata": {
-        "counts": 3022,
-        "generated": 1630293304,
-        "valid": 1630725304
+        "counts": 3023,
+        "generated": 1630296933,
+        "valid": 1630728933
     }
 }
