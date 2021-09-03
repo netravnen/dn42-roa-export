@@ -7008,13 +7008,6 @@
             "mnt-by": "MORCK-MNT"
         },
         {
-            "asn": "AS4242420228",
-            "prefix": "fda3:ea2d:b60a::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "MAXC-MNT"
-        },
-        {
             "asn": "AS65200",
             "prefix": "fda4:1721:8450::/48",
             "maxLength": 64,
@@ -17046,13 +17039,6 @@
             "mnt-by": "JCAHILL-MNT"
         },
         {
-            "asn": "AS4242420228",
-            "prefix": "172.22.114.96/28",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "MAXC-MNT"
-        },
-        {
             "asn": "AS4242421256",
             "prefix": "172.22.115.0/25",
             "maxLength": 28,
@@ -21205,8 +21191,8 @@
         }
     ],
     "metadata": {
-        "counts": 3029,
-        "generated": 1630678553,
-        "valid": 1631110553
+        "counts": 3027,
+        "generated": 1630682132,
+        "valid": 1631114132
     }
 }
