@@ -5755,6 +5755,13 @@
                 "mnt-by": "GIGA-MNT"
             },
             {
+                "asn": 4242423632,
+                "prefix": "fd76:bcbe:1a52::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CHUANGZHU-MNT"
+            },
+            {
                 "asn": 4242423925,
                 "prefix": "fd76:d330:272b::/48",
                 "maxPrefixLength": 48,
@@ -20565,6 +20572,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "XAOTIC-MNT"
+            },
+            {
+                "asn": 4242423632,
+                "prefix": "172.23.36.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHUANGZHU-MNT"
             },
             {
                 "asn": 4242422339,
