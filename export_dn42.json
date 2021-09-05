@@ -9045,6 +9045,13 @@
             "mnt-by": "SIAL-MNT"
         },
         {
+            "asn": "AS4242421609",
+            "prefix": "fdee:c1e0:fafd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "TECHMGMT-MNT"
+        },
+        {
             "asn": "AS4242422502",
             "prefix": "fdee:d21b:6b8b::/48",
             "maxLength": 48,
@@ -14923,6 +14930,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "KEVIN335200-MNT"
+        },
+        {
+            "asn": "AS4242421609",
+            "prefix": "172.20.4.104/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "TECHMGMT-MNT"
         },
         {
             "asn": "AS4242420194",
@@ -21191,8 +21205,8 @@
         }
     ],
     "metadata": {
-        "counts": 3027,
-        "generated": 1630840506,
-        "valid": 1631272506
+        "counts": 3029,
+        "generated": 1630844134,
+        "valid": 1631276134
     }
 }
