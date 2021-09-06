@@ -9850,6 +9850,13 @@
                 "mnt-by": "PRAUSCHER-MNT"
             },
             {
+                "asn": 4242423495,
+                "prefix": "fdff:1d53:9ff5::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BOXJAN-MNT"
+            },
+            {
                 "asn": 4242423042,
                 "prefix": "fdff:23:42::/48",
                 "maxPrefixLength": 64,
@@ -20264,6 +20271,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JUREGRINFFIN-MNT"
+            },
+            {
+                "asn": 4242423495,
+                "prefix": "172.23.232.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BOXJAN-MNT"
             },
             {
                 "asn": 4242422244,
