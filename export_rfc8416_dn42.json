@@ -6259,6 +6259,13 @@
                 "mnt-by": "EVONET-MNT"
             },
             {
+                "asn": 4242421041,
+                "prefix": "fd8b:820f:94e0::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MISAKA10042-MNT"
+            },
+            {
                 "asn": 4242420939,
                 "prefix": "fd8c:3466:b93d::/48",
                 "maxPrefixLength": 48,
@@ -16890,6 +16897,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MYL7-MNT"
+            },
+            {
+                "asn": 4242421041,
+                "prefix": "172.22.107.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MISAKA10042-MNT"
             },
             {
                 "asn": 4242421080,
