@@ -568,6 +568,13 @@
                 "mnt-by": "TYLER-MNT"
             },
             {
+                "asn": 4242420898,
+                "prefix": "fd05:4087:c4e4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PROTON-MNT"
+            },
+            {
                 "asn": 4242421963,
                 "prefix": "fd05:64c0:fa21::/48",
                 "maxPrefixLength": 48,
@@ -4549,6 +4556,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "GURUCAMP-GB-MNT"
+            },
+            {
+                "asn": 4242420482,
+                "prefix": "fd46:b3f:1aee::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ELI-MNT"
             },
             {
                 "asn": 4242421037,
@@ -8770,6 +8784,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NUEVO-MNT"
+            },
+            {
+                "asn": 4242420945,
+                "prefix": "fde5:2a75:1037::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "AOYOU-MNT"
             },
             {
                 "asn": 65527,
@@ -14071,6 +14092,13 @@
                 "mnt-by": "BLING-MNT"
             },
             {
+                "asn": 4242420945,
+                "prefix": "172.20.210.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "AOYOU-MNT"
+            },
+            {
                 "asn": 4242422214,
                 "prefix": "172.20.214.0/26",
                 "maxPrefixLength": 28,
@@ -17744,6 +17772,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TONYZHAO-MNT"
+            },
+            {
+                "asn": 4242420898,
+                "prefix": "172.22.148.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PROTON-MNT"
             },
             {
                 "asn": 4242423811,
