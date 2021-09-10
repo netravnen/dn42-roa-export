@@ -6931,6 +6931,13 @@
             "mnt-by": "DN42-MNT"
         },
         {
+            "asn": "AS4242422207",
+            "prefix": "fda1:a493:11c6::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ZEGO-MNT"
+        },
+        {
             "asn": "AS4242421876",
             "prefix": "fda1:ae59:6dd0::/48",
             "maxLength": 48,
@@ -20210,6 +20217,13 @@
             "mnt-by": "TECH9-MNT"
         },
         {
+            "asn": "AS4242422207",
+            "prefix": "172.23.221.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZEGO-MNT"
+        },
+        {
             "asn": "AS4242423111",
             "prefix": "172.23.222.0/27",
             "maxLength": 28,
@@ -21268,8 +21282,8 @@
         }
     ],
     "metadata": {
-        "counts": 3038,
-        "generated": 1631294106,
-        "valid": 1631726106
+        "counts": 3040,
+        "generated": 1631297740,
+        "valid": 1631729740
     }
 }
