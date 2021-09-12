@@ -9465,6 +9465,13 @@
                 "mnt-by": "DRCAI-MNT"
             },
             {
+                "asn": 4242420855,
+                "prefix": "fdf7:c335:8a6a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "OILI-MNT"
+            },
+            {
                 "asn": 4242420335,
                 "prefix": "fdf7:e7a3:4888::/48",
                 "maxPrefixLength": 48,
@@ -17739,6 +17746,13 @@
                 "mnt-by": "GUSTAVO6046-MNT"
             },
             {
+                "asn": 4242422496,
+                "prefix": "172.22.144.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WIGUST-MNT"
+            },
+            {
                 "asn": 4242423973,
                 "prefix": "172.22.146.0/25",
                 "maxPrefixLength": 28,
@@ -21216,6 +21230,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TIANICE-MNT"
+            },
+            {
+                "asn": 4242420855,
+                "prefix": "172.23.93.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "OILI-MNT"
             },
             {
                 "asn": 4242420101,

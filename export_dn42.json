@@ -9458,6 +9458,13 @@
             "mnt-by": "DRCAI-MNT"
         },
         {
+            "asn": "AS4242420855",
+            "prefix": "fdf7:c335:8a6a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "OILI-MNT"
+        },
+        {
             "asn": "AS4242420335",
             "prefix": "fdf7:e7a3:4888::/48",
             "maxLength": 48,
@@ -17732,6 +17739,13 @@
             "mnt-by": "GUSTAVO6046-MNT"
         },
         {
+            "asn": "AS4242422496",
+            "prefix": "172.22.144.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WIGUST-MNT"
+        },
+        {
             "asn": "AS4242423973",
             "prefix": "172.22.146.0/25",
             "maxLength": 28,
@@ -21211,6 +21225,13 @@
             "mnt-by": "TIANICE-MNT"
         },
         {
+            "asn": "AS4242420855",
+            "prefix": "172.23.93.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "OILI-MNT"
+        },
+        {
             "asn": "AS4242420101",
             "prefix": "172.23.96.0/24",
             "maxLength": 28,
@@ -21282,8 +21303,8 @@
         }
     ],
     "metadata": {
-        "counts": 3040,
-        "generated": 1631474104,
-        "valid": 1631906104
+        "counts": 3043,
+        "generated": 1631477731,
+        "valid": 1631909731
     }
 }
