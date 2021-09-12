@@ -1667,6 +1667,13 @@
                 "mnt-by": "TOTORO-MNT"
             },
             {
+                "asn": 4242421821,
+                "prefix": "fd1e:d888:50b7::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SORBY-MNT"
+            },
+            {
                 "asn": 4242421307,
                 "prefix": "fd1f:ce1e:ff42::/48",
                 "maxPrefixLength": 48,
@@ -18976,6 +18983,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ABBON-MNT"
+            },
+            {
+                "asn": 4242421821,
+                "prefix": "172.22.98.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SORBY-MNT"
             },
             {
                 "asn": 64699,
