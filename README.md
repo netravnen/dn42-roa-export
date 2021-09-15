@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9ee925d80a7c5badd4dbdd1417de9f5c9083303c
-Merge: 2540068cf 840d6d586
-Date:   2021-09-14 19:18:42 +0000
+Commit 98efce11bc65565803fdff5e3eeffaa9b36efb5b
+Merge: 1924824a7 fc6693c01
+Date:   2021-09-15 14:40:05 +0000
 
-    Merge pull request 'Add 0x6-mnt ssh key' (#1128) from levi-20210914/auth-ssh into master
+    Merge pull request 'Sunsetting LINUXGEMINI-MNT' (#1132) from linuxgemini-20210915/sunset into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1421
 - ROAs total: 3045
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9ee925d80a7c5badd4dbdd1417de9f5c9083303c
+[0]: https://git.dn42.dev/dn42/registry/commit/98efce11bc65565803fdff5e3eeffaa9b36efb5b
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

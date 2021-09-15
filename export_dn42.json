@@ -3585,13 +3585,6 @@
             "mnt-by": "AVE-MNT"
         },
         {
-            "asn": "AS4242422255",
-            "prefix": "fd42:6196:4000::/48",
-            "maxLength": 48,
-            "ta": "DN42",
-            "mnt-by": "LINUXGEMINI-MNT"
-        },
-        {
             "asn": "AS64654",
             "prefix": "fd42:64:654::/48",
             "maxLength": 64,
@@ -5312,6 +5305,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "HAYWO-MNT"
+        },
+        {
+            "asn": "AS4242422433",
+            "prefix": "fd66:f1ed:8b4f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "CATMEOW-MNT"
         },
         {
             "asn": "AS4242423439",
@@ -12466,13 +12466,6 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "RASP-MNT"
-        },
-        {
-            "asn": "AS4242422255",
-            "prefix": "172.20.15.96/27",
-            "maxLength": 28,
-            "ta": "DN42",
-            "mnt-by": "LINUXGEMINI-MNT"
         },
         {
             "asn": "AS4242423585",
@@ -21204,6 +21197,13 @@
             "mnt-by": "TOTORO-MNT"
         },
         {
+            "asn": "AS4242422433",
+            "prefix": "172.23.90.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "CATMEOW-MNT"
+        },
+        {
             "asn": "AS4242422189",
             "prefix": "172.23.91.0/25",
             "maxLength": 28,
@@ -21318,7 +21318,7 @@
     ],
     "metadata": {
         "counts": 3045,
-        "generated": 1631715306,
-        "valid": 1632147306
+        "generated": 1631718931,
+        "valid": 1632150931
     }
 }
