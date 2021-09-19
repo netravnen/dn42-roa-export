@@ -507,7 +507,7 @@
             {
                 "asn": 4242420385,
                 "prefix": "fd01:7223:3232::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "E396-MNT"
             },
@@ -20625,6 +20625,13 @@
             {
                 "asn": 4242420385,
                 "prefix": "172.23.32.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "E396-MNT"
+            },
+            {
+                "asn": 4242420385,
+                "prefix": "172.23.32.64/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "E396-MNT"

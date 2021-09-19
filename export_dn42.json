@@ -500,7 +500,7 @@
         {
             "asn": "AS4242420385",
             "prefix": "fd01:7223:3232::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "E396-MNT"
         },
@@ -20623,6 +20623,13 @@
             "mnt-by": "E396-MNT"
         },
         {
+            "asn": "AS4242420385",
+            "prefix": "172.23.32.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "E396-MNT"
+        },
+        {
             "asn": "AS4242420803",
             "prefix": "172.23.33.0/26",
             "maxLength": 28,
@@ -21317,8 +21324,8 @@
         }
     ],
     "metadata": {
-        "counts": 3045,
-        "generated": 1632068104,
-        "valid": 1632500104
+        "counts": 3046,
+        "generated": 1632071733,
+        "valid": 1632503733
     }
 }
