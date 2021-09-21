@@ -20358,7 +20358,7 @@
             },
             {
                 "asn": 4242423495,
-                "prefix": "172.23.232.0/27",
+                "prefix": "172.23.232.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BOXJAN-MNT"

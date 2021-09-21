@@ -20351,7 +20351,7 @@
         },
         {
             "asn": "AS4242423495",
-            "prefix": "172.23.232.0/27",
+            "prefix": "172.23.232.0/26",
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "BOXJAN-MNT"
@@ -21325,7 +21325,7 @@
     ],
     "metadata": {
         "counts": 3046,
-        "generated": 1632226506,
-        "valid": 1632658506
+        "generated": 1632230139,
+        "valid": 1632662139
     }
 }
