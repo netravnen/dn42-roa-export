@@ -2612,6 +2612,13 @@
                 "mnt-by": "SGRAEF-MNT"
             },
             {
+                "asn": 4242422412,
+                "prefix": "fd42:0:a::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "IBUG-MNT"
+            },
+            {
                 "asn": 4242420988,
                 "prefix": "fd42:0:c::/48",
                 "maxPrefixLength": 64,
@@ -20838,6 +20845,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MLYY-MNT"
+            },
+            {
+                "asn": 4242422412,
+                "prefix": "172.23.49.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "IBUG-MNT"
             },
             {
                 "asn": 4242421661,

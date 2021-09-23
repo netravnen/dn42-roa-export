@@ -2605,6 +2605,13 @@
             "mnt-by": "SGRAEF-MNT"
         },
         {
+            "asn": "AS4242422412",
+            "prefix": "fd42:0:a::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "IBUG-MNT"
+        },
+        {
             "asn": "AS4242420988",
             "prefix": "fd42:0:c::/48",
             "maxLength": 64,
@@ -20833,6 +20840,13 @@
             "mnt-by": "MLYY-MNT"
         },
         {
+            "asn": "AS4242422412",
+            "prefix": "172.23.49.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IBUG-MNT"
+        },
+        {
             "asn": "AS4242421661",
             "prefix": "172.23.49.96/27",
             "maxLength": 28,
@@ -21324,8 +21338,8 @@
         }
     ],
     "metadata": {
-        "counts": 3046,
-        "generated": 1632384911,
-        "valid": 1632816911
+        "counts": 3048,
+        "generated": 1632388528,
+        "valid": 1632820528
     }
 }
