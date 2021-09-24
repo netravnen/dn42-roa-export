@@ -13714,6 +13714,13 @@
                 "mnt-by": "SERXOZ-MNT"
             },
             {
+                "asn": 4242422033,
+                "prefix": "172.20.194.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PDURLEJ-MNT"
+            },
+            {
                 "asn": 4242423602,
                 "prefix": "172.20.194.64/27",
                 "maxPrefixLength": 28,

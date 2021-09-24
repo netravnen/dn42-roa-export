@@ -13707,6 +13707,13 @@
             "mnt-by": "SERXOZ-MNT"
         },
         {
+            "asn": "AS4242422033",
+            "prefix": "172.20.194.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "PDURLEJ-MNT"
+        },
+        {
             "asn": "AS4242423602",
             "prefix": "172.20.194.64/27",
             "maxLength": 28,
@@ -21338,8 +21345,8 @@
         }
     ],
     "metadata": {
-        "counts": 3048,
-        "generated": 1632467705,
-        "valid": 1632899705
+        "counts": 3049,
+        "generated": 1632471332,
+        "valid": 1632903332
     }
 }
