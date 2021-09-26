@@ -8765,6 +8765,13 @@
             "mnt-by": "TSYMQ00-MNT"
         },
         {
+            "asn": "AS4242422033",
+            "prefix": "fde2:f42a:8ac9::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "PDURLEJ-MNT"
+        },
+        {
             "asn": "AS4242421280",
             "prefix": "fde3:4c0d:2836::/48",
             "maxLength": 56,
@@ -21345,8 +21352,8 @@
         }
     ],
     "metadata": {
-        "counts": 3049,
-        "generated": 1632644111,
-        "valid": 1633076111
+        "counts": 3050,
+        "generated": 1632647734,
+        "valid": 1633079734
     }
 }

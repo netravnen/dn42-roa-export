@@ -8772,6 +8772,13 @@
                 "mnt-by": "TSYMQ00-MNT"
             },
             {
+                "asn": 4242422033,
+                "prefix": "fde2:f42a:8ac9::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PDURLEJ-MNT"
+            },
+            {
                 "asn": 4242421280,
                 "prefix": "fde3:4c0d:2836::/48",
                 "maxPrefixLength": 56,
