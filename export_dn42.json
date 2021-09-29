@@ -7337,6 +7337,13 @@
             "mnt-by": "HAMMYNET-MNT"
         },
         {
+            "asn": "AS4242421206",
+            "prefix": "fdae:ae04:1994::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ZEGOOP-MNT"
+        },
+        {
             "asn": "AS4242420756",
             "prefix": "fdae:e2d8:34a1::/48",
             "maxLength": 64,
@@ -19202,6 +19209,13 @@
             "mnt-by": "LARRY-MNT"
         },
         {
+            "asn": "AS4242421206",
+            "prefix": "172.23.104.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ZEGOOP-MNT"
+        },
+        {
             "asn": "AS4242420416",
             "prefix": "172.23.104.32/27",
             "maxLength": 28,
@@ -21387,8 +21401,8 @@
         }
     ],
     "metadata": {
-        "counts": 3055,
-        "generated": 1632932108,
-        "valid": 1633364108
+        "counts": 3057,
+        "generated": 1632935738,
+        "valid": 1633367738
     }
 }
