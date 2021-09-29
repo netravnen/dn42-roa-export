@@ -7855,6 +7855,13 @@
                 "mnt-by": "THEOTHERTOM-MNT"
             },
             {
+                "asn": 4242422821,
+                "prefix": "fdc4:13f5:25ec::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LEHRBAUM-MNT"
+            },
+            {
                 "asn": 4242423151,
                 "prefix": "fdc4:b438:8c09::/48",
                 "maxPrefixLength": 64,
@@ -9029,6 +9036,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "ARNIE97-MNT"
+            },
+            {
+                "asn": 4242421038,
+                "prefix": "fdec:e951:d2::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "DTO-MNT"
             },
             {
                 "asn": 4242421939,
@@ -16773,6 +16787,13 @@
                 "mnt-by": "LFRAM-MNT"
             },
             {
+                "asn": 4242421038,
+                "prefix": "172.21.99.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DTO-MNT"
+            },
+            {
                 "asn": 4242420101,
                 "prefix": "172.22.0.43/32",
                 "maxPrefixLength": 32,
@@ -20215,6 +20236,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HINATAKATO-MNT"
+            },
+            {
+                "asn": 4242422821,
+                "prefix": "172.23.215.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LEHRBAUM-MNT"
             },
             {
                 "asn": 4242421978,
