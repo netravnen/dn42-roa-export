@@ -6637,6 +6637,13 @@
                 "mnt-by": "BEYERM-MNT"
             },
             {
+                "asn": 4242421711,
+                "prefix": "fd98:a42d:9898::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JIN-MNT"
+            },
+            {
                 "asn": 4242422647,
                 "prefix": "fd98:de34:62e8::/48",
                 "maxPrefixLength": 48,
@@ -8721,6 +8728,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242422571,
+                "prefix": "fddf:c0de:dad::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "THOMAS-MNT"
             },
             {
                 "asn": 64780,
@@ -15142,6 +15156,13 @@
                 "mnt-by": "FLAMESRUNNER-MNT"
             },
             {
+                "asn": 4242422571,
+                "prefix": "172.20.42.144/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "THOMAS-MNT"
+            },
+            {
                 "asn": 4242423928,
                 "prefix": "172.20.42.160/27",
                 "maxPrefixLength": 28,
@@ -18332,6 +18353,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "MYON-MNT"
+            },
+            {
+                "asn": 4242421711,
+                "prefix": "172.22.177.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JIN-MNT"
             },
             {
                 "asn": 4242422292,
