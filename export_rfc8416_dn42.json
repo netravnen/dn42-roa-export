@@ -2437,6 +2437,13 @@
                 "mnt-by": "IKS-MNT"
             },
             {
+                "asn": 4242420434,
+                "prefix": "fd3e:bc8d:dcaf::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LUNA-MNT"
+            },
+            {
                 "asn": 4242420721,
                 "prefix": "fd3e:d065:66fd::/48",
                 "maxPrefixLength": 64,

@@ -2430,6 +2430,13 @@
             "mnt-by": "IKS-MNT"
         },
         {
+            "asn": "AS4242420434",
+            "prefix": "fd3e:bc8d:dcaf::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "LUNA-MNT"
+        },
+        {
             "asn": "AS4242420721",
             "prefix": "fd3e:d065:66fd::/48",
             "maxLength": 64,
@@ -21429,8 +21436,8 @@
         }
     ],
     "metadata": {
-        "counts": 3061,
-        "generated": 1633248905,
-        "valid": 1633680905
+        "counts": 3062,
+        "generated": 1633252532,
+        "valid": 1633684532
     }
 }
