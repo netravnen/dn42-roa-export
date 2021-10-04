@@ -14134,6 +14134,13 @@
             "mnt-by": "INTERACTIVELABS-MNT"
         },
         {
+            "asn": "AS4242420434",
+            "prefix": "172.20.21.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LUNA-MNT"
+        },
+        {
             "asn": "AS4242422024",
             "prefix": "172.20.21.160/27",
             "maxLength": 28,
@@ -21436,8 +21443,8 @@
         }
     ],
     "metadata": {
-        "counts": 3062,
-        "generated": 1633342505,
-        "valid": 1633774505
+        "counts": 3063,
+        "generated": 1633346130,
+        "valid": 1633778130
     }
 }

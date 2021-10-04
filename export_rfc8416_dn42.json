@@ -14141,6 +14141,13 @@
                 "mnt-by": "INTERACTIVELABS-MNT"
             },
             {
+                "asn": 4242420434,
+                "prefix": "172.20.21.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LUNA-MNT"
+            },
+            {
                 "asn": 4242422024,
                 "prefix": "172.20.21.160/27",
                 "maxPrefixLength": 28,

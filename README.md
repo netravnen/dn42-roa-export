@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d2e9c5a1e9bc4bb7dcc1131a40e09a28b7485a05
-Merge: a1649149e e18f649bd
-Date:   2021-10-03 08:47:32 +0000
+Commit 0cb52d134fcbad7daffafab646b0d2c190624a38
+Merge: d2e9c5a1e 2c6d5ef38
+Date:   2021-10-04 10:41:15 +0000
 
-    Merge pull request 'add LUNA-MNT and ORG-CATGIRLBIZ' (#1152) from LunaFox/registry:LunaFox-20211003/join into master
+    Merge pull request 'LUNA-MNT register IPv4 /28' (#1153) from LunaFox/registry:LunaFox-20211003/IPv4 into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1633
+- ROAs IPv4:  1634
 - ROAs IPv6:  1429
-- ROAs total: 3062
+- ROAs total: 3063
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d2e9c5a1e9bc4bb7dcc1131a40e09a28b7485a05
+[0]: https://git.dn42.dev/dn42/registry/commit/0cb52d134fcbad7daffafab646b0d2c190624a38
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
