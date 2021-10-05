@@ -9255,6 +9255,13 @@
                 "mnt-by": "ECC83-MNT"
             },
             {
+                "asn": 4242423280,
+                "prefix": "fdef:859d:a88::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CHANANET-MNT"
+            },
+            {
                 "asn": 65489,
                 "prefix": "fdef:affe:edda::/48",
                 "maxPrefixLength": 64,
@@ -21209,6 +21216,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "REMI-MNT"
+            },
+            {
+                "asn": 4242423280,
+                "prefix": "172.23.77.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHANANET-MNT"
             },
             {
                 "asn": 4242421180,
