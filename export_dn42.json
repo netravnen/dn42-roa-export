@@ -5202,6 +5202,13 @@
             "mnt-by": "LINUTUX-MNT"
         },
         {
+            "asn": "AS4242422331",
+            "prefix": "fd62:c9e2:af95::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WG-MNT"
+        },
+        {
             "asn": "AS4242422809",
             "prefix": "fd62:cc46:576b::/48",
             "maxLength": 64,
@@ -6481,6 +6488,13 @@
             "maxLength": 48,
             "ta": "DN42",
             "mnt-by": "SPACEFOX-MNT"
+        },
+        {
+            "asn": "AS4242421557",
+            "prefix": "fd94:30a:dee0::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "ARISUM-MNT"
         },
         {
             "asn": "AS4242423238",
@@ -16626,6 +16640,13 @@
             "mnt-by": "ABUDU-MNT"
         },
         {
+            "asn": "AS4242421557",
+            "prefix": "172.21.86.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ARISUM-MNT"
+        },
+        {
             "asn": "AS4242421422",
             "prefix": "172.21.87.0/27",
             "maxLength": 28,
@@ -19552,6 +19573,13 @@
             "mnt-by": "IIIDEFIX-MNT"
         },
         {
+            "asn": "AS4242422331",
+            "prefix": "172.23.131.192/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WG-MNT"
+        },
+        {
             "asn": "AS4242423504",
             "prefix": "172.23.132.0/27",
             "maxLength": 28,
@@ -21443,8 +21471,8 @@
         }
     ],
     "metadata": {
-        "counts": 3063,
-        "generated": 1633418106,
-        "valid": 1633850106
+        "counts": 3067,
+        "generated": 1633421736,
+        "valid": 1633853736
     }
 }

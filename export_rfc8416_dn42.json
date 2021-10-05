@@ -5209,6 +5209,13 @@
                 "mnt-by": "LINUTUX-MNT"
             },
             {
+                "asn": 4242422331,
+                "prefix": "fd62:c9e2:af95::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "WG-MNT"
+            },
+            {
                 "asn": 4242422809,
                 "prefix": "fd62:cc46:576b::/48",
                 "maxPrefixLength": 64,
@@ -6488,6 +6495,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "SPACEFOX-MNT"
+            },
+            {
+                "asn": 4242421557,
+                "prefix": "fd94:30a:dee0::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ARISUM-MNT"
             },
             {
                 "asn": 4242423238,
@@ -16633,6 +16647,13 @@
                 "mnt-by": "ABUDU-MNT"
             },
             {
+                "asn": 4242421557,
+                "prefix": "172.21.86.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ARISUM-MNT"
+            },
+            {
                 "asn": 4242421422,
                 "prefix": "172.21.87.0/27",
                 "maxPrefixLength": 28,
@@ -19557,6 +19578,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "IIIDEFIX-MNT"
+            },
+            {
+                "asn": 4242422331,
+                "prefix": "172.23.131.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "WG-MNT"
             },
             {
                 "asn": 4242423504,
