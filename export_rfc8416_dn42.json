@@ -8331,6 +8331,13 @@
                 "mnt-by": "SKID-MNT"
             },
             {
+                "asn": 4242422254,
+                "prefix": "fdcf:fafe:6de::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BELOHNUNG-MNT"
+            },
+            {
                 "asn": 4242420194,
                 "prefix": "fdd0:17ea:3a52::/48",
                 "maxPrefixLength": 64,

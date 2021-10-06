@@ -8324,6 +8324,13 @@
             "mnt-by": "SKID-MNT"
         },
         {
+            "asn": "AS4242422254",
+            "prefix": "fdcf:fafe:6de::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "BELOHNUNG-MNT"
+        },
+        {
             "asn": "AS4242420194",
             "prefix": "fdd0:17ea:3a52::/48",
             "maxLength": 64,
@@ -21485,8 +21492,8 @@
         }
     ],
     "metadata": {
-        "counts": 3069,
-        "generated": 1633508105,
-        "valid": 1633940105
+        "counts": 3070,
+        "generated": 1633511735,
+        "valid": 1633943735
     }
 }
