@@ -18992,6 +18992,13 @@
                 "mnt-by": "STEPHANJ-DN42-MNT"
             },
             {
+                "asn": 4242423665,
+                "prefix": "172.22.76.0/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "RHYSPERRY111-MNT"
+            },
+            {
                 "asn": 4242429998,
                 "prefix": "172.22.76.128/27",
                 "maxPrefixLength": 28,
