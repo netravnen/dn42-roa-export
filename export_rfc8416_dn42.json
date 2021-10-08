@@ -8954,6 +8954,13 @@
                 "mnt-by": "VO-MNT"
             },
             {
+                "asn": 4242422093,
+                "prefix": "fde8:8953:ac1e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "THATGUY-MNT"
+            },
+            {
                 "asn": 4242421276,
                 "prefix": "fde8:8e27:b925::/48",
                 "maxPrefixLength": 64,

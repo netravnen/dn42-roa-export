@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 434b62fc1b3356dfe5d22aa5aa2b1aaebea75873
-Merge: 08ef10e63 e4c6f4ecc
-Date:   2021-10-08 08:55:38 +0000
+Commit d421f240743de0e2c7f831236ed79499d7d1cc42
+Merge: 434b62fc1 cdd942ee5
+Date:   2021-10-08 21:42:25 +0000
 
-    Merge pull request 'Register AS4242423373, fd40:a3a9:287c::/48, MAXMATI-MNT, MAXMATI-DN42' (#1169) from maxmati-20211007/initialize into master
+    Merge pull request 'added ipv6 route and inetnum' (#1170) from that_guy-20211008/ipv6objectaddition into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1640
-- ROAs IPv6:  1436
-- ROAs total: 3076
+- ROAs IPv6:  1437
+- ROAs total: 3077
 
-[0]: https://git.dn42.dev/dn42/registry/commit/434b62fc1b3356dfe5d22aa5aa2b1aaebea75873
+[0]: https://git.dn42.dev/dn42/registry/commit/d421f240743de0e2c7f831236ed79499d7d1cc42
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
