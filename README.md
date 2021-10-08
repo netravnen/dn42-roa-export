@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit e091fca85698ec7fed69b0ed5b6da01300f0d029
-Merge: 6ea55ff8e 69efb5218
-Date:   2021-10-06 13:59:56 +0000
+Commit 434b62fc1b3356dfe5d22aa5aa2b1aaebea75873
+Merge: 08ef10e63 e4c6f4ecc
+Date:   2021-10-08 08:55:38 +0000
 
-    Merge pull request 'Register AS4242423665, 172.22.76.0/29, RHYSPERRY111-{MNT,DN42} and rhysperry111.dn42' (#1164) from rhysperry111-20211006/register into master
+    Merge pull request 'Register AS4242423373, fd40:a3a9:287c::/48, MAXMATI-MNT, MAXMATI-DN42' (#1169) from maxmati-20211007/initialize into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1638
-- ROAs IPv6:  1433
-- ROAs total: 3071
+- ROAs IPv4:  1640
+- ROAs IPv6:  1436
+- ROAs total: 3076
 
-[0]: https://git.dn42.dev/dn42/registry/commit/e091fca85698ec7fed69b0ed5b6da01300f0d029
+[0]: https://git.dn42.dev/dn42/registry/commit/434b62fc1b3356dfe5d22aa5aa2b1aaebea75873
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

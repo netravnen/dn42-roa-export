@@ -2493,6 +2493,13 @@
                 "mnt-by": "XIAOIT-MNT"
             },
             {
+                "asn": 4242423373,
+                "prefix": "fd40:a3a9:287c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MAXMATI-MNT"
+            },
+            {
                 "asn": 4242420216,
                 "prefix": "fd40:aac4:93b0::/48",
                 "maxPrefixLength": 48,
@@ -6021,6 +6028,13 @@
                 "mnt-by": "ZERTAP-MNT"
             },
             {
+                "asn": 4242420865,
+                "prefix": "fd81:9057:26e6::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "MUMU-LHL-MNT"
+            },
+            {
                 "asn": 4242421530,
                 "prefix": "fd81:c3c8:e9a2::/48",
                 "maxPrefixLength": 48,
@@ -6827,7 +6841,7 @@
             },
             {
                 "asn": 4242423513,
-                "prefix": "fda0:23:1f05:8000::/64",
+                "prefix": "fda0:23:1f05:2::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "LFNET-MNT"
@@ -9085,6 +9099,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "ARNIE97-MNT"
+            },
+            {
+                "asn": 4242421880,
+                "prefix": "fdec:e7bb:6c6d::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GRUNBLATT-MNT"
             },
             {
                 "asn": 4242421038,
@@ -14449,6 +14470,13 @@
                 "mnt-by": "PEER-MNT"
             },
             {
+                "asn": 4242423513,
+                "prefix": "172.20.231.144/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LFNET-MNT"
+            },
+            {
                 "asn": 4242420488,
                 "prefix": "172.20.231.16/28",
                 "maxPrefixLength": 28,
@@ -19403,6 +19431,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RIP-MNT"
+            },
+            {
+                "asn": 4242420865,
+                "prefix": "172.23.110.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MUMU-LHL-MNT"
             },
             {
                 "asn": 4242420588,
