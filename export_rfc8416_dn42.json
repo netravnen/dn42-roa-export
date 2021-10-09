@@ -6287,6 +6287,13 @@
                 "mnt-by": "YZITE-MNT"
             },
             {
+                "asn": 4242421862,
+                "prefix": "fd89:d23e:2566::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "KMSBISMARCK-MNT"
+            },
+            {
                 "asn": 4242420710,
                 "prefix": "fd89:e30d:4035::/48",
                 "maxPrefixLength": 48,
@@ -15301,6 +15308,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BEEGEEPEE-MNT"
+            },
+            {
+                "asn": 4242421862,
+                "prefix": "172.20.45.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "KMSBISMARCK-MNT"
             },
             {
                 "asn": 4242422600,
