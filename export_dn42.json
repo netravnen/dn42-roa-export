@@ -1583,6 +1583,13 @@
             "mnt-by": "HPP-MNT"
         },
         {
+            "asn": "AS4242422143",
+            "prefix": "fd1b:e9d8:d5f3::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "AGORALAB-MNT"
+        },
+        {
             "asn": "AS4242422700",
             "prefix": "fd1c:f73c:a945:1000::/52",
             "maxLength": 64,
@@ -20119,6 +20126,13 @@
             "mnt-by": "CHILLONETWORK-MNT"
         },
         {
+            "asn": "AS4242420906",
+            "prefix": "172.23.178.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MATAN129-MNT"
+        },
+        {
             "asn": "AS4242421908",
             "prefix": "172.23.182.0/27",
             "maxLength": 28,
@@ -21099,6 +21113,13 @@
             "mnt-by": "LOINTAIN-MNT"
         },
         {
+            "asn": "AS4242422143",
+            "prefix": "172.23.58.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "AGORALAB-MNT"
+        },
+        {
             "asn": "AS4242422411",
             "prefix": "172.23.59.0/26",
             "maxLength": 28,
@@ -21555,8 +21576,8 @@
         }
     ],
     "metadata": {
-        "counts": 3079,
-        "generated": 1633814107,
-        "valid": 1634246107
+        "counts": 3082,
+        "generated": 1633817741,
+        "valid": 1634249741
     }
 }
