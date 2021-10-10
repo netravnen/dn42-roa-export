@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit d13bd8d6c0023dc6c1c3a12006909589fd190f19
-Merge: 352af08e8 d8508c34c
-Date:   2021-10-10 10:04:43 +0000
+Commit c24fcee07c65ef4464ab0a5af3ec0554eeded3c4
+Merge: d13bd8d6c 6498ecab2
+Date:   2021-10-10 18:06:17 +0000
 
-    Merge pull request 'dns update' (#1178) from kmsbismarck-20211010/dnsupdate into master
+    Merge pull request 'update ipv6 maxlength' (#1179) from boxjan-20211010/ipv6-maxlength-update into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1439
 - ROAs total: 3082
 
-[0]: https://git.dn42.dev/dn42/registry/commit/d13bd8d6c0023dc6c1c3a12006909589fd190f19
+[0]: https://git.dn42.dev/dn42/registry/commit/c24fcee07c65ef4464ab0a5af3ec0554eeded3c4
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

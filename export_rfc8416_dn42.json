@@ -10027,7 +10027,7 @@
             {
                 "asn": 4242423495,
                 "prefix": "fdff:1d53:9ff5::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BOXJAN-MNT"
             },
