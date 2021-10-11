@@ -2724,6 +2724,13 @@
             "mnt-by": "LUKAS2511-MNT"
         },
         {
+            "asn": "AS4242420995",
+            "prefix": "fd42:1337:c0de::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FLYINGPACKETS-MNT"
+        },
+        {
             "asn": "AS4242421441",
             "prefix": "fd42:1441:1441::/48",
             "maxLength": 64,
@@ -11955,6 +11962,13 @@
             "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "LACERTAE-MNT"
+        },
+        {
+            "asn": "AS4242420995",
+            "prefix": "172.20.128.128/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FLYINGPACKETS-MNT"
         },
         {
             "asn": "AS4242420977",
@@ -21590,8 +21604,8 @@
         }
     ],
     "metadata": {
-        "counts": 3084,
-        "generated": 1633983333,
-        "valid": 1634415333
+        "counts": 3086,
+        "generated": 1633986935,
+        "valid": 1634418935
     }
 }
