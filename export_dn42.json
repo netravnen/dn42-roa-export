@@ -2045,6 +2045,13 @@
             "mnt-by": "TRIHOP-MNT"
         },
         {
+            "asn": "AS4242421816",
+            "prefix": "fd2c:1323:4042::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "POTAT0-MNT"
+        },
+        {
             "asn": "AS4242423918",
             "prefix": "fd2c:2fa3:62f1::/48",
             "maxLength": 64,
@@ -20756,6 +20763,13 @@
             "mnt-by": "DARKIT-MNT"
         },
         {
+            "asn": "AS4242421816",
+            "prefix": "172.23.246.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "POTAT0-MNT"
+        },
+        {
             "asn": "AS4242422480",
             "prefix": "172.23.248.192/28",
             "maxLength": 28,
@@ -21576,8 +21590,8 @@
         }
     ],
     "metadata": {
-        "counts": 3082,
-        "generated": 1633979705,
-        "valid": 1634411705
+        "counts": 3084,
+        "generated": 1633983333,
+        "valid": 1634415333
     }
 }
