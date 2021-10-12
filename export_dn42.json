@@ -4831,6 +4831,13 @@
             "mnt-by": "RBRANDON81-MNT"
         },
         {
+            "asn": "AS4242422403",
+            "prefix": "fd50:d679:a8e3::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HUGGY-MNT"
+        },
+        {
             "asn": "AS64654",
             "prefix": "fd51:2bb2:fd0d::/48",
             "maxLength": 64,
@@ -6201,6 +6208,13 @@
             "maxLength": 56,
             "ta": "DN42",
             "mnt-by": "JLU5-MNT"
+        },
+        {
+            "asn": "AS4242421569",
+            "prefix": "fd86:de94:4f5::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "S0NZ-MNT"
         },
         {
             "asn": "AS4242423939",
@@ -16710,6 +16724,13 @@
             "mnt-by": "KUGATSU-MNT"
         },
         {
+            "asn": "AS4242422403",
+            "prefix": "172.21.85.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HUGGY-MNT"
+        },
+        {
             "asn": "AS4242422186",
             "prefix": "172.21.86.0/27",
             "maxLength": 28,
@@ -21267,6 +21288,13 @@
             "mnt-by": "LUKAS-MNT"
         },
         {
+            "asn": "AS4242421569",
+            "prefix": "172.23.69.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "S0NZ-MNT"
+        },
+        {
             "asn": "AS4242421225",
             "prefix": "172.23.7.0/27",
             "maxLength": 28,
@@ -21604,8 +21632,8 @@
         }
     ],
     "metadata": {
-        "counts": 3086,
-        "generated": 1634026506,
-        "valid": 1634458506
+        "counts": 3090,
+        "generated": 1634030137,
+        "valid": 1634462137
     }
 }
