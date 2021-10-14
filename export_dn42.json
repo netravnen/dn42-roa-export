@@ -2633,6 +2633,13 @@
             "mnt-by": "SGRAEF-MNT"
         },
         {
+            "asn": "AS4242420658",
+            "prefix": "fd41:9906:87b4::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "RZ-MNT"
+        },
+        {
             "asn": "AS4242422412",
             "prefix": "fd42:0:a::/48",
             "maxLength": 64,
@@ -21639,8 +21646,8 @@
         }
     ],
     "metadata": {
-        "counts": 3091,
-        "generated": 1634228106,
-        "valid": 1634660106
+        "counts": 3092,
+        "generated": 1634231734,
+        "valid": 1634663734
     }
 }

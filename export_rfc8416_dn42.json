@@ -2640,6 +2640,13 @@
                 "mnt-by": "SGRAEF-MNT"
             },
             {
+                "asn": 4242420658,
+                "prefix": "fd41:9906:87b4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "RZ-MNT"
+            },
+            {
                 "asn": 4242422412,
                 "prefix": "fd42:0:a::/48",
                 "maxPrefixLength": 64,
