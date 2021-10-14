@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 5be4dc4027e71e9dc005f88986df11f89bf295fc
-Merge: 27346b94a e520f7a0f
-Date:   2021-10-12 08:36:30 +0000
+Commit e007552f2d7f2b76e61a95730ed947cd8d894296
+Merge: 5be4dc402 afc408154
+Date:   2021-10-14 10:07:03 +0000
 
-    Merge pull request 'update dns' (#1186) from sunaihui-20211012/update-dns into master
+    Merge pull request 'Add ipv6 network to subuk' (#1188) from subuk-20211013/add-ipv6-network into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1647
-- ROAs IPv6:  1443
-- ROAs total: 3090
+- ROAs IPv6:  1444
+- ROAs total: 3091
 
-[0]: https://git.dn42.dev/dn42/registry/commit/5be4dc4027e71e9dc005f88986df11f89bf295fc
+[0]: https://git.dn42.dev/dn42/registry/commit/e007552f2d7f2b76e61a95730ed947cd8d894296
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

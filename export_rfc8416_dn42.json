@@ -8632,6 +8632,13 @@
                 "mnt-by": "MSC-MNT"
             },
             {
+                "asn": 4242422865,
+                "prefix": "fddb:d3b4:d55a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SUBUK-MNT"
+            },
+            {
                 "asn": 4242422515,
                 "prefix": "fddc:3293:81a4::/48",
                 "maxPrefixLength": 64,

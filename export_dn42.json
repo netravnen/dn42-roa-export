@@ -8625,6 +8625,13 @@
             "mnt-by": "MSC-MNT"
         },
         {
+            "asn": "AS4242422865",
+            "prefix": "fddb:d3b4:d55a::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "SUBUK-MNT"
+        },
+        {
             "asn": "AS4242422515",
             "prefix": "fddc:3293:81a4::/48",
             "maxLength": 64,
@@ -21632,8 +21639,8 @@
         }
     ],
     "metadata": {
-        "counts": 3090,
-        "generated": 1634202906,
-        "valid": 1634634906
+        "counts": 3091,
+        "generated": 1634206540,
+        "valid": 1634638540
     }
 }
