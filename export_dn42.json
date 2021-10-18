@@ -17802,6 +17802,13 @@
             "mnt-by": "TAAVI-MNT"
         },
         {
+            "asn": "AS4242422409",
+            "prefix": "172.22.131.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NOCLIP-MNT"
+        },
+        {
             "asn": "AS4242421166",
             "prefix": "172.22.131.32/27",
             "maxLength": 28,
@@ -21681,8 +21688,8 @@
         }
     ],
     "metadata": {
-        "counts": 3097,
-        "generated": 1634548506,
-        "valid": 1634980506
+        "counts": 3098,
+        "generated": 1634552138,
+        "valid": 1634984138
     }
 }
