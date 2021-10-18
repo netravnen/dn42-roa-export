@@ -5587,6 +5587,13 @@
             "mnt-by": "ROLAND-MNT"
         },
         {
+            "asn": "AS4242420272",
+            "prefix": "fd6d:ca00:a997::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MOH53N-MNT"
+        },
+        {
             "asn": "AS4242421913",
             "prefix": "fd6e:3ad1:1722::/48",
             "maxLength": 48,
@@ -6539,6 +6546,13 @@
             "mnt-by": "FISCALCHEIS-MNT"
         },
         {
+            "asn": "AS4242423130",
+            "prefix": "fd93:e210:7e9f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MUZIKCA-MNT"
+        },
+        {
             "asn": "AS4242423822",
             "prefix": "fd93:feae:ea42::/48",
             "maxLength": 48,
@@ -7104,6 +7118,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "YADOMIN-MNT"
+        },
+        {
+            "asn": "AS4242421727",
+            "prefix": "fda2:b00e:4a60::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "UMBCSAD-MNT"
         },
         {
             "asn": "AS4242421407",
@@ -13840,6 +13861,13 @@
             "mnt-by": "SNOC-MNT"
         },
         {
+            "asn": "AS4242420272",
+            "prefix": "172.20.192.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MOH53N-MNT"
+        },
+        {
             "asn": "AS210969",
             "prefix": "172.20.192.192/26",
             "maxLength": 28,
@@ -14811,6 +14839,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "KEBE-MNT"
+        },
+        {
+            "asn": "AS4242423130",
+            "prefix": "172.20.246.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MUZIKCA-MNT"
         },
         {
             "asn": "AS4242422480",
@@ -21646,8 +21681,8 @@
         }
     ],
     "metadata": {
-        "counts": 3092,
-        "generated": 1634541307,
-        "valid": 1634973307
+        "counts": 3097,
+        "generated": 1634544960,
+        "valid": 1634976960
     }
 }

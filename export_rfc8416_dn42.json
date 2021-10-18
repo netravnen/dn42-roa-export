@@ -5594,6 +5594,13 @@
                 "mnt-by": "ROLAND-MNT"
             },
             {
+                "asn": 4242420272,
+                "prefix": "fd6d:ca00:a997::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOH53N-MNT"
+            },
+            {
                 "asn": 4242421913,
                 "prefix": "fd6e:3ad1:1722::/48",
                 "maxPrefixLength": 48,
@@ -6546,6 +6553,13 @@
                 "mnt-by": "FISCALCHEIS-MNT"
             },
             {
+                "asn": 4242423130,
+                "prefix": "fd93:e210:7e9f::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MUZIKCA-MNT"
+            },
+            {
                 "asn": 4242423822,
                 "prefix": "fd93:feae:ea42::/48",
                 "maxPrefixLength": 48,
@@ -7111,6 +7125,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "YADOMIN-MNT"
+            },
+            {
+                "asn": 4242421727,
+                "prefix": "fda2:b00e:4a60::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "UMBCSAD-MNT"
             },
             {
                 "asn": 4242421407,
@@ -13847,6 +13868,13 @@
                 "mnt-by": "SNOC-MNT"
             },
             {
+                "asn": 4242420272,
+                "prefix": "172.20.192.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOH53N-MNT"
+            },
+            {
                 "asn": 210969,
                 "prefix": "172.20.192.192/26",
                 "maxPrefixLength": 28,
@@ -14818,6 +14846,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "KEBE-MNT"
+            },
+            {
+                "asn": 4242423130,
+                "prefix": "172.20.246.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MUZIKCA-MNT"
             },
             {
                 "asn": 4242422480,
