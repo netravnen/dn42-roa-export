@@ -21225,6 +21225,13 @@
                 "mnt-by": "LOINTAIN-MNT"
             },
             {
+                "asn": 4242421258,
+                "prefix": "172.23.57.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "IDDQD-MNT"
+            },
+            {
                 "asn": 4242422143,
                 "prefix": "172.23.58.0/26",
                 "maxPrefixLength": 28,

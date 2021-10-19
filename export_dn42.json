@@ -21218,6 +21218,13 @@
             "mnt-by": "LOINTAIN-MNT"
         },
         {
+            "asn": "AS4242421258",
+            "prefix": "172.23.57.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IDDQD-MNT"
+        },
+        {
             "asn": "AS4242422143",
             "prefix": "172.23.58.0/26",
             "maxLength": 28,
@@ -21688,8 +21695,8 @@
         }
     ],
     "metadata": {
-        "counts": 3098,
-        "generated": 1634645705,
-        "valid": 1635077705
+        "counts": 3099,
+        "generated": 1634649333,
+        "valid": 1635081333
     }
 }
