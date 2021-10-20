@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit faeb62919233f71ee481322f46988fe50ecf3ebd
-Merge: d78179424 c5865d552
-Date:   2021-10-19 12:24:43 +0000
+Commit 02914133cc1e3eee273395d6fc40a519294cb709
+Merge: 71844df84 bbabb7639
+Date:   2021-10-20 08:54:44 +0000
 
-    Merge pull request 'Register myself' (#1200) from e-20211005/register into master
+    Merge pull request 'add `key-cert` to the list of data types which can be validated' (#1203) from gac-20211020/fix-key-cert-schema-validation into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1651
-- ROAs IPv6:  1448
-- ROAs total: 3099
+- ROAs IPv4:  1653
+- ROAs IPv6:  1450
+- ROAs total: 3103
 
-[0]: https://git.dn42.dev/dn42/registry/commit/faeb62919233f71ee481322f46988fe50ecf3ebd
+[0]: https://git.dn42.dev/dn42/registry/commit/02914133cc1e3eee273395d6fc40a519294cb709
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
