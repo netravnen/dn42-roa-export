@@ -1303,6 +1303,13 @@
                 "mnt-by": "NCDWLQ-MNT"
             },
             {
+                "asn": 4242422361,
+                "prefix": "fd11:f5f7:26e2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MRKOOPA-MNT"
+            },
+            {
                 "asn": 4242423209,
                 "prefix": "fd12:9554:7f59::/48",
                 "maxPrefixLength": 64,
@@ -1679,6 +1686,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "SORBY-MNT"
+            },
+            {
+                "asn": 4242421521,
+                "prefix": "fd1f:b122:81::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "A22R84-MNT"
             },
             {
                 "asn": 4242421307,
@@ -17970,6 +17984,13 @@
                 "mnt-by": "CARAK-MNT"
             },
             {
+                "asn": 4242422361,
+                "prefix": "172.22.137.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MRKOOPA-MNT"
+            },
+            {
                 "asn": 4242422647,
                 "prefix": "172.22.137.32/27",
                 "maxPrefixLength": 28,
@@ -18297,6 +18318,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ZANE-MNT"
+            },
+            {
+                "asn": 4242420658,
+                "prefix": "172.22.157.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "RZ-MNT"
             },
             {
                 "asn": 4242420304,
@@ -20278,6 +20306,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "PKTSRF-MNT"
+            },
+            {
+                "asn": 4242421521,
+                "prefix": "172.23.183.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "A22R84-MNT"
             },
             {
                 "asn": 4242420401,
