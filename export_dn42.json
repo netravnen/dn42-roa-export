@@ -2521,6 +2521,13 @@
             "mnt-by": "TWINK0R-MNT"
         },
         {
+            "asn": "AS4242422118",
+            "prefix": "fd3d:5eec:f658::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "THODATAL-MNT"
+        },
+        {
             "asn": "AS4242423113",
             "prefix": "fd3d:714a:d119::/48",
             "maxLength": 64,
@@ -18824,6 +18831,13 @@
             "mnt-by": "LOSTSERVER-MNT"
         },
         {
+            "asn": "AS4242422118",
+            "prefix": "172.22.158.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "THODATAL-MNT"
+        },
+        {
             "asn": "AS4242422544",
             "prefix": "172.22.159.0/28",
             "maxLength": 28,
@@ -22437,8 +22451,8 @@
         }
     ],
     "metadata": {
-        "counts": 3205,
-        "generated": 1639995340,
-        "valid": 1640427340
+        "counts": 3207,
+        "generated": 1639998930,
+        "valid": 1640430930
     }
 }

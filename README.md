@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit aac910fa819cffaaaa875dcf44f8753acc48424d
-Merge: 51f8c0b16 2d39961da
-Date:   2021-12-19 18:31:22 +0000
+Commit 024e4ac1c1cae79c2b6e090524b4948946be4c25
+Merge: dfb383fcc c6def234b
+Date:   2021-12-20 10:29:21 +0000
 
-    Merge pull request 'Change name and GPG key' (#1317) from antoine33520-20211218/change_gpg_key into master
+    Merge pull request 'added as4242420262.dn42 && rDNS' (#1322) from mtz_federico/registry:master into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1704
-- ROAs IPv6:  1501
-- ROAs total: 3205
+- ROAs IPv4:  1705
+- ROAs IPv6:  1502
+- ROAs total: 3207
 
-[0]: https://git.dn42.dev/dn42/registry/commit/aac910fa819cffaaaa875dcf44f8753acc48424d
+[0]: https://git.dn42.dev/dn42/registry/commit/024e4ac1c1cae79c2b6e090524b4948946be4c25
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
