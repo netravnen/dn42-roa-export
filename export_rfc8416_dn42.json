@@ -267,6 +267,13 @@
                 "mnt-by": "AIRGAPPED-MNT"
             },
             {
+                "asn": 4242422436,
+                "prefix": "fd00:8336:f0e5::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BEACHYHEAD-MNT"
+            },
+            {
                 "asn": 4242429990,
                 "prefix": "fd00:9990::/48",
                 "maxPrefixLength": 64,
@@ -384,6 +391,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JACOBTHEELDEST-MNT"
+            },
+            {
+                "asn": 4242423243,
+                "prefix": "fd00:dead:cafe::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "FLARE-MNT"
             },
             {
                 "asn": 4242423815,
@@ -512,6 +526,13 @@
                 "mnt-by": "E396-MNT"
             },
             {
+                "asn": 4242423219,
+                "prefix": "fd01:fd2f:b0ce::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NOISYTOOT-MNT"
+            },
+            {
                 "asn": 4242421719,
                 "prefix": "fd02:152e:d070::/48",
                 "maxPrefixLength": 48,
@@ -533,6 +554,13 @@
                 "mnt-by": "HIGHER-MNT"
             },
             {
+                "asn": 4242422088,
+                "prefix": "fd03:6668:b339::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "JAROD-MNT"
+            },
+            {
                 "asn": 4242421928,
                 "prefix": "fd03:7e46:2707::/48",
                 "maxPrefixLength": 64,
@@ -540,11 +568,25 @@
                 "mnt-by": "ESCAMBEAU-MNT"
             },
             {
+                "asn": 4242422281,
+                "prefix": "fd04:20e5:d212::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TIUMI-MNT"
+            },
+            {
                 "asn": 4242423585,
                 "prefix": "fd04:52c0:4000::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "JD52RU-MNT"
+            },
+            {
+                "asn": 4242421337,
+                "prefix": "fd04:840d:30aa::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BNJO-MNT"
             },
             {
                 "asn": 0,
@@ -785,6 +827,13 @@
                 "mnt-by": "ITY-MNT"
             },
             {
+                "asn": 4242421586,
+                "prefix": "fd0c:dec7:26bf::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "TLC-MNT"
+            },
+            {
                 "asn": 64663,
                 "prefix": "fd0d:138:9006::/48",
                 "maxPrefixLength": 64,
@@ -811,6 +860,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MATTPROD-MNT"
+            },
+            {
+                "asn": 4242420755,
+                "prefix": "fd0e:4f70:3485::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "REIMU-MNT"
             },
             {
                 "asn": 65134,
@@ -1671,7 +1727,7 @@
                 "prefix": "fd1d:cc09:1366::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
-                "mnt-by": "UNICORN-MNT"
+                "mnt-by": "ATNET-MNT"
             },
             {
                 "asn": 4242422252,
@@ -2136,6 +2192,13 @@
                 "mnt-by": "W0H-MNT"
             },
             {
+                "asn": 4242423840,
+                "prefix": "fd2d:6421:f42b::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PCORP-MNT"
+            },
+            {
                 "asn": 64828,
                 "prefix": "fd2d:82f6:9b63::/48",
                 "maxPrefixLength": 64,
@@ -2187,7 +2250,7 @@
             {
                 "asn": 4242421228,
                 "prefix": "fd30:fe56:7891::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "YELLOWLM-MNT"
             },
@@ -2339,6 +2402,13 @@
                 "mnt-by": "JHEWITT-MNT"
             },
             {
+                "asn": 4242422038,
+                "prefix": "fd38:119:314::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SPANS-MNT"
+            },
+            {
                 "asn": 4242423856,
                 "prefix": "fd38:cfa3:7091::/48",
                 "maxPrefixLength": 48,
@@ -2372,6 +2442,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "TRACE-MNT"
+            },
+            {
+                "asn": 4242421272,
+                "prefix": "fd3a:7651:7bb2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NSMT-MNT"
             },
             {
                 "asn": 4242423668,
@@ -3032,6 +3109,13 @@
                 "mnt-by": "ALICE-DN42-MNT"
             },
             {
+                "asn": 4242420262,
+                "prefix": "fd42:24ac:df57::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MTZFEDERICO-MNT"
+            },
+            {
                 "asn": 4242422605,
                 "prefix": "fd42:2605:5062::/48",
                 "maxPrefixLength": 64,
@@ -3611,6 +3695,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "BL4CKOUT-MNT"
+            },
+            {
+                "asn": 4242420546,
+                "prefix": "fd42:546:24df::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SAG-MNT"
             },
             {
                 "asn": 4242420616,
@@ -4642,6 +4733,13 @@
                 "mnt-by": "LIBREHS-MNT"
             },
             {
+                "asn": 4242421147,
+                "prefix": "fd47:aba3:f39f::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CLAUDWEB-MNT"
+            },
+            {
                 "asn": 4242421306,
                 "prefix": "fd48:28ca:36b9::/48",
                 "maxPrefixLength": 64,
@@ -4738,6 +4836,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "RAITO-MNT"
+            },
+            {
+                "asn": 4242422023,
+                "prefix": "fd4e:700e:857::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "CHUFANSUKI-MNT"
             },
             {
                 "asn": 64636,
@@ -4901,6 +5006,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242422040,
+                "prefix": "fd53:849:742::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LEMCOENET-MNT"
+            },
+            {
                 "asn": 4242429998,
                 "prefix": "fd53:a37c:9438::/48",
                 "maxPrefixLength": 64,
@@ -5004,6 +5116,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SKJOLDR-MNT"
+            },
+            {
+                "asn": 4242423398,
+                "prefix": "fd56:a42b:9667::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "CHX818-MNT"
             },
             {
                 "asn": 65037,
@@ -5202,6 +5321,13 @@
                 "mnt-by": "COSTA-MNT"
             },
             {
+                "asn": 4242421869,
+                "prefix": "fd5f:2bd0:1feb::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "USMAN-MNT"
+            },
+            {
                 "asn": 4242423040,
                 "prefix": "fd5f:7a63:c27f::/48",
                 "maxPrefixLength": 64,
@@ -5342,6 +5468,13 @@
                 "mnt-by": "CYPHERPUNK-MNT"
             },
             {
+                "asn": 4242422568,
+                "prefix": "fd63:c85f:2e25::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TEAPOT-MNT"
+            },
+            {
                 "asn": 4242421298,
                 "prefix": "fd64:1430:d42a::/48",
                 "maxPrefixLength": 64,
@@ -5447,11 +5580,25 @@
                 "mnt-by": "JESS-SYS-MNT"
             },
             {
+                "asn": 4242420493,
+                "prefix": "fd68:53e:b05e::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LOERKI-MNT"
+            },
+            {
                 "asn": 4242423237,
                 "prefix": "fd68:6868:6868::/48",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ABSLIMIT-MNT"
+            },
+            {
+                "asn": 4242423764,
+                "prefix": "fd68:91ed:19ac::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "186526-MNT"
             },
             {
                 "asn": 4242423767,
@@ -5494,6 +5641,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "INFTYLOOP-MNT"
+            },
+            {
+                "asn": 4242421606,
+                "prefix": "fd69:420:666::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JAKBU-MNT"
             },
             {
                 "asn": 4242423537,
@@ -5648,6 +5802,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "L4RS-MNT"
+            },
+            {
+                "asn": 4242420063,
+                "prefix": "fd6f:4e7:145::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "DAKLON-MNT"
             },
             {
                 "asn": 4242423847,
@@ -5860,6 +6021,13 @@
                 "mnt-by": "ROBOBO-MNT"
             },
             {
+                "asn": 4242420345,
+                "prefix": "fd76:81ad:cce4::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HERRTXBIAS-MNT"
+            },
+            {
                 "asn": 4242420003,
                 "prefix": "fd76:b436:28bc::/48",
                 "maxPrefixLength": 64,
@@ -6049,6 +6217,13 @@
                 "mnt-by": "TUX333-MNT"
             },
             {
+                "asn": 4242423391,
+                "prefix": "fd80:2032:7be2::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "COLA-MNT"
+            },
+            {
                 "asn": 204446,
                 "prefix": "fd80:443f:c80c::/48",
                 "maxPrefixLength": 48,
@@ -6189,6 +6364,13 @@
                 "mnt-by": "DEN-MNT"
             },
             {
+                "asn": 4242421250,
+                "prefix": "fd84:90a:5522::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "1NF-MNT"
+            },
+            {
                 "asn": 4242423228,
                 "prefix": "fd84:fc6d:9cfb::/48",
                 "maxPrefixLength": 64,
@@ -6229,6 +6411,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "FRE-MNT"
+            },
+            {
+                "asn": 4242422152,
+                "prefix": "fd86:57d3:e156::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "T10-MNT"
             },
             {
                 "asn": 4242421273,
@@ -6537,6 +6726,13 @@
                 "maxPrefixLength": 64,
                 "source": "ICVPN",
                 "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 4242423706,
+                "prefix": "fd92:3823:80fd:d300::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "UNGS-MNT"
             },
             {
                 "asn": 4242422188,
@@ -7337,6 +7533,13 @@
                 "mnt-by": "MISTERGEEK-MNT"
             },
             {
+                "asn": 4242421323,
+                "prefix": "fda8:288c:4f42::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "POB-MNT"
+            },
+            {
                 "asn": 4242422049,
                 "prefix": "fda8:391f:1052::/48",
                 "maxPrefixLength": 64,
@@ -7428,6 +7631,13 @@
                 "mnt-by": "CIP-MNT"
             },
             {
+                "asn": 4242423858,
+                "prefix": "fdab:4053:c0c1::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YTC233-MNT"
+            },
+            {
                 "asn": 4242420093,
                 "prefix": "fdab:896d:d34::/48",
                 "maxPrefixLength": 64,
@@ -7440,6 +7650,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "ERGRBT-MNT"
+            },
+            {
+                "asn": 4242421272,
+                "prefix": "fdac:bc39:5272::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NSMT-MNT"
             },
             {
                 "asn": 4242421296,
@@ -7463,11 +7680,25 @@
                 "mnt-by": "AMNET-MNT"
             },
             {
+                "asn": 4242421477,
+                "prefix": "fdad:23e:f50::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "NBARI-MNT"
+            },
+            {
                 "asn": 4242420190,
                 "prefix": "fdad:850e:9f6a:9cb3::/64",
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "LDG1-MNT"
+            },
+            {
+                "asn": 4242423743,
+                "prefix": "fdad:b98a:7dcb::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SHANOA-MNT"
             },
             {
                 "asn": 4242422256,
@@ -7477,11 +7708,32 @@
                 "mnt-by": "AFILINI-MNT"
             },
             {
+                "asn": 4242420499,
+                "prefix": "fdad:e88e:bac::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BACTERIA-MNT"
+            },
+            {
                 "asn": 4242420769,
                 "prefix": "fdae:43fb:3ab7::/48",
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "HAMMYNET-MNT"
+            },
+            {
+                "asn": 4242422664,
+                "prefix": "fdae:5169:c671::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PPOOZL-MNT"
+            },
+            {
+                "asn": 4242420960,
+                "prefix": "fdae:6803:d4f8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TIMW-MNT"
             },
             {
                 "asn": 4242421206,
@@ -7650,6 +7902,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MKB-MNT"
+            },
+            {
+                "asn": 4242420265,
+                "prefix": "fdb6:dbcb:e738::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "SATCH80-MNT"
             },
             {
                 "asn": 4242423759,
@@ -7911,6 +8170,13 @@
                 "mnt-by": "PRAUSCHER-MNT"
             },
             {
+                "asn": 4242420671,
+                "prefix": "fdc1:60fc:990c::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ISAWAN-MNT"
+            },
+            {
                 "asn": 4242423556,
                 "prefix": "fdc1:d4b:b89a::/48",
                 "maxPrefixLength": 64,
@@ -8070,6 +8336,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "DROPBEAR-MNT"
+            },
+            {
+                "asn": 4242421228,
+                "prefix": "fdc6:674:2bdf::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "YELLOWLM-MNT"
             },
             {
                 "asn": 4242423376,
@@ -8317,6 +8590,13 @@
                 "mnt-by": "ZALEDIA-MNT"
             },
             {
+                "asn": 4242423252,
+                "prefix": "fdcb:fc07:1a65::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LAPISAPPLE-MNT"
+            },
+            {
                 "asn": 4242422402,
                 "prefix": "fdcc:2a2d:646::/48",
                 "maxPrefixLength": 64,
@@ -8385,6 +8665,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "CPERRIN-MNT"
+            },
+            {
+                "asn": 4242421904,
+                "prefix": "fdce:66c5:95db::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "BNET-MNT"
             },
             {
                 "asn": 4242420982,
@@ -8588,6 +8875,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "MARSHY-MNT"
+            },
+            {
+                "asn": 4242420270,
+                "prefix": "fdd7:e0f3:3838::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LKWR-MNT"
             },
             {
                 "asn": 4242422424,
@@ -9031,6 +9325,13 @@
                 "mnt-by": "XESXEN-MNT"
             },
             {
+                "asn": 4242422290,
+                "prefix": "fde7:6056:7158::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "REFLY-MNT"
+            },
+            {
                 "asn": 4242420157,
                 "prefix": "fde7:76fd:7444::/48",
                 "maxPrefixLength": 64,
@@ -9082,28 +9383,28 @@
             {
                 "asn": 4242421352,
                 "prefix": "fde8:f055:f055::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "HAMMYNET-MNT"
             },
             {
                 "asn": 4242420343,
                 "prefix": "fde8:f055:f055::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "HAMMYNET-MNT"
             },
             {
                 "asn": 4242420769,
                 "prefix": "fde8:f055:f055::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "HAMMYNET-MNT"
             },
             {
                 "asn": 4242420460,
                 "prefix": "fde8:f055:f055::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "HAMMYNET-MNT"
             },
@@ -9285,7 +9586,7 @@
             {
                 "asn": 4242420343,
                 "prefix": "fdee:ac14:e700::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 56,
                 "source": "DN42",
                 "mnt-by": "PEER-MNT"
             },
@@ -9372,6 +9673,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "SPLITTER-MNT"
+            },
+            {
+                "asn": 4242420350,
+                "prefix": "fdef:5a83:3ef2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ALX-MNT"
             },
             {
                 "asn": 64738,
@@ -9465,6 +9773,13 @@
                 "mnt-by": "DN42-MNT"
             },
             {
+                "asn": 4242420228,
+                "prefix": "fdf0:1ff4:d2e8::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SN-MNT"
+            },
+            {
                 "asn": 65060,
                 "prefix": "fdf0:9bb:7814::/48",
                 "maxPrefixLength": 64,
@@ -9477,6 +9792,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "RELIGHT-MNT"
+            },
+            {
+                "asn": 4242422812,
+                "prefix": "fdf0:e23c:6950::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JONAS-MNT"
             },
             {
                 "asn": 4242420617,
@@ -9526,6 +9848,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "KYRIASIS-MNT"
+            },
+            {
+                "asn": 4242421428,
+                "prefix": "fdf2:dc03:4196::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MCWALL-MNT"
             },
             {
                 "asn": 64866,
@@ -9773,6 +10102,13 @@
                 "mnt-by": "IWASINNAMUKNOW-MNT"
             },
             {
+                "asn": 4242423104,
+                "prefix": "fdf9:6ea8:cc42::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HELIX-MNT"
+            },
+            {
                 "asn": 64885,
                 "prefix": "fdf9:9417:5844::/64",
                 "maxPrefixLength": 64,
@@ -9925,6 +10261,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "ZAICA-MNT"
+            },
+            {
+                "asn": 4242422104,
+                "prefix": "fdfd:1ce:cafe::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MME-MNT"
             },
             {
                 "asn": 4242422246,
@@ -10469,6 +10812,13 @@
                 "asn": 4242422464,
                 "prefix": "10.127.127.127/32",
                 "maxPrefixLength": 32,
+                "source": "NEONETWORK",
+                "mnt-by": "DN42-MNT"
+            },
+            {
+                "asn": 142280,
+                "prefix": "10.127.128.0/24",
+                "maxPrefixLength": 29,
                 "source": "NEONETWORK",
                 "mnt-by": "DN42-MNT"
             },
@@ -12657,13 +13007,6 @@
                 "mnt-by": "DDEV-MNT"
             },
             {
-                "asn": 4242423506,
-                "prefix": "172.20.15.224/29",
-                "maxPrefixLength": 29,
-                "source": "DN42",
-                "mnt-by": "MRXERMON-MNT"
-            },
-            {
                 "asn": 4242420988,
                 "prefix": "172.20.15.240/29",
                 "maxPrefixLength": 29,
@@ -12844,6 +13187,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ELMER-MNT"
+            },
+            {
+                "asn": 4242423743,
+                "prefix": "172.20.158.208/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SHANOA-MNT"
             },
             {
                 "asn": 4242421629,
@@ -13068,6 +13418,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LINKLER-MNT"
+            },
+            {
+                "asn": 4242420063,
+                "prefix": "172.20.163.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "DAKLON-MNT"
             },
             {
                 "asn": 4242423918,
@@ -13630,6 +13987,13 @@
                 "mnt-by": "RSDOHERTY-MNT"
             },
             {
+                "asn": 4242423706,
+                "prefix": "172.20.183.40/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "UNGS-MNT"
+            },
+            {
                 "asn": 4242420156,
                 "prefix": "172.20.183.80/29",
                 "maxPrefixLength": 29,
@@ -13732,7 +14096,7 @@
                 "prefix": "172.20.187.224/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
-                "mnt-by": "UNICORN-MNT"
+                "mnt-by": "ATNET-MNT"
             },
             {
                 "asn": 4242422369,
@@ -14015,6 +14379,13 @@
                 "mnt-by": "MILKFISH-MNT"
             },
             {
+                "asn": 4242420960,
+                "prefix": "172.20.197.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TIMW-MNT"
+            },
+            {
                 "asn": 4242422247,
                 "prefix": "172.20.197.160/28",
                 "maxPrefixLength": 28,
@@ -14218,6 +14589,13 @@
                 "mnt-by": "YUYUKO-MNT"
             },
             {
+                "asn": 4242422664,
+                "prefix": "172.20.202.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PPOOZL-MNT"
+            },
+            {
                 "asn": 4242421093,
                 "prefix": "172.20.203.0/24",
                 "maxPrefixLength": 28,
@@ -14286,6 +14664,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LAMENET-MNT"
+            },
+            {
+                "asn": 4242423252,
+                "prefix": "172.20.207.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LAPISAPPLE-MNT"
             },
             {
                 "asn": 64613,
@@ -15065,6 +15450,13 @@
                 "mnt-by": "IMIR-MNT"
             },
             {
+                "asn": 4242422281,
+                "prefix": "172.20.31.80/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TIUMI-MNT"
+            },
+            {
                 "asn": 4242420921,
                 "prefix": "172.20.31.96/27",
                 "maxPrefixLength": 28,
@@ -15105,6 +15497,20 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "SUAWEK-MNT"
+            },
+            {
+                "asn": 4242420228,
+                "prefix": "172.20.32.192/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SN-MNT"
+            },
+            {
+                "asn": 4242423840,
+                "prefix": "172.20.32.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PCORP-MNT"
             },
             {
                 "asn": 4242423140,
@@ -15387,11 +15793,25 @@
                 "mnt-by": "ESONHUGH-MNT"
             },
             {
+                "asn": 4242421323,
+                "prefix": "172.20.42.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "POB-MNT"
+            },
+            {
                 "asn": 4242420340,
                 "prefix": "172.20.43.0/27",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CHUJ-MNT"
+            },
+            {
+                "asn": 4242423398,
+                "prefix": "172.20.43.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHX818-MNT"
             },
             {
                 "asn": 4242420380,
@@ -16647,6 +17067,13 @@
                 "mnt-by": "XIAOYU-MNT"
             },
             {
+                "asn": 4242420270,
+                "prefix": "172.21.72.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LKWR-MNT"
+            },
+            {
                 "asn": 4242423454,
                 "prefix": "172.21.74.0/27",
                 "maxPrefixLength": 28,
@@ -16694,6 +17121,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CONREY-MNT"
+            },
+            {
+                "asn": 4242421586,
+                "prefix": "172.21.75.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TLC-MNT"
             },
             {
                 "asn": 141011,
@@ -16780,6 +17214,13 @@
                 "mnt-by": "IMWWW-MNT"
             },
             {
+                "asn": 4242421337,
+                "prefix": "172.21.82.48/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BNJO-MNT"
+            },
+            {
                 "asn": 4242422092,
                 "prefix": "172.21.83.0/27",
                 "maxPrefixLength": 27,
@@ -16827,6 +17268,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HUGGY-MNT"
+            },
+            {
+                "asn": 4242422040,
+                "prefix": "172.21.85.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LEMCOENET-MNT"
             },
             {
                 "asn": 4242422186,
@@ -17039,6 +17487,13 @@
                 "mnt-by": "TAGLIO-MNT"
             },
             {
+                "asn": 4242421678,
+                "prefix": "172.21.99.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ETHERARP-MNT"
+            },
+            {
                 "asn": 0,
                 "prefix": "172.21.99.32/27",
                 "maxPrefixLength": 32,
@@ -17249,6 +17704,13 @@
                 "mnt-by": "SHOGHI-MNT"
             },
             {
+                "asn": 4242423858,
+                "prefix": "172.22.106.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YTC233-MNT"
+            },
+            {
                 "asn": 4242420245,
                 "prefix": "172.22.107.0/27",
                 "maxPrefixLength": 28,
@@ -17436,6 +17898,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JCAHILL-MNT"
+            },
+            {
+                "asn": 4242420262,
+                "prefix": "172.22.114.96/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MTZFEDERICO-MNT"
             },
             {
                 "asn": 4242421256,
@@ -17884,6 +18353,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PZTRN-MNT"
+            },
+            {
+                "asn": 4242421869,
+                "prefix": "172.22.132.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "USMAN-MNT"
             },
             {
                 "asn": 4242422128,
@@ -18537,6 +19013,13 @@
                 "mnt-by": "FOXXX0-MNT"
             },
             {
+                "asn": 4242422023,
+                "prefix": "172.22.169.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHUFANSUKI-MNT"
+            },
+            {
                 "asn": 4242423337,
                 "prefix": "172.22.169.32/27",
                 "maxPrefixLength": 28,
@@ -19139,6 +19622,13 @@
                 "mnt-by": "CCCHB-NETGROUP-MNT"
             },
             {
+                "asn": 4242421272,
+                "prefix": "172.22.72.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NSMT-MNT"
+            },
+            {
                 "asn": 4242421561,
                 "prefix": "172.22.73.0/28",
                 "maxPrefixLength": 28,
@@ -19312,6 +19802,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
+            },
+            {
+                "asn": 4242423391,
+                "prefix": "172.22.96.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "COLA-MNT"
             },
             {
                 "asn": 64697,
@@ -19573,6 +20070,13 @@
                 "mnt-by": "SCOOTERH928-MNT"
             },
             {
+                "asn": 4242420671,
+                "prefix": "172.23.109.176/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ISAWAN-MNT"
+            },
+            {
                 "asn": 4242423228,
                 "prefix": "172.23.109.192/27",
                 "maxPrefixLength": 28,
@@ -19622,6 +20126,13 @@
                 "mnt-by": "MUMU-LHL-MNT"
             },
             {
+                "asn": 4242420265,
+                "prefix": "172.23.110.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SATCH80-MNT"
+            },
+            {
                 "asn": 4242420588,
                 "prefix": "172.23.110.64/27",
                 "maxPrefixLength": 28,
@@ -19655,6 +20166,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "XELZA-MNT"
+            },
+            {
+                "asn": 4242422088,
+                "prefix": "172.23.111.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JAROD-MNT"
             },
             {
                 "asn": 4242420905,
@@ -19755,6 +20273,13 @@
                 "mnt-by": "BYLUKE-MNT"
             },
             {
+                "asn": 4242421720,
+                "prefix": "172.23.120.32/27",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "JOELH-MNT"
+            },
+            {
                 "asn": 4242420825,
                 "prefix": "172.23.124.0/27",
                 "maxPrefixLength": 28,
@@ -19762,11 +20287,32 @@
                 "mnt-by": "TMIT-MNT"
             },
             {
+                "asn": 4242423219,
+                "prefix": "172.23.124.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "NOISYTOOT-MNT"
+            },
+            {
                 "asn": 4242423852,
                 "prefix": "172.23.125.0/29",
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "TYPHON-MNT"
+            },
+            {
+                "asn": 4242421147,
+                "prefix": "172.23.125.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CLAUDWEB-MNT"
+            },
+            {
+                "asn": 4242422290,
+                "prefix": "172.23.125.8/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "REFLY-MNT"
             },
             {
                 "asn": 4242422747,
@@ -20028,6 +20574,13 @@
                 "mnt-by": "SLOTHLOGISTICS-MNT"
             },
             {
+                "asn": 4242420350,
+                "prefix": "172.23.159.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ALX-MNT"
+            },
+            {
                 "asn": 4242420120,
                 "prefix": "172.23.16.128/26",
                 "maxPrefixLength": 28,
@@ -20203,6 +20756,13 @@
                 "mnt-by": "DOZENCLOUD-MNT"
             },
             {
+                "asn": 4242422152,
+                "prefix": "172.23.173.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "T10-MNT"
+            },
+            {
                 "asn": 4242422061,
                 "prefix": "172.23.173.184/29",
                 "maxPrefixLength": 29,
@@ -20278,6 +20838,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "TURBOFAN-MNT"
+            },
+            {
+                "asn": 4242422812,
+                "prefix": "172.23.178.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JONAS-MNT"
             },
             {
                 "asn": 4242423267,
@@ -20481,6 +21048,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "INDIGO-MNT"
+            },
+            {
+                "asn": 4242423764,
+                "prefix": "172.23.2.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "186526-MNT"
             },
             {
                 "asn": 4242421271,
@@ -20707,6 +21281,13 @@
                 "mnt-by": "MATTCODE-MNT"
             },
             {
+                "asn": 4242420546,
+                "prefix": "172.23.224.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SAG-MNT"
+            },
+            {
                 "asn": 4242420226,
                 "prefix": "172.23.226.0/26",
                 "maxPrefixLength": 28,
@@ -20882,6 +21463,13 @@
                 "mnt-by": "JCDEA-MNT"
             },
             {
+                "asn": 4242422104,
+                "prefix": "172.23.24.192/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MME-MNT"
+            },
+            {
                 "asn": 4242421964,
                 "prefix": "172.23.24.32/27",
                 "maxPrefixLength": 28,
@@ -20915,6 +21503,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "ITY-MNT"
+            },
+            {
+                "asn": 4242421904,
+                "prefix": "172.23.242.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BNET-MNT"
             },
             {
                 "asn": 76175,
@@ -21036,11 +21631,25 @@
                 "mnt-by": "E396-MNT"
             },
             {
+                "asn": 4242421428,
+                "prefix": "172.23.32.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MCWALL-MNT"
+            },
+            {
                 "asn": 4242420803,
                 "prefix": "172.23.33.0/26",
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "BILL-MNT"
+            },
+            {
+                "asn": 4242420499,
+                "prefix": "172.23.33.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BACTERIA-MNT"
             },
             {
                 "asn": 4242422900,
@@ -21097,6 +21706,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "AIBO-MNT"
+            },
+            {
+                "asn": 4242422038,
+                "prefix": "172.23.38.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SPANS-MNT"
             },
             {
                 "asn": 4242422950,
@@ -21160,6 +21776,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HEXA-MNT"
+            },
+            {
+                "asn": 4242421198,
+                "prefix": "172.23.43.0/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TOMKEP-MNT"
             },
             {
                 "asn": 4242428202,
@@ -21232,6 +21855,13 @@
                 "mnt-by": "ADAMG-MNT"
             },
             {
+                "asn": 4242420755,
+                "prefix": "172.23.48.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "REIMU-MNT"
+            },
+            {
                 "asn": 4242423599,
                 "prefix": "172.23.48.96/27",
                 "maxPrefixLength": 28,
@@ -21244,6 +21874,20 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "IBUG-MNT"
+            },
+            {
+                "asn": 4242420345,
+                "prefix": "172.23.49.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HERRTXBIAS-MNT"
+            },
+            {
+                "asn": 4242422436,
+                "prefix": "172.23.49.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "BEACHYHEAD-MNT"
             },
             {
                 "asn": 4242421661,
@@ -21272,6 +21916,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "RHINE-MNT"
+            },
+            {
+                "asn": 4242423243,
+                "prefix": "172.23.53.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FLARE-MNT"
             },
             {
                 "asn": 4242420018,
@@ -21414,6 +22065,13 @@
                 "mnt-by": "AKANET-MNT"
             },
             {
+                "asn": 4242423104,
+                "prefix": "172.23.69.128/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HELIX-MNT"
+            },
+            {
                 "asn": 4242422775,
                 "prefix": "172.23.69.16/28",
                 "maxPrefixLength": 28,
@@ -21428,6 +22086,20 @@
                 "mnt-by": "S0NZ-MNT"
             },
             {
+                "asn": 4242421250,
+                "prefix": "172.23.69.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "1NF-MNT"
+            },
+            {
+                "asn": 4242421606,
+                "prefix": "172.23.69.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JAKBU-MNT"
+            },
+            {
                 "asn": 4242421225,
                 "prefix": "172.23.7.0/27",
                 "maxPrefixLength": 28,
@@ -21440,6 +22112,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VOOLIK-MNT"
+            },
+            {
+                "asn": 4242422568,
+                "prefix": "172.23.71.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TEAPOT-MNT"
             },
             {
                 "asn": 4242421823,
