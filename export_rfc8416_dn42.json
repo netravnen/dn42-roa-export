@@ -2122,6 +2122,13 @@
                 "mnt-by": "TRIHOP-MNT"
             },
             {
+                "asn": 4242423229,
+                "prefix": "fd2b:69:ba::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "JAYCHYM-MNT"
+            },
+            {
                 "asn": 4242421816,
                 "prefix": "fd2c:1323:4042::/48",
                 "maxPrefixLength": 64,
@@ -16757,6 +16764,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PPPWAW-MNT"
+            },
+            {
+                "asn": 4242423229,
+                "prefix": "172.21.114.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "JAYCHYM-MNT"
             },
             {
                 "asn": 4242421010,
