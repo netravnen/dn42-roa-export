@@ -21897,6 +21897,13 @@
             "mnt-by": "REIMU-MNT"
         },
         {
+            "asn": "AS4242422217",
+            "prefix": "172.23.48.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LOWLAZARUS-MNT"
+        },
+        {
             "asn": "AS4242423599",
             "prefix": "172.23.48.96/27",
             "maxLength": 28,
@@ -22479,8 +22486,8 @@
         }
     ],
     "metadata": {
-        "counts": 3211,
-        "generated": 1640301306,
-        "valid": 1640733306
+        "counts": 3212,
+        "generated": 1640304933,
+        "valid": 1640736933
     }
 }

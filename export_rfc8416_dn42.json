@@ -21904,6 +21904,13 @@
                 "mnt-by": "REIMU-MNT"
             },
             {
+                "asn": 4242422217,
+                "prefix": "172.23.48.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LOWLAZARUS-MNT"
+            },
+            {
                 "asn": 4242423599,
                 "prefix": "172.23.48.96/27",
                 "maxPrefixLength": 28,
