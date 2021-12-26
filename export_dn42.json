@@ -8289,6 +8289,13 @@
             "mnt-by": "LEHRBAUM-MNT"
         },
         {
+            "asn": "AS4242420805",
+            "prefix": "fdc4:b3bc:b6e6::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "THYMO-MNT"
+        },
+        {
             "asn": "AS4242423151",
             "prefix": "fdc4:b438:8c09::/48",
             "maxLength": 64,
@@ -13068,6 +13075,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "RASP-MNT"
+        },
+        {
+            "asn": "AS4242420805",
+            "prefix": "172.20.15.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "THYMO-MNT"
         },
         {
             "asn": "AS4242423585",
@@ -22493,8 +22507,8 @@
         }
     ],
     "metadata": {
-        "counts": 3213,
-        "generated": 1640510104,
-        "valid": 1640942104
+        "counts": 3215,
+        "generated": 1640513733,
+        "valid": 1640945733
     }
 }
