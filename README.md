@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 60c0ccd7c478ae3ec0291e1f5daa4c5147c5397a
-Merge: b42bb4f65 05cc1c2a1
-Date:   2021-12-26 21:11:05 +0000
+Commit 4ff10a71fbb44c51ee48487f22212ab8b30358d5
+Merge: 60c0ccd7c e57e41dcc
+Date:   2021-12-26 21:15:25 +0000
 
-    Merge pull request 'Change the details about the resource belonging to "186526-MNT"' (#1326) from 186526-20211225/changedetails into master
+    Merge pull request 'Added AS4242422092 to whois anycast service' (#1329) from tomkap-20211226/whois into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1710
-- ROAs IPv6:  1505
-- ROAs total: 3215
+- ROAs IPv4:  1711
+- ROAs IPv6:  1506
+- ROAs total: 3217
 
-[0]: https://git.dn42.dev/dn42/registry/commit/60c0ccd7c478ae3ec0291e1f5daa4c5147c5397a
+[0]: https://git.dn42.dev/dn42/registry/commit/4ff10a71fbb44c51ee48487f22212ab8b30358d5
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
