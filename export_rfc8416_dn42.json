@@ -8184,6 +8184,13 @@
                 "mnt-by": "VLCTY-MNT"
             },
             {
+                "asn": 4242423137,
+                "prefix": "fdc0:b038:c31e::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ARACHNIST-MNT"
+            },
+            {
                 "asn": 4242421811,
                 "prefix": "fdc0:bc88:be::/48",
                 "maxPrefixLength": 64,
@@ -9218,6 +9225,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "THOMAS-MNT"
+            },
+            {
+                "asn": 4242422025,
+                "prefix": "fddf:e9e6:817::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "ALTK-MNT"
             },
             {
                 "asn": 64780,
@@ -12935,6 +12949,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "R-MNT"
+            },
+            {
+                "asn": 4242423137,
+                "prefix": "172.20.148.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ARACHNIST-MNT"
             },
             {
                 "asn": 4242421095,
