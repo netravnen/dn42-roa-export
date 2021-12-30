@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit c24b73979a7300e83beac0546b72644e564407c9
-Merge: b891bba2d 8e2be8e6c
-Date:   2021-12-30 09:16:57 +0000
+Commit 3b333ae326c45fc30e10674eee1c5955013c5d2a
+Merge: eb7a8a2eb 3a8a06c07
+Date:   2021-12-30 20:31:04 +0000
 
-    Merge pull request 'Onboard AS4242421899 (miguel.dn42)' (#1341) from miguel-20211229/onboard-to-dn42 into master
+    Merge pull request 'Add auth method for TWI-MNT' (#1346) from twi/registry:twi-20211230/mntupdate into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1511
 - ROAs total: 3227
 
-[0]: https://git.dn42.dev/dn42/registry/commit/c24b73979a7300e83beac0546b72644e564407c9
+[0]: https://git.dn42.dev/dn42/registry/commit/3b333ae326c45fc30e10674eee1c5955013c5d2a
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
