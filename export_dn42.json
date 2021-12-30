@@ -6532,6 +6532,13 @@
             "mnt-by": "FRYGUY-MNT"
         },
         {
+            "asn": "AS4242421765",
+            "prefix": "fd88:b1fd:7538:58f4::/64",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "BUGNET-MNT"
+        },
+        {
             "asn": "AS4242421920",
             "prefix": "fd88:bdbd:8c4b::/48",
             "maxLength": 48,
@@ -14092,6 +14099,13 @@
             "mnt-by": "TSX-MNT"
         },
         {
+            "asn": "AS4242421765",
+            "prefix": "172.20.184.176/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "BUGNET-MNT"
+        },
+        {
             "asn": "AS4242420078",
             "prefix": "172.20.184.192/28",
             "maxLength": 28,
@@ -16988,6 +17002,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "OTAROSEVEN-MNT"
+        },
+        {
+            "asn": "AS4242423171",
+            "prefix": "172.21.65.128/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "DEMANGE-MNT"
         },
         {
             "asn": "AS4242422379",
@@ -22556,8 +22577,8 @@
         }
     ],
     "metadata": {
-        "counts": 3222,
-        "generated": 1640852107,
-        "valid": 1641284107
+        "counts": 3225,
+        "generated": 1640855737,
+        "valid": 1641287737
     }
 }
