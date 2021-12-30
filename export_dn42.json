@@ -5062,6 +5062,13 @@
             "mnt-by": "BLING-MNT"
         },
         {
+            "asn": "AS4242421899",
+            "prefix": "fd54:4ac:bdd::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "MIGUEL-MNT"
+        },
+        {
             "asn": "AS4242421722",
             "prefix": "fd54:fe4b:9ed1::/48",
             "maxLength": 48,
@@ -20161,6 +20168,13 @@
             "mnt-by": "YUUTAW-MNT"
         },
         {
+            "asn": "AS4242421899",
+            "prefix": "172.23.105.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "MIGUEL-MNT"
+        },
+        {
             "asn": "AS4242422387",
             "prefix": "172.23.109.0/26",
             "maxLength": 28,
@@ -22577,8 +22591,8 @@
         }
     ],
     "metadata": {
-        "counts": 3225,
-        "generated": 1640855737,
-        "valid": 1641287737
+        "counts": 3227,
+        "generated": 1640859342,
+        "valid": 1641291342
     }
 }
