@@ -2668,6 +2668,13 @@
             "mnt-by": "OGELPRE-MNT"
         },
         {
+            "asn": "AS4242422208",
+            "prefix": "fd41:117a:5391::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ONEO-MNT"
+        },
+        {
             "asn": "AS4242421441",
             "prefix": "fd41:1441:1441::/48",
             "maxLength": 64,
@@ -14750,6 +14757,13 @@
             "mnt-by": "TRUEWINTER-MNT"
         },
         {
+            "asn": "AS4242422208",
+            "prefix": "172.20.207.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ONEO-MNT"
+        },
+        {
             "asn": "AS4242421113",
             "prefix": "172.20.207.64/27",
             "maxLength": 28,
@@ -22598,8 +22612,8 @@
         }
     ],
     "metadata": {
-        "counts": 3228,
-        "generated": 1640988905,
-        "valid": 1641420905
+        "counts": 3230,
+        "generated": 1640992531,
+        "valid": 1641424531
     }
 }
