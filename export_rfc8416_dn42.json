@@ -14883,6 +14883,13 @@
                 "mnt-by": "JH0-MNT"
             },
             {
+                "asn": 4242422025,
+                "prefix": "172.20.222.32/27",
+                "maxPrefixLength": 27,
+                "source": "DN42",
+                "mnt-by": "ALTK-MNT"
+            },
+            {
                 "asn": 4242422284,
                 "prefix": "172.20.224.0/26",
                 "maxPrefixLength": 28,
