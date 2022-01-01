@@ -6273,6 +6273,13 @@
             "mnt-by": "HELLOMOUSE-MNT"
         },
         {
+            "asn": "AS4242420341",
+            "prefix": "fd80:81ed:c211::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "HACHIMAN-MNT"
+        },
+        {
             "asn": "AS4242421010",
             "prefix": "fd80:8787::/48",
             "maxLength": 64,
@@ -19279,6 +19286,13 @@
             "mnt-by": "AVEN-MNT"
         },
         {
+            "asn": "AS4242420341",
+            "prefix": "172.22.181.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "HACHIMAN-MNT"
+        },
+        {
             "asn": "AS4242422322",
             "prefix": "172.22.181.192/27",
             "maxLength": 28,
@@ -22612,8 +22626,8 @@
         }
     ],
     "metadata": {
-        "counts": 3230,
-        "generated": 1641064507,
-        "valid": 1641496507
+        "counts": 3232,
+        "generated": 1641068133,
+        "valid": 1641500133
     }
 }
