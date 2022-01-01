@@ -5188,6 +5188,13 @@
                 "mnt-by": "R8-MNT"
             },
             {
+                "asn": 4242422811,
+                "prefix": "fd58:13a2:d1c1::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ZZA-MNT"
+            },
+            {
                 "asn": 4242421226,
                 "prefix": "fd58:5a8d:4d3f::/48",
                 "maxPrefixLength": 64,
@@ -21727,6 +21734,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "PSYKE-MNT"
+            },
+            {
+                "asn": 4242422811,
+                "prefix": "172.23.25.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ZZA-MNT"
             },
             {
                 "asn": 4242422633,
