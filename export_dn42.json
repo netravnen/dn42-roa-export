@@ -1751,6 +1751,13 @@
             "mnt-by": "NETALI-MNT"
         },
         {
+            "asn": "AS4242423381",
+            "prefix": "fd20:144b:d1cd::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "LQB-MNT"
+        },
+        {
             "asn": "AS4242423646",
             "prefix": "fd20:3f3a:6046::/48",
             "maxLength": 48,
@@ -16234,6 +16241,13 @@
             "mnt-by": "YUEKIS-MNT"
         },
         {
+            "asn": "AS4242423381",
+            "prefix": "172.20.51.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "LQB-MNT"
+        },
+        {
             "asn": "AS4242421369",
             "prefix": "172.20.51.32/27",
             "maxLength": 28,
@@ -22647,8 +22661,8 @@
         }
     ],
     "metadata": {
-        "counts": 3235,
-        "generated": 1641150905,
-        "valid": 1641582905
+        "counts": 3237,
+        "generated": 1641154530,
+        "valid": 1641586530
     }
 }

@@ -1758,6 +1758,13 @@
                 "mnt-by": "NETALI-MNT"
             },
             {
+                "asn": 4242423381,
+                "prefix": "fd20:144b:d1cd::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "LQB-MNT"
+            },
+            {
                 "asn": 4242423646,
                 "prefix": "fd20:3f3a:6046::/48",
                 "maxPrefixLength": 48,
@@ -16239,6 +16246,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "YUEKIS-MNT"
+            },
+            {
+                "asn": 4242423381,
+                "prefix": "172.20.51.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LQB-MNT"
             },
             {
                 "asn": 4242421369,
