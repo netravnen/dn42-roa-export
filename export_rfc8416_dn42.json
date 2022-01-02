@@ -5881,6 +5881,13 @@
                 "mnt-by": "XXSLDN-MNT"
             },
             {
+                "asn": 4242420966,
+                "prefix": "fd70:4904:a771::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FFIXP-MNT"
+            },
+            {
                 "asn": 4242421225,
                 "prefix": "fd70:726f:662e::/48",
                 "maxPrefixLength": 64,

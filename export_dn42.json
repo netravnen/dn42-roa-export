@@ -5874,6 +5874,13 @@
             "mnt-by": "XXSLDN-MNT"
         },
         {
+            "asn": "AS4242420966",
+            "prefix": "fd70:4904:a771::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "FFIXP-MNT"
+        },
+        {
             "asn": "AS4242421225",
             "prefix": "fd70:726f:662e::/48",
             "maxLength": 64,
@@ -22640,8 +22647,8 @@
         }
     ],
     "metadata": {
-        "counts": 3234,
-        "generated": 1641114906,
-        "valid": 1641546906
+        "counts": 3235,
+        "generated": 1641118529,
+        "valid": 1641550529
     }
 }
