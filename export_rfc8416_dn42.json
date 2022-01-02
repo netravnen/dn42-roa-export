@@ -2521,6 +2521,13 @@
                 "mnt-by": "SPIELWIESE-MNT"
             },
             {
+                "asn": 4242423804,
+                "prefix": "fd3c:37ff:b75c::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PEDRO-MNT"
+            },
+            {
                 "asn": 4242421795,
                 "prefix": "fd3c:6c1c:dff6::/48",
                 "maxPrefixLength": 48,
@@ -9024,6 +9031,13 @@
                 "mnt-by": "HENOKV-MNT"
             },
             {
+                "asn": 4242423720,
+                "prefix": "fdd9:8cc9:14af::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "HEX-MNT"
+            },
+            {
                 "asn": 64863,
                 "prefix": "fdd9:a0b1:5bd0::/48",
                 "maxPrefixLength": 64,
@@ -14785,6 +14799,13 @@
                 "mnt-by": "KHALED-MNT"
             },
             {
+                "asn": 4242423804,
+                "prefix": "172.20.206.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PEDRO-MNT"
+            },
+            {
                 "asn": 4242420737,
                 "prefix": "172.20.207.192/27",
                 "maxPrefixLength": 28,
@@ -20117,6 +20138,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "COKEMINE-MNT"
+            },
+            {
+                "asn": 4242423720,
+                "prefix": "172.23.10.64/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "HEX-MNT"
             },
             {
                 "asn": 4242420980,
