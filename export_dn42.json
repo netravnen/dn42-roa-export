@@ -8807,6 +8807,13 @@
             "mnt-by": "NEXUS-MNT"
         },
         {
+            "asn": "AS4242423727",
+            "prefix": "fdcf:7d7d:167::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "FONTANA-MNT"
+        },
+        {
             "asn": "AS4242423914",
             "prefix": "fdcf:8538:9ad5::/48",
             "maxLength": 64,
@@ -22170,6 +22177,13 @@
             "mnt-by": "FLARE-MNT"
         },
         {
+            "asn": "AS4242423727",
+            "prefix": "172.23.53.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "FONTANA-MNT"
+        },
+        {
             "asn": "AS4242420018",
             "prefix": "172.23.56.0/24",
             "maxLength": 28,
@@ -22689,8 +22703,8 @@
         }
     ],
     "metadata": {
-        "counts": 3241,
-        "generated": 1641161731,
-        "valid": 1641593731
+        "counts": 3243,
+        "generated": 1641165331,
+        "valid": 1641597331
     }
 }
