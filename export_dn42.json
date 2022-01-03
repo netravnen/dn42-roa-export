@@ -1919,6 +1919,13 @@
             "mnt-by": "HEXA-MNT"
         },
         {
+            "asn": "AS4242421669",
+            "prefix": "fd23:5a57:7294::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "YZGUY-MNT"
+        },
+        {
             "asn": "AS4242422180",
             "prefix": "fd23:698f:1b00::/47",
             "maxLength": 64,
@@ -20322,6 +20329,13 @@
             "mnt-by": "JLXIP-MNT"
         },
         {
+            "asn": "AS4242421669",
+            "prefix": "172.23.109.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "YZGUY-MNT"
+        },
+        {
             "asn": "AS4242421423",
             "prefix": "172.23.109.96/27",
             "maxLength": 28,
@@ -22703,8 +22717,8 @@
         }
     ],
     "metadata": {
-        "counts": 3243,
-        "generated": 1641201306,
-        "valid": 1641633306
+        "counts": 3245,
+        "generated": 1641204931,
+        "valid": 1641636931
     }
 }

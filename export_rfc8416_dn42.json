@@ -1926,6 +1926,13 @@
                 "mnt-by": "HEXA-MNT"
             },
             {
+                "asn": 4242421669,
+                "prefix": "fd23:5a57:7294::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "YZGUY-MNT"
+            },
+            {
                 "asn": 4242422180,
                 "prefix": "fd23:698f:1b00::/47",
                 "maxPrefixLength": 64,
@@ -20327,6 +20334,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "JLXIP-MNT"
+            },
+            {
+                "asn": 4242421669,
+                "prefix": "172.23.109.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "YZGUY-MNT"
             },
             {
                 "asn": 4242421423,
