@@ -8877,6 +8877,13 @@
                 "mnt-by": "FEU-MNT"
             },
             {
+                "asn": 4242420307,
+                "prefix": "fdd0:9000:ba42::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "XXZ-MNT"
+            },
+            {
                 "asn": 4242423843,
                 "prefix": "fdd0:c468:8eb1::/48",
                 "maxPrefixLength": 64,
@@ -16645,6 +16652,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "IKS-MNT"
+            },
+            {
+                "asn": 4242420307,
+                "prefix": "172.20.62.96/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "XXZ-MNT"
             },
             {
                 "asn": 4242422002,
