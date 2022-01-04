@@ -8261,6 +8261,13 @@
             "mnt-by": "JPT-MNT"
         },
         {
+            "asn": "AS4242422577",
+            "prefix": "fdc1:2600:1105::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "VRPNET-MNT"
+        },
+        {
             "asn": "AS64720",
             "prefix": "fdc1:31f:b14f::/48",
             "maxLength": 64,
@@ -16878,6 +16885,13 @@
             "mnt-by": "AYAHUASEC-MNT"
         },
         {
+            "asn": "AS4242422577",
+            "prefix": "172.21.110.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VRPNET-MNT"
+        },
+        {
             "asn": "AS4242421060",
             "prefix": "172.21.110.64/26",
             "maxLength": 28,
@@ -22738,8 +22752,8 @@
         }
     ],
     "metadata": {
-        "counts": 3248,
-        "generated": 1641316506,
-        "valid": 1641748506
+        "counts": 3250,
+        "generated": 1641320131,
+        "valid": 1641752131
     }
 }
