@@ -14148,6 +14148,13 @@
             "mnt-by": "UNGS-MNT"
         },
         {
+            "asn": "AS4242422963",
+            "prefix": "172.20.183.48/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "MNEERUP-MNT"
+        },
+        {
             "asn": "AS4242420156",
             "prefix": "172.20.183.80/29",
             "maxLength": 29,
@@ -22731,8 +22738,8 @@
         }
     ],
     "metadata": {
-        "counts": 3247,
-        "generated": 1641284105,
-        "valid": 1641716105
+        "counts": 3248,
+        "generated": 1641287731,
+        "valid": 1641719731
     }
 }

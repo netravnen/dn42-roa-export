@@ -14155,6 +14155,13 @@
                 "mnt-by": "UNGS-MNT"
             },
             {
+                "asn": 4242422963,
+                "prefix": "172.20.183.48/29",
+                "maxPrefixLength": 29,
+                "source": "DN42",
+                "mnt-by": "MNEERUP-MNT"
+            },
+            {
                 "asn": 4242420156,
                 "prefix": "172.20.183.80/29",
                 "maxPrefixLength": 29,
