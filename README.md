@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 9b25f864388fb83b91ba7e36408413a81dac0eb3
-Merge: adc3c5073 6a0180eae
-Date:   2022-01-04 17:42:56 +0000
+Commit 982dd79c6f76e2808a44e9b88d0a35793177b72d
+Merge: 9b25f8643 a3625df8b
+Date:   2022-01-04 18:42:43 +0000
 
-    Merge pull request 'pi3rrot-20220103/add-mntner' (#1364) from pi3rrot-20220103/add-mntner into master
+    Merge pull request 'Fix PGP fingerprint mistake in AS4242422963' (#1365) from mneerup-20220104/fix-pgp-fingerprint into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1522
 - ROAs total: 3250
 
-[0]: https://git.dn42.dev/dn42/registry/commit/9b25f864388fb83b91ba7e36408413a81dac0eb3
+[0]: https://git.dn42.dev/dn42/registry/commit/982dd79c6f76e2808a44e9b88d0a35793177b72d
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
