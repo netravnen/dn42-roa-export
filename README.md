@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 982dd79c6f76e2808a44e9b88d0a35793177b72d
-Merge: 9b25f8643 a3625df8b
-Date:   2022-01-04 18:42:43 +0000
+Commit e3b1e834af99a0d12607c7a5378d4891a3cd8fdd
+Merge: 982dd79c6 169a2e128
+Date:   2022-01-05 10:32:38 +0000
 
-    Merge pull request 'Fix PGP fingerprint mistake in AS4242422963' (#1365) from mneerup-20220104/fix-pgp-fingerprint into master
+    Merge pull request 'Update cazagen objects' (#1368) from cazagen-20220104/objects-update into master
 ```
 
 ## crontab
@@ -38,10 +38,10 @@ updates has been made to the [DN42 registry][1].
 ## Misc statistics
 
 - ROAs IPv4:  1728
-- ROAs IPv6:  1522
-- ROAs total: 3250
+- ROAs IPv6:  1523
+- ROAs total: 3251
 
-[0]: https://git.dn42.dev/dn42/registry/commit/982dd79c6f76e2808a44e9b88d0a35793177b72d
+[0]: https://git.dn42.dev/dn42/registry/commit/e3b1e834af99a0d12607c7a5378d4891a3cd8fdd
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
