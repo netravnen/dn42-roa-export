@@ -6700,6 +6700,13 @@
             "mnt-by": "GERG-MNT"
         },
         {
+            "asn": "AS4242421922",
+            "prefix": "fd8d:8d75:c204::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "WINDASD-MNT"
+        },
+        {
             "asn": "AS4242423266",
             "prefix": "fd8e:1889:b440::/48",
             "maxLength": 48,
@@ -7132,6 +7139,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NARNIA-MNT"
+        },
+        {
+            "asn": "AS4242421961",
+            "prefix": "fd9c:a562:c85f::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "MKJ-MNT"
         },
         {
             "asn": "AS4242421096",
@@ -18565,6 +18579,13 @@
             "mnt-by": "DOCTOR-MNT"
         },
         {
+            "asn": "AS4242421922",
+            "prefix": "172.22.130.32/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "WINDASD-MNT"
+        },
+        {
             "asn": "AS4242423271",
             "prefix": "172.22.131.128/28",
             "maxLength": 28,
@@ -22759,8 +22780,8 @@
         }
     ],
     "metadata": {
-        "counts": 3251,
-        "generated": 1641410108,
-        "valid": 1641842108
+        "counts": 3254,
+        "generated": 1641413735,
+        "valid": 1641845735
     }
 }
