@@ -8667,6 +8667,13 @@
                 "mnt-by": "GRAHAMC-MNT"
             },
             {
+                "asn": 4242420594,
+                "prefix": "fdca:226e:ac30::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "UPLINK-MNT"
+            },
+            {
                 "asn": 65514,
                 "prefix": "fdca:55e1:baca:baca::/64",
                 "maxPrefixLength": 64,
@@ -12795,6 +12802,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "BYRON-MNT"
+            },
+            {
+                "asn": 4242420594,
+                "prefix": "172.20.132.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "UPLINK-MNT"
             },
             {
                 "asn": 4242421916,
