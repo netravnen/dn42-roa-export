@@ -617,6 +617,13 @@
                 "mnt-by": "PROTON-MNT"
             },
             {
+                "asn": 4242420253,
+                "prefix": "fd05:4b:cce::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "MOE233-MNT"
+            },
+            {
                 "asn": 4242421963,
                 "prefix": "fd05:64c0:fa21::/48",
                 "maxPrefixLength": 48,
@@ -7958,6 +7965,13 @@
                 "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "DUMMY-MNT"
+            },
+            {
+                "asn": 4242421078,
+                "prefix": "fdb4:2dc1:c741::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "PGNHD-MNT"
             },
             {
                 "asn": 4242423506,
@@ -22415,6 +22429,13 @@
                 "mnt-by": "HELIX-MNT"
             },
             {
+                "asn": 4242420253,
+                "prefix": "172.23.69.160/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "MOE233-MNT"
+            },
+            {
                 "asn": 4242422775,
                 "prefix": "172.23.69.16/28",
                 "maxPrefixLength": 28,
@@ -22623,6 +22644,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JRONGBIN-MNT"
+            },
+            {
+                "asn": 4242421078,
+                "prefix": "172.23.86.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "PGNHD-MNT"
             },
             {
                 "asn": 4242420323,
