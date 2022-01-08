@@ -6707,6 +6707,13 @@
                 "mnt-by": "MROETHKE-MNT"
             },
             {
+                "asn": 4242422012,
+                "prefix": "fd8c:942b:de46:5ccc::/64",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LAM-MNT"
+            },
+            {
                 "asn": 4242421789,
                 "prefix": "fd8c:fa9a:4b4a::/48",
                 "maxPrefixLength": 48,
@@ -18885,6 +18892,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "HFULLER-MNT"
+            },
+            {
+                "asn": 4242422012,
+                "prefix": "172.22.147.128/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LAM-MNT"
             },
             {
                 "asn": 4242423640,

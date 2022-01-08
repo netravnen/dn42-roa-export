@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit f07a0273316fe86c0d920bd69dbd67323aa1dbc1
-Merge: 604a6feb8 7951e73c4
-Date:   2022-01-07 23:23:59 +0000
+Commit 8275999d0d75d3e25a90192bdba5ef7daece50f1
+Merge: f07a02733 bacc85a2c
+Date:   2022-01-08 15:25:01 +0000
 
-    Merge pull request 'Add Reverse DNS For AS4242420341' (#1376) from CaptainYukinoshitaHachiman-20220107/add-reverse-dns into master
+    Merge pull request 'Add AS4242422012' (#1375) from tranglam-20220107/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1732
-- ROAs IPv6:  1528
-- ROAs total: 3260
+- ROAs IPv4:  1733
+- ROAs IPv6:  1529
+- ROAs total: 3262
 
-[0]: https://git.dn42.dev/dn42/registry/commit/f07a0273316fe86c0d920bd69dbd67323aa1dbc1
+[0]: https://git.dn42.dev/dn42/registry/commit/8275999d0d75d3e25a90192bdba5ef7daece50f1
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
