@@ -771,6 +771,13 @@
                 "mnt-by": "DREAMRY-MNT"
             },
             {
+                "asn": 4242422255,
+                "prefix": "fd0b:5c63:e0cc::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "XIAOFENG-MNT"
+            },
+            {
                 "asn": 4242422478,
                 "prefix": "fd0b:c5a0:371::/48",
                 "maxPrefixLength": 48,
@@ -15035,6 +15042,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "IKEY-MNT"
+            },
+            {
+                "asn": 4242422255,
+                "prefix": "172.20.220.0/26",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "XIAOFENG-MNT"
             },
             {
                 "asn": 4242422007,

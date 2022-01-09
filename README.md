@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 64aa355e53945031aba6a3b16541155772833b7c
-Merge: 27ffad7e2 57c01ca7f
-Date:   2022-01-09 09:43:42 +0000
+Commit 5cf3d49712e1694b66e96efe84c4960ea659c782
+Merge: c3940cf51 df6a94640
+Date:   2022-01-09 21:43:53 +0000
 
-    Merge pull request 'Add GLEZCLOUD to DN42' (#1382) from glez-cloud-20220109/newatdn42 into master
+    Merge pull request 'update' (#1383) from sunaihui-20220109/update into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1734
-- ROAs IPv6:  1530
-- ROAs total: 3264
+- ROAs IPv4:  1735
+- ROAs IPv6:  1531
+- ROAs total: 3266
 
-[0]: https://git.dn42.dev/dn42/registry/commit/64aa355e53945031aba6a3b16541155772833b7c
+[0]: https://git.dn42.dev/dn42/registry/commit/5cf3d49712e1694b66e96efe84c4960ea659c782
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
