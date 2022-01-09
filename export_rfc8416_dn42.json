@@ -8807,6 +8807,13 @@
                 "mnt-by": "NOCTURNO-MNT"
             },
             {
+                "asn": 4242420282,
+                "prefix": "fdcd:6ea7:6692::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GLEZCLOUD-MNT"
+            },
+            {
                 "asn": 4242423402,
                 "prefix": "fdcd:a61d:f378::/48",
                 "maxPrefixLength": 48,
@@ -22707,6 +22714,13 @@
                 "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "MOECAST-MNT"
+            },
+            {
+                "asn": 4242420282,
+                "prefix": "172.23.89.32/27",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "GLEZCLOUD-MNT"
             },
             {
                 "asn": 4242423710,
