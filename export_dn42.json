@@ -9304,6 +9304,13 @@
             "mnt-by": "CODEHACK-MNT"
         },
         {
+            "asn": "AS4242423656",
+            "prefix": "fdde:a627:ee2::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "GWD-MNT"
+        },
+        {
             "asn": "AS4242420925",
             "prefix": "fdde:c0de:925::/48",
             "maxLength": 48,
@@ -15497,6 +15504,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "ZODDO-MNT"
+        },
+        {
+            "asn": "AS4242423656",
+            "prefix": "172.20.238.192/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "GWD-MNT"
         },
         {
             "asn": "AS4242423652",
@@ -22878,8 +22892,8 @@
         }
     ],
     "metadata": {
-        "counts": 3268,
-        "generated": 1641849306,
-        "valid": 1642281306
+        "counts": 3270,
+        "generated": 1641852931,
+        "valid": 1642284931
     }
 }
