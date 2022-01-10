@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 05123e63cfb214f8ef82c600a771855726e07dc2
-Merge: 5cf3d4971 a585db8d7
-Date:   2022-01-10 08:31:11 +0000
+Commit 84ba555fa18e4bd268f942d21a217038fb9ecb37
+Merge: 05123e63c 733ff4885
+Date:   2022-01-10 19:59:12 +0000
 
-    Merge pull request 'Add AS4242420585' (#1390) from atolm-20220110/new into master
+    Merge pull request 'allowing more specific prefixes to be annouced within IX infrastructure' (#1389) from lxw9813-20220109/Allowing-NoyesIX-Specific-Routes into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1532
 - ROAs total: 3268
 
-[0]: https://git.dn42.dev/dn42/registry/commit/05123e63cfb214f8ef82c600a771855726e07dc2
+[0]: https://git.dn42.dev/dn42/registry/commit/84ba555fa18e4bd268f942d21a217038fb9ecb37
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

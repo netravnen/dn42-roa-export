@@ -3055,7 +3055,7 @@
         {
             "asn": "AS4242420217",
             "prefix": "fd42:217:cafe::/48",
-            "maxLength": 48,
+            "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "NOYES-MNT"
         },
@@ -15032,7 +15032,7 @@
         {
             "asn": "AS4242420217",
             "prefix": "172.20.217.0/24",
-            "maxLength": 28,
+            "maxLength": 29,
             "ta": "DN42",
             "mnt-by": "NOYES-MNT"
         },
@@ -22879,7 +22879,7 @@
     ],
     "metadata": {
         "counts": 3268,
-        "generated": 1641842107,
-        "valid": 1642274107
+        "generated": 1641845731,
+        "valid": 1642277731
     }
 }

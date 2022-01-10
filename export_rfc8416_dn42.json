@@ -3062,7 +3062,7 @@
             {
                 "asn": 4242420217,
                 "prefix": "fd42:217:cafe::/48",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 64,
                 "source": "DN42",
                 "mnt-by": "NOYES-MNT"
             },
@@ -15039,7 +15039,7 @@
             {
                 "asn": 4242420217,
                 "prefix": "172.20.217.0/24",
-                "maxPrefixLength": 28,
+                "maxPrefixLength": 29,
                 "source": "DN42",
                 "mnt-by": "NOYES-MNT"
             },
