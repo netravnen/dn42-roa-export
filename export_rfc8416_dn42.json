@@ -4901,6 +4901,13 @@
                 "mnt-by": "SPLITICE-MNT"
             },
             {
+                "asn": 4242420585,
+                "prefix": "fd4d:cab9:e99a::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "ATOLM-MNT"
+            },
+            {
                 "asn": 4242421457,
                 "prefix": "fd4d:ce73:68f9::/48",
                 "maxPrefixLength": 48,
@@ -21251,6 +21258,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "DIYPIANDCO-MNT"
+            },
+            {
+                "asn": 4242420585,
+                "prefix": "172.23.183.0/28",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "ATOLM-MNT"
             },
             {
                 "asn": 4242423275,
