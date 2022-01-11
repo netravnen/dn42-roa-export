@@ -8296,6 +8296,13 @@
                 "mnt-by": "VLCTY-MNT"
             },
             {
+                "asn": 4242421044,
+                "prefix": "fdc0:b000:a4b2::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SG-MNT"
+            },
+            {
                 "asn": 4242423137,
                 "prefix": "fdc0:b038:c31e::/48",
                 "maxPrefixLength": 64,
@@ -17415,6 +17422,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LKWR-MNT"
+            },
+            {
+                "asn": 4242421044,
+                "prefix": "172.21.72.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SG-MNT"
             },
             {
                 "asn": 4242423454,
