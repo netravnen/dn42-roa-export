@@ -15,6 +15,13 @@
                 "mnt-by": "ALANYHQ-MNT"
             },
             {
+                "asn": 4242421171,
+                "prefix": "fd00:1171:1171::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "FEVOF-MNT"
+            },
+            {
                 "asn": 64626,
                 "prefix": "fd00:1337:cafe::/48",
                 "maxPrefixLength": 64,
@@ -17555,6 +17562,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "LAGERTONNE-MNT"
+            },
+            {
+                "asn": 4242421171,
+                "prefix": "172.21.81.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "FEVOF-MNT"
             },
             {
                 "asn": 4242421017,
