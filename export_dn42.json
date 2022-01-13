@@ -8653,6 +8653,13 @@
             "mnt-by": "SUNNET-MNT"
         },
         {
+            "asn": "AS7721",
+            "prefix": "fdc8:dc88:ee11::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
             "asn": "AS4242423036",
             "prefix": "fdc8:f5a0:6499::/48",
             "maxLength": 64,
@@ -16871,6 +16878,13 @@
             "mnt-by": "SUNNET-MNT"
         },
         {
+            "asn": "AS7721",
+            "prefix": "172.21.100.128/25",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
             "asn": "AS4242423088",
             "prefix": "172.21.100.16/29",
             "maxLength": 29,
@@ -16886,6 +16900,13 @@
         },
         {
             "asn": "AS38173",
+            "prefix": "172.21.100.16/29",
+            "maxLength": 29,
+            "ta": "DN42",
+            "mnt-by": "SUNNET-MNT"
+        },
+        {
+            "asn": "AS7721",
             "prefix": "172.21.100.16/29",
             "maxLength": 29,
             "ta": "DN42",
@@ -22934,8 +22955,8 @@
         }
     ],
     "metadata": {
-        "counts": 3276,
-        "generated": 1642094129,
-        "valid": 1642526129
+        "counts": 3279,
+        "generated": 1642097729,
+        "valid": 1642529729
     }
 }
