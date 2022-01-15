@@ -9710,6 +9710,13 @@
                 "mnt-by": "TOBIHB-MNT"
             },
             {
+                "asn": 4242420595,
+                "prefix": "fdeb:fe10:ccb9::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "SOUL-MNT"
+            },
+            {
                 "asn": 4242422015,
                 "prefix": "fdec:1:1:dead::/64",
                 "maxPrefixLength": 64,
@@ -12886,6 +12893,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "CAXAP-MNT"
+            },
+            {
+                "asn": 4242420595,
+                "prefix": "172.20.132.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "SOUL-MNT"
             },
             {
                 "asn": 4242423816,
