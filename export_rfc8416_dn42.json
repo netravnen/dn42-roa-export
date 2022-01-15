@@ -9255,6 +9255,13 @@
                 "mnt-by": "DINGYX99-MNT"
             },
             {
+                "asn": 4242423025,
+                "prefix": "fddd:5002:6646::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "EDENLINK-MNT"
+            },
+            {
                 "asn": 65026,
                 "prefix": "fddd:5d16:b5dd::/48",
                 "maxPrefixLength": 64,
@@ -20852,6 +20859,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "WG-MNT"
+            },
+            {
+                "asn": 4242423025,
+                "prefix": "172.23.131.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "EDENLINK-MNT"
             },
             {
                 "asn": 4242423504,
