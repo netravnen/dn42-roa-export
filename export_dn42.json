@@ -2521,6 +2521,13 @@
             "mnt-by": "ADRA-MNT"
         },
         {
+            "asn": "AS4242420699",
+            "prefix": "fd3b:2121:9939::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "VINCENT-MNT"
+        },
+        {
             "asn": "AS4242421101",
             "prefix": "fd3b:6bc4:49ef::/48",
             "maxLength": 64,
@@ -10039,6 +10046,13 @@
             "mnt-by": "SN-MNT"
         },
         {
+            "asn": "AS4242423188",
+            "prefix": "fdf0:3a88:6e00::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ANTOHA-GS-MNT"
+        },
+        {
             "asn": "AS65060",
             "prefix": "fdf0:9bb:7814::/48",
             "maxLength": 64,
@@ -13812,6 +13826,13 @@
             "mnt-by": "HATO-MNT"
         },
         {
+            "asn": "AS4242420699",
+            "prefix": "172.20.165.96/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "VINCENT-MNT"
+        },
+        {
             "asn": "AS4242422113",
             "prefix": "172.20.167.136/29",
             "maxLength": 29,
@@ -14104,6 +14125,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "EASTON-MNT"
+        },
+        {
+            "asn": "AS4242423188",
+            "prefix": "172.20.177.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ANTOHA-GS-MNT"
         },
         {
             "asn": "AS4242422341",
@@ -22983,8 +23011,8 @@
         }
     ],
     "metadata": {
-        "counts": 3283,
-        "generated": 1642324504,
-        "valid": 1642756504
+        "counts": 3287,
+        "generated": 1642328149,
+        "valid": 1642760149
     }
 }
