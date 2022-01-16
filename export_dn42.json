@@ -400,6 +400,13 @@
             "mnt-by": "FLARE-MNT"
         },
         {
+            "asn": "AS4242423511",
+            "prefix": "fd00:dead:dead::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SECSHELL-MNT"
+        },
+        {
             "asn": "AS4242423815",
             "prefix": "fd00:deca:fba0::/44",
             "maxLength": 64,
@@ -13511,6 +13518,13 @@
             "mnt-by": "SHANOA-MNT"
         },
         {
+            "asn": "AS4242423511",
+            "prefix": "172.20.158.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SECSHELL-MNT"
+        },
+        {
             "asn": "AS4242421629",
             "prefix": "172.20.158.32/27",
             "maxLength": 28,
@@ -23011,8 +23025,8 @@
         }
     ],
     "metadata": {
-        "counts": 3287,
-        "generated": 1642367705,
-        "valid": 1642799705
+        "counts": 3289,
+        "generated": 1642371328,
+        "valid": 1642803328
     }
 }
