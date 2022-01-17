@@ -5195,6 +5195,13 @@
                 "mnt-by": "KZHAO921-MNT"
             },
             {
+                "asn": 4242422443,
+                "prefix": "fd55:f69a:823::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LIBRARY-MNT"
+            },
+            {
                 "asn": 4242420810,
                 "prefix": "fd56:4147:5545::/48",
                 "maxPrefixLength": 64,
@@ -16596,6 +16603,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "VOTRIBE-MNT"
+            },
+            {
+                "asn": 4242422443,
+                "prefix": "172.20.55.224/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LIBRARY-MNT"
             },
             {
                 "asn": 4242423623,

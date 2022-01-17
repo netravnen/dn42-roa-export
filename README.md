@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 75639d0d28c1027ceee162c84447efd7498d13a8
-Merge: 747cb4c7c 3a649b68e
-Date:   2022-01-16 21:31:14 +0000
+Commit b4576e8286a88de91b4130832a10adefed5fb80f
+Merge: 75639d0d2 acc8fb5e3
+Date:   2022-01-17 17:59:42 +0000
 
-    Merge pull request 'Added SECSHELL' (#1406) from nicof2000-20220116/added-secshell into master
+    Merge pull request 'squashed commit:' (#1408) from niantic-20210919/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1747
-- ROAs IPv6:  1542
-- ROAs total: 3289
+- ROAs IPv4:  1748
+- ROAs IPv6:  1543
+- ROAs total: 3291
 
-[0]: https://git.dn42.dev/dn42/registry/commit/75639d0d28c1027ceee162c84447efd7498d13a8
+[0]: https://git.dn42.dev/dn42/registry/commit/b4576e8286a88de91b4130832a10adefed5fb80f
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
