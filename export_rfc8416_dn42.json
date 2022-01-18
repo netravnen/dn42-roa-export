@@ -1289,7 +1289,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201272526,
+                "asn": 4242422526,
                 "prefix": "fd10:127:ee::/48",
                 "maxPrefixLength": 64,
                 "source": "NEONETWORK",
@@ -11341,7 +11341,7 @@
                 "mnt-by": "DN42-MNT"
             },
             {
-                "asn": 4201272526,
+                "asn": 4242422526,
                 "prefix": "10.127.3.0/24",
                 "maxPrefixLength": 29,
                 "source": "NEONETWORK",
