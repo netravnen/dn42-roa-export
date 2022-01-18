@@ -1772,6 +1772,13 @@
             "mnt-by": "SORBY-MNT"
         },
         {
+            "asn": "AS4242422090",
+            "prefix": "fd1f:97fb:ac92::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "KD-MNT"
+        },
+        {
             "asn": "AS4242421521",
             "prefix": "fd1f:b122:81::/48",
             "maxLength": 48,
@@ -5538,6 +5545,13 @@
             "mnt-by": "DONUTS-MNT"
         },
         {
+            "asn": "AS4242421513",
+            "prefix": "fd62:d79c:a5b9::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "XKWW3N-MNT"
+        },
+        {
             "asn": "AS4242423315",
             "prefix": "fd62:e667:840a::/48",
             "maxLength": 64,
@@ -6040,6 +6054,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JONATHAN-FERGUSON-MNT"
+        },
+        {
+            "asn": "AS4242422556",
+            "prefix": "fd72:7c8c:faf1::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "NIELS-MNT"
         },
         {
             "asn": "AS4242420140",
@@ -17018,6 +17039,13 @@
             "mnt-by": "PHIIVO-MNT"
         },
         {
+            "asn": "AS4242421513",
+            "prefix": "172.21.101.112/28",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "XKWW3N-MNT"
+        },
+        {
             "asn": "AS4242420528",
             "prefix": "172.21.101.32/27",
             "maxLength": 28,
@@ -17513,6 +17541,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "YUETAU-MNT"
+        },
+        {
+            "asn": "AS4242422090",
+            "prefix": "172.21.68.64/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "KD-MNT"
         },
         {
             "asn": "AS4242423931",
@@ -19501,6 +19536,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "NAPSTERBATER-MNT"
+        },
+        {
+            "asn": "AS4242422556",
+            "prefix": "172.22.169.160/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "NIELS-MNT"
         },
         {
             "asn": "AS4242422690",
@@ -23039,8 +23081,8 @@
         }
     ],
     "metadata": {
-        "counts": 3291,
-        "generated": 1642493706,
-        "valid": 1642925706
+        "counts": 3297,
+        "generated": 1642497353,
+        "valid": 1642929353
     }
 }

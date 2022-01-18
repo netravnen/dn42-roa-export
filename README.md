@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit b4576e8286a88de91b4130832a10adefed5fb80f
-Merge: 75639d0d2 acc8fb5e3
-Date:   2022-01-17 17:59:42 +0000
+Commit bde5484284999311ddb396464d6cb55175957166
+Merge: c6e015928 6e7c21192
+Date:   2022-01-18 08:37:28 +0000
 
-    Merge pull request 'squashed commit:' (#1408) from niantic-20210919/register into master
+    Merge pull request 'Register Tennoji Network' (#1410) from xkww3n-20220118/register into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1748
-- ROAs IPv6:  1543
-- ROAs total: 3291
+- ROAs IPv4:  1751
+- ROAs IPv6:  1546
+- ROAs total: 3297
 
-[0]: https://git.dn42.dev/dn42/registry/commit/b4576e8286a88de91b4130832a10adefed5fb80f
+[0]: https://git.dn42.dev/dn42/registry/commit/bde5484284999311ddb396464d6cb55175957166
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
