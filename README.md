@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit bde5484284999311ddb396464d6cb55175957166
-Merge: c6e015928 6e7c21192
-Date:   2022-01-18 08:37:28 +0000
+Commit 61799cf30312c1c6b2bc9cc9cfe71c328a746998
+Merge: f1d5de43f 40f2520b2
+Date:   2022-01-19 08:00:44 +0000
 
-    Merge pull request 'Register Tennoji Network' (#1410) from xkww3n-20220118/register into master
+    Merge pull request 'Remove invalid max-length attribute' (#1412) from burble-20220119/fix-GLEXCLOUD-MNT into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1546
 - ROAs total: 3297
 
-[0]: https://git.dn42.dev/dn42/registry/commit/bde5484284999311ddb396464d6cb55175957166
+[0]: https://git.dn42.dev/dn42/registry/commit/61799cf30312c1c6b2bc9cc9cfe71c328a746998
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

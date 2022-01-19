@@ -22949,7 +22949,7 @@
             {
                 "asn": 4242420282,
                 "prefix": "172.23.89.32/27",
-                "maxPrefixLength": 48,
+                "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "GLEZCLOUD-MNT"
             },
