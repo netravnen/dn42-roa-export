@@ -6273,6 +6273,13 @@
                 "mnt-by": "BUDDY-MNT"
             },
             {
+                "asn": 4242421927,
+                "prefix": "fd7a:817:1926::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "LONGTIANMU-MNT"
+            },
+            {
                 "asn": 4242420176,
                 "prefix": "fd7a:c01e:db7c::/48",
                 "maxPrefixLength": 64,
@@ -22749,6 +22756,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "TEAPOT-MNT"
+            },
+            {
+                "asn": 4242421927,
+                "prefix": "172.23.72.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "LONGTIANMU-MNT"
             },
             {
                 "asn": 4242421823,

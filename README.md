@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit dc301fb2be1f81176d485dabf09d7377c925c63d
-Merge: af9886c4b 466712900
-Date:   2022-01-20 08:31:02 +0000
+Commit b8ba78b4a491ff9177c15aa7e765acef8b1c543e
+Merge: e100bb868 6f5ad258c
+Date:   2022-01-21 11:30:46 +0000
 
-    Merge pull request 'updates to AS4242421592 & dns' (#1415) from camelusferus/registry:master into master
+    Merge pull request 'Register domain tennoji-net.dn42, add remarks and change AS name.' (#1418) from xkww3n-20220120/modify into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1751
-- ROAs IPv6:  1546
-- ROAs total: 3297
+- ROAs IPv4:  1752
+- ROAs IPv6:  1547
+- ROAs total: 3299
 
-[0]: https://git.dn42.dev/dn42/registry/commit/dc301fb2be1f81176d485dabf09d7377c925c63d
+[0]: https://git.dn42.dev/dn42/registry/commit/b8ba78b4a491ff9177c15aa7e765acef8b1c543e
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
