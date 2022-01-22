@@ -5482,6 +5482,13 @@
                 "mnt-by": "JONATHAN-FERGUSON-MNT"
             },
             {
+                "asn": 4242420712,
+                "prefix": "fd60:1c1e:12ec::/48",
+                "maxPrefixLength": 48,
+                "source": "DN42",
+                "mnt-by": "TIANYI-MNT"
+            },
+            {
                 "asn": 4242420639,
                 "prefix": "fd60:3124:f80c::/48",
                 "maxPrefixLength": 48,
@@ -8231,6 +8238,13 @@
                 "maxPrefixLength": 48,
                 "source": "DN42",
                 "mnt-by": "GT-MNT"
+            },
+            {
+                "asn": 4242420311,
+                "prefix": "fdbc:cddc:6666::/48",
+                "maxPrefixLength": 64,
+                "source": "DN42",
+                "mnt-by": "CHENYFAN-MNT"
             },
             {
                 "asn": 4242421240,
@@ -17137,6 +17151,13 @@
                 "mnt-by": "GIMPYB-MNT"
             },
             {
+                "asn": 4242420712,
+                "prefix": "172.21.108.0/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "TIANYI-MNT"
+            },
+            {
                 "asn": 4242420721,
                 "prefix": "172.21.109.0/29",
                 "maxPrefixLength": 29,
@@ -18262,6 +18283,13 @@
                 "maxPrefixLength": 28,
                 "source": "DN42",
                 "mnt-by": "JLU5-MNT"
+            },
+            {
+                "asn": 4242420311,
+                "prefix": "172.22.109.32/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "CHENYFAN-MNT"
             },
             {
                 "asn": 4242420077,
