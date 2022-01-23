@@ -5447,6 +5447,13 @@
             "mnt-by": "COSTA-MNT"
         },
         {
+            "asn": "AS4242421074",
+            "prefix": "fd5e:ff1e:6c1f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "SHAROPS-MNT"
+        },
+        {
             "asn": "AS4242421869",
             "prefix": "fd5f:2bd0:1feb::/48",
             "maxLength": 48,
@@ -19027,6 +19034,13 @@
             "mnt-by": "MRKOOPA-MNT"
         },
         {
+            "asn": "AS4242421074",
+            "prefix": "172.22.137.224/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "SHAROPS-MNT"
+        },
+        {
             "asn": "AS4242422647",
             "prefix": "172.22.137.32/27",
             "maxLength": 28,
@@ -23123,8 +23137,8 @@
         }
     ],
     "metadata": {
-        "counts": 3303,
-        "generated": 1642965304,
-        "valid": 1643397304
+        "counts": 3305,
+        "generated": 1642968948,
+        "valid": 1643400948
     }
 }
