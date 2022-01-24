@@ -9696,6 +9696,13 @@
             "mnt-by": "STR-MNT"
         },
         {
+            "asn": "AS4242422749",
+            "prefix": "fde8:ee85:76ef::/48",
+            "maxLength": 48,
+            "ta": "DN42",
+            "mnt-by": "ALEXANDRE229-MNT"
+        },
+        {
             "asn": "AS4242421360",
             "prefix": "fde8:ef06:b45a::/48",
             "maxLength": 64,
@@ -18285,6 +18292,13 @@
             "mnt-by": "JLU5-MNT"
         },
         {
+            "asn": "AS4242422749",
+            "prefix": "172.22.109.0/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "ALEXANDRE229-MNT"
+        },
+        {
             "asn": "AS4242420311",
             "prefix": "172.22.109.32/27",
             "maxLength": 28,
@@ -23137,8 +23151,8 @@
         }
     ],
     "metadata": {
-        "counts": 3305,
-        "generated": 1643008504,
-        "valid": 1643440504
+        "counts": 3307,
+        "generated": 1643012127,
+        "valid": 1643444127
     }
 }
