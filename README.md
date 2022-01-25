@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 015925c7e648e83c4ba54f1073df9f55bf63aff4
-Merge: db8803e80 cfe7c029d
-Date:   2022-01-25 08:48:03 +0000
+Commit 483f78e82a35fca94b3fe5510019448e8ee7eb34
+Merge: 015925c7e 277d606fa
+Date:   2022-01-25 20:18:45 +0000
 
-    Merge pull request '[HANLIN-AS]Info Update & Add domain' (#1431) from abc1763613206-20220121/update into master
+    Merge pull request 'Update remarks in aut-num for 2189' (#1433) from iedon/registry:iedon-20220125/changedesc into master
 ```
 
 ## crontab
@@ -41,7 +41,7 @@ updates has been made to the [DN42 registry][1].
 - ROAs IPv6:  1551
 - ROAs total: 3307
 
-[0]: https://git.dn42.dev/dn42/registry/commit/015925c7e648e83c4ba54f1073df9f55bf63aff4
+[0]: https://git.dn42.dev/dn42/registry/commit/483f78e82a35fca94b3fe5510019448e8ee7eb34
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr
