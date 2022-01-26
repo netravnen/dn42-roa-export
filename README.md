@@ -20,11 +20,11 @@ instead (e.g. `-slurm export_rfc8416_dn42.json`) as a command-line parameter.
 ## [Last merge commit][0] at [dn42 registry][1]
 
 ```
-Commit 483f78e82a35fca94b3fe5510019448e8ee7eb34
-Merge: 015925c7e 277d606fa
-Date:   2022-01-25 20:18:45 +0000
+Commit 453bfa55a2276372c911340b2a8cc35676a24bba
+Merge: 483f78e82 8bbdd1706
+Date:   2022-01-26 10:42:21 +0000
 
-    Merge pull request 'Update remarks in aut-num for 2189' (#1433) from iedon/registry:iedon-20220125/changedesc into master
+    Merge pull request 'add ipv4 prefix to 4242422691' (#1434) from igonicnet-20220126/add-prefix into master
 ```
 
 ## crontab
@@ -37,11 +37,11 @@ updates has been made to the [DN42 registry][1].
 
 ## Misc statistics
 
-- ROAs IPv4:  1756
+- ROAs IPv4:  1757
 - ROAs IPv6:  1551
-- ROAs total: 3307
+- ROAs total: 3308
 
-[0]: https://git.dn42.dev/dn42/registry/commit/483f78e82a35fca94b3fe5510019448e8ee7eb34
+[0]: https://git.dn42.dev/dn42/registry/commit/453bfa55a2276372c911340b2a8cc35676a24bba
 [1]: https://git.dn42.dev/dn42/registry
 [2]: https://github.com/NLnetLabs/routinator
 [3]: https://github.com/cloudflare/gortr

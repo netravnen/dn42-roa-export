@@ -23038,6 +23038,13 @@
             "mnt-by": "CATMEOW-MNT"
         },
         {
+            "asn": "AS4242422691",
+            "prefix": "172.23.90.64/27",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IGONICNET-MNT"
+        },
+        {
             "asn": "AS4242422189",
             "prefix": "172.23.91.0/25",
             "maxLength": 28,
@@ -23151,8 +23158,8 @@
         }
     ],
     "metadata": {
-        "counts": 3307,
-        "generated": 1643192104,
-        "valid": 1643624104
+        "counts": 3308,
+        "generated": 1643195728,
+        "valid": 1643627728
     }
 }

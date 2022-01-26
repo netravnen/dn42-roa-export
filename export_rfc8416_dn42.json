@@ -23045,6 +23045,13 @@
                 "mnt-by": "CATMEOW-MNT"
             },
             {
+                "asn": 4242422691,
+                "prefix": "172.23.90.64/27",
+                "maxPrefixLength": 28,
+                "source": "DN42",
+                "mnt-by": "IGONICNET-MNT"
+            },
+            {
                 "asn": 4242422189,
                 "prefix": "172.23.91.0/25",
                 "maxPrefixLength": 28,
