@@ -4341,6 +4341,13 @@
             "mnt-by": "MEB-MNT"
         },
         {
+            "asn": "AS4242421742",
+            "prefix": "fd42:d2aa:8a0e::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "IMLK-MNT"
+        },
+        {
             "asn": "AS4242421520",
             "prefix": "fd42:d3ca::/48",
             "maxLength": 64,
@@ -9624,6 +9631,13 @@
             "maxLength": 64,
             "ta": "DN42",
             "mnt-by": "JFRED-MNT"
+        },
+        {
+            "asn": "AS4242421878",
+            "prefix": "fde6:a552:874f::/48",
+            "maxLength": 64,
+            "ta": "DN42",
+            "mnt-by": "DHELLSTERN-MNT"
         },
         {
             "asn": "AS4242422667",
@@ -20420,6 +20434,13 @@
             "mnt-by": "DUMMY-MNT"
         },
         {
+            "asn": "AS4242421742",
+            "prefix": "172.22.96.0/26",
+            "maxLength": 28,
+            "ta": "DN42",
+            "mnt-by": "IMLK-MNT"
+        },
+        {
             "asn": "AS4242423391",
             "prefix": "172.22.96.64/26",
             "maxLength": 28,
@@ -20894,6 +20915,13 @@
             "maxLength": 28,
             "ta": "DN42",
             "mnt-by": "BYTEREALM-MNT"
+        },
+        {
+            "asn": "AS4242421878",
+            "prefix": "172.23.119.64/27",
+            "maxLength": 27,
+            "ta": "DN42",
+            "mnt-by": "DHELLSTERN-MNT"
         },
         {
             "asn": "AS4242420756",
@@ -23158,8 +23186,8 @@
         }
     ],
     "metadata": {
-        "counts": 3308,
-        "generated": 1643431497,
-        "valid": 1643863497
+        "counts": 3312,
+        "generated": 1643431832,
+        "valid": 1643863832
     }
 }
